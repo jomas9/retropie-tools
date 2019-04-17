@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="59382" source="ScreenScraper.fr">
+		<path>./Aldynes (Japan).zip</path>
+		<name>Aldynes : The Misson Code for Rage Crisis</name>
+		<desc>ALDYNES, É UM JOGO DE TIRO COM ROLAGEM HORIZONTAL DESENVOLVIDO PELA PRODUCE E LANÇADO EM 22 DE JULHO DE 1991 PARA O SUPERGRAFX APENAS PARA O JAPÃO. O JOGO TEM UM COMBATE ÚNICO BASEADO EM OPÇÕES E NÍVEIS DE RECURSOS COM GRANDES EFEITOS DE ESCALA OU EFEITOS DE ROLAGEM DE PARALAXE.NNNNPERTO DO ANO 2020, AS SOCIEDADES DA HUMANIDADE CAEM NA DEPRESSÃO GLOBAL ASSIM COMO UMA INVASÃO ALIENÍGENA DE REPENTE CAI NA TERRA; VINDO DE UM GRANDE PLANETÓIDE MECÂNICO, OS ALIENÍGENAS ATACAM A TERRA SEM RAZÃO OU COMUNICAÇÃO. COM TODAS AS DEFESAS ANIQUILADAS, AS NAÇÕES UNIDAS RECORREM À NASA PARA CRIAR UM PODEROSO CAÇA ESPACIAL CONHECIDO COMO THE ORTEGA, SOB O NOME DE ALDYNES. DURANTE ESSE TEMPO, UM PILOTO DE CAÇA ESPACIAL ESPECÍFICO - CONHECIDO APENAS PELO SEU SINAL DE CHAMADA FOX-A - FOI MORTO EM AÇÃO; SUA NAMORADA EM LUTO HIROKO LOGO DESCOBRIU O PROJETO ALDYNES E SEU LUTADOR QUASE COMPLETO. ENQUANTO OS INVASORES ATACAM O PROJETO DA FORÇA AÉREA, ALDYNES, ELA SEQÜESTRA UM DOS NAVIOS E SE LANÇA NA BATALHA NA ESPERANÇA DE SE VINGAR.</desc>
+		<rating>0</rating>
+		<releasedate>19910222T000000</releasedate>
+		<developer>Produce Co., Ltd.</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+		<hash>4C2126B0</hash>
+		<image>./images/Aldynes (Japan).png</image>
+		<thumbnail>./boxart/Aldynes (Japan).png</thumbnail>
+		<marquee>./marquee/Aldynes (Japan).png</marquee>
+		<video>./snap/Aldynes (Japan).mp4</video>
+	</game>
+	<game id="59383" source="ScreenScraper.fr">
+		<path>./Battle Ace (Japan).zip</path>
+		<name>Battle Ace</name>
+		<desc>BATTLE ACE É UM JOGO DE VOO ORIENTADO PARA A AÇÃO EM UMA PERSPECTIVA EM PRIMEIRA PESSOA. O JOGADOR PILOTA UMA NAVE ESPACIAL, INCLUINDO UM RADAR QUE MOSTRA INIMIGOS, E O OBJETIVO É CHEGAR AO FINAL DE CADA NÍVEL ONDE UM CHEFE FINAL ESPERA. COMO DE COSTUME, A OCUPAÇÃO PRINCIPAL É EXPLODIR MUITOS ALIENÍGENAS QUE SE APROXIMAM DO JOGADOR.</desc>
+		<rating>0.65</rating>
+		<releasedate>19891130T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+		<hash>3B13AF61</hash>
+		<image>./images/Battle Ace (Japan).png</image>
+		<thumbnail>./boxart/Battle Ace (Japan).png</thumbnail>
+		<marquee>./marquee/Battle Ace (Japan).png</marquee>
+		<video>./snap/Battle Ace (Japan).mp4</video>
+	</game>
+	<game id="129653" source="ScreenScraper.fr">
+		<path>./Dai Makaimura (Japan).zip</path>
+		<name>Dai-Makaimura</name>
+		<desc>O CAVALEIRO ARTHUR (QUE NÃO TEM LIGAÇÃO ALGUMA COM O REI ARTHUR DA MITOLOGIA BRETÃ) PRECISA ENFRENTAR UM VASTO EXÉRCITO DE MONSTROS, FANTASMAS E DEMÔNIOS PARA SALVAR A PRINCESA PRIN-PRIN(CHAMADA DE PRINCESA TAMARA NOS MANUAIS DAS VERSÕES DE 8 BITS), APRISIONADA NO CASTELO DE LUCIFER (CHAMADO DE LOKI EM ALGUMAS VERSÕES) E AS ALMAS ROUBADAS POR ELE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900727T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC Avenue, Ltd.</publisher>
+		<players>1-2</players>
+		<hash>B486A8ED</hash>
+		<image>./images/Dai Makaimura (Japan).png</image>
+		<thumbnail>./boxart/Dai Makaimura (Japan).png</thumbnail>
+		<marquee>./marquee/Dai Makaimura (Japan).png</marquee>
+		<video>./snap/Dai Makaimura (Japan).mp4</video>
+	</game>
+	<game id="59385" source="ScreenScraper.fr">
+		<path>./Madou Ou Granzort (Japan).zip</path>
+		<name>Madou King Granzort</name>
+		<desc>¨MADOU KING GRANZORT¨ É BASEADO EM UM ANIME DE MESMO NOME. A HISTÓRIA SE PASSA EM UM CONTEXTO DE FICÇÃO CIENTÍFICA EM QUE AGUMAS CRIANÇAS RECEBEM PODERES ESPECIAIS PARA SALVAR O MUNDO DO CLÃ MALVADO JADOU. PARA SER MAIS EXATO, ELES PODEM INVOCAR TRÊS CRIATURAS DE GRANDE PODER: OS REIS MADOU DA TERRA, ÁGUA E VENTO. O JOGADOR ASSUME O PAPEL DESSES REIS, PARA DERROTAR O CLÃ JADOU.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900406T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+		<hash>1F041166</hash>
+		<image>./images/Madou Ou Granzort (Japan).png</image>
+		<thumbnail>./boxart/Madou Ou Granzort (Japan).png</thumbnail>
+		<marquee>./marquee/Madou Ou Granzort (Japan).png</marquee>
+		<video>./snap/Madou Ou Granzort (Japan).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./1941 - Counter Attack (Japan).zip</path>
+		<name>1941 : Counter Attack</name>
+		<desc>TERCEIRO EPISÓDIO DA FAMOSA SÉRIE 19XX DA CAPCOM, O SUPERGRAFX TEVE O PRIVILÉGIO DE RECEBER A ADAPTAÇÃO DE 1941. AO LONGO DOS SEIS NÍVEIS DESTE JOGO, VAMOS LUTAR CONTRA AVIÕES, TANQUES, NAVIOS, A VARIEDADE DE INIMIGOS NUNCA FOI O FORTE DO 19XX MAS FAZ PARTE DO SEU CHARME. NÓS CRUZAMOS CENÁRIOS MUITO VARIADOS COMO O CAMPO (NORMANDIA?), O MAR E ATÉ MESMO UMA CIDADE.</desc>
+		<image>./images/1941 - Counter Attack (Japan).png</image>
+		<video>./snap/1941 - Counter Attack (Japan).mp4</video>
+		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
+		<thumbnail>./boxart/1941 - Counter Attack (Japan).png</thumbnail>
+		<rating>0</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190304T031404</lastplayed>
+	</game>
+</gameList>

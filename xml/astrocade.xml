@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="46416" source="ScreenScraper.fr">
+		<path>./280 Zzzap+Dodgem (USA).zip</path>
+		<name>280 Zzzap+Dodgem</name>
+		<desc>THE TITLE WAS NAMED AFTER THE US ADVERTISING CAMPAIGN FOR THE DATSUN 280Z. PLAYERS CAN DRIVE UP TO 200 MILES PER HOUR (320 KM/H) WHILE NAVIGATING A TRICKY ROAD COURSE AT NIGHT. PLAYERS MUST WATCH OUT FOR TREACHEROUS TURNS, NASTY COMPETITORS, AND THE EVER-PRESENT TIME LIMIT.
+
+IT IS ONE OF THE EARLIEST GAMES, IF NOT THE EARLIEST, WITH AUTHORIZED BRANDING.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>E4D285E5</hash>
+		<image>./images/280 Zzzap+Dodgem (USA).png</image>
+		<thumbnail>./boxart/280 Zzzap+Dodgem (USA).png</thumbnail>
+		<marquee>./marquee/280 Zzzap+Dodgem (USA).png</marquee>
+		<video>./snap/280 Zzzap+Dodgem (USA).mp4</video>
+	</game>
+	<game id="46417" source="ScreenScraper.fr">
+		<path>./Amazing Maze+Tic Tac Toe (USA).zip</path>
+		<name>Amazing Maze+Tic Tac Toe</name>
+		<desc>TWO MIND-BOGGLING CHALLENGES! AMAZING MAZE IS A RACE THROUGH A MAZE BETWEEN YOU AND THE COMPUTER OR ANOTHER PLAYER. THE MAZE IS TRULY AMAZING BECAUSE IT CHANGES EVERY TIME YOU PLAY. SELECT EASY ONES OR HARD ONES TO MATCH ANY SKILL LEVEL. TIC-TAC-TOE IS THE TRADITIONAL GAME WITH A DIABOLICAL TWIST. YOU GET TO PLAY AGAINST THE COMPUTER! 1 OR 2 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>CD57C485</hash>
+		<image>./images/Amazing Maze+Tic Tac Toe (USA).png</image>
+		<thumbnail>./boxart/Amazing Maze+Tic Tac Toe (USA).png</thumbnail>
+		<marquee>./marquee/Amazing Maze+Tic Tac Toe (USA).png</marquee>
+		<video>./snap/Amazing Maze+Tic Tac Toe (USA).mp4</video>
+	</game>
+	<game id="46418" source="ScreenScraper.fr">
+		<path>./Artillery Duel (USA).zip</path>
+		<name>Artillery Duel</name>
+		<desc>IN THIS TWO PLAYER GAME EACH PLAYER CONTROLS AN ARTILLERY GUN SET IN A MOUNTAIN LANDSCAPE WITH THE GOAL OF DESTROYING THE OTHER PLAYER. PLAYERS TAKE TURNS FIRING AT EACH OTHER; ON EACH TURN YOU HAVE A LIMITED AMOUNT OF TIME IN WHICH THE BARREL ANGLE AND POWDER LEVEL CAN BE SET IN ORDER TO CONTROL THE DIRECTION AND DISTANCE OF THE SHOT. WHEN DECIDING ON YOUR SHOT, YOU WILL NEED TO TAKE THE CURRENT CONDITIONS INTO ACCOUNT, WHICH INCLUDES WIND SPEED/DIRECTION AND ANY MOUNTAINS THAT MAY GET IN YOUR WAY. SUCCESSFULLY DESTROYING YOUR OPPONENTS GUN WILL EARN YOU A POINT, AND THE FIRST PLAYER TO REACH THE SET NUMBER OF POINTS WINS THE GAME. THERE ARE MULTIPLE SKILL LEVELS AVAILABLE WHICH SET THE AMOUNT OF TIME YOU HAVE TO MAKE A SHOT.</desc>
+		<rating>0</rating>
+		<publisher>Astrocade</publisher>
+		<hash>4F372019</hash>
+		<image>./images/Artillery Duel (USA).png</image>
+		<thumbnail>./boxart/Artillery Duel (USA).png</thumbnail>
+		<marquee>./marquee/Artillery Duel (USA).png</marquee>
+		<video>./snap/Artillery Duel (USA).mp4</video>
+	</game>
+	<game id="46419" source="ScreenScraper.fr">
+		<path>./Astro Battle (USA).zip</path>
+		<name>Astro Battle</name>
+		<desc>ASTRO BATTLE 2009 (OR SOMETIMES JUST ASTRO BATTLE) IS A SPACE INVADERS CLONE PUBLISHED BY BALLY MANUFACTURING IN 1978 FOR THE BALLY ASTROCADE ARCADE SYSTEM. THE AIM IS TO DEFEAT WAVES OF ALIENS WITH A LASER CANNON AND EARN AS MANY POINTS AS POSSIBLE.[CITATION NEEDED] UNLIKE SPACE INVADERS, ASTRO BATTLE 2009 IS IN COLOR</desc>
+		<rating>0</rating>
+		<publisher>Astrovision</publisher>
+		<hash>1A050094</hash>
+		<image>./images/Astro Battle (USA).png</image>
+		<thumbnail>./boxart/Astro Battle (USA).png</thumbnail>
+		<marquee>./marquee/Astro Battle (USA).png</marquee>
+		<video>./snap/Astro Battle (USA).mp4</video>
+	</game>
+	<game id="46420" source="ScreenScraper.fr">
+		<path>./Bally Basic (USA).zip</path>
+		<name>Bally Basic</name>
+		<desc>THERE'S NO EASIER WAY TO LEARN ABOUT COMPUTERS THAN WITH THE BALLY BASIC SYSTEM. THIS PLUG-IN CARTRIDGE WITH BUILT-IN AUDIO TAPE INTERFACE CONVERTS YOUR ARCADE INTO A PERSONAL COMPUTER YOU CAN PROGRAM YOURSELF. THE TERM, BASIC, IS AN ACRONYM FOR: BEGINNERS ALL-PURPOSE SYMBOLIC INSTRUCTION CODE. BALLY BASIC AS A LANGUAGE DESIGNED TO MAKE COMPUTERS AND PROGRAMMING EASIER TO UNDERSTAND. IT IS AN EXPANDED VERSION OF LI-CHEN WANG'S PALO ALTO TINY BASIC. WRITTEN BY JAY FENTON, BALLY BASIC ALLOWS YOU TO PROGRAM OR GREAT PICTURES AND SOUNDS ACCOMPANIED BY A FULL RANGE OF 256 COLOR CHOICES. BALLY BASIC EXPANDS YOUR COMPUTER BY LETTING YOU PROGRAM YOUR OWN COMPUTER GAMES, ELECTRONIC MUSIC AND VIDEO ART.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>70514687</hash>
+		<image>./images/Bally Basic (USA).png</image>
+		<thumbnail>./boxart/Bally Basic (USA).png</thumbnail>
+		<marquee>./marquee/Bally Basic (USA).png</marquee>
+		<video>./snap/Bally Basic (USA).mp4</video>
+	</game>
+	<game id="46421" source="ScreenScraper.fr">
+		<path>./Bally Pin (USA).zip</path>
+		<name>Bally Pin</name>
+		<desc>BALLY PIN IS A PINBALL GAME FEATURING TWO DIFFERENT TABLES. THE GAME IS PLAYED WITH TWO JOYSTICKS, WITH ONE CONTROLLING THE TWO LEFT FLIPPERS AND THE OTHER CONTROLLING THE TWO TO THE RIGHT. THE GAME CAN BE PLAYED BY UP TO FOUR PLAYERS WHO TAKE TURNS UNTIL ALL PLAYER HAVE USED UP ALL OF THEIR FIVE BALLS. THE AIM IS SIMPLY TO GET THE HIGHEST SCORE. THE TWO TABLES ARE SIMILAR BUT WITH SLIGHTLY DIFFERENT LAYOUTS AND BOTH FEATURE SIX BUMPERS (LIT OR UNLIT), DROP TARGETS, UPPER KICKER TARGETS AND A SPINNER. THE BALL IS MEANT TO REACT AS A REAL BALL WOULD WHEN STRUCK BY A FLIPPER WITH THE SPEED AND ANGLE OF IT BEING AFFECTED BY WHERE ON THE FLIPPER IT IS HIT.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>FB652BAC</hash>
+		<image>./images/Bally Pin (USA).png</image>
+		<thumbnail>./boxart/Bally Pin (USA).png</thumbnail>
+		<marquee>./marquee/Bally Pin (USA).png</marquee>
+		<video>./snap/Bally Pin (USA).mp4</video>
+	</game>
+	<game id="46422" source="ScreenScraper.fr">
+		<path>./Biorhythm (USA).zip</path>
+		<name>Biorhythm</name>
+		<desc>ENTER YOUR BIRTHDATE AND WATCH AS THE COMPUTER CALCULATES YOUR PHYSICAL, EMOTIONAL AND INTELLECTUAL CYCLES. THE SCREEN DISPLAYS YOUR HIGHS, LOWS AND CRITICAL DAYS. THIS PROGRAM CAN BE GREAT FUN AT PARTIES. BIORHYTHM CAN HELP YOU DEVELOPE A NEW AWARENESS OF YOUR MOODS AND PERSONAL INTERACTION WITH THE WORLD. 1 OR 2 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>FC4BD27C</hash>
+		<image>./images/Biorhythm (USA).png</image>
+		<thumbnail>./boxart/Biorhythm (USA).png</thumbnail>
+		<marquee>./marquee/Biorhythm (USA).png</marquee>
+		<video>./snap/Biorhythm (USA).mp4</video>
+	</game>
+	<game id="46423" source="ScreenScraper.fr">
+		<path>./Blackjack+Poker+Acey-Deucy (USA).zip</path>
+		<name>Blackjack+Poker+Acey-Deucy</name>
+		<desc>BLACKJACK/POKER/ACEY-DEUCEY IS A GAME COMPILATION, THAT FEATURES 3 CARD GAMES. 
+
+BLACKJACK AND ACEY-DEUCEY CAN BE PLAYED 1 OR MORE PLAYERS, WHILE POKER DOESN'T FEATURE SINGLE-PLAYER.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>78D45A11</hash>
+		<image>./images/Blackjack+Poker+Acey-Deucy (USA).png</image>
+		<thumbnail>./boxart/Blackjack+Poker+Acey-Deucy (USA).png</thumbnail>
+		<marquee>./marquee/Blackjack+Poker+Acey-Deucy (USA).png</marquee>
+		<video>./snap/Blackjack+Poker+Acey-Deucy (USA).mp4</video>
+	</game>
+	<game id="46424" source="ScreenScraper.fr">
+		<path>./Blast Droids (USA).zip</path>
+		<name>Blast Droids</name>
+		<desc>BLAST DROIDS HAS PLAYERS FLYING A SHIP AROUND A HORIZONTAL ARENA, FIRING AT ALIEN VESSELS WHILE BEING CAREFUL TO AVOID SHOTS THAT RICOCHET OFF OF THE WALLS.</desc>
+		<rating>0</rating>
+		<publisher>Esoterica</publisher>
+		<hash>79FE386B</hash>
+		<image>./images/Blast Droids (USA).png</image>
+		<thumbnail>./boxart/Blast Droids (USA).png</thumbnail>
+		<marquee>./marquee/Blast Droids (USA).png</marquee>
+		<video>./snap/Blast Droids (USA).mp4</video>
+	</game>
+	<game id="46425" source="ScreenScraper.fr">
+		<path>./Bowling (USA).zip</path>
+		<name>Bowling</name>
+		<desc>IT'S LIKE ACTUALLY BEING AT THE ALLEY. THE GAME HAS ALL OF THE ACTION AND SOUNDS OF THE REAL THING. DIRECT YOUR BALL WITH AS MUCH HOOK AS YOU WANT. MAKE STRIKES, SPARES, BUT WATCH OUT FOR SPLITS AND GUTTER-BALLS! KEEPS SCORE ACCORDING TO OFFICIAL RULES. TRY YOUR HAND AT A PERFECT GAME! CAN BE PLAYED ALONE OR BY UP TO 4 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>New Image Software</publisher>
+		<hash>1F8BC8BA</hash>
+		<image>./images/Bowling (USA).png</image>
+		<thumbnail>./boxart/Bowling (USA).png</thumbnail>
+		<marquee>./marquee/Bowling (USA).png</marquee>
+		<video>./snap/Bowling (USA).mp4</video>
+	</game>
+	<game id="46426" source="ScreenScraper.fr">
+		<path>./Brickyard+Clowns (USA).zip</path>
+		<name>Brickyard+Clowns</name>
+		<desc>THIS CARTRIDGE CONSISTS OF TWO GAMES: BRICKYARD AND CLOWNS. BOTH GAMES CAN BE PLAYED BY ONE TO FOUR PLAYERS.
+
+IN CLOWNS YOU GET POINTS FOR POPPING BALLOONS AT THE TOP OF THE SCREEN. TO REACH THEM, YOU HAVE TO MOVE A SEESAW UNDER A JUMPING CLOWN. THIS WILL LAUNCH AWAY THE CLOWN ALREADY STANDING ON THE SEESAW, HOPEFULLY TOWARDS THE BALLOONS. 
+
+BRICKYARD IS A CLONE OF BREAKOUT. IT IS ALMOST IDENTICAL TO THE ORIGINAL GAME BUT DIFFERS IN THAT THE BALL MOVES IN A TRAJECTORY AND NOT IN A STRAIGHT PATH. THE GAME CAN BE PLAYED IN FOUR DIFFERENT DIFFICULTIES THAT ALTERS THE SPEED OF THE BALL AS WELL AS THE SIZE OF THE PADDLE.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>28F9E502</hash>
+		<image>./images/Brickyard+Clowns (USA).png</image>
+		<thumbnail>./boxart/Brickyard+Clowns (USA).png</thumbnail>
+		<marquee>./marquee/Brickyard+Clowns (USA).png</marquee>
+		<video>./snap/Brickyard+Clowns (USA).mp4</video>
+	</game>
+	<game id="46427" source="ScreenScraper.fr">
+		<path>./Candyman (USA).zip</path>
+		<name>Candyman</name>
+		<desc>THIS FACTORY IS IN A MESS SINCE THE TWO JOKERS HAVE SCATTERED LIFE SAVERS ALL OVER THE FLOOR. THE CANDY MAN MUST EAT THEM UP AS QUICKLY AS POSSIBLE WHILE AVOIDING THE JOKERS.
+
+BE CAREFUL THE JOKERS WILL GET THEIR BUDDIES, THE GREMLINS, TO HELP THEM KEEP THE LIFE SAVERS. ARE YOU UP TO IT? THIS GAME WILL GIVE YOU ALL THE ENJOYMENT OF IT'S COUSIN OF COIN-UP FAME. WITH BLUE SCREEN BONUS SCOE &amp; BONUS LIVES.</desc>
+		<rating>0</rating>
+		<publisher>L&amp;M Software</publisher>
+		<hash>0FC97852</hash>
+		<image>./images/Candyman (USA).png</image>
+		<thumbnail>./boxart/Candyman (USA).png</thumbnail>
+		<marquee>./marquee/Candyman (USA).png</marquee>
+		<video>./snap/Candyman (USA).mp4</video>
+	</game>
+	<game id="46429" source="ScreenScraper.fr">
+		<path>./Claim Jumpers (USA).zip</path>
+		<name>Claim Jumpers</name>
+		<desc>CLAIM JUMPER IS A STRATEGY GAME FOR THE ENTIRE FAMILY. THE GOAL OF THIS GAME IS TO STRATEGICALLY PLACE YOUR LINES ON THE BOARD AND CLAIM AS MUCH AREA AS YOU POSSIBLY CAN BY CLOSING IN A SQUARE. BE CAREFUL NOT TO LET SOMEONE ELSE GRAB YOUR CLAIM! YOUR CLAIM MARKER WILL GO IN THE BOX THAT YOU COMPLETE. THIS GAME CAN BE PLAYED BY ONE TO FOUR PEOPLE, AND IF YOU WISH YOU CAN EVEN LET "BALLY" IN ON THE FUN. THAT'S A TOTAL OF FIVE PLAYERS AT ONE TIME.</desc>
+		<rating>0</rating>
+		<publisher>L&amp;M Software</publisher>
+		<hash>6E4892F2</hash>
+		<image>./images/Claim Jumpers (USA).png</image>
+		<thumbnail>./boxart/Claim Jumpers (USA).png</thumbnail>
+		<marquee>./marquee/Claim Jumpers (USA).png</marquee>
+		<video>./snap/Claim Jumpers (USA).mp4</video>
+	</game>
+	<game id="46430" source="ScreenScraper.fr">
+		<path>./Coloring Book (USA).zip</path>
+		<name>Coloring Book</name>
+		<desc>TICKLE YOUR CREATIVE FANCY WITH ALL THE TOOLS OF A PROFESSIONAL GRAPHICS MACHINE. PEOPLE OF ALL AGES CAN ENJOY THE THRILL OF CREATING BEAUTIFUL ART. USE THE OPTIONAL LIGHT PEN OR JOYSTICK CONTROL TO DRAW BOXES AND CIRCLES, FILL ENCLOSED AREAS, DRAW FREE-HAND, CREATE YOUR OWN BRUSH, OR DRAW A LINE BETWEEN ANY TWO POINTS. RECORD YOUR PICTURES ON A CASSETTE TAPE, OVERLAY MORE THAN ONE PICTURE ON A SCREEN. CHOOSE FROM 256 COLORS, 4 AT ANY ONE TIME.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>14F36ABA</hash>
+		<image>./images/Coloring Book (USA).png</image>
+		<thumbnail>./boxart/Coloring Book (USA).png</thumbnail>
+		<marquee>./marquee/Coloring Book (USA).png</marquee>
+		<video>./snap/Coloring Book (USA).mp4</video>
+	</game>
+	<game id="46431" source="ScreenScraper.fr">
+		<path>./Conan The Barbarian (USA).zip</path>
+		<name>Conan The Barbarian</name>
+		<desc>FEARSOME MONSTERS GIVE CHASE THROUGH A SERIES OF MAZES AS CONAN, ARMED WITH HIS SWORD, BATTLES THEM. VARIOUS LEVELS ALLOW YOU TO PLAY THIS ADVENTURE GAME WITH SKILLS RANGING FROM NOVICE TO PROFESSIONAL. SEE HOW MANY MONSTERS YOU CAN GET.</desc>
+		<rating>0</rating>
+		<publisher>Dave Carson Software</publisher>
+		<hash>8A6ADBFE</hash>
+		<image>./images/Conan The Barbarian (USA).png</image>
+		<thumbnail>./boxart/Conan The Barbarian (USA).png</thumbnail>
+		<marquee>./marquee/Conan The Barbarian (USA).png</marquee>
+		<video>./snap/Conan The Barbarian (USA).mp4</video>
+	</game>
+	<game id="46432" source="ScreenScraper.fr">
+		<path>./Cosmic Raiders (USA).zip</path>
+		<name>Cosmic Raiders</name>
+		<desc>COSMIC RAIDERS IS A SIDE-SCROLLING SHOOT 'EM UP SIMILAR TO DEFENDER. LIKE IN THAT GAME THE PLAYER'S SPACE SHIP CAN MOVE BOTH LEFT AND RIGHT AND THERE IS ALSO A RADAR SHOWING THE LOCATIONS OF ENEMIES. THE GAME TAKES PLACE IN THE ALIEN SECTOR LARKIN AND THE PLAYER'S OBJECTIVE IS TO DEFEND A PLANET UNDER ATTACK WHILE ALSO COLLECTING ENERGY SOURCES FROM AN EVIL ALIEN RACE CALLED THE LARKINS. IN EVERY LEVEL FOUR BOMBS ARE DROPPED ALONG WITH A NUMBER OF FIGHTERS TO ENSURE THE BOMBS REACH THE SURFACE OF THE PLANET. THE OBJECTIVE OF THE GAME IS SIMPLY TO CLEAR ALL THE ENEMIES AND GET THE HIGHEST SCORE POSSIBLE. FOR EVERY TWO BOMBS DESTROYED AN ENERGY STAR THAT THE PLAYER CAN COLLECT WILL APPEAR. BY PICKING IT UP THE PLAYER'S SHIP IS ENERGIZED WITH AN INVINCIBLE ENERGY SHIELD. ONCE ALL ENEMIES HAVE BEEN CLEARED FROM ONE LEVEL THE GAME MOVES ON TO THE NEXT.
+
+BEFORE STARTING OUT IT'S POSSIBLE TO CHOOSE THE NUMBER OF PLAYERS (1-4), NUMBER OF LIVES (1-9) AND THE INTENSITY OF THE GAME (0-9). LEVEL 0 IS THE EASIEST ONE AND THE ONLY ONE WHERE ENEMIES DO NOT GET HARDER AS THE GAME GOES ON. EACH PLAYER CAN HAVE A DIFFERENT INTENSITY LEVEL.</desc>
+		<rating>0</rating>
+		<publisher>Astrocade</publisher>
+		<hash>2A77B3FB</hash>
+		<image>./images/Cosmic Raiders (USA).png</image>
+		<thumbnail>./boxart/Cosmic Raiders (USA).png</thumbnail>
+		<marquee>./marquee/Cosmic Raiders (USA).png</marquee>
+		<video>./snap/Cosmic Raiders (USA).mp4</video>
+	</game>
+	<game id="46433" source="ScreenScraper.fr">
+		<path>./Dog Patch (USA).zip</path>
+		<name>Dog Patch</name>
+		<desc>A REAL DOWN-HOME SKEET SHOOT! THE TARGET SPINS THROUGH THE AIR AS YOU RAISE YOUR SHOTGUN AND FIRE. GOOD SHOOTING KEEPS THE TARGET BOUNCING BETWEEN THE PLAYERS. AN EXPLOSIVE 12-GAUGE JUGGLING ACT BUILDS A BIG SCORE! BLAST THE TARGET PAST YOUR OPPONENT TO SCORE POINTS. PLAY LONG OR SHORT GAMES AND VARY THE NUMBER OF TARGETS. 1 OR 2 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>77BED6BA</hash>
+		<image>./images/Dog Patch (USA).png</image>
+		<thumbnail>./boxart/Dog Patch (USA).png</thumbnail>
+		<marquee>./marquee/Dog Patch (USA).png</marquee>
+		<video>./snap/Dog Patch (USA).mp4</video>
+	</game>
+	<game id="46434" source="ScreenScraper.fr">
+		<path>./Football (USA).zip</path>
+		<name>Football</name>
+		<desc>COMPLETE A PASS UP THE MIDDLE FOR A FIRST DOWN. EIGHT OFFENSIVE PLAY OPTIONS INCLUDING THE END RUN, SCREEN PASS, LONG BOMB, SHORT OR LONG PASSES UP THE MIDDLE AND SOME ELEGANT RAZZLE DAZZLE. OFFENSIVE PLAYERS HAVE DIRECT CONTROL OF THE CORNERBACKS. THE COMPUTER CONTROLS THE REST! UP TO 4 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>FC8998A9</hash>
+		<image>./images/Football (USA).png</image>
+		<thumbnail>./boxart/Football (USA).png</thumbnail>
+		<marquee>./marquee/Football (USA).png</marquee>
+		<video>./snap/Football (USA).mp4</video>
+	</game>
+	<game id="46435" source="ScreenScraper.fr">
+		<path>./Galactic Invasion (USA).zip</path>
+		<name>Galactic Invasion</name>
+		<desc>GALACTIC INVASION IS A PORT OF THE NAMCO ARCADE GAME GALAXIAN FOR THE BALLY ASTROCADE.
+ALIEN SHIPS COME AT YOUR MISSILE LAUNCHER FROM EVERY DIRECTION. THEY PEEL OFF FROM THEIR FORMATION SINGLY OR IN GROUPS OF TWOS OR THREES. THE MORE ALIENS YOU DESTROY, THE MORE OF THEIR REINFORCEMENTS ATTACK. EACH SHIP IS PILOTED BY A HIGHLY SKILLED CAPTAIN CAPABLE OF MANEUVERING WITH INCREDIBLE AGILITY. REALISTIC SOUNDS ADD TO THE INTENSITY. UP TO 4 PLAYERS.
+AIM YOUR MISSILES AT THE ALIEN SHIPS AND SCORE POINTS FOR EACH ONE YOU HIT! THE COLORFUL INVADERS SPIN AROUND AND SOAR ACROSS THE SCREEN IN AN ATTEMPT TO DESTROY YOUR BASE.
+EXCITEMENT BUILDS AS THEY COLLIDE INTO (OR BOMB) ONE AFTER ANOTHER OF YOUR BASES. EXPLODING SEVERAL OF THEIR SHIPS WILL MAKE THE ALIENS ANGRY Â THEY'LL ATTACK YOU WITH GREATER SPEED AND FORCE THAN EVER BEFORE.</desc>
+		<rating>0</rating>
+		<publisher>Astrovision</publisher>
+		<hash>BA558EB7</hash>
+		<image>./images/Galactic Invasion (USA).png</image>
+		<thumbnail>./boxart/Galactic Invasion (USA).png</thumbnail>
+		<marquee>./marquee/Galactic Invasion (USA).png</marquee>
+		<video>./snap/Galactic Invasion (USA).mp4</video>
+	</game>
+	<game id="46436" source="ScreenScraper.fr">
+		<path>./Galaxian (USA).zip</path>
+		<name>Galaxian</name>
+		<desc>ALIEN SHIPS COME AT YOUR MISSILE LAUNCHER FROM EVERY DIRECTION. THEY PEEL OFF FROM THEIR FORMATION SINGLY OR IN GROUPS OF TWOS OR THREES. THE MORE ALIENS YOU DESTROY, THE MORE OF THEIR REINFORCEMENTS ATTACK. EACH SHIP IS PILOTED BY A HIGHLY SKILLED CAPTAIN CAPABLE OF MANEUVERING WITH INCREDIBLE AGILITY. REALISTIC SOUNDS ADD TO THE INTENSITY! UP TO 4 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>D75E9672</hash>
+		<image>./images/Galaxian (USA).png</image>
+		<thumbnail>./boxart/Galaxian (USA).png</thumbnail>
+		<marquee>./marquee/Galaxian (USA).png</marquee>
+		<video>./snap/Galaxian (USA).mp4</video>
+	</game>
+	<game id="46437" source="ScreenScraper.fr">
+		<path>./Grand Prix+Demolition Derby (USA).zip</path>
+		<name>Grand Prix+Demolition Derby</name>
+		<desc>GRAND PRIX IS A FORMULA RACING GAME PLAYED FROM A TOP DOWN PERSPECTIVE. THERE ARE THREE DIFFERENT TRACKS THAT ARE ALL ONE SCREEN IN SIZE. THE CONTROLS SIMPLY INVOLVE ACCELERATING AND STEERING LEFT AND RIGHT WITH THE AIM OF REACHING THE FINISH LINE FIRST. THE NUMBER OF LAPS (1-99) AND THE DIFFICULTY LEVEL (PRO OR BEGINNER) CAN BE SELECTED BEFORE A RACE. PRO DIFFERS IN THE SPEED OF THE CARS.
+
+DEMOLITION DERBY IS SIMILAR TO GRAND PRIX BUT HERE THE OBJECTIVE IS TO RAM INTO THE OTHER CARS UNTIL ONLY ONE REMAINS IN THE ARENA. EACH CAR HAS A NUMBER OF POINTS (WHICH IS CHOSEN BY THE PLAYERS) AND FOR EACH HIT ONE POINT IS LOST. WHEN A CAR REACHES ZERO POINTS IT LOSES AND CANNOT MOVE ANY FURTHER.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>7B3B7B70</hash>
+		<image>./images/Grand Prix+Demolition Derby (USA).png</image>
+		<thumbnail>./boxart/Grand Prix+Demolition Derby (USA).png</thumbnail>
+		<marquee>./marquee/Grand Prix+Demolition Derby (USA).png</marquee>
+		<video>./snap/Grand Prix+Demolition Derby (USA).mp4</video>
+	</game>
+	<game id="46439" source="ScreenScraper.fr">
+		<path>./I.C.B.M. Attack (USA).zip</path>
+		<name>I.C.B.M. Attack</name>
+		<desc>ICBM ATTACK IS A VARIANT OF THE ARCADE GAME MISSILE COMMAND. LIKE IN THE ARCADE GAME THE PLAYER'S TASK IS TO PROTECT A NUMBER OF CITIES ON THE GROUND BUT HERE THE ATTACK DOES NOT COME FROM MISSILES. INSTEAD THERE ARE ENEMY SHIPS THAT ENTER THE SCREEN ONE AT A TIME AND DROP BOMBS ON THE CITIES. THE PLAYER HAS ACCESS TO THREE OUTPOSTS ON THE GROUND THAT ARE FIRED INDIVIDUALLY AND ARE USED TO SHOOT DOWN THE SHIPS AS WELL AS THEIR BOMBS. EACH OUTPOST HAS LIMITED AMMO AND WHEN IT HAS RUN OUT NO FURTHER SHOOTING CAN BE DONE FROM IT. POINTS ARE SCORED FOR HITTING BOMBS AND SHIPS AND FOR COMPLETING LEVELS AND AT 10,000 POINTS AN EXTRA CITY IS GIVEN. THE GAME ENDS WHEN ALL CITIES HAVE BEEN DESTROYED.</desc>
+		<rating>0</rating>
+		<publisher>Spectre Systems</publisher>
+		<hash>BC2B6FE3</hash>
+		<image>./images/I.C.B.M. Attack (USA).png</image>
+		<thumbnail>./boxart/I.C.B.M. Attack (USA).png</thumbnail>
+		<marquee>./marquee/I.C.B.M. Attack (USA).png</marquee>
+		<video>./snap/I.C.B.M. Attack (USA).mp4</video>
+	</game>
+	<game id="46440" source="ScreenScraper.fr">
+		<path>./Incredible Wizard (USA).zip</path>
+		<name>Incredible Wizard</name>
+		<desc>WIZARD OF WOR IS AN ARCADE SHOOTER PLAYED FROM A TOP-DOWN POINT OF VIEW.
+THE BALLY ASTROCADE RELEASE OF THE GAME WAS TITLED THE INCREDIBLE WIZARD. IT HAD THE GAME REF NUMBER 2017 AS A SUFFIX.
+
+THE PLAYER CONTROLS A WARRIOR WHO IS TRAPPED IN A DUNGEON. THE GOAL IS TO EARN AS MANY POINTS AS POSSIBLE BY SHOOTING THE NUMEROUS ENEMY CREATURES WHICH WANDER ABOUT THE MAZE LIKE CORRIDORS. THE CREATURES WANDER ABOUT AT VARIOUS SPEEDS, MAY SHOOT DARTS AT THE PLAYER, AND SOME EVEN HAVE THE ABILITY TO DISAPPEAR TEMPORARILY. AT THE BOTTOM OF THE SCREEN THE PLAYER HAS A RADAR WHICH CAN BE USED TO LOCATE CREATURES THAT ARE INVISIBLE.
+
+WHEN THE THE PLAYER COMPLETES A MAZE, A WORLUK SOMETIMES APPEARS. THIS CREATURE MOVES RAPIDLY AND WILL ONLY BE ON THE SCREEN MOMENTARILY. IF THE PLAYER DESTROYS THE CREATURE BEFORE IT ESCAPES, THE NEXT DUNGEON WILL BECOME A DOUBLE SCORE DUNGEON AND ALL CREATURES WILL BE WORTH TWICE AS MANY POINTS. OCCASIONALLY THE WIZARD OF WOR HIMSELF MAY APPEAR! HE MOVES QUICKLY AND CAN TELEPORT AROUND THE MAZE. IF THEY DESTROY HIM, THE PLAYER WILL EARN A LARGE AMOUNT OF POINTS.
+
+THE GAME MAY BE PLAYED BY ONE PLAYER OR TWO PLAYERS SIMULTANEOUSLY.</desc>
+		<rating>0</rating>
+		<publisher>Astrovision</publisher>
+		<hash>1395B130</hash>
+		<image>./images/Incredible Wizard (USA).png</image>
+		<thumbnail>./boxart/Incredible Wizard (USA).png</thumbnail>
+		<marquee>./marquee/Incredible Wizard (USA).png</marquee>
+		<video>./snap/Incredible Wizard (USA).mp4</video>
+	</game>
+	<game id="46441" source="ScreenScraper.fr">
+		<path>./Letter Match+Spell 'N Score+Crosswords (USA).zip</path>
+		<name>Letter Match / Spell 'N Score / Crosswords</name>
+		<desc>THREE DIFFERENT GAMES WILL IMPROVE YOUR VOCABULARY AND REINFORCE SPELLING SKILLS. LETTER MATCH! PAIR LETTERS RANDOMLY SELECTED BY THE COMPUTER. SPELL 'N SCORE! CREATE AS MANY WORDS AS YOU CAN FROM THE LETTERS GENERATED AT RANDOM BY THE COMPUTER! CROSSWORDS! THE COMPUTER GIVES YOU LETTERS. YOU TURN THEM INTO WORDS. 1 OR 2 PLAYERS.</desc>
+		<rating>0</rating>
+		<releasedate>19770101T000000</releasedate>
+		<publisher>Bally Midway</publisher>
+		<hash>2CF68F93</hash>
+		<image>./images/Letter Match+Spell 'N Score+Crosswords (USA).png</image>
+		<thumbnail>./boxart/Letter Match+Spell 'N Score+Crosswords (USA).png</thumbnail>
+		<marquee>./marquee/Letter Match+Spell 'N Score+Crosswords (USA).png</marquee>
+		<video>./snap/Letter Match+Spell 'N Score+Crosswords (USA).mp4</video>
+		<developer>Bally Midway</developer>
+	</game>
+	<game id="46442" source="ScreenScraper.fr">
+		<path>./Life (USA).zip</path>
+		<name>Life</name>
+		<desc>LIFE IS A MACHINE LANGUAGE PROGRAM WRITTEN BY JAY FENTON TO GENERATE A UNIVERSE OF CELLULAR OBJECTS ON THE TV SCREEN. THE POPULATION OF CELLS IS CHANGED IN INTERVALS CALLED GENERATIONS BY A SET OF RULES. THESE RULES ARE TO BE APPLIED SIMULTANEOUSLY TO EVERY CELL IN THE PATTERN. THE APPLICATION OF THE RULES TO EVERY BIT IN THE FIELD CONSTITUTES A GENERATION.</desc>
+		<rating>0</rating>
+		<publisher>New Image Software</publisher>
+		<hash>752D13FD</hash>
+		<image>./images/Life (USA).png</image>
+		<thumbnail>./boxart/Life (USA).png</thumbnail>
+		<marquee>./marquee/Life (USA).png</marquee>
+		<video>./snap/Life (USA).mp4</video>
+	</game>
+	<game id="46443" source="ScreenScraper.fr">
+		<path>./Machine Language Manager (USA).zip</path>
+		<name>Machine Language Manager</name>
+		<desc>THIS CARTRIDGE, WHICH INCLUDES AN OVERLAY. PROVIDES AN "EASY" WAY TO PROGRAM THE ASTROCADE IN MACHINE LANGUAGE. THOUGH NOT A Z-80 ASSEMBLER. MLM DOES SIMPLIFY THE ENTRY OF HEX CODE (WHICH OTHERWISE MUST BE ENTERED USING DECIMAL VIA BASIC. ALSO THE KEYPAD LAYOUT DOES NOT REQUIRE THE USE OF THE KEY-SHIFTS, SO TYPING IS FASTER). PROGRAMS CAN BE SAVED VIA THE BALLY BASIC 300-BAUD.</desc>
+		<rating>0</rating>
+		<publisher>Bit Fiddlers</publisher>
+		<hash>5393F920</hash>
+		<image>./images/Machine Language Manager (USA).png</image>
+		<thumbnail>./boxart/Machine Language Manager (USA).png</thumbnail>
+		<marquee>./marquee/Machine Language Manager (USA).png</marquee>
+		<video>./snap/Machine Language Manager (USA).mp4</video>
+	</game>
+	<game id="46444" source="ScreenScraper.fr">
+		<path>./Mazeman (USA).zip</path>
+		<name>Mazeman</name>
+		<desc>YOU ARE CAPTIVE IN A MAZE OF CRAZY, CREEPY GHOSTS. ITS A SPOOKY SITUATION, AND YOU CAN DO ONE OF TWO THINGS: MUNCH OR BE MUNCHED! SCORE AS MANY POINTS AS POSSIBLE, GOBBLING UP EVERYTHING IN YOUR PATH - INCLUDING THE GHOSTS WITH AN APPETITE FOR YOU! DO YOUR BEST TO SAVE YOUR SOUL!</desc>
+		<rating>0</rating>
+		<publisher>Dave Carson Software</publisher>
+		<hash>565A644C</hash>
+		<image>./images/Mazeman (USA).png</image>
+		<thumbnail>./boxart/Mazeman (USA).png</thumbnail>
+		<marquee>./marquee/Mazeman (USA).png</marquee>
+		<video>./snap/Mazeman (USA).mp4</video>
+	</game>
+	<game id="46445" source="ScreenScraper.fr">
+		<path>./Ms CandyMan (USA).zip</path>
+		<name>Ms. CandyMan</name>
+		<desc>MS. CANDYMAN MUST PICK UP ALL OF THE LIFE SAVERS AS QUICKLY AS POSSIBLE WHILE AVOIDING CONTACT WITH THE GHOSTS AND GOBLINS. DURING THE FIRST HALF OF A SCREEN THE GHOSTS AND GOBLINS WILL TRY TO CATCH YOU. DURING THE SECOND HALF OF A SCREEN THE GHOSTS AND GOBLINS WILL TAKE UP PROTECTIVE POSITIONS TO KEEP YOU AWAY FROM THE LIFE SAVERS.</desc>
+		<rating>0</rating>
+		<publisher>L&amp;M Software</publisher>
+		<hash>14E93A41</hash>
+		<image>./images/Ms CandyMan (USA).png</image>
+		<thumbnail>./boxart/Ms CandyMan (USA).png</thumbnail>
+		<marquee>./marquee/Ms CandyMan (USA).png</marquee>
+		<video>./snap/Ms CandyMan (USA).mp4</video>
+	</game>
+	<game id="46446" source="ScreenScraper.fr">
+		<path>./Muncher (USA).zip</path>
+		<name>Muncher</name>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>E4726657</hash>
+		<image>./images/Muncher (USA).png</image>
+		<thumbnail>./boxart/Muncher (USA).png</thumbnail>
+		<marquee>./marquee/Muncher (USA).png</marquee>
+		<video>./snap/Muncher (USA).mp4</video>
+	</game>
+	<game id="46447" source="ScreenScraper.fr">
+		<path>./Music Maker (USA).zip</path>
+		<name>Music Maker</name>
+		<desc>PLAY YOUR FAVOURITE SONGS AND COMPOSE YOUR OWN ELECTRONIC MUSIC! THREE OCTAVE RANGE! THREE NOTE CHORDS! AUTOMATIC TEMPO SETTING! SOUNDS LIKE A REAL ORGAN AND PLAYS RIGHT THROUGH YOUR TELEVISION SPEAKER. ONE HAND CONTROL ENTERS THE MUSIC AND THE COMPUTER AUTOMATICALLY PLAYS IT BACK! THE MUSICAL NOTES ARE DISPLAYED ON YOUR TV SCREEN!</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>B242EF84</hash>
+		<image>./images/Music Maker (USA).png</image>
+		<thumbnail>./boxart/Music Maker (USA).png</thumbnail>
+		<marquee>./marquee/Music Maker (USA).png</marquee>
+		<video>./snap/Music Maker (USA).mp4</video>
+	</game>
+	<game id="46448" source="ScreenScraper.fr">
+		<path>./Pirates Chase (USA).zip</path>
+		<name>Pirates Chase</name>
+		<desc>YO HO HO AND BOTTLE OF RUM! RACE TO SCOOP UP AS MANY GOLD DOUBLOONS AS YOU CAN CARRY, BUT WATCH OUT! THE PIRATES ARE ON YOUR TAIL! HOW MUCH OF THE TREASURE CAN YOU COLLECT BEFORE LONG JOHN SILVER COLLECTS YOU! SCORE POINTS FOR EVERY DOUBLOON AND TREASURE CHEST YOU CAN STEAL FROM THE PIRATE CREW! A FRANTIC, FAST-PACED GAM, AND THE ACTION NEVER STOP. 1OR 2 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Astrocade</publisher>
+		<hash>7B1B206A</hash>
+		<image>./images/Pirates Chase (USA).png</image>
+		<thumbnail>./boxart/Pirates Chase (USA).png</thumbnail>
+		<marquee>./marquee/Pirates Chase (USA).png</marquee>
+		<video>./snap/Pirates Chase (USA).mp4</video>
+	</game>
+	<game id="46449" source="ScreenScraper.fr">
+		<path>./Red Baron+Panzer Attack (USA).zip</path>
+		<name>Red Baron+Panzer Attack</name>
+		<desc>RED BARON IS A DOGFIGHTING GAME PLAYED FROM A SIDE PERSPECTIVE ON A SINGLE SCREEN. BOTH PLANES START ROLLING ON THE GROUND AND HAVE TO LIFT BEFORE CRASHING INTO A BARN. ONCE IN THE AIR THE PLANES CAN BE MOVED IN ALL DIRECTIONS AND IT'S ALSO POSSIBLE TO ALTER THE SPEED. THE AIM IS SIMPLY TO GET AS MANY KILLS AS POSSIBLE BEFORE THE TIME RUNS OUT. THE TIME LIMIT IS CHOSEN BY THE PLAYERS BEFORE STARTING OUT.
+
+PANZER ATTACK IS A TANK GAME VIEWED FROM A TOP-DOWN PERSPECTIVE. ALL PLAYER SHARE THE SAME SINGLE SCREEN WHICH HAS A FEW BLOCKADES FOR PROTECTIONS. THE TANKS CAN MOVE IN ALL DIRECTIONS AND THE AIM OF THE GAME IS SIMPLY TO SCORE POINTS BY DESTROYING THE OTHER TANKS. A BATTLE ENDS WHEN JUST ONE TANK REMAINS STANDING AND THE PLAYER WITH THE HIGHEST SCORE WHEN ALL BATTLE HAVE BEEN PLAYED WINS. THE NUMBER OF BATTLES CAN BE CHOSEN BEFORE STARTING OUT FROM 1-99.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>A1C7E129</hash>
+		<image>./images/Red Baron+Panzer Attack (USA).png</image>
+		<thumbnail>./boxart/Red Baron+Panzer Attack (USA).png</thumbnail>
+		<marquee>./marquee/Red Baron+Panzer Attack (USA).png</marquee>
+		<video>./snap/Red Baron+Panzer Attack (USA).mp4</video>
+	</game>
+	<game id="46450" source="ScreenScraper.fr">
+		<path>./Road Toad (USA).zip</path>
+		<name>Road Toad</name>
+		<desc>THE OLD PROVERBIAL CHICKEN MAY HAVE CROSSED THE ROAD TO GET TO THE OTHER SIDE BUT THE ROAD TOAD HAS SLIGHTLY DIFFERENT MOTIVES. IN THE TRADITION OF ANGELS CAMP YOU WILL PROD THE TOAD WITH THE USE OF YOUR JOYSTICK SKILLFULLY GUIDING HIM THROUGH SEVERAL LANES OF TRAFFIC THAT BECOMES INCREASINGLY CONGESTED. BUT WATCH OUT FOR THE SPEED DEMON IN LANE 3. HE OFTEN COMES WITHOUT WARNING AND DEFINITELY DOES NOT BREAK FOR TOADS.</desc>
+		<rating>0</rating>
+		<publisher>Esoterica</publisher>
+		<hash>F74385EE</hash>
+		<image>./images/Road Toad (USA).png</image>
+		<thumbnail>./boxart/Road Toad (USA).png</thumbnail>
+		<marquee>./marquee/Road Toad (USA).png</marquee>
+		<video>./snap/Road Toad (USA).mp4</video>
+	</game>
+	<game id="46451" source="ScreenScraper.fr">
+		<path>./Sea Devil (USA).zip</path>
+		<name>Sea Devil</name>
+		<desc>YOU ARE THE GUARDIAN OF THE 21ST CENTURY UNDERSEA FARM. NOT ONLY IS THIS IMPORTANT TO THE SURVIVAL OF THE PEOPLE ON EARTH BUT THE COMPANY YOU WORK FOR HAVE RISKED MILLIONS ON THIS VENTURE.
+
+ZARDOS, THE EVIL KING OF A DISTANT PLANET, NEEDS THIS FOOD FOR HIS-SELF AND HAS SENT ANDROID DIVERS WITH OTHER SEA CREATURES TO STEAL THIS FOOD.
+
+YOU ARE PROVIDED WITH THE UNDER SEA HI-TECH, SUB-SURFACE CRUISER. SEA DEVIL, EQUIPPED WITH THE LATEST IN SONAR SCREENS. YOU CAN SPOT TARGETS AT A GREAT DISTANCE. AS THEY COME INTO RANGE YOUR LASER MAKES QUICK WORK OF THE POACHERS AND ACCUMULATE VALUABLE SUB CREDIT POINTS FOR YOURSELF.
+
+ZARDOS PERSONALLY IS COMMANDING A SUBMARINE WHICH WILL FIRE CLUSTER BOMBS TO KEEP YOU AT BAY.
+
+CAN YOU GET ZARDOS IN HIS SUB? HES WORTH 1000 POINTS IF YOU CAN.</desc>
+		<rating>0</rating>
+		<publisher>L&amp;M Software</publisher>
+		<hash>960B6F86</hash>
+		<image>./images/Sea Devil (USA).png</image>
+		<thumbnail>./boxart/Sea Devil (USA).png</thumbnail>
+		<marquee>./marquee/Sea Devil (USA).png</marquee>
+		<video>./snap/Sea Devil (USA).mp4</video>
+	</game>
+	<game id="46452" source="ScreenScraper.fr">
+		<path>./Seawolf+Missile (USA).zip</path>
+		<name>Seawolf+Missile</name>
+		<desc>SEAWOLF! FROM DEEP BENEATH THE SEA, YOU FIRE YOUR TORPEDOES AT THE TANKERS, BATTLESHIPS AND OTHER TARGETS. YOUR MISSION IS TO SINK MORE ENEMY SHIPS THAN ANY OTHER SUB IN THE WOLF PACK. ITS A RACE AGAINST TIME AND OTHER SUBS IN YOUR OWN NAVY. MISSILE! LAUNCH GUIDED MISSILES AGAINST CARGO PLANES, BOMBERS AND FIGHTERS! TWO COMPLETE GAMES. HOURS OF FUN! 1 OR 2 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>EE3489EA</hash>
+		<image>./images/Seawolf+Missile (USA).png</image>
+		<thumbnail>./boxart/Seawolf+Missile (USA).png</thumbnail>
+		<marquee>./marquee/Seawolf+Missile (USA).png</marquee>
+		<video>./snap/Seawolf+Missile (USA).mp4</video>
+	</game>
+	<game id="46453" source="ScreenScraper.fr">
+		<path>./Sloshed (USA).zip</path>
+		<name>Sloshed</name>
+		<desc>THE BAR AT JOE IS ALWAYS CROWDED AND FUN. PICKING UP BEER, YOU ONCE AGAIN TURN ON THE AUTOPILOT AND GO HOME. AS AN AUTOPILOT ARE REAL PLAYERS. TRY NOT TO MESS WITH ANYTHING ON THE WAY!</desc>
+		<rating>0</rating>
+		<publisher>New Image</publisher>
+		<hash>A33CED19</hash>
+		<image>./images/Sloshed (USA).png</image>
+		<thumbnail>./boxart/Sloshed (USA).png</thumbnail>
+		<marquee>./marquee/Sloshed (USA).png</marquee>
+		<video>./snap/Sloshed (USA).mp4</video>
+	</game>
+	<game id="46454" source="ScreenScraper.fr">
+		<path>./Sneaky Snake (USA).zip</path>
+		<name>Sneaky Snake</name>
+		<desc>SNEAKY SNAKE IS A CLONE OF THE ARCADE GAME "CENTIPEDE" DEVELOPED AND PUBLISHED BY BALLY MIDWAY, WHICH WAS RELEASED IN 1977.</desc>
+		<rating>0</rating>
+		<publisher>New Image Software</publisher>
+		<hash>3E9F4F0D</hash>
+		<image>./images/Sneaky Snake (USA).png</image>
+		<thumbnail>./boxart/Sneaky Snake (USA).png</thumbnail>
+		<marquee>./marquee/Sneaky Snake (USA).png</marquee>
+		<video>./snap/Sneaky Snake (USA).mp4</video>
+	</game>
+	<game id="46455" source="ScreenScraper.fr">
+		<path>./Soccer (USA).zip</path>
+		<name>Soccer</name>
+		<desc>AMERICA'S FASTEST GROWING SPORT PLAYS ON YOUR VIDEO SCREEN. DRIBBLE UP FIELD, PASS TO YOUR TEAMATE, SHOOT FOR THE GOAL. WATCH OUT FOR INTERCEPTIONS AND BLOCKING BY THE OPPOSITION. UP TO 4 PLAYERS.</desc>
+		<rating>0</rating>
+		<publisher>ABC Hobbycraft</publisher>
+		<hash>56D28B62</hash>
+		<image>./images/Soccer (USA).png</image>
+		<thumbnail>./boxart/Soccer (USA).png</thumbnail>
+		<marquee>./marquee/Soccer (USA).png</marquee>
+		<video>./snap/Soccer (USA).mp4</video>
+	</game>
+	<game id="46456" source="ScreenScraper.fr">
+		<path>./Solar Conqueror (USA).zip</path>
+		<name>Solar Conqueror</name>
+		<desc>THE GAME'S RELEASE DATE IS 1982 ON THE GAME BOX AND 1981 ON THE CARTRIDGE.
+
+SOLAR CONQUEROR IS A TOP-DOWN VIEWED SHOOT 'EM UP WITH MULTIDIRECTIONAL SHOOTING AND MOVEMENT SIMILAR TO ASTEROIDS OR ROBOTRON. THE WAR HUNGRY DEMENS ARE THREATENING TO WIPE OUT THE PLAYER'S RACE WITH A RADIATION DEATH RAY AND THEREFORE THE PLAYER HAS TO CONQUER THEIR SOLAR SYSTEMS.
+
+EACH SOLAR SYSTEM CONSISTS OF TWO OR FOUR PLANETS AND TO CONQUER THEM ALL PLANETS HAVE TO BE DEFEATED. IN EACH SCREEN A PLANET IS LOCATED TO THE FAR RIGHT OF THE SCREEN AND FROM IT VARIOUS ALIEN DEFENDERS WILL APPEAR. TO DEFEAT THE PLANET AND MOVE ON TO THE NEXT ONE THE PLAYER HAS TO KILL ALL THE ENEMIES WHILE AVOIDING GETTING HIT BY THEM. THERE ARE THREE DIFFERENT ENEMIES: KAMIKAZE COMBAT SHIPS, GROUND-TO-AIR MISSILES AND SUPER FIGHTING (KILLER) SATELLITES. THERE ARE ALSO ASTEROIDS FLOATING AROUND THE PLANETS THAT HAS TO BE AVOIDED. LARGER PLANETS HAVE STRONGER GRAVITY WHICH LEADS TO THE SPACESHIP BEING HARDER CONTROL. THE EFFECT OF THE GRAVITY INCREASES AS THE SHIP GETS CLOSER TO THE PLANET.
+
+THE GAME CAN BE PLAYED BY UP TO FOUR PLAYERS. BEFORE STARTING OUT IT'S POSSIBLE TO CHOOSE HOW MANY LIVES EACH PLAYER SHOULD HAVE AND AT WHAT LEVELS THEY SHOULD START ON, THEREBY HANDICAPPING MORE SKILLED PLAYERS. ANY CONTACT WITH AN ENEMY, A PROJECTILE OR A PLANET LEADS TO A LOST LIFE BUT A NEW ONE IS GIVEN FOR EACH SOLAR SYSTEM CONQUERED.</desc>
+		<rating>0</rating>
+		<publisher>Astrovision</publisher>
+		<hash>D15CE025</hash>
+		<image>./images/Solar Conqueror (USA).png</image>
+		<thumbnail>./boxart/Solar Conqueror (USA).png</thumbnail>
+		<marquee>./marquee/Solar Conqueror (USA).png</marquee>
+		<video>./snap/Solar Conqueror (USA).mp4</video>
+	</game>
+	<game id="46457" source="ScreenScraper.fr">
+		<path>./Space Fortress (USA).zip</path>
+		<name>Space Fortress</name>
+		<desc>RELEASED ON THE ARCADES AS SPACE ZAP AND FOR THE BALLY ASTROCADE AS SPACE FORTRESS.
+
+THIS IS A FIXED SCREEN SHOOT 'EM UP WHERE THE PLAYER IS IN CONTROL OF A STATIONARY LASER BASE WHICH IS LOCATED IN THE MIDDLE OF THE SCREEN. ALIEN SPACE SHIPS WILL APPEAR FROM THE FOUR SIDES OF THE SCREEN AND LAUNCH SPACE MINES TOWARDS THE LASER BASE. THE PLAYER'S TASK IS SIMPLY TO SHOOT THEM DOWN BEFORE THEY REACH AND DESTROY THE LASER BASE.
+
+THE GAME IS CONTROLLED WITH FIVE BUTTONS: ONE FOR SHOOTING AND FOUR FOR AIMING, ONE FOR EACH DIRECTION. IN ADDITION TO THE MINES AND ALIEN SHIPS THERE ARE ALSO ATTACK SATELLITES THAT ORBIT THE LASER BASE BEFORE ATTACKING. THE MINES ARE WORTH 250 POINTS, ALIEN SHIPS ARE WORTH 500 POINTS AND ATTACK SATELLITES ARE WORTH 2,000 POINTS. THE PLAYER STARTS OUT WITH THREE LIVES BUT EARNS A NEW ONE AT 75,000, 150,000 AND 300,000 POINTS.</desc>
+		<rating>0</rating>
+		<publisher>Astrovision</publisher>
+		<hash>519CC707</hash>
+		<image>./images/Space Fortress (USA).png</image>
+		<thumbnail>./boxart/Space Fortress (USA).png</thumbnail>
+		<marquee>./marquee/Space Fortress (USA).png</marquee>
+		<video>./snap/Space Fortress (USA).mp4</video>
+	</game>
+	<game id="46458" source="ScreenScraper.fr">
+		<path>./Space Invaders (USA).zip</path>
+		<name>Space Invaders</name>
+		<rating>0</rating>
+		<publisher>Astrovision</publisher>
+		<hash>52964C1F</hash>
+		<image>./images/Space Invaders (USA).png</image>
+		<thumbnail>./boxart/Space Invaders (USA).png</thumbnail>
+		<marquee>./marquee/Space Invaders (USA).png</marquee>
+		<video>./snap/Space Invaders (USA).mp4</video>
+	</game>
+	<game id="46460" source="ScreenScraper.fr">
+		<path>./Star Battle (USA).zip</path>
+		<name>Star Battle</name>
+		<desc>STAR BATTLE IS A SPACE SHOOTER BASED ON THE TRENCH RUN SEQUENCE FROM THE ORIGINAL STAR WARS MOVIE. THE GAME IS FOR ONE OR TWO PLAYERS AND INVOLVES A BATTLE BETWEEN AN X-WING AND A TIE FIGHTER, ALTHOUGH SINCE IT DOESN'T CARRY A LICENSE THEY ARE NOT CALLED THAT. THE X-WING IS CONTROLLED BY PLAYER ONE WHILE THE TIE FIGHTER IS CONTROLLED BY PLAYER TWO OR THE COMPUTER. BEFORE STARTING OUT A MAXIMUM SCORE (1-999) IS ENTERED AND THE PLAYER THAT FIRST REACHES IT WINS THE GAME. A SINGLE HIT IS ENOUGH TO BRING DOWN THE ENEMY SHIP AND IT IS WORTH ONE POINT.
+
+THE GAME IS VIEWED FROM A THIRD-PERSON PERSPECTIVE WITH A PSEUDO 3D REPRESENTATION OF THE TRENCH. THE COLOUR OF THE TRENCH CHANGES CONSTANTLY TO ILLUSTRATE THE FORWARD MOTION OF THE FIGHTERS. BY MOVING THE JOYSTICK UP OR DOWN THE FIGHTERS ACCELERATE OR DECELERATE WHICH MEANS THEY MOVE TO THE TOP OF THE SCREEN AND DECREASES IN SIZE OR MOVE TO THE BOTTOM AND GET LARGER. IF ONE MOVES CLOSER TO THE CAMERA THE OTHER GETS FURTHER AWAY AND VICE VERSA.</desc>
+		<rating>0</rating>
+		<publisher>Bally Midway</publisher>
+		<hash>CE15563B</hash>
+		<image>./images/Star Battle (USA).png</image>
+		<thumbnail>./boxart/Star Battle (USA).png</thumbnail>
+		<marquee>./marquee/Star Battle (USA).png</marquee>
+		<video>./snap/Star Battle (USA).mp4</video>
+	</game>
+	<game id="46461" source="ScreenScraper.fr">
+		<path>./Super Slope (USA).zip</path>
+		<name>Super Slope</name>
+		<desc>THEY CALLED HIM SUPER SKIER THOUGH HE'D NEVER HAD A LESSON... AND NOW YOU TAKE UP WHERE HE LEFT OFF. SUPER SLOPE IS A SUPER SKIING PROGRAM FROM EOSTERICA. NO EXPERIENCE NECESSARY.</desc>
+		<rating>0</rating>
+		<publisher>Esoterica</publisher>
+		<hash>DF6B2304</hash>
+		<image>./images/Super Slope (USA).png</image>
+		<thumbnail>./boxart/Super Slope (USA).png</thumbnail>
+		<marquee>./marquee/Super Slope (USA).png</marquee>
+		<video>./snap/Super Slope (USA).mp4</video>
+	</game>
+	<game id="46462" source="ScreenScraper.fr">
+		<path>./Tornado Baseball+Tennis+Hockey+Handball (USA).zip</path>
+		<name>Tornado Baseball / Tennis / Hockey / Handball</name>
+		<desc>A COMBINATION OF FOUR DIFFERENT SPORTS GAMES, THE FOUR-IN-ONE CARTRIDGE INVOLVES LARGELY PONG-STYLE HOCKEY, TENNIS, AND HANDBALL, AS WELL AS UNIQUELY ORGANIZED BASEBALL GAME, FOR TWO PLAYERS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19770101T000000</releasedate>
+		<publisher>Bally Midway</publisher>
+		<hash>5BE548CC</hash>
+		<image>./images/Tornado Baseball+Tennis+Hockey+Handball (USA).png</image>
+		<thumbnail>./boxart/Tornado Baseball+Tennis+Hockey+Handball (USA).png</thumbnail>
+		<marquee>./marquee/Tornado Baseball+Tennis+Hockey+Handball (USA).png</marquee>
+		<video>./snap/Tornado Baseball+Tennis+Hockey+Handball (USA).mp4</video>
+		<developer>Bally Midway</developer>
+	</game>
+	<game id="46463" source="ScreenScraper.fr">
+		<path>./Treasure Cove (USA).zip</path>
+		<name>Treasure Cove</name>
+		<desc>TREASURE COVE IS AN ACTION GAME THAT TAKES PLACE OFF A SMALL ISLAND IN THE CARIBBEAN WHERE THE PLAYER HAS TO DIVE INTO THE OCEAN AND SEARCH FOR THE TREASURE OF A LOST SPANISH GALLEON. THE ACTION TAKES PLACE ON A SINGLE SCREEN AND THE PLAYER STARTS OUT IN A SMALL BOAT AT THE TOP OF THE SCREEN. AT THE BOTTOM THERE ARE SEVERAL PIECES OF TREASURE THAT HAS TO BE RETRIEVED (ONE AT A TIME) BUT THE OCEAN IS ALSO FULL OF FISHES AND OTHER SEA CREATURES THAT HAVE TO BE AVOIDED. ANY CONTACT WITH THESE (INCLUDING THE SMALLEST OF FISHES) WILL LEAD TO AN IMMEDIATE LOSS OF LIFE. A LIFE IS ALSO LOST IF THE PLAYER RUNS OUT OF OXYGEN WHICH MEANS IT'S NECESSARY TO PLAN AHEAD SINCE IT'S NOT POSSIBLE TO GO BACK TO THE BOAT (AND RECHARGE THE OXYGEN) EMPTY HANDED. WITH THE PRESS OF A BUTTON THE PLAYER CAN MOVE QUICKER BUT AT A HIGHER COST OF OXYGEN. AFTER CLEARING ALL TREASURE FROM THE COVE THE GAME WILL MOVE ON TO A NEW LOCATION WITH MORE VALUABLE TREASURE BUT ALSO WITH MORE FISHES.
+
+THE GAME CAN BE PLAYED BY ONE TO FOUR PLAYERS IN HOT SEAT. BEFORE STARTING OUT THE NUMBER OF LIVES FOR EACH PLAYER CAN BE CHOSEN FROM ONE TO NINE. THERE IS ALSO A TOURNAMENT LEVEL MODE WHERE EACH PLAYER HAS FOUR DIVERS. THIS MODE WAS MEANT FOR PLAYERS WHO WANTED TO MAIL THEIR HIGH SCORE TO THE DEVELOPER FOR HIGH SCORE VERIFICATION.</desc>
+		<rating>0</rating>
+		<publisher>Spectre Systems</publisher>
+		<hash>1447F854</hash>
+		<image>./images/Treasure Cove (USA).png</image>
+		<thumbnail>./boxart/Treasure Cove (USA).png</thumbnail>
+		<marquee>./marquee/Treasure Cove (USA).png</marquee>
+		<video>./snap/Treasure Cove (USA).mp4</video>
+	</game>
+</gameList>

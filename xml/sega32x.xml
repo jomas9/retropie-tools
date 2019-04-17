@@ -1,0 +1,575 @@
+<?xml version="1.0"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="12688" source="ScreenScraper.fr">
+		<path>./Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).zip</path>
+		<name>36 Great Holes</name>
+		<desc>EM 36 GREAT HOLES O JOGADOR ASSUME O CONTROLE DE 24 JOGADORES DE GOLFES DIGITALIZADOS (12 HOMENS E 12 MULHERES) JOGANDO EM 27 CAMPOS DE GOLF HISTÓRICOS NOS EUA, INCLUINDO DISNEY'S EAGLE PINES E TIDEWATER GOLF CLUB, DISPUTANDO 36 BURACOS. HÁ SETE DIFERENTES MODOS DE JOGO (STROKE PLAY, TOURNAMENT, SKINS, SHOOT-OUT, SCRAMBLE, PRACTICE AND MATCH PLAY) E TRÊS DIFERENTES TIPOS DE TACOS DE GOLFE (MADEIRA, METAL E GRAFITE). A TECNOLOGIA 32X OFERECE UM GRÁFICO MAIS REALISTA.</desc>
+		<rating>0.3</rating>
+		<releasedate>19950102T000000</releasedate>
+		<developer>Flashpoint Productions</developer>
+		<publisher>Sega</publisher>
+		<players>1-8</players>
+		<hash>D3D0A2FE</hash>
+		<image>./images/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).png</image>
+		<thumbnail>./boxart/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).png</marquee>
+		<video>./snap/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).mp4</video>
+	</game>
+	<game id="12677" source="ScreenScraper.fr">
+		<path>./After Burner Complete ~ After Burner (Japan, USA).zip</path>
+		<name>After Burner</name>
+		<desc>AFTERBURNER IS A CONVERSION OF THE ARCADE GAME OF THE SAME NAME. THE GOAL IS SIMPLE: USE YOUR F-14 TOMCAT AND SHOOT AS MANY ENEMIES AS YOU CAN. THIS AIRCRAFT HAS TWO WEAPONS: LOCK-ON MISSILES AND VULCAN CANNONS (BASICALLY MACHINE GUNS). IN SOME VERSIONS THERE IS AN OPTION TO LET THE CANNONS SHOOT AUTOMATICALLY ALL THE TIME.
+
+THE GAME IS VIEWED FROM BEHIND THE PLANE WITH YOU FIGHTING WAVE AFTER WAVE OF ENEMY FIGHTERS. BUT AT HEART IT OFFERS THE USUAL SHOOTER MECHANICS, MEANING YOU SPEND MOST OF YOUR TIME DODGING AND SHOOTING. SOMETIMES YOU COME ACROSS A FRIENDLY SUPPLY PLANE AND IF YOU DOCK WITH IT YOU CAN REPLENISH YOUR MISSILES.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Rutubo Games</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>204044C4</hash>
+		<image>./images/After Burner Complete ~ After Burner (Japan, USA).png</image>
+		<thumbnail>./boxart/After Burner Complete ~ After Burner (Japan, USA).png</thumbnail>
+		<marquee>./marquee/After Burner Complete ~ After Burner (Japan, USA).png</marquee>
+		<video>./snap/After Burner Complete ~ After Burner (Japan, USA).mp4</video>
+	</game>
+	<game id="12675" source="ScreenScraper.fr">
+		<path>./Blackthorne (USA).zip</path>
+		<name>Blackthorne</name>
+		<desc>BLACKTHORNE IS AN ACTION-ADVENTURE GAME THAT TAKES PLACE ON THE PLANET TUUL. TUUL WAS A PEACEFUL PLACE, UNTIL THE EVIL WARRIOR SARLAC USED THE POWER OF THE DARKSTONE TO TAKE CONTROL.  BLACKTHORNE'S FATHER, THE GOOD KING VLAROS, SENT HIM TO EARTH JUST AS HIS KINGDOM CRUMBLED AROUND HIM.  NOW, 20 YEARS LATER, BLACKTHORNE IS GROWN AND MUST RETURN TO TUUL TO FREE IT FROM THE CLUTCHES OF SARLAC.
+
+THIS GAME IS PLAYED FROM A SIDE-VIEW WITH NON-SCROLLING BACKGROUNDS. IT HAS STRONG SIMILARITIES TO PRINCE OF PERSIA, EXCEPT YOU BATTLE YOUR FOES USING GUNS AND BOMBS INSTEAD OF A SWORD.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<players>1</players>
+		<hash>D1A60A47</hash>
+		<image>./images/Blackthorne (USA).png</image>
+		<thumbnail>./boxart/Blackthorne (USA).png</thumbnail>
+		<marquee>./marquee/Blackthorne (USA).png</marquee>
+		<video>./snap/Blackthorne (USA).mp4</video>
+	</game>
+	<game id="12684" source="ScreenScraper.fr">
+		<path>./Brutal Unleashed - Above the Claw (USA).zip</path>
+		<name>Brutal Unleashed : Above the Claw</name>
+		<desc>AS WITH THE ORIGINAL BRUTAL: PAWS OF FURY, THE GAME INVOLVES A MARTIAL ARTS TOURNAMENT SET UP BY THE DALAI LLAMA. A SELECTION OF 12 ANTHROPOMORPHIC ANIMALS ARE INVOLVED; CHOOSE FROM THEM FOR THE CARTOON-STYLED BEAT 'EM UP ACTION.  
+
+CHARACTERS EACH HAVE THEIR OWN FIGHTING STYLE, ARRAY OF MOVES, AND STORYLINE.  AS YOU PROGRESS THROUGH THE GAME, YOU UNLOCK MORE MOVES FOR EACH CHARACTER.  THERE'S ALSO A PROGRESSIVE CONQUEST MODE WHICH CHALLENGES YOU TO TAKE OVER THE ENTIRE BRUTAL ISLAND.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>GameTek</publisher>
+		<players>1-2</players>
+		<hash>7A72C939</hash>
+		<image>./images/Brutal Unleashed - Above the Claw (USA).png</image>
+		<thumbnail>./boxart/Brutal Unleashed - Above the Claw (USA).png</thumbnail>
+		<marquee>./marquee/Brutal Unleashed - Above the Claw (USA).png</marquee>
+		<video>./snap/Brutal Unleashed - Above the Claw (USA).mp4</video>
+	</game>
+	<game id="12674" source="ScreenScraper.fr">
+		<path>./Cyber Brawl ~ Cosmic Carnage (Japan, USA).zip</path>
+		<name>Cosmic Carnage</name>
+		<desc>COSMIC CARNAGE IS A ONE-ON-ONE FIGHTING GAME SET IN OUTER SPACE.  THE STORY BEGINS AS A PRISON BARGE IS HIJACKED BY IT'S CARGO IN AN ESCAPE ATTEMPT.  THE RESULTING CHAOS CAUSED THE BARGE TO CRASH INTO A MILITARY CRUISER. THE IMPACT CAUSED EXTENSIVE DAMAGE TO BOTH SHIPS.  THERE WERE ONLY 8 SURVIVORS, 4 FROM EACH SHIP.  WHAT'S WORSE, THERE'S ONLY ONE ESCAPE POD.  YOU CONTROL ONE OF THE 8 SURVIVORS, AND HAVE TO FINISH OFF ALL THE OTHERS TO ESCAPE WITH YOUR LIFE.
+
+THE GAMEPLAY IN COSMIC CARNAGE IS SIMILAR TO STREET FIGHTER 2, BUT WITH A MUCH SLOWER PACE.  SOME OF THE FIGHTERS CAN BE CUSTOMIZED WITH DIFFERENT ARMOR COMBINATIONS, ALLOWING THEM ACCESS TO DIFFERENT SPECIAL MOVES.</desc>
+		<rating>0.45</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Givro</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>7C7BE6A2</hash>
+		<image>./images/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</image>
+		<thumbnail>./boxart/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</marquee>
+		<video>./snap/Cyber Brawl ~ Cosmic Carnage (Japan, USA).mp4</video>
+	</game>
+	<game id="12693" source="ScreenScraper.fr">
+		<path>./Darxide (Europe) (En,Fr,De,Es).zip</path>
+		<name>Darxide</name>
+		<desc>ONE OF THE LAST 32X GAMES RELEASED (AND EXCLUSIVELY IN EUROPE), DARXIDE IS A 3-D SPACE SHOOTER, INSPIRED IN PART BY THE ARCADE GAMEPLAY OF ASTEROIDS. IT IS ONE OF THE FEW 32X GAMES TO USED TEXTURE-MAPPED POLYGONS. 
+
+PLAYERS CONTROL A LONE STARSHIP RUSHING TO DESTROY ONCOMING ASTEROIDS AND ALIEN VESSELS BEFORE THEY ANNIHILATE DEFENSELESS HUMAN MINERS AND COLONIES. ASTEROIDS BREAK APART INTO SMALLER ROCKS, WHICH MUCH ALSO BE HUNTED DOWN AND DESTROYED. ALIENS LIKEWISE ARRIVE IN LARGER, MORE DANGEROUS VESSELS.
+
+ASTEROIDS BROKEN DOWN TO THEIR SMALLEST SIZE AND THEN VAPORIZED WILL SOMETIMES DROP SHIELD OR ENERGY RECHARGES, TO REPAIR DAMAGE CAUSED BY LASER BLASTS OR COLLISIONS. NEW WEAPONS CAN ALSO BE FOUND. PLAYERS HAVE A TIME LIMIT TO MEET ALL OBJECTIVES IN A STAGE BEFORE THEY ARE FORCED TO LAND AND TRY AGAIN. THE RIGHT SIDE OF THE HUD SHOWS ASTEROIDS REMAINING (AND THEIR APPROXIMATE SIZE), WHILE THE LEFT SHOWS THE PLAYER'S DISTANCE TO THEIR BASE (AND SO, TIME REMAINING IN THE STAGE).</desc>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Frontier Developments</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>22D7C906</hash>
+		<image>./images/Darxide (Europe) (En,Fr,De,Es).png</image>
+		<thumbnail>./boxart/Darxide (Europe) (En,Fr,De,Es).png</thumbnail>
+		<marquee>./marquee/Darxide (Europe) (En,Fr,De,Es).png</marquee>
+		<video>./snap/Darxide (Europe) (En,Fr,De,Es).mp4</video>
+	</game>
+	<game id="12666" source="ScreenScraper.fr">
+		<path>./Doom (Japan, USA).zip</path>
+		<name>Doom</name>
+		<desc>DOOM É UM JOGO EM PRIMEIRA PESSOA PARA O SEGA 32X DIRETAMENTE INSPIRADO PELO TÍTULO HOMÔNIMO LANÇADO EM 1993 NO PC. AS 8 ARMAS DISPONÍVEIS SÃO PRECIOSAS PARA SOBREVIVER A ATAQUES REPETIDOS NOS MEANDROS DE VÁRIOS LABIRINTOS. DA MOTOSSERRA À PISTOLA PLASMA, PARA NÃO MENCIONAR A ESPINGARDA E O LANÇADOR DE FOGUETES, TODOS OS INGREDIENTES ESTÃO NO LUGAR PARA ATACAR AS CRIATURAS MALIGNAS.</desc>
+		<rating>0.55</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+		<players>1</players>
+		<hash>208332FD</hash>
+		<image>./images/Doom (Japan, USA).png</image>
+		<thumbnail>./boxart/Doom (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Doom (Japan, USA).png</marquee>
+		<video>./snap/Doom (Japan, USA).mp4</video>
+	</game>
+	<game id="12672" source="ScreenScraper.fr">
+		<path>./FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).zip</path>
+		<name>FIFA Soccer 96</name>
+		<desc>"AIMING TO BE THE FIRST FOOTBALL SIMULATION THAT IS REALISTIC IN THE TRUE SENSE OF THE WORD, FIFA SOCCER 96 WAS EXTREMELY POPULAR AT THE TIME OF RELEASE. IT WAS HAILED AS THE FIRST REALLY SUCCESSFUL FIFA RELEASE, AND OPENED THE WAY FOR YEARLY REVISIONS OF THE CONCEPT.
+
+THERE WERE A NUMBER OF FACTORS THAT MADE FIFA96 STAND OUT FROM THE CROWD OF OTHER FOOTBALL SIMS. FIRSTLY, THE GAME'S COMMENTARY WAS REVOLUTIONARY AT THE TIME -- THE RENOWNED BRITISH COMMENTATOR JOHN MOTSON COMMENTS ALL THE INCIDENTS AND HAPPENINGS ON THE PITCH IN REAL-TIME. THE AMBIENT COMMENTARY IS VARIED, AND SYSTEMS WITH MORE THAN THE MINIMUM MEMORY LEVEL GET EXTRA COMMENTARY PHRASES.
+
+THE VIRTUAL STADIUM TECHNOLOGY HAS NUMEROUS PRE-DEFINED CAMERA ANGLES. THE GAME EVEN HAS A SVGA MODE FOR BETTER-THAN-MINIMUM SYSTEM
+
+FIFA96 BOASTS ELEVEN LEAGUES FROM ALL AROUND THE WORLD, RANGING FROM THE UNKNOWN PLAYERS OF THE MALAYSIAN LEAGUE TO THE CELEBRATED STARS OF THE ENGLISH AND ITALIAN LEAGUES. 59 INTERNATIONAL TEAMS ARE ALSO FEATURED, AND IT'S POSSIBLE TO MATCH THE TEAMS YOU WANT TO AGAINST EACH OTHER THROUGH FRIENDLIES, OR YOU CAN ALSO CHOOSE TO PLAY DOMESTIC TOURNAMENTS OR INTERNATIONAL ONES SUCH AS THE WORLD CUP. IF YOU'RE NOT SATISFIED WITH THE COMPOSITION OF THE VARIOUS TEAMS, YOU CAN CREATE YOUR OWN DREAM TEAM THROUGH THE CUSTOM TEAM CREATOR.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Extended Play Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>1-4</players>
+		<hash>FB14A7C8</hash>
+		<image>./images/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).png</image>
+		<thumbnail>./boxart/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).png</thumbnail>
+		<marquee>./marquee/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).png</marquee>
+		<video>./snap/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).mp4</video>
+	</game>
+	<game id="12670" source="ScreenScraper.fr">
+		<path>./Chaotix ~ Knuckles' Chaotix (Japan, USA).zip</path>
+		<name>Knuckles' Chaotix</name>
+		<desc>KNUCKLES CHAOTIX É UM SPIN-OFF DA SÉRIE DE JOGOS DO MEGA DRIVE: SONIC THE HEDGEHOG. O PERSONAGEM PRINCIPAL DESTE TÍTULO É KNUCKLES THE ECHIDNA QUE APARECEU PELA PRIMEIRA VEZ EM SONIC THE HEDGEHOG 3. KNUCKLES TRABALHA NA CARNIVAL ISLAND, UM PARQUE DE DIVERSÕES. É SEU TRABALHO PROTEGER O PARQUE E TORNÁ-LO UM LUGAR FELIZ PARA OS VISITANTES. DR. ROBOTNIK, COMO DE COSTUME, TEM UM PLANO MALIGNO PARA O PARQUE. ELE QUER A POWER EMERALD QUE FORNECE ELETRICIDADE PARA TODA A ILHA. O QUE É PIOR, ELE APRISIONOU VÁRIOS AMIGOS DE KNUCKLES NO "COMBI CONFINER". ESTA ENGENHOCA SÓ PERMITE QUE KNUCKLES LIBERTE UM DE SEUS AMIGOS POR VEZ ESTANDO LIGADO A UM CABO ENTRE ELES. PORTANTO, QUANDO VOCÊ JOGA O JOGO VOCÊ ESTÁ SEMPRE LIGADO A OUTRO PERSONAGEM.NNNNEMBORA A JOGABILIDADE BÁSICA DE KNUCKLES CHAOTIX SEJA SEMELHANTE AOS JOGOS DO SONIC, O CABO BUNGEE ENTRE OS DOIS PERSONAGENS CRIA NOVOS DESAFIOS. OS NOVOS PERSONAGENS QUE APARECEM SÃO VECTOR THE CROCODILE, MIGHTY THE ARMADILLO, ESPIO THE CHAMELEON AND CHARMY BEE. HÁ TAMBÉM DOIS PERSONAGENS CUJO ÚNICO PROPÓSITO É ATRASAR VOCÊ, HEAVY THE ROBOT, E BOMB. CHAOTIX ADICIONA VÁRIOS NOVOS POWER-UPS E FASES BÔNUS EM 3D TAMBÉM.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950320T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>D0B0B842</hash>
+		<image>./images/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</image>
+		<thumbnail>./boxart/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</marquee>
+		<video>./snap/Chaotix ~ Knuckles' Chaotix (Japan, USA).mp4</video>
+	</game>
+	<game id="12678" source="ScreenScraper.fr">
+		<path>./Kolibri (USA, Europe).zip</path>
+		<name>Kolibri</name>
+		<desc>KOLIBRI IS A HUMMINGBIRD HERO IN THIS UNUSUAL SIDE SCROLLING SHOOTER FOR THE 32X.  DEEP INSIDE THE EARTH'S CORE, THERE IS A CRYSTAL FROM ANOTHER WORLD.  THIS CRYSTAL IS THE EARTH'S LIFE FORCE, AND ESSENTIAL TO IT'S SURVIVAL.  ONE DAY, A DARK CRYSTAL FALLS FROM THE SKY AND DAMAGES THE EARTH'S CRYSTAL.  DESPERATE, THE EARTH'S CRYSTAL ROCKETS TO THE SURFACE AND EMPOWERS KOLIBRI WITH THE ABILITIES HE NEEDS TO DEFEAT THE DARK CRYSTAL.
+
+THIS GAME FEATURES 19 LEVELS SET IN A VARIETY OF DETAILED NATURAL SETTINGS.  YOUR GOAL IN SOME LEVELS IS TO DESTROY ENEMY BUGS, IN OTHERS YOUR GOAL IS TO MERELY SURVIVE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>20CA53EF</hash>
+		<image>./images/Kolibri (USA, Europe).png</image>
+		<thumbnail>./boxart/Kolibri (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Kolibri (USA, Europe).png</marquee>
+		<video>./snap/Kolibri (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="12689" source="ScreenScraper.fr">
+		<path>./Metal Head (Japan, USA) (En,Ja).zip</path>
+		<name>Metal Head</name>
+		<desc>IT'S 5 YEARS AFTER THE FORMATION OF THE WORLDWIDE FEDERATION.  ALTHOUGH WAR HAS BEEN AVERTED, TERRORIST CELLS AROUND THE WORLD THREATEN THE STABILITY OF THE FEDERATION.  TO COMBAT THIS MENACE, THE FEDERATION HAS CREATED A BI-PEDAL ARMORED TANK KNOWN AS THE METAL HEAD.  YOU ARE A METAL HEAD PILOT, AND YOU HAVE TO USE ALL THE WEAPONS AT YOUR DISPOSAL TO TAKE OUT THE TERRORISTS.
+
+METAL HEAD IS A BIT OF A VARIATION ON THE USUAL GIANT ROBOT COMBAT GAME.  THE GAME'S MISSION AREAS BEAR MORE RESEMBLANCE TO A FIRST-PERSON SHOOTER THAN A SIMULATION.  THE GRAPHICS ARE ALL RENDERED IN TEXTURE MAPPED POLYGONS, WHICH IS UNUSUAL FOR A 32X GAME.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>EF5553FF</hash>
+		<image>./images/Metal Head (Japan, USA) (En,Ja).png</image>
+		<thumbnail>./boxart/Metal Head (Japan, USA) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Metal Head (Japan, USA) (En,Ja).png</marquee>
+		<video>./snap/Metal Head (Japan, USA) (En,Ja).mp4</video>
+	</game>
+	<game id="12668" source="ScreenScraper.fr">
+		<path>./Mortal Kombat II (Japan, USA).zip</path>
+		<name>Mortal Kombat II</name>
+		<desc>MORTAL KOMBAT II, É UM JOGO DE LUTAPARA O SEGA 32X/MEGA 32X. COMBOS, FATALIDADES E OUTROS MOVIMENTOS ESPECIAIS SÃO OS INGREDIENTES QUE COMPÕEM O SUCESSO DE UM JOGO DE RECONHECIDO PELA VIOLÊNCIA DE SEUS CONFRONTOS. O COM UM DOS 12 LUTADORES SELECIONÁVEIS VOCÊ DEVE DERROTAR TODOS OS SEUS CONCORRENTES UM A UM PARA VENCER O TORNEIO E PÔR FIM AO REINADO DO MALÉFICO SHAO KAHN.</desc>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-2</players>
+		<hash>773C0A85</hash>
+		<image>./images/Mortal Kombat II (Japan, USA).png</image>
+		<thumbnail>./boxart/Mortal Kombat II (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Mortal Kombat II (Japan, USA).png</marquee>
+		<video>./snap/Mortal Kombat II (Japan, USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="12694" source="ScreenScraper.fr">
+		<path>./Motocross Championship (USA).zip</path>
+		<name>Motocross Championship</name>
+		<desc>MOTOCROSS CHAMPIONSHIP IS THE ONLY DIRTBIKE RACING GAME FOR THE 32X.  THE ACTION TAKES PLACE FROM A BEHIND-THE-BIKE PERSPECTIVE, AND MAKES USE OF THE 32X'S HARDWARE BITMAP SCALING TO PRESENT A 3D GRAPHICAL EFFECT.
+
+LIKE THE TITLE SUGGESTS, THE MAIN GAME MODE IS A POINTS BASED CHAMPIONSHIP.  YOU CAN COMPETE IN ONE OF 3 MOTORCYCLE CLASSES OVER 12 INDOOR AND OUTDOOR TRACKS.  THERE'S ALSO TWO PLAYER SPLIT SCREEN MODE SO YOU CAN SHARE OFF-ROAD FUN WITH A FRIEND.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>A21C5761</hash>
+		<image>./images/Motocross Championship (USA).png</image>
+		<thumbnail>./boxart/Motocross Championship (USA).png</thumbnail>
+		<marquee>./marquee/Motocross Championship (USA).png</marquee>
+		<video>./snap/Motocross Championship (USA).mp4</video>
+	</game>
+	<game id="12679" source="ScreenScraper.fr">
+		<path>./NBA Jam - Tournament Edition (World).zip</path>
+		<name>NBA Jam : Tournament Edition</name>
+		<desc>THIS GAME LETS YOU PLAY TWO-ON-TWO ARCADE BASKETBALL WITH PLAYERS FROM ALL THE NBA TEAMS. GAMEPLAY IS FAST AND ACTION-PACKED, WITH FEW RULES, NO FOULS, AND DELIBERATELY UNREALISTIC JAMMING. PLAYERS ARE RATED ON EIGHT ABILITY CATEGORIES, FROM STEALS AND BLOCKS, TO DUNKS AND 3-POINTERS.
+
+UP TO FOUR HUMAN PLAYERS CAN TAKE PART, EACH ALWAYS CONTROLLING A SINGLE PLAYER FOR THEIR TEAM, AND AI FOR MISSING PLAYERS. THIS ALLOWS FOR FOUR PLAYERS TO FACE EACH OTHER IN TEAMS OF TWO, OR FOR TWO PLAYERS TO TEAM UP AGAINST A THIRD PLAYER WITH A CPU TEAM-MATE.
+
+THE TOURNAMENT EDITION UPS EACH TEAM'S ROSTER TO THREE PLAYERS, AND ALLOWS FOR SUBSTITUTIONS BETWEEN QUARTERS. SHOVING PLAYERS NOW RESULTS IN INJURIES, WHICH LOWER A PLAYER'S STATS; ENCOURAGING YOU TO SUB THEM OUT AND LET THEM RECOVER. ASIDE FROM THE USUAL SECRET CHARACTERS AND CHEAT MODES, THE T.E. ALSO INCLUDES FOUR NEW ADDITIONS YOU CAN INDIVIDUALLY ENABLE FROM THE SPECIAL OPTIONS MENU:
+
+1. "HOT SPOTS" ARE RANDOMIZED ZONES ON THE COURT THAT REWARD EXTRA POINTS (UP TO A 9-POINT SHOT!) FOR MAKING A BASKET WHILE STANDING WITHIN THEM.
+
+POWERUP ICONS APPEAR RANDOMLY, AND CONVEY TEMPORARY ARCADE-LIKE BENEFITS WHEN PICKED UP. SOME EXAMPLES ARE INSTANT "ON-FIRE," ENHANCED 3-POINT ACCURACY, MONSTER DUNKS FROM ANYWHERE ON THE COURT, OR A BOMB THAT KNOCKS ALL OTHER PLAYERS TO THE GROUND.
+
+"JUICE MODE" INCREASES THE SPEED OF THE GAME UP TO 4X.
+
+"TOURNAMENT MODE" DISABLES ALL OTHER MODES, SPECIAL CHARACTERS, AND CHEATS, AND CHALLENGES YOU TO DEFEAT ALL THE NBA TEAMS TO UNLOCK EXTRA PLAYERS (2 EXTRA PLAYERS FOR ALMOST EVERY TEAM). WINNING TOURNAMENT MODE ALSO UNLOCKS A HIGHER CPU DIFFICULTY LEVEL.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-4</players>
+		<hash>6B7994AA</hash>
+		<image>./images/NBA Jam - Tournament Edition (World).png</image>
+		<thumbnail>./boxart/NBA Jam - Tournament Edition (World).png</thumbnail>
+		<marquee>./marquee/NBA Jam - Tournament Edition (World).png</marquee>
+		<video>./snap/NBA Jam - Tournament Edition (World).mp4</video>
+	</game>
+	<game id="12700" source="ScreenScraper.fr">
+		<path>./NFL Quarterback Club (World).zip</path>
+		<name>NFL Quarterback Club</name>
+		<desc>ONE OF THE EARLIEST IN THE NFL QUARTERBACK SERIES, THIS VERSION FEATURES THE STANDARD GAME MODES SUCH AS EXHIBITION, SEASON, PLAYOFFS, ETC. AND FEATURES A FULL NFL LICENSE WITH PLAYERS AND THEIR TEAMS RESPECTIVE NAMES AND LOGOS.  ONE FEATURE THAT IS PRESENT IN THIS GAME IS THE QUARTERBACK SKILLS CHALLENGE WHERE THE PLAYER CAN CHOOSE FROM 13 DIFFERENT QUARTERBACKS SUCH AS JOHN ELWAY, STEVE YOUNG, DAN MARINO AND MANY OTHERS IN A QB COMPETITION.  THE GOAL IS TO COMPLETE A SERIES OF DRILLS SUCH AS HITTING A BULLS-EYES, THROWING LONG DISTANCES, COMPETING IN OBSTACLE COURSES OR TEST OUT THEIR THROWING ACCURACY.  IT ALSO HAS A TWO-PLAYER OPTION WHERE FRIENDS CAN COMPETE HEAD-TO-HEAD.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-4</players>
+		<hash>0BC7018D</hash>
+		<image>./images/NFL Quarterback Club (World).png</image>
+		<thumbnail>./boxart/NFL Quarterback Club (World).png</thumbnail>
+		<marquee>./marquee/NFL Quarterback Club (World).png</marquee>
+		<video>./snap/NFL Quarterback Club (World).mp4</video>
+	</game>
+	<game id="12680" source="ScreenScraper.fr">
+		<path>./Pitfall - The Mayan Adventure (USA).zip</path>
+		<name>Pitfall : The Mayan Adventure</name>
+		<desc>PITFALL: THE MAYAN ADVENTURE É UM JOGO DE PLATAFORMA 2D CHEIO DE AÇÃO NO QUAL VOCÊ CONTROLA O AVENTUREIRO PITFALL HARRY JR EM BUSCA DE SEU PAI PITFALL HARRY. VOCÊ TRILHA SEU CAMINHO ATRAVÉS DAS SELVAS MAIAS, CACHOEIRAS, MINAS DESERTAS E PODE PULAR DE BUNGEE JUMP ALÉM DE USAR SEU BUMERANGUE. EXISTEM 13 NÍVEIS E A AÇÃO É RÁPIDA E EMOCIONANTE.</desc>
+		<rating>0</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players>1</players>
+		<hash>F9126F15</hash>
+		<image>./images/Pitfall - The Mayan Adventure (USA).png</image>
+		<thumbnail>./boxart/Pitfall - The Mayan Adventure (USA).png</thumbnail>
+		<marquee>./marquee/Pitfall - The Mayan Adventure (USA).png</marquee>
+		<video>./snap/Pitfall - The Mayan Adventure (USA).mp4</video>
+	</game>
+	<game id="12682" source="ScreenScraper.fr">
+		<path>./Primal Rage (USA, Europe).zip</path>
+		<name>Primal Rage</name>
+		<desc>A METEOR STRUCK THE EARTH, AND CAUSED GREAT CHAOS. SEVEN GODS FROM ANCIENT TIMES AWOKE, AND ARE NOW ATTEMPTING TO TAKE CONTROL OF THE POST-APOCALYPTIC WORLD.
+
+PRIMAL RAGE IS A ONE-ON-ONE FIGHTING GAME FEATURING DINOSAURS AND GIANT APES AS THE FIGHTERS. THE GRAPHICS ARE DONE WITH DIGITIZED STOP-MOTION ANIMATION. GAMEPLAY IS SIMILAR TO MORTAL KOMBAT IN THAT IT IS VIEWED FROM A SIDE PERSPECTIVE, AND FEATURES DEADLY FINISHING MOVES AT THE END OF THE MATCH.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951114T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<players>1-2</players>
+		<hash>E78A4D28</hash>
+		<image>./images/Primal Rage (USA, Europe).png</image>
+		<thumbnail>./boxart/Primal Rage (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Primal Rage (USA, Europe).png</marquee>
+		<video>./snap/Primal Rage (USA, Europe).mp4</video>
+	</game>
+	<game id="46327" source="ScreenScraper.fr">
+		<path>./RBI Baseball '95 (USA).zip</path>
+		<name>RBI Baseball '95</name>
+		<desc>THIS VERSION IS AN UPDATED FOLLOW-UP TO THE R.B.I. SERIES.  MANY OF THE SAME FEATURES FROM OTHER BASEBALL GAMES ARE PRESENT AND HAS THREE DIFFERENT GAME MODES TO CHOOSE FROM: EXHIBITION, PLAYOFF, AND HOME RUN DERBY, BUT WHAT MAKES THIS VERSION DIFFERENT FROM THE OTHERS IS A LACK OF MLB LICENSE, THOUGH IT DOES FEATURE A MLBPA LICENSE WITH TOP PLAYERS OF THE TIME SUCH AS ROGER CLEMENS, OTIS NIXON, BOBBY LARKIN AMONG MANY OTHERS.
+
+THOUGH IT DOESN'T HAVE A FULL MLB LICENSE, IT TRIES TO RECREATE THE MLB EXPERIENCE BY OMITTED THE TEAMS NICKNAMES BUT USING SIMILAR TEAM COLORS AND USING THE ACTUAL STADIUMS AND REDOING THEM WITHOUT THE DISTINCTIVE TRADEMARKS.  IT DOESN'T FEATURE A BATTERY BACK-UP, BUT DOES HAVE A PASSWORD FEATURE FOR A PLAYER TO PICK UP AND PLAY LATER IF THEY CHOOSE.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Time Warner Interactive, Inc.</publisher>
+		<players>1-2</players>
+		<hash>FF795FDC</hash>
+		<image>./images/RBI Baseball '95 (USA).png</image>
+		<thumbnail>./boxart/RBI Baseball '95 (USA).png</thumbnail>
+		<marquee>./marquee/RBI Baseball '95 (USA).png</marquee>
+		<video>./snap/RBI Baseball '95 (USA).mp4</video>
+	</game>
+	<game id="12695" source="ScreenScraper.fr">
+		<path>./Shadow Squadron ~ Stellar Assault (USA, Europe).zip</path>
+		<name>Shadow Squadron</name>
+		<desc>SHADOW SQUADRON IS A 3D SPACE COMBAT SHOOTER. THE PLAYER CONTROLS A SPACE FIGHTER IN A SERIES OF BATTLES AGAINST HUGE ENEMY SHIPS.  THERE ARE 2 DIFFERENT TYPES OF SHIPS TO FLY, AND 6 DIFFERENT MISSIONS.  IN MOST MISSIONS, THE PLAYER HAS TO DESTROY SEVERAL LOCATIONS ON A LARGE SHIP IN ORDER TO BLOW UP THE WHOLE THING. 
+
+THERE ARE TWO WAYS TO PLAY THE GAME.  FIRST, ONE CAN DIRECTLY CONTROL THE SHIP AND MANEUVER IT AROUND THE 3D POLYGON ENVIRONMENTS.  SECOND, THE PLAYER CAN LET THE 32X DO THE FLYING, AND SIMPLY CONTROL A GUN TURRET.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>60C49E4D</hash>
+		<image>./images/Shadow Squadron ~ Stellar Assault (USA, Europe).png</image>
+		<thumbnail>./boxart/Shadow Squadron ~ Stellar Assault (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe).png</marquee>
+		<video>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
+	</game>
+	<game id="12676" source="ScreenScraper.fr">
+		<path>./Space Harrier (Japan, USA).zip</path>
+		<name>Space Harrier</name>
+		<desc>RUN FLY DODGE THOSE OBSTACLES, BUT RETURN FIRE ON WAVE AFTER WAVE OF ATTACKING ALIENS. ARMED WITH A REALLY BIG GUN, YOU HAVE TO DEFEND YOURSELF AGAINST THE ALIEN HORDES USING YOUR WITS TO NAVIGATE AROUND THE SCREEN. BUT WATCH OUT FOR THOSE END OF LEVEL BOSSES!</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>86E7F989</hash>
+		<image>./images/Space Harrier (Japan, USA).png</image>
+		<thumbnail>./boxart/Space Harrier (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Space Harrier (Japan, USA).png</marquee>
+		<video>./snap/Space Harrier (Japan, USA).mp4</video>
+	</game>
+	<game id="12691" source="ScreenScraper.fr">
+		<path>./Star Trek Starfleet Academy - Starship Bridge Simulator (USA).zip</path>
+		<name>Star Trek, Starfleet Academy : Starship Bridge Simulator</name>
+		<desc>TWO YEARS BEFORE THE BETTER-KNOWN COMPUTER GAME CAME THIS TITLE, IN WHICH THE AIM IS TO SUCCESSFULLY COMPLETE THE SPACE COMBAT ELEMENT OF STARFLEET TRAINING. YOU WILL FIGHT KLINGONS, DEAL WITH REPAIRS, AND FIND YOURSELF IN ALL MANNER OF DANGEROUS SITUATIONS, BUT TRY TO STAY WITHIN STARFLEET DIRECTIVES.
+
+THE GAME IS VIEWED FROM THE BRIDGE OF YOUR VESSEL (THERE ARE 5 DIFFERENT ONES IN TOTAL), WITH POLYGONS USED TO DISPLAY THE ACTION. INFORMATION ON THE WORLD SITUATION AT THE TIME OF THE GAME IS SUPPLIED WITHIN THE GAME. THERE ARE QUICK MISSIONS BRINGING SCENES FROM STAR TREK MOVIES TO LIFE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>Interplay</publisher>
+		<players>1-2</players>
+		<hash>DD9708B9</hash>
+		<image>./images/Star Trek Starfleet Academy - Starship Bridge Simulator (USA).png</image>
+		<thumbnail>./boxart/Star Trek Starfleet Academy - Starship Bridge Simulator (USA).png</thumbnail>
+		<marquee>./marquee/Star Trek Starfleet Academy - Starship Bridge Simulator (USA).png</marquee>
+		<video>./snap/Star Trek Starfleet Academy - Starship Bridge Simulator (USA).mp4</video>
+	</game>
+	<game id="12667" source="ScreenScraper.fr">
+		<path>./Star Wars Arcade (USA).zip</path>
+		<name>Star Wars Arcade</name>
+		<desc>STAR WARS ARCADE IS A 3D SHOOT 'EM-UP SET IN EPISODES 4, 5, AND 6 OF THE STAR WARS SAGA.  YOU TAKE CONTROL OF EITHER AN X-WING OR Y-WING, AND ARE PUT RIGHT IN THE MIDDLE OF THE SPACE COMBAT.  IN SOME LEVELS, YOU HAVE TO SHOOT DOWN A SPECIFIC NUMBER OF TIE FIGHTERS BEFORE TIME RUNS OUT. IN OTHER LEVELS, YOUR GOAL IS TO SIMPLY TO MAKE IT TO THE END WITHOUT GETTING BLASTED OUT OF THE SKY.
+
+SOME OF THE MISSIONS TAKE PLACE IN DEEP SPACE, AROUND ASTEROIDS, OR NEAR STAR DESTROYERS.  OTHER MISSIONS TAKE PLACE ON THE SURFACE OF THE DEATH STAR AND RE-CREATE THE LUKE SKYWALKER'S FAMOUS TRENCH RUN TO DESTROY IT.</desc>
+		<rating>0.7</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>LucasArts</publisher>
+		<players>1-2</players>
+		<hash>2F16B44A</hash>
+		<image>./images/Star Wars Arcade (USA).png</image>
+		<thumbnail>./boxart/Star Wars Arcade (USA).png</thumbnail>
+		<marquee>./marquee/Star Wars Arcade (USA).png</marquee>
+		<video>./snap/Star Wars Arcade (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="12683" source="ScreenScraper.fr">
+		<path>./Tempo (Japan, USA).zip</path>
+		<name>Tempo</name>
+		<desc>TEMPO IS A GRASSHOPPER WHO LIVES ON PLANET RYTHMIA, THE WORLD OF MUSIC.  UNFORTUNATELY, THE MALEVOLENT KING DIRGE IS TRYING TO STEAL ALL THE RHYTHM FROM THE PLANET.  IT'S UNCLEAR AS TO HOW A CREATURE WITH NO APPRECIATION FOR MUSIC BECAME KING, BUT IT'S UP TO TEMPO TO STOP HIM!
+
+TEMPO'S GAME IS A SIDE SCROLLING PLATFORMER WITH 7 LEVELS.  IT'S A SINGLE PLAYER GAME, ALTHOUGH YOU CAN COLLECT "DANCE" POWER-UPS THAT ALLOW YOU TO CALL YOUR FRIEND, A BUTTERFLY, TO HELP YOU DEFEAT YOUR ENEMIES USING KILLER DANCE MOVES.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>14E5C575</hash>
+		<image>./images/Tempo (Japan, USA).png</image>
+		<thumbnail>./boxart/Tempo (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Tempo (Japan, USA).png</marquee>
+		<video>./snap/Tempo (Japan, USA).mp4</video>
+	</game>
+	<game id="12673" source="ScreenScraper.fr">
+		<path>./Amazing Spider-Man, The - Web of Fire (USA).zip</path>
+		<name>The Amazing Spider-Man : Web of Fire</name>
+		<desc>AN ELECTRIC PLASMA GRID HAS LEFT NEW YORK IN A STATE OF CHAOS, AND ONLY SPIDER-MAN AND DAREDEVIL CAN SAVE THE CITY FROM TOTAL DESTRUCTION.
+
+LEAD SPIDEY THROUGH SIDE-SCROLLING LEVELS FILLED WITH A RANGE OF ENEMIES AND PUZZLES AND TAKE ON HYDRA, THE SOURCE OF THE EVIL, HEAD ON.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>BlueSky Software</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>29DCE257</hash>
+		<image>./images/Amazing Spider-Man, The - Web of Fire (USA).png</image>
+		<thumbnail>./boxart/Amazing Spider-Man, The - Web of Fire (USA).png</thumbnail>
+		<marquee>./marquee/Amazing Spider-Man, The - Web of Fire (USA).png</marquee>
+		<video>./snap/Amazing Spider-Man, The - Web of Fire (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="12696" source="ScreenScraper.fr">
+		<path>./T-Mek (USA, Europe).zip</path>
+		<name>T-Mek</name>
+		<desc>T-MEK IS ESSENTIALLY AN UPDATED BATTLEZONE. YOU ARE A WARRIOR BATTLING IN THE T-MEK COMPETITION, A HUGELY POPULAR EVENT IN THE FUTURE. YOU CONTROL A HOVERCRAFT AND TRY TO BLOW UP EVERYONE ELSE.
+
+THE ACTION IS VIEWED FROM YOUR PERSPECTIVE AS YOU TRAVEL AROUND THE ARENA. YOU ALSO HAVE AN OVERALL VIEW OF WHERE YOUR OPPONENTS ARE. TERRAIN SURFACES AND CHARACTERISTICS VARY IN EACH BATTLE. IN MOST LEVELS YOU NEED TO REACH A CERTAIN SCORE TO PROGRESS, HOWEVER THERE ARE OUT-AND-OUT ONE-OFF DEATHMATCH DUELS TO DEAL WITH PERIODICALLY.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Bits Studios</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<players>1-2</players>
+		<hash>66D2C48F</hash>
+		<image>./images/T-Mek (USA, Europe).png</image>
+		<thumbnail>./boxart/T-Mek (USA, Europe).png</thumbnail>
+		<marquee>./marquee/T-Mek (USA, Europe).png</marquee>
+		<video>./snap/T-Mek (USA, Europe).mp4</video>
+	</game>
+	<game id="12699" source="ScreenScraper.fr">
+		<path>./Toughman Contest (USA, Europe).zip</path>
+		<name>Toughman Contest</name>
+		<desc>TOUGHMAN CONTEST IS A GAME BASED ON THE WORLD FAMOUS BOXING COMPETITION OF THE SAME NAME.  YOU PICK ONE OF 24 FIGHTERS, COMPETE IN ONE OF 5 LOCATIONS FROM AROUND THE WORLD, AND RE-CREATE THE TOUGHMAN TOURNAMENT AS SEEN ON TV.  
+
+THE BOXING ACTION IS VIEWED FROM BEHIND THE BACK OF FIGHTER YOU CONTROL.  YOUR FIGHTER IS RENDERED AS AN OUTLINE, SO YOU CAN SEE WHAT YOUR OPPONENT IS UP TO AND REACT ACCORDINGLY.  TOUGHMAN MATCHES CONSIST OF THREE ONE MINUTE ROUNDS.  YOUR GOAL IS TO KO YOUR OPPONENT BY CAUSING THEIR STAMINA METER TO DECREASE TO THE POINT WHERE THEY FALL DOWN, OR BEATING ON THEM ENOUGH THAT YOU ARE SCORED THE WINNER AT END OF THE THIRD ROUND.</desc>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>1-8</players>
+		<hash>14EAC7A6</hash>
+		<image>./images/Toughman Contest (USA, Europe).png</image>
+		<thumbnail>./boxart/Toughman Contest (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Toughman Contest (USA, Europe).png</marquee>
+		<video>./snap/Toughman Contest (USA, Europe).mp4</video>
+	</game>
+	<game id="12671" source="ScreenScraper.fr">
+		<path>./Virtua Fighter (Japan, USA).zip</path>
+		<name>Virtua Fighter</name>
+		<desc>VIRTUA FIGHTER WAS THE FIRST OF IT'S KIND:  A ONE-ON-ONE FIGHTING GAME FEATURING FULLY 3D ENVIRONMENTS AND CHARACTERS. THE FIGHTERS AND ARENAS ARE RENDERED IN FLAT-SHADED POLYGONS. UNLIKE MANY FIGHTING GAMES, VIRTUA FIGHTER FOCUSES ON DEEP GAMEPLAY BASED ON ACTUAL FIGHTING STYLES, RATHER THAN OUTRAGEOUS SPECIAL MOVES AND STORY LINES.
+
+THERE ARE 8 FIGHTERS TO CHOOSE FROM IN VIRTUA FIGHTER, AND AN EQUAL NUMBER OF FIGHTING BACKDROPS IN WHICH TO COMPETE. EACH FIGHTER HAS A DISTINCTIVE FIGHTING STYLE, AND THEIR OWN SET OF SIGNATURE MOVES.</desc>
+		<rating>0.7</rating>
+		<releasedate>19951020T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>B5DE9626</hash>
+		<image>./images/Virtua Fighter (Japan, USA).png</image>
+		<thumbnail>./boxart/Virtua Fighter (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Virtua Fighter (Japan, USA).png</marquee>
+		<video>./snap/Virtua Fighter (Japan, USA).mp4</video>
+	</game>
+	<game id="12686" source="ScreenScraper.fr">
+		<path>./Virtua Racing Deluxe (USA).zip</path>
+		<name>Virtua Racing Deluxe</name>
+		<desc>VIRTUA RACING DELUXE IS AN ENHANCED ARCADE-TO-CONSOLE CONVERSION OF SEGA'S 3D RACING GAME. THIS GAME IS PRIMARILY AN ARCADE-STYLE AFFAIR; PLAYERS COMPETE IN A 5 LAP RACE WITH TIMED CHECKPOINTS. IT'S ALSO POSSIBLE TO PLAY WITH 2 PLAYERS IN A SPLIT-SCREEN MODE.
+
+THE 32X VERSION OF VIRTUA RACING ADDS A COUPLE OF NEW FEATURES. THERE ARE NOW 3 DIFFERENT TYPES OF CARS TO DRIVE, INCLUDING A STOCK CAR AND A PROTOTYPE RACER. FURTHERMORE, THERE ARE TWO ALL-NEW TRACKS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>7896B62E</hash>
+		<image>./images/Virtua Racing Deluxe (USA).png</image>
+		<thumbnail>./boxart/Virtua Racing Deluxe (USA).png</thumbnail>
+		<marquee>./marquee/Virtua Racing Deluxe (USA).png</marquee>
+		<video>./snap/Virtua Racing Deluxe (USA).mp4</video>
+	</game>
+	<game id="12701" source="ScreenScraper.fr">
+		<path>./World Series Baseball Starring Deion Sanders (USA).zip</path>
+		<name>World Series Baseball Starring Deion Sanders</name>
+		<desc>THIS GAME IS THE 32X ENTRY IN SEGA'S POPULAR AND LONG-RUNNING WORLD SERIES BASEBALL LINE.  IT FEATURES A FULL MLBPA LICENSE, WHICH ALLOWS IT TO HAVE ALL 28 TEAMS AND 700 REAL-LIFE PLAYERS. 
+
+THERE ARE 3 MAIN GAME MODES: EXHIBITION, FULL SEASON, AND PLAYOFF.  EXHIBITION IS USEFULL FOR A QUICK GAME BETWEEN ANY TWO TEAMS OF YOUR CHOOSING.  FULL SEASON ALLOWS YOU TO PLAY AN ENTIRE MAJOR LEAGUE BASEBALL SEASON.  AND FINALLY THE PLAYOFF MODE ALLOWS YOU TO PLAY THE GAMES LEADING UP TO THE WORLD SERIES.  ALSO INCLUDED ARE TWO DIFFERENT HOME RUN DERBY MODES, AND A FULL DRAFT AND TRADE FOR CREATING YOUR TEAM.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Blue Sky Software</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>6DE1BC75</hash>
+		<image>./images/World Series Baseball Starring Deion Sanders (USA).png</image>
+		<thumbnail>./boxart/World Series Baseball Starring Deion Sanders (USA).png</thumbnail>
+		<marquee>./marquee/World Series Baseball Starring Deion Sanders (USA).png</marquee>
+		<video>./snap/World Series Baseball Starring Deion Sanders (USA).mp4</video>
+	</game>
+	<game id="12681" source="ScreenScraper.fr">
+		<path>./WWF Raw (World).zip</path>
+		<name>WWF Raw</name>
+		<desc>WWF RAW IS A PROFESSIONAL WRESTLING GAME FEATURING 10 SUPERSTARS FROM THE WORLD WRESTLING FEDERATION.  THE WRESTLERS YOU CAN CHOOSE FROM INCLUDE BRET "HIT MAN" HART, BAM BAM BIGELOW, 1-2-3 KID, DIESEL, DOINK, LEX LUGER, LUNA VACHON, OWEN HART, RAZOR RAMON, SHAWN MICHAELS, UNDERTAKER, AND YOKOZUNA.
+
+IN THIS GAME, YOU ATTEMPT TO PIN YOUR OPPONENT TO THE MAT BY REDUCING HIS POWER METER UNTIL HE CAN FIGHT NO MORE.  THERE IS A LARGE NUMBER OF MOVES TO PERFORM, INCLUDING TURNBUCKLE MANEUVERS AND "ILLEGAL" ACTS SUCH AS HITTING YOUR OPPONENT WITH A METAL FOLDING CHAIR.
+
+THIS GAME SUPPORTS UP TO 4 SIMULTANEOUS PLAYERS, AND HAS THE FOLLOWING GAME MODES: ONE-ON-ONE, TAG TEAM, BEDLAM, SURVIVOR SERIES, ROYAL RUMBLE, RAW ENDURANCE MATCH, AND REMATCH.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950131T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-4</players>
+		<hash>8EB7CD2C</hash>
+		<image>./images/WWF Raw (World).png</image>
+		<thumbnail>./boxart/WWF Raw (World).png</thumbnail>
+		<marquee>./marquee/WWF Raw (World).png</marquee>
+		<video>./snap/WWF Raw (World).mp4</video>
+	</game>
+	<game id="12687" source="ScreenScraper.fr">
+		<path>./WWF WrestleMania - The Arcade Game (USA).zip</path>
+		<name>WWF WrestleMania : The Arcade Game</name>
+		<desc>WWF WRESTLEMANIA: THE ARCADE GAME MERGES THE PERSONALITIES AND ACTION OF THE POPULAR WWF TV SHOW CHARACTERS WITH A MORTAL KOMBAT-STYLE FIGHTING GAME. THIS TITLE FEATURES DIGITIZED GRAPHICS OF 8 WWF SUPERSTARS: DOINK, RAZOR RAMON, BRET "HIT MAN" HART, SHAWN MICHAELS, THE UNDERTAKER, YOKOZUNA, BAM BAM BIGELOW, AND LEX LUGER.
+
+ALTHOUGH IT IS A WRESTLING TITLE, THIS GAME IS STRUCTURED A LOT LIKE A ONE-ON-ONE FIGHTER. IT IS VERY FAST-PACED, AND FEATURES CRAZY SPECIAL MOVES. ALSO, EACH MATCH IS DIVIDED INTO A SERIES OF ROUNDS, MUCH LIKE A FIGHTING GAME. INSTEAD OF EACH ROUND ENDING IN A KO, EACH ROUND SIMPLY ENDS WHEN YOU FORCE THE OTHER WRESTLER(S) TO FALL BY REDUCING THEIR ENERGY METER. GAME MODES INCLUDE SINGLE PLAYER ARCADE MODE, TOURNAMENT MODE, AND VS MODE FOR 1-ON-1 MULTIPLAYER.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-2</players>
+		<hash>61833503</hash>
+		<image>./images/WWF WrestleMania - The Arcade Game (USA).png</image>
+		<thumbnail>./boxart/WWF WrestleMania - The Arcade Game (USA).png</thumbnail>
+		<marquee>./marquee/WWF WrestleMania - The Arcade Game (USA).png</marquee>
+		<video>./snap/WWF WrestleMania - The Arcade Game (USA).mp4</video>
+	</game>
+	<game id="12685" source="ScreenScraper.fr">
+		<path>./Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).zip</path>
+		<name>Zaxxon's Motherbase 2000</name>
+		<desc>THIS 32X-EXCLUSIVE SCI-FI SHOOTER HAS GAMEPLAY IS SOMEWHAT LIKE SEGA ARCADE CLASSIC ZAXXON. THE GRAPHICS CONSIST OF A DIAGONALLY SCROLLING PLAYFIELD WHICH CREATES A PSEUDO 3D ENVIRONMENT.  THE BACKGROUNDS ARE DRAWN USING 2D SCROLLING PLANES, BUT THE ENEMY AND SHIP OBJECTS ARE DRAWN USING 3D FLAT-SHADED POLYGONS.
+
+ALTHOUGH THE BASIC GOAL OF EACH OF THE 9 LEVELS IS TO SHOOT EVERYTHING WITHOUT GETTING SHOT, THE GAME HAS A STRATEGIC ELEMENT.  YOUR BASIC SPACECRAFT HAS VERY LITTLE FIREPOWER, AND CAN ONLY SUSTAIN ONE HIT.  TO MAKE MATTERS WORSE, THERE ARE VERY FEW POWER-UPS.  IN ORDER TO SURVIVE, YOU HAVE TO JUMP ON TOP OF ENEMIES AND TAKE CONTROL OF THEIR WEAPONS SYSTEMS.  THIS SYSTEM ALLOWS FOR A LARGE VARIETY OF PLAYER-CONTROLLABLE SHIPS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>CSK Research Institute Corp.</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>447D44BE</hash>
+		<image>./images/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</image>
+		<thumbnail>./boxart/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</marquee>
+		<video>./snap/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
+	</game>
+	<game>
+		<path>./BC Racers (USA).zip</path>
+		<name>BC Racers</name>
+		<desc>BC RACERS IS A KART RACING GAME STARRING CHARACTERS FROM THE CORE DESIGN'S CHUCK ROCK SERIES OF GAMES.
+
+EACH OF THE RACERS IN THIS GAME RIDES A PREHISTORIC MOTORCYCLE WITH A SIDE CAR. ON EACH TWO-CHARACTER TEAM, ONE PERSON DRIVES THE MOTORCYCLE, AND THE OTHER FIGHTS OFF OPPONENTS USING CLUBS, PUNCHES, KICKS, ETC.
+
+GRAPHICS IN BC RACERS CONSIST OF A FLAT LANDSCAPE DECORATED WITH SCALED SPRITES TO COMPOSE THE TRACK AND SCENERY.</desc>
+		<image>./images/BC Racers (USA).png</image>
+		<video>./snap/BC Racers (USA).mp4</video>
+		<marquee>./marquee/BC Racers (USA).png</marquee>
+		<thumbnail>./boxart/BC Racers (USA).png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190304T031258</lastplayed>
+	</game>
+</gameList>

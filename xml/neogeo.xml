@@ -1,0 +1,2416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="37561" source="ScreenScraper.fr">
+		<path>./2020bb.zip</path>
+		<name>2020 Super Baseball</name>
+		<desc>NO ANO 2020, O BASEBALL FINALMENTE EVOLUIU. NÃO HÁ MAIS BASEBALL PROFISSIONAL CONVENCIONAL EM 2020. O BASEBALL PROJETADO PELA SUPER BASEBALL ASSOCIATION FOI MUITO POPULAR E É O MELHOR ESPORTE.
+
+NO ENTANTO, A VERDADE É QUE A ASSOCIAÇÃO USOU UMA SOMA COLOSSAL DE DINHEIRO PARA PROMOVER O SUPER BASEBALL COMO SHOW BUSINESS. ELES MANIPULARAM A HABILIDADE DE CADA JOGADOR USANDO O COMPUTADOR DE CONTROLE PARA DECIDIR SECRETAMENTE A VITÓRIA OU A DERROTA EM CADA JOGO. OS JOGADORES QUE CONHECIAM ISSO REMOVERAM AS PARTES DE CONEXÃO DO COMPUTADOR PARA JOGAR SEU PRÓPRIO JOGO DE BASEBALL. FINALMENTE, UM JOGO JUSTO SERÁ JOGADO NO CYBER EGG STADIUM.
+
+EM 2020, O SUPER BASEBALL É UM JOGO ACELERADO COM NOVAS REGRAS, ONDE VOCÊ PODE SELECIONAR 1 DE 12 HOMENS, MULHERES OU JOGADORES DE ROBÔS. DURANTE O JOGO, VOCÊ PODE FORTALECER SUA EQUIPE COM OS PRÊMIOS OBTIDOS DE CAPTURAS SURPREENDENTES.</desc>
+		<rating>0.6</rating>
+		<releasedate>19911025T000000</releasedate>
+		<developer>Pallas</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0E310C43</hash>
+		<image>./images/2020bb.png</image>
+		<thumbnail>./boxart/2020bb.png</thumbnail>
+		<marquee>./marquee/2020bb.png</marquee>
+		<video>./snap/2020bb.mp4</video>
+	</game>
+	<game id="37641" source="ScreenScraper.fr">
+		<path>./sonicwi2.zip</path>
+		<name>Aero Fighters 2</name>
+		<desc>AERO FIGHTERS 2 É UM SHOOTER DE ROLAGEM VERTICAL NA MESMA LINHA DE 1942 E JOGOS SIMILARES. SUPORTA ATÉ DOIS JOGADORES E TEM 8 AERONAVES DIFERENTES PARA ESCOLHER, CADA UMA EQUIPADA COM ARMAS PRIMÁRIAS E SECUNDÁRIAS EXCLUSIVAS. OS POWER-UPS MELHORAM O VISUAL, A POTÊNCIA, O TAMANHO E A FORMA DOS DISPAROS. BOMBAS ATIVAM UM PODER ESPECIAL QUE GERALMENTE APAGA OS INIMIGOS NA TELA. O JOGO TEM UM TOTAL DE 10 ETAPAS (JAPÃO, BRASIL, ATLÂNTICO, EUA, FRANÇA, AUSTRÁLIA, HIMALAIA, MÉXICO, HAVAÍ E ESPAÇO), TODAS COM UMA BATALHA FINAL CONTRA CHEFÕES.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940826T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>077B9FC1</hash>
+		<image>./images/sonicwi2.png</image>
+		<thumbnail>./boxart/sonicwi2.png</thumbnail>
+		<marquee>./marquee/sonicwi2.png</marquee>
+		<video>./snap/sonicwi2.mp4</video>
+	</game>
+	<game id="37642" source="ScreenScraper.fr">
+		<path>./sonicwi3.zip</path>
+		<name>Aero Fighters 3</name>
+		<desc>AERO FIGHTERS 3 É UM SHOOTER DE ROLAGEM VERTICAL NA MESMA LINHA DE 1942 E JOGOS SIMILARES. ELE SUPORTA ATÉ DOIS JOGADORES E TEM 10 AERONAVES DIFERENTES PARA ESCOLHER, CADA UMA EQUIPADA COM ARMAS PRIMÁRIAS E SECUNDÁRIAS EXCLUSIVAS. OS POWER-UPS MELHORAM O VISUAL, A POTÊNCIA, O TAMANHO E A FORMA DOS DISPAROS. BOMBAS ATIVAM UM PODER ESPECIAL QUE GERALMENTE APAGA OS INIMIGOS NA TELA. O JOGO TEM UM TOTAL DE 8 PALCOS COLOCADOS EM VÁRIOS PAÍSES (JAPÃO, ALEMANHA, LÍBIA, EGITO, PACÍFICO, EUA, INGLATERRA, FRANÇA, PANAMÁ, TAILÂNDIA, UCRÂNIA, ATLÂNTICO E ESPAÇO), TODOS ELES COM UMA BATALHA FINAL CONTRA UM CHEFE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951117T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D34F4041</hash>
+		<image>./images/sonicwi3.png</image>
+		<thumbnail>./boxart/sonicwi3.png</thumbnail>
+		<marquee>./marquee/sonicwi3.png</marquee>
+		<video>./snap/sonicwi3.mp4</video>
+	</game>
+	<game id="13927" source="ScreenScraper.fr">
+		<path>./androdun.zip</path>
+		<name>Andro Dunos</name>
+		<desc>A INVASÃO DE UMA FONTE DE VIDA DESCONHECIDA ESTÁ PIORANDO. NINGUÉM SABE SE A LINHA DEFENSIVA OU O CORAÇÃO DA BASE INIMIGA ESTÁ ARRUINADA. COM A ESPERANÇA DO POVO, O CAÇA MAIS AVANÇADO SERÁ ENVIADO PARA O ESPAÇO.NNLUTE EM SETE ETAPAS NESTE JOGO DE ROLAGEM HORIZONTAL E DERROTE UM CHEFE NO FINAL DE CADA UMA. VOCÊ COMEÇA O JOGO COM QUATRO ARMAS PRINCIPAIS, DAS QUAIS VOCÊ PODE TROCAR COM O CLIQUE DE UM BOTÃO.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920717T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>91664CA6</hash>
+		<image>./images/androdun.png</image>
+		<thumbnail>./boxart/androdun.png</thumbnail>
+		<marquee>./marquee/androdun.png</marquee>
+		<video>./snap/androdun.mp4</video>
+	</game>
+	<game id="37563" source="ScreenScraper.fr">
+		<path>./alpham2.zip</path>
+		<name>ASO II : Last Guardian</name>
+		<desc>O PESADELO LUNAR DA SANGRENTA GUERRA ESPACIAL DE 200 ANOS PENSAVA-SE TER ACABADO NO ALPHA MISSION "ORIGINAL". MAS AGORA, COM O ADVENTO DE ARMAS TECNICAMENTE MAIS SOFISTICADAS, O MALVADO "FULVAR" E SUA "ALIANÇA SETE ESTRELAS" VOLTARAM A DESTRUIR TODOS OS PLANETAS QUE ESTÃO NO CAMINHO DO ALVO FINAL ... TERRA! AGORA NO ANO DE 2525! SUA MISSÃO COMO PILOTO DO NOVO CAÇA SYD-FX É USAR TODAS AS ARMAS À SUA DISPOSIÇÃO PARA LIVRAR A GALÁXIA DE UMA VEZ POR TODAS DO MAL QUE AGORA DOMINA E AMEAÇA A TERRA. PORTANTO, PREPARE-SE, PRENDA A RESPIRAÇÃO E PREPARE-SE PARA GRÁFICOS INACREDITÁVEIS E SOM ESTÉREO QUE O LEVARÃO PARA O PROFUNDO, ESCURO ESPAÇO INTERIOR. ESTEJA PREPARADO ... VOCÊ PODE NUNCA MAIS VOLTAR!</desc>
+		<rating>0.65</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>E922C074</hash>
+		<image>./images/alpham2.png</image>
+		<thumbnail>./boxart/alpham2.png</thumbnail>
+		<marquee>./marquee/alpham2.png</marquee>
+		<video>./snap/alpham2.mp4</video>
+	</game>
+	<game id="108950" source="ScreenScraper.fr">
+		<path>./bakatono.zip</path>
+		<name>Bakatonosama Mahjong Manyuuki</name>
+		<desc>BAKATONOSAMA MAHJONG MANYUKI É UM JOGO DE MAHJONG PARA NEO-GEO. FOI DESENVOLVIDO PELA EMPRESA MONOLITH EM 1991 E DISTRIBUÍDO PELA SNK</desc>
+		<rating>0.25</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Monolith</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>279AFBB0</hash>
+		<image>./images/bakatono.png</image>
+		<thumbnail>./boxart/bakatono.png</thumbnail>
+		<marquee>./marquee/bakatono.png</marquee>
+		<video>./snap/bakatono.mp4</video>
+	</game>
+	<game id="37600" source="ScreenScraper.fr">
+		<path>./lastbld2.zip</path>
+		<name>Bakumatsu Roman Dai Ni Maku: Gekka no Kenshi</name>
+		<desc>KAEDE CONSEGUE FINALMENTE DERROTAR SHINNOSUKE, PORÉM OS PORTÕES DO INFERNO NÃO SE FECHAM. SEIS MESES DEPOIS, OKINA AVISA QUE É NECESSARIO ENCONTRAR UMA MOÇA QUE TENHA O PODER DE SELAR O MAL. KAEDE E YUKI PARTEM VIAGEM À PROCURA DESTA ATÉ QUE, EVENTUALMENTE, AMBOS DESCOBREM QUE A PRÓPRIA MOÇA CAPAZ DESTA TAREFA SERIA YUKI. COM ISSO, KAEDE SE ENTRISTECE POR TER QUE DEIXAR YUKI CORRER PERIGO E PELO FATO DE TER QUE LUTAR CONTRA O SEU PRÓPRIO PAI, KOURYU.NNNNTHE LAST BLADE 2 É UM JOGO ELETRÔNICO DE LUTA DESENVOLVIDO PELA SNK PARA ARCADES EM 1998, AMBIENTADO NO PERÍODO DA HISTÓRIA DO JAPÃO CONHECIDO COMO BAKUMATSU, SERVINDO COMO SEQUÊNCIA DIRETA PARA O JOGO THE LAST BLADE.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990128T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>25B214BD</hash>
+		<image>./images/lastbld2.png</image>
+		<thumbnail>./boxart/lastbld2.png</thumbnail>
+		<marquee>./marquee/lastbld2.png</marquee>
+		<video>./snap/lastbld2.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37599" source="ScreenScraper.fr">
+		<path>./lastblad.zip</path>
+		<name>Bakumatsu Roman: Gekka no Kenshi</name>
+		<desc>DURANTE O PERÍODO DA HISTÓRIA JAPONESA CONHECIDO COMO BAKUMATSU, SHINNOSUKE KAGAMI, CANSADO DE NÃO VER NENHUM OPONENTE A SUA ALTURA, DECIDE ABRIR O PORTÃO DO INFERNO PARA QUE ELE PUDESSE TER O SUBLIME PODER SOBRE A TERRA. PORÉM A HISTORIA COMEÇA ANTES DISSO.NNNNKAEDE ERA UM JOVEM FELIZ QUE VIVIA A TREINAR COM SEU MESTRE E PAI ADOTIVO GAISEI E SEUS DOIS IRMÃOS ADOTIVOS: MINAKATA MORIYA E YUKI. CERTA TARDE KAEDE E YUKI DECIDEM TREINAR, AO VOLTAR ENCONTRAM SEU MESTRE MORTO AO CHÃO COM MORIYA AO LADO SEM DIZER NADA, LOGO KAEDE PARTE PARA CIMA DE MORIYA E LHE DESFERE UM SOCO NO ROSTO, POREM MORIYA SE LEVANTAVA E SAI DE LÁ SEM DIZER NADA. ANOS DEPOIS, KAEDE (AGORA COM SEUS 17 ANOS) E YUKI (COM SEUS 18 ANOS), PARTEM EM BUSCA DE RESPOSTAS ACERCA DO ASSASSINATO DE SEU MESTRE. EM SUA JORNADA KAEDE DESCOBRE QUE É A REENCARNAÇÃO DO DEUS SEIRYU, O DRAGÃO AZUL DO TROVÃO. JUNTAMENTE COM AS OUTRAS REENCARNAÇÕES DE DEUSES: GENBU NO OKINA, QUE REPRESENTA GENBU A TARTARUGA NEGRA DA TERRA, NAOE SHIGEN, QUE REPRESENTA BYAKKU O TIGRE BRANCO DO VENTO, E SHINNOSUKE KAGAMI, QUE REPRESENTAVA A SUZAKU A FÊNIX VERMELHA DO FOGO.NNNNYUKI E KAEDE DESCOBREM QUE O VERDADEIRO ASSASSINO DE SEU MESTRE ERA KAGAMI E NÃO MORIYA. APÓS ENFRENTAR E DERROTAR O DEMÔNIO DAS ESPADAS AKATSUKI MUSASHI, QUE HAVIA CHEGADO À TERRA ATRAVÉS DO PORTÃO ABERTO POR KAGAMI, KAEDE MANIFESTA SEU VERDADEIRO PODER E A FORÇA DE SEIRYU NO CONFRONTO CONTRA KAGAMI. KAEDE DERROTA KAGAMI, PORÉM O PORTÃO DO INFERNO PERMANECE ABERTO.NNNNTHE LAST BLADE É UM JOGO ELETRÔNICO DE LUTA EM 2D, LANÇADO PELA DESENVOLVEDORA DE JOGOS ELETRÔNICOS JAPONESA SNK EM 1997.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980129T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>EB0CA641</hash>
+		<image>./images/lastblad.png</image>
+		<thumbnail>./boxart/lastblad.png</thumbnail>
+		<marquee>./marquee/lastblad.png</marquee>
+		<video>./snap/lastblad.mp4</video>
+	</game>
+	<game id="87605" source="ScreenScraper.fr">
+		<path>./b2b.zip</path>
+		<name>Bang Bang Busters</name>
+		<desc>DEPOIS DE ESCOLHER O SEU PERSONAGEM FAVORITO (LAZY OU REFIA), VOCÊ CHEGA PARA UMA ATRAÇÃO CINEMÁTICA COM NOSSOS HERÓIS EM SUA NAVE ESPACIAL, POUSANDO NO PLANETA PALUA. SETE ZONAS AGUARDAM JOGADORES, DIVIDIDAS EM VÁRIOS NÍVEIS. GELO, FLORESTAS VERDES, IMPONENTES CACHOEIRAS, CASTELOS, MONTANHAS DO MAL, PIRÂMIDES EGÍPCIAS ... QUE MUNDO! COM TANTA DIVERSIDADE, NÃO HÁ NECESSIDADE DE DIZER QUE OS CENÁRIOS SÃO VARIADOS E OS GRÁFICOS EXÓTICOS!</desc>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Neo Conception International</publisher>
+		<players>1-2</players>
+		<hash>027CFE3A</hash>
+		<image>./images/b2b.png</image>
+		<thumbnail>./boxart/b2b.png</thumbnail>
+		<marquee>./marquee/b2b.png</marquee>
+		<video>./snap/b2b.mp4</video>
+	</game>
+	<game id="37568" source="ScreenScraper.fr">
+		<path>./bangbead.zip</path>
+		<name>Bang Bead</name>
+		<desc>BANG BEAD, CONHECIDO NO JAPÃO COMO BANG BEADS, É UM JOGO DE REBATER A BOLA DE 2001 DESENVOLVIDO E PUBLICADO PELA VISCO EXCLUSIVAMENTE PARA O NEO-GEO MVS. ELE COMBINA OS GÊNEROS DO JOGOS DE TÊNIS DO MAGNAVOX ODYSSEY, DOS JOGOS DE FLIPERAMA DA ATARI PONG E BREAKOUT, E DA SÉRIE SPITBALL SPARKY, DO NINTENDO GAME &amp; WATCH. VOCÊ PODE SELECIONAR ENTRE 9 PERSONAGENS PARA JOGAR CONTRA OUTRO JOGADOR OU O COMPUTADOR. DERRUBE AS ESTRELAS ATRÁS DO OUTRO JOGADOR E ENTÃO FAÇA A BOLA SALTAR PARA GANHAR O ROUND.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<players>1-2</players>
+		<hash>B1BCEDEF</hash>
+		<image>./images/bangbead.png</image>
+		<thumbnail>./boxart/bangbead.png</thumbnail>
+		<marquee>./marquee/bangbead.png</marquee>
+		<video>./snap/bangbead.mp4</video>
+	</game>
+	<game id="13951" source="ScreenScraper.fr">
+		<path>./bstars2.zip</path>
+		<name>Baseball Stars 2</name>
+		<desc>ESTA CONTINUAÇÃO DE BASEBALL STARS PROFESSIONAL APRESENTA UM RÁPIDO BEISEBOL ESTILO ARCADE COM SEIS EQUIPES FICTÍCIAS, CADA UMA COM SUAS PRÓPRIAS FORÇAS E FRAQUEZAS. EXISTEM DUAS DIFICULDADES DE JOGO: BEGINNER, QUE AUTOMATICAMENTE COLOCA A BOLA PARA O JOGADOR ENQUANTO EXCITING FAZ O JOGADOR FAZER O CAMPO MANUALMENTE. ALÉM DISSO, EXISTEM DOIS MODOS PRINCIPAIS DE JOGO EM QUE, NO MODO SINGLE PLAYER, O JOGADOR COMPETIRÁ EM UM TORNEIO DE QUINZE EQUIPES OU ENFRENTARÁ UM AMIGO NO MODO MULTIPLAYER.
+
+AS REGRAS PADRÃO DO BEISEBOL AINDA SE APLICAM, MAS ADICIONA-SE POWER-UPS QUE O JOGADOR PODE PEGAR E USAR DURANTE O JOGO, COMO A HABILIDADE DE SEU ARREMESSADOR JOGAR MAIS RÁPIDO OU SEU BATEDOR BATER MELHOR. ELES TAMBÉM PODEM SUBSTITUIR UM JOGADOR DURANTE O JOGO, MAS SÃO LIMITADOS A TRÊS SUBSTITUIÇÕES POR JOGO. O JOGO É MOSTRADO ATRAVÉS DE GRÁFICOS 2D COM CENAS EM ESTILO HQ PARA ILUSTRAR A AÇÃO, COMO CAPTURAS DRAMÁTICAS E HOME RUNS QUE APARECERÃO DURANTE O JOGO.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920428T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0CF97483</hash>
+		<image>./images/bstars2.png</image>
+		<thumbnail>./boxart/bstars2.png</thumbnail>
+		<marquee>./marquee/bstars2.png</marquee>
+		<video>./snap/bstars2.mp4</video>
+	</game>
+	<game id="37571" source="ScreenScraper.fr">
+		<path>./bstars.zip</path>
+		<name>Baseball Stars Professional</name>
+		<desc>BASEBALL STARS PROFESSIONAL É O SUCESSOR DO BASEBALL STARS PARA O NINTENDO ENTERTAINMENT SYSTEM E APRESENTA GRÁFICOS EM ESTILO HQ. ESCOLHA ENTRE UMA VARIEDADE DE EQUIPES QUE INCLUEM PLANETAS CELESTES, CORPOS CELESTES, DEMÔNIOS DAS SOMBRAS, CAVALEIROS DE BATALHA, SUPERSTARS FABULOSOS E MUITOS OUTROS. EM SEGUIDA, SELECIONE O CAMPO ONDE O JOGO SERÁ REALIZADO: O ESTÁDIO SNK OU A CÚPULA SNK. CADA CAMPO TEM AS MESMAS DIMENSÕES, MAS SUA CAPACIDADE VARIA. O JOGO É JOGADO DA MESMA MANEIRA QUE O BEISEBOL NORMAL. APRESENTA UM MODO VS. EM QUE DOIS JOGADORES PODEM JOGAR UM CONTRA O OUTRO.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>1CA96C10</hash>
+		<image>./images/bstars.png</image>
+		<thumbnail>./boxart/bstars.png</thumbnail>
+		<marquee>./marquee/bstars.png</marquee>
+		<video>./snap/bstars.mp4</video>
+	</game>
+	<game id="13917" source="ScreenScraper.fr">
+		<path>./flipshot.zip</path>
+		<name>Battle Flip Shot</name>
+		<desc>BATTLE FLIP SHOT É UM JOGO ARCADE QUE MISTURA ELEMENTOS DE PONG COM O DESIGN DE PERSONAGENS JAPONESES.</desc>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A6FF995B</hash>
+		<image>./images/flipshot.png</image>
+		<thumbnail>./boxart/flipshot.png</thumbnail>
+		<marquee>./marquee/flipshot.png</marquee>
+		<video>./snap/flipshot.mp4</video>
+	</game>
+	<game id="37651" source="ScreenScraper.fr">
+		<path>./turfmast.zip</path>
+		<name>Big Tournament Golf</name>
+		<desc>NEO TURF MASTERS É UM JOGO DE GOLFE QUE OFERECE JOGOS EM TRÊS PAÍSES DIFERENTES. VOCÊ PODE JOGAR NOS EUA, NA ALEMANHA E NO JAPÃO. HÁ 18 BURACOS POR CURSO, ASSIM COMO NA VIDA REAL, QUE TOTALIZA 54 BURACOS. O JOGO APRESENTA UM MODO VERSUS PARA DOIS JOGADORES E TRÊS MODOS PARA UM JOGADOR. VOCÊ PODE ESCOLHER ENTRE SEIS PERSONAGENS DIFERENTES, CADA UM COM SEUS PRÓPRIOS PONTOS FRACOS E FORTES. COMO MUITOS OUTROS JOGOS DE GOLFE, VOCÊ USA UM TIPO DE JOGO DE CLIQUE PRECISO, ONDE VOCÊ CLICA EM UM MAPA AÉREO NO QUAL DESEJA BATER NA BOLA E AJUSTA O TACO, O SLICE E A FORÇA. NO MODO VERSUS, VOCÊ PODE GANHAR "SUPER CLUBES" QUE SÓ PODEM SER USADOS UMA VEZ. ESTES TAMBÉM PODEM SER TROCADOS ENTRE AMIGOS.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960301T000000</releasedate>
+		<developer>Nazca Corporation</developer>
+		<publisher>Nazca Corporation</publisher>
+		<players>1-2</players>
+		<hash>80D60886</hash>
+		<image>./images/turfmast.png</image>
+		<thumbnail>./boxart/turfmast.png</thumbnail>
+		<marquee>./marquee/turfmast.png</marquee>
+		<video>./snap/turfmast.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13893" source="ScreenScraper.fr">
+		<path>./blazstar.zip</path>
+		<name>Blazing Star</name>
+		<desc>A SEQUÊNCIA NÃO OFICIAL DE PULSTAR, BLAZING STAR, É NOVAMENTE UM "SHOOT-'EM-UP" DE ROLAGEM HORIZONTAL. UM OU DOIS JOGADORES SEGUEM PELOS NÍVEIS, CADA UM COM UM CHEFE INIMIGO NO FINAL, TENTANDO RESGATAR A HUMANIDADE. HÁ SEIS NAVES PARA ESCOLHER, CADA UMA COM SEU PRÓPRIO PILOTO (QUATRO DELES MULHERES), ARMAS E CARACTERÍSTICAS DE MOVIMENTO. CADA NAVE TEM SEUS PRÓPRIOS TIPOS DE TIROS, MAS TAMBÉM UM TIRO PADRÃO, TIRO CARREGADO (MAIS PODEROSO) E TIRO DIVIDIDO (UM TIRO CARREGADO PODE SER DIVIDIDO EM MAIS BALAS, DIMINUINDO A POTÊNCIA DE CADA BALA ENQUANTO AMPLIA O ALCANCE DO FOGO).</desc>
+		<rating>0.8</rating>
+		<releasedate>19980219T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>FAE88049</hash>
+		<image>./images/blazstar.png</image>
+		<thumbnail>./boxart/blazstar.png</thumbnail>
+		<marquee>./marquee/blazstar.png</marquee>
+		<video>./snap/blazstar.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37570" source="ScreenScraper.fr">
+		<path>./breakrev.zip</path>
+		<name>Breakers Revenge</name>
+		<desc>OS GUERREIROS RETORNAM PARA UM NOVO CAMPEONATO. OS PERDEDORES DA BATALHA ANTERIOR PODEM SE VINGAR NESTA? NÃO APENAS ELES SE ENCONTRARÃO CARA A CARA NOVAMENTE, MAS NOVOS DESAFIOS OS AGUARDAM. NO ENTANTO, SEU OBJETIVO É O MESMO. TODO MUNDO QUER GANHAR O NOVO CAMPEONATO!</desc>
+		<rating>0.75</rating>
+		<releasedate>19980703T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>1BE1481F</hash>
+		<image>./images/breakrev.png</image>
+		<thumbnail>./boxart/breakrev.png</thumbnail>
+		<marquee>./marquee/breakrev.png</marquee>
+		<video>./snap/breakrev.mp4</video>
+	</game>
+	<game id="13877" source="ScreenScraper.fr">
+		<path>./breakers.zip</path>
+		<name>Breakers</name>
+		<desc>EM BREAKERS, ESCOLHA UM DOS OITO LUTADORES QUE TEM SEUS PRÓPRIOS MOVIMENTOS E ATAQUES ESPECIAIS. EXISTEM OITO ETAPAS NO JOGO E CADA ETAPA TEM DOIS ROUNDS. O OBJETIVO DE CADA ROUND É DRENAR A ENERGIA DO SEU OPONENTE PARA VENCER O ROUND. SE HOUVER EMPATE, UM TERCEIRO ROUND ACONTECE. SE O LIMITE DE TEMPO EXPIRAR, O JOGADOR COM MENOS ENERGIA PERDE O ROUND. DEPOIS DE COMPLETAR TODOS OS OITO ESTÁGIOS, VOCÊ ENFRENTARÁ UM ADVERSÁRIO MUITO MAIS DIFÍCIL DO QUE OS ANTERIORES. DIFERENTES FINAIS E DIÁLOGOS NO JOGO SÃO VISUALIZADOS DEPENDENDO DO PERSONAGEM QUE VOCÊ SELECIONAR.</desc>
+		<rating>0.7</rating>
+		<releasedate>19961217T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0978BE4E</hash>
+		<image>./images/breakers.png</image>
+		<thumbnail>./boxart/breakers.png</thumbnail>
+		<marquee>./marquee/breakers.png</marquee>
+		<video>./snap/breakers.mp4</video>
+	</game>
+	<game id="37572" source="ScreenScraper.fr">
+		<path>./burningf.zip</path>
+		<name>Burning Fight</name>
+		<desc>A FAMÍLIA CASTELLA DE METRO CITY COMEÇOU A ARRUINAR A PACATA CIDADE DE OSAKA COM O VIOLENTO GRUPO JAPONÊS "HEIWA-GUMI". PARA PARAR A LUTA, OS DETETIVES DA POLÍCIA DE METRO ENVIARAM DOIS PERSONAGENS PERIGOSOS, DUKE E BILLY, PARA O JAPÃO. COM O APOIO DO FAMOSO DETETIVE JAPONÊS RYU, ELES DECIDIRAM INVADIR A FORTALEZA DO INIMIGO. VIOLÊNCIA IMPIEDOSA NAS LUZES DE NEON DE OSAKA. HAVERÁ UM FIM PARA ESTA GUERRA?NNNNBURNING FIGHT É UM JOGO DE BRIGA DE RUA LATERAL SEMELHANTE A FINAL FIGHT. COMO DUKE, BILLY OU RYU, VOCÊ DEVE LUTAR EM VÁRIOS LOCAIS EM OSAKA. NO INÍCIO DO JOGO, VOCÊ SÓ PODE USAR SEUS PUNHOS PARA LIDAR COM GANGUES, MAS QUEBRANDO COISAS COMO CABINES TELEFÔNICAS E PLACAS DE RUA AO LONGO DO CAMINHO, VOCÊ PODE OBTER NOVAS ARMAS E MAIS SAÚDE. NO FINAL DE CADA LOCAL, VOCÊ TERÁ QUE DERROTAR UM CHEFE PARA CONTINUAR A MISSÃO.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910809T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>CA60B7E9</hash>
+		<image>./images/burningf.png</image>
+		<thumbnail>./boxart/burningf.png</thumbnail>
+		<marquee>./marquee/burningf.png</marquee>
+		<video>./snap/burningf.mp4</video>
+	</game>
+	<game id="37613" source="ScreenScraper.fr">
+		<path>./pbobbl2n.zip</path>
+		<name>Bust-A-Move Again EX</name>
+		<desc>BUB E BOB ESTÃO DE VOLTA! COMO EM TETRIS AO CONTRÁRIO, VOCÊ ATIRA BOLHAS EM UMA SÉRIE DE BOLHAS DE CORES DIFERENTES PRESAS EM UM TETO SEMPRE DESCENDO, TENTANDO COMBINÁ-LAS TRÊS POR TRÊS PARA FAZÊ-LAS DESAPARECER. ESTA EDIÇÃO CONTÉM DESAFIOS DE QUEBRA-CABEÇA, MULTIPLAYER E ESTÁGIOS PROGRESSIVOS NORMAIS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<players>1-2</players>
+		<hash>1950BF46</hash>
+		<image>./images/pbobbl2n.png</image>
+		<thumbnail>./boxart/pbobbl2n.png</thumbnail>
+		<marquee>./marquee/pbobbl2n.png</marquee>
+		<video>./snap/pbobbl2n.mp4</video>
+	</game>
+	<game id="37614" source="ScreenScraper.fr">
+		<path>./pbobblen.zip</path>
+		<name>Bust-a-Move</name>
+		<desc>PUZZLE BOBBLE (CONHECIDO COMO BUST-A-MOVE FORA DO JAPÃO) É UM SPIN-OFF DA SÉRIE BUBBLE BOBBLE, APRESENTANDO TEMAS DO JOGO ORIGINAL (COMO INIMIGOS PRESOS EM BOLHAS PELA ALEGRE DUPLA DE DINOSSAUROS BUB E BOB QUE DEVEM SER ESTOURADAS ). OS JOGADORES TENTAM LIMPAR UMA PLACA DE BOLHAS COLORIDAS, DISPARANDO OUTRAS BOLHAS EM UM ÂNGULO E COMBINANDO VÁRIAS BOLHAS DA MESMA COR. SUA ANIMAÇÃO E MÚSICA JAPONESAS CARACTERISTICAMENTE FOFAS, JUNTAMENTE COM SUA MECÂNICA DE JOGO E DESIGNS DE NÍVEIS, TORNARAM-SE UM SUCESSO COMO UM TÍTULO DE ARCADE E GERARAM VÁRIAS SEQUÊNCIAS E PORTS PARA OS CONSOLES DOMÉSTICOS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941221T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<players>1-2</players>
+		<hash>862D02D0</hash>
+		<image>./images/pbobblen.png</image>
+		<thumbnail>./boxart/pbobblen.png</thumbnail>
+		<marquee>./marquee/pbobblen.png</marquee>
+		<video>./snap/pbobblen.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13938" source="ScreenScraper.fr">
+		<path>./ctomaday.zip</path>
+		<name>Captain Tomaday</name>
+		<desc>UM SHOOTING DE ROLAGEM VERTICAL CÔMICO ESTRELADO POR UM TOMATE MUTANTE QUE SOCA O INIMIGO E PODE SE TRANSFORMAR EM OUTROS PERSONAGENS ESQUISITOS.</desc>
+		<rating>0</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>8566C521</hash>
+		<image>./images/ctomaday.png</image>
+		<thumbnail>./boxart/ctomaday.png</thumbnail>
+		<marquee>./marquee/ctomaday.png</marquee>
+		<video>./snap/ctomaday.mp4</video>
+	</game>
+	<game id="108951" source="ScreenScraper.fr">
+		<path>./marukodq.zip</path>
+		<name>Chibi Marukochan Deluxe Quiz</name>
+		<desc>UM JOGO DE QUIZ JAPONÊS BASEADO EM UMA SÉRIE DE MANGÁ/ANIME!</desc>
+		<rating>0</rating>
+		<releasedate>19951127T000000</releasedate>
+		<developer>Takara</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>3BA497E0</hash>
+		<image>./images/marukodq.png</image>
+		<thumbnail>./boxart/marukodq.png</thumbnail>
+		<marquee>./marquee/marukodq.png</marquee>
+		<video>./snap/marukodq.mp4</video>
+	</game>
+	<game id="37583" source="ScreenScraper.fr">
+		<path>./gowcaizr.zip</path>
+		<name>Chojin Gakuen Gowcaizer</name>
+		<desc>THE ULTIMATE WARRIORS ARE READY FOR BATTLE! THE AUTO-ZOOM FEATURE DRAWS YOU IN TO THE RED-HOT ACTION! USE THE NEW "SPECIAL ATTACK TRACING SYSTEM" TO COPY THE SPECIAL ABILITIES OF THE FOES YOU DEFEAT AND BUILD YOUR OWN WARRIOR FROM OVER 100 COMBINATIONS!</desc>
+		<rating>0.7</rating>
+		<releasedate>19951020T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Tecmo</publisher>
+		<players>1-2</players>
+		<hash>03B7F736</hash>
+		<image>./images/gowcaizr.png</image>
+		<thumbnail>./boxart/gowcaizr.png</thumbnail>
+		<marquee>./marquee/gowcaizr.png</marquee>
+		<video>./snap/gowcaizr.mp4</video>
+	</game>
+	<game id="87607" source="ScreenScraper.fr">
+		<path>./ironclad.zip</path>
+		<name>Chotetsu Brikin'ger</name>
+		<desc>O IRONCLAD É UM SHOOTER DE ROLAGEM LATERAL DESENVOLVIDO PELA SAURUS EM 1996. IRONCLAD FOI MOSTRADO PELA PRIMEIRA VEZ EM SEU FORMATO NATIVO DE CARTUCHO MVS NA FEIRA ACME DE MARÇO DE 1996 EM ORLANDO, FLÓRIDA. EMBORA O JOGO TENHA SIDO LANÇADO NO SISTEMA NEOGEO CD, NUNCA FOI LANÇADO OFICIALMENTE NOS FORMATOS DE CARTUCHO MVS OU HOME. IRONCLAD FOI O MAIS PROCURADO DE TODOS OS CD-PROTOS DEVIDO AO SEU APELO AOS FÃS DE SHOOT 'EM UP. ISSO ERA MAIS PROVÁVEL POR COINCIDENTEMENTE TER CAUSADO O MAIOR NÚMERO DE FALSAS ALEGAÇÕES; MAIS DO QUE QUALQUER OUTRO CARTUCHO PROTÓTIPO! 13 ANOS DEPOIS, EM NOVEMBRO DE 2009, A SNK FINALMENTE LIBEROU OS DADOS NATIVOS DA ROM PARA O JOGO E, COMO RESULTADO, FINALMENTE CONSEGUIMOS O JOGO E AGORA PODEMOS APROVEITÁ-LO PARA SEMPRE!</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F64403E3</hash>
+		<image>./images/ironclad.png</image>
+		<thumbnail>./boxart/ironclad.png</thumbnail>
+		<marquee>./marquee/ironclad.png</marquee>
+		<video>./snap/ironclad.mp4</video>
+	</game>
+	<game id="13924" source="ScreenScraper.fr">
+		<path>./crsword.zip</path>
+		<name>Crossed Swords</name>
+		<desc>COMO UM CAVALEIRO, VOCÊ DEVE VIAJAR PELO CAMPO LUTANDO CONTRA MONSTROS E BANDIDOS USANDO SUA ESPADA E ESCUDO. QUANDO VOCÊ ENTRA EM COMBATE, A VISÃO MUDA PARA UMA PERSPECTIVA DE PSEUDO-PRIMEIRA PESSOA, ONDE O CORPO DO SEU CAVALEIRO É DELINEADO PARA QUE VOCÊ POSSA VER AS CRIATURAS QUE VOCÊ ESTÁ LUTANDO. QUANDO OS INIMIGOS SÃO DERROTADOS, ELES PERDEM DINHEIRO E BÔNUS. EXISTEM SETE CAPÍTULOS NO JOGO, E CADA CAPÍTULO (EXCETO UM) COMEÇA COM VOCÊ ENTRANDO NA LOJA DE UM COMERCIANTE E COMPRANDO ARMAS USANDO O DINHEIRO QUE VOCÊ COLETOU ATÉ AGORA. EXISTEM TAMBÉM CAMINHOS ALTERNATIVOS QUE O LEVAM A DIFERENTES PARTES DO JOGO. NO INÍCIO DO JOGO, VOCÊ PODE ESCOLHER UM CAPÍTULO (DE UM A TRÊS APENAS) PARA O QUAL DESEJA COMEÇAR.</desc>
+		<rating>0.6</rating>
+		<releasedate>19911001T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>E46AE024</hash>
+		<image>./images/crsword.png</image>
+		<thumbnail>./boxart/crsword.png</thumbnail>
+		<marquee>./marquee/crsword.png</marquee>
+		<video>./snap/crsword.mp4</video>
+	</game>
+	<game id="13931" source="ScreenScraper.fr">
+		<path>./cyberlip.zip</path>
+		<name>Cyber-Lip</name>
+		<desc>O CYBER-LIP É UM JOGO DE ROLAGEM LATERAL DE 1 OU 2 JOGADORES, NO QUAL VOCÊ DEVE LUTAR EM VÁRIAS ÁREAS E DERROTAR UM CHEFE NO FINAL DE CADA UMA DELAS. AO LONGO DO CAMINHO, VOCÊ PODE PEGAR UMA VARIEDADE DE ARMAS E USÁ-LAS CONTRA OS INVASORES. AO DESTRUIR CERTOS INIMIGOS, VOCÊ RECEBE UM "CORE BOT", QUE É UM ANEL QUE ENVOLVE VOCÊ, E QUANDO ISSO TOCA OS INVASORES, ELES SÃO DESTRUÍDOS. O TEMPO ESTÁ CONTRA VOCÊ, QUANDO EXPIRA, VOCÊ PERDE UMA VIDA.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>AD36F44B</hash>
+		<image>./images/cyberlip.png</image>
+		<thumbnail>./boxart/cyberlip.png</thumbnail>
+		<marquee>./marquee/cyberlip.png</marquee>
+		<video>./snap/cyberlip.mp4</video>
+	</game>
+	<game id="108981" source="ScreenScraper.fr">
+		<path>./diggerma.zip</path>
+		<name>Digger Man</name>
+		<desc>DIGGER MAN É UM JOGO QUE ROUBA MUITOS SPRITES E SONS DO "GURURIN" DA FACE. É UM JOGO DE QUEBRA-CABEÇA MUITO DIFÍCIL. O JOGADOR DEVE PERMANECER CALMO E OBSERVAR AS PEDRAS E BOMBAS CAINDO.</desc>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Kyle Hodgetts</developer>
+		<publisher>Kyle Hodgetts</publisher>
+		<players>1-2</players>
+		<hash>ECA3AEC1</hash>
+		<image>./images/diggerma.png</image>
+		<thumbnail>./boxart/diggerma.png</thumbnail>
+		<marquee>./marquee/diggerma.png</marquee>
+		<video>./snap/diggerma.mp4</video>
+	</game>
+	<game id="37573" source="ScreenScraper.fr">
+		<path>./doubledr.zip</path>
+		<name>Double Dragon</name>
+		<desc>LANÇADO APROXIMADAMENTE NA MESMA ÉPOCA QUE O FILME DE MESMO NOME E VAGAMENTE BASEADO EM SUA HISTÓRIA, ESTE CAPÍTULO DA SÉRIE DOUBLE DRAGON TAMBÉM SE DISTANCIA DO TRADICIONAL COMBATE ENTRE RUAS E RUAS ATÉ UM PURO JOGO DE LUTA INDIVIDUAL. HÁ DEZ PERSONAGENS PARA ESCOLHER, INCLUINDO BILLY E JIMMY E O JOGO TEM FUNDOS INTERATIVOS COLORIDOS, ZOOM NA TELA, MOVIMENTOS ESPECIAIS EXAGERADOS E A INCLUSÃO DE SALTOS DUPLOS, COMBOS, CARGAS PARA O JOGADOR QUE PERDEU E CONTRA-ATAQUES E MUITO ESPAÇO PARA ESTRATÉGIAS DE COMBATE AVANÇADAS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19950331T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5ED5CF0F</hash>
+		<image>./images/doubledr.png</image>
+		<thumbnail>./boxart/doubledr.png</thumbnail>
+		<marquee>./marquee/doubledr.png</marquee>
+		<video>./snap/doubledr.mp4</video>
+	</game>
+	<game id="37574" source="ScreenScraper.fr">
+		<path>./eightman.zip</path>
+		<name>Eight Man</name>
+		<desc>O SUPER-HERÓI DEVE PARAR A DESTRUIÇÃO DE UMA CIDADE NAS MÃOS DE UM ROBÔ GIGANTE E SEU CRIADOR. O OBJETIVO, COMO EIGHTMAN (OU NINEMAN), É MOVER A ESQUERDA OU A DIREITA GOLPEANDO INIMIGOS E LUTAR CONTRA UM CHEFE NO FINAL DO NÍVEL. EM ALGUNS NÍVEIS, VOCÊ ESTÁ PERSEGUINDO UM VEÍCULO ENQUANTO OS INIMIGOS PULAM EM VOCÊ. OS POWER-UPS PODEM SER COLETADOS AO LONGO DO CAMINHO, O QUE, QUANDO COLETADOS, FARÃO SEUS CHUTES E GOLPES MAIS FORTES, ALÉM DE DAR BOMBAS QUE SÃO USADAS PARA ACERTAR TODOS OS INIMIGOS. SE UM JOGO DE DOIS JOGADORES ESTIVER EM ANDAMENTO, UMA FAÍSCA SURGIRÁ ENTRE ELES E O PODER DA BOMBA SERÁ AUMENTADO.</desc>
+		<rating>0.65</rating>
+		<releasedate>19911110T000000</releasedate>
+		<developer>SNK / Pallas</developer>
+		<publisher>SNK / Pallas</publisher>
+		<players>1-2</players>
+		<hash>AEC7C790</hash>
+		<image>./images/eightman.png</image>
+		<thumbnail>./boxart/eightman.png</thumbnail>
+		<marquee>./marquee/eightman.png</marquee>
+		<video>./snap/eightman.mp4</video>
+	</game>
+	<game id="37579" source="ScreenScraper.fr">
+		<path>./fightfev.zip</path>
+		<name>Fight Fever</name>
+		<desc>EXISTEM 8 PERSONAGENS PARA SELECIONAR E DOIS CHEFES (O PRIMEIRO CHEFE SÓ PODE SER JOGADO NO MODO DE DOIS JOGADORES). O OBJETIVO DO JOGO É GANHAR DUAS PARTIDAS DE TRÊS. CADA PERSONAGEM TEM UM CONJUNTO DE MOVIMENTOS ALÉM DE DOIS SOCOS BÁSICOS E CHUTES. CADA PERSONAGEM TAMBÉM TEM UM SUPER MOVIMENTO CHAMADO "DANGER MOVE", QUE SÃO SEMELHANTES AOS MOVIMENTOS DE DESESPERO DE FATAL FURY 2. OS JOGADORES TAMBÉM TÊM A HABILIDADE DE PROVOCAR OUTROS, MAS AO CONTRÁRIO DE JOGOS COMO ART OF FIGHTING, ISSO NÃO TEM EFEITO E NA VERDADE DEIXAR O JOGADOR ABERTO AOS ATAQUES.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Viccom</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>436A8A9F</hash>
+		<image>./images/fightfev.png</image>
+		<thumbnail>./boxart/fightfev.png</thumbnail>
+		<marquee>./marquee/fightfev.png</marquee>
+		<video>./snap/fightfev.mp4</video>
+	</game>
+	<game id="37590" source="ScreenScraper.fr">
+		<path>./karnovr.zip</path>
+		<name>Fighter's History Dynamite</name>
+		<desc>KARNOV'S REVENGE É UM CLONE 2-D DA DATA EAST DE STREET FIGHTER II. ESCOLHA UM DOS 13 LUTADORES DE TODO O MUNDO PARA JOGAR, CADA UM COM SEUS MOVIMENTOS ÚNICOS E ATAQUES ESPECIAIS. COMO DE COSTUME, HÁ DOIS ROUNDS EM CADA ESTÁGIO, E O OBJETIVO DE CADA ROUND É DRENAR A ENERGIA DO SEU OPONENTE PARA GANHAR A LUTA. SE HOUVER UM EMPATE APÓS DOIS ROUNDS, UM TERCEIRO ROUND É JOGADO. HÁ UM LIMITE DE TEMPO E, SE ISSO EXPIRAR, O JOGADOR COM MENOS ENERGIA PERDE.</desc>
+		<rating>0</rating>
+		<releasedate>19940428T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BAB9FF88</hash>
+		<image>./images/karnovr.png</image>
+		<thumbnail>./boxart/karnovr.png</thumbnail>
+		<marquee>./marquee/karnovr.png</marquee>
+		<video>./snap/karnovr.mp4</video>
+	</game>
+	<game id="13937" source="ScreenScraper.fr">
+		<path>./3countb.zip</path>
+		<name>Fire Suplex</name>
+		<desc>3 COUNT BOUT É UM JOGO DE LUTA INDIVIDUALIZADO. ESCOLHA ENTRE DEZ LUTADORES QUE TÊM SEUS PRÓPRIOS ATAQUES DE PODER. HÁ DEZ RODADAS NO JOGO, E CADA UMA DELAS TEM LUTADO CONTRA OUTROS LUTADORES QUE SÃO MUITO MAIS RESISTENTES DO QUE OS ANTERIORES. VOCÊ DERROTA CADA UM, MORDENDO, CHUTANDO E EXECUTANDO OUTROS MOVIMENTOS ATÉ O PONTO EM QUE SEU MEDIDOR DE DANO ESTÁ VAZIO. MAS SÓ PORQUE ESTÁ VAZIO NÃO SIGNIFICA QUE VOCÊ GANHE. VOCÊ DEVE COLOCÁ-LO PARA A CONTAGEM INFAME-TRÊS. TAMBÉM POSSUI JOGADAS COMPETITIVAS E BATALHAS DE TAG MATCH.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930423T000000</releasedate>
+		<developer>UPL</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B1ED3257</hash>
+		<image>./images/3countb.png</image>
+		<thumbnail>./boxart/3countb.png</thumbnail>
+		<marquee>./marquee/3countb.png</marquee>
+		<video>./snap/3countb.mp4</video>
+	</game>
+	<game id="13966" source="ScreenScraper.fr">
+		<path>./fbfrenzy.zip</path>
+		<name>Football Frenzy</name>
+		<desc>VOCÊ NUNCA MAIS JOGARÁ OUTRO JOGO DE FUTEBOL DEPOIS DE JOGAR O FOOTBALL FRENZY! O FOOTBALL FRENZY É UMA AÇÃO CONTUNDENTE NO SEU MELHOR! VOCÊ OUVIRÁ, EM COMPLETO ESTÉREO, TODAS AS PANCADAS PARA ESMAGAMENTO DE OSSOS E O IMPACTO DE CAPACETE CONTRA CAPACETE, DE METAL SOBRE METAL. OS GRUNHIDOS E GEMIDOS DOS JOGADORES SACRIFICANDO SEUS CORPOS PELA EQUIPE E O COLOCAM DIRETO NO CAMPO COM ELES! OS ZOOMS DA CÂMERA PROPORCIONAM OS MAIS DESLUMBRANTES CLOSE-UPS JÁ VISTOS. ENTÃO, TRAGA SUAS ALMOFADAS E CAPACETE! MODO DE TORNEIO, EXIBIÇÕES CINEMATOGRÁFICAS E MAIS DE 10 EQUIPES PARA ESCOLHER FAZEM DESTE PACOTE DE FUTEBOL COMPLETO. JOGAR CONTRA O COMPUTADOR OU UM AMIGO NESTE 46-MEG... FOOTBALL FRENZY!</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BA8D31F0</hash>
+		<image>./images/fbfrenzy.png</image>
+		<thumbnail>./boxart/fbfrenzy.png</thumbnail>
+		<marquee>./marquee/fbfrenzy.png</marquee>
+		<video>./snap/fbfrenzy.mp4</video>
+	</game>
+	<game id="37615" source="ScreenScraper.fr">
+		<path>./pgoal.zip</path>
+		<name>Futsal - 5 on 5 Mini Soccer</name>
+		<desc>RELEASED IN 1996, PLEASURE GOAL (JAPANESE TITLE: FUTSAL) IS SAURUS' FIRST AND ONLY FOOTBALL (SOCCER) GAME FOR THE NEO GEO. IT FEATURES 16 TEAMS WHICH COMPETE FOR THE "SAURUS CUP". YOUR TEAM PLAYS AGAINST ALL THE OTHERS IN YOUR GROUP, THEN IT GOES INTO AN ELIMINATION TOURNAMENT'S SEMIFINALS AND THEN THE FINAL TO WIN THE CUP. IT'S WORTH MENTIONING THAT PLEASURE GOAL'S RULES BARELY BASE ON FUTSAL, WHICH IS BASICALLY A 5-ON-5 PLAYER INDOOR SOCCER STYLE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B7D3EF39</hash>
+		<image>./images/pgoal.png</image>
+		<thumbnail>./boxart/pgoal.png</thumbnail>
+		<marquee>./marquee/pgoal.png</marquee>
+		<video>./snap/pgoal.mp4</video>
+	</game>
+	<game id="37634" source="ScreenScraper.fr">
+		<path>./savagere.zip</path>
+		<name>Fu'un Mokushiroku - Kakutou Sousei</name>
+		<desc>O MALÉVOLO KING LION COROOU-SE COMO O MESTRE DO FUUN-KEN, UM NOVO ESTILO DE ARTES MARCIAIS QUE INCLUI ARMAS DE ARREMESSO ALÉM DO COMBATE CORPO-A-CORPO. ISSO NÃO COMBINA COM O RESTO DOS LUTADORES DO FUUN-KEN EM TODO O MUNDO, ENTÃO TODOS ELES DECIDEM SE SUPERAR EM LUTAS CLÁSSICAS DE 2 ROUNDS PARA DECIDIR QUEM VAI DERROTAR O PRÓPRIO KING LION.
+SAVAGE REIGN É UM JOGO DE LUTA 2D UM CONTRA UM NO QUAL VOCÊ SELECIONA SEU PERSONAGEM E TENTA DERROTAR TODOS OS ADVERSÁRIOS USANDO SEUS ATAQUES BÁSICOS E MOVIMENTOS ESPECIAIS. O JOGO APRESENTA 2 PLANOS HORIZONTAIS DIFERENTES PARA OS QUAIS OS PERSONAGENS PODEM PULAR LIVREMENTE PARA EVITAR ATAQUES AO ESTILO FATAL FURY. VOCÊ NÃO PODE ESCAPAR COMPLETAMENTE, NO ENTANTO, COMO TODOS OS PERSONAGENS TÊM UMA ARMA DE ARREMESSO, ELES PODEM USAR DE MANEIRAS DIFERENTES PARA ALCANÇAR UM AO OUTRO, NÃO IMPORTA ONDE ELES ESTEJAM.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950526T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B9711C95</hash>
+		<image>./images/savagere.png</image>
+		<thumbnail>./boxart/savagere.png</thumbnail>
+		<marquee>./marquee/savagere.png</marquee>
+		<video>./snap/savagere.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13920" source="ScreenScraper.fr">
+		<path>./kizuna.zip</path>
+		<name>Fu'un Super Tag Battle</name>
+		<desc>FIGHT ALONE!
+COMPETITION OR TEAM BATTLES. THE TAGE BATTLE OF A LIFETIME BEGINS!
+OR FIGHT WITH A FRIEND!
+
+WHY DO YOU FIGHT?! FOR MONEY? FOR GLORY? FOR...?!
+THE FATE OF 10 OF THE WORLD'S MIGHTIEST WARRIORS RESTS ON THE GRAND AMBITIONS OF KING LION!</desc>
+		<rating>0.7</rating>
+		<releasedate>19961108T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>2FBBFDCA</hash>
+		<image>./images/kizuna.png</image>
+		<thumbnail>./boxart/kizuna.png</thumbnail>
+		<marquee>./marquee/kizuna.png</marquee>
+		<video>./snap/kizuna.mp4</video>
+	</game>
+	<game id="37580" source="ScreenScraper.fr">
+		<path>./galaxyfg.zip</path>
+		<name>Galaxy Fight - Universal Warriors</name>
+		<desc>AS PESSOAS REZAM AOS DEUSES, MAS O DIABO VEIO DO CÉU. SUA MISSÃO É DERROTAR FELDEN KRYSE, GOVERNANTE DO SUBMUNDO. O FANTÁSTICO DESAFIO DESDOBRA-SE FEROZMENTE EM OITO PLANETAS DIFERENTES. A IMAGEM DA TELA MUDA INSTANTANEAMENTE PARA AUMENTAR E DIMINUIR O ZOOM COM BASE NO DESENROLAR DA BATALHA. USE O DASH PARA SUA MAIOR VANTAGEM E ACELERE PELO CAMPO DO INFINITO.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F68D9531</hash>
+		<image>./images/galaxyfg.png</image>
+		<thumbnail>./boxart/galaxyfg.png</thumbnail>
+		<marquee>./marquee/galaxyfg.png</marquee>
+		<video>./snap/galaxyfg.mp4</video>
+	</game>
+	<game id="37617" source="ScreenScraper.fr">
+		<path>./popbounc.zip</path>
+		<name>Gapporin</name>
+		<desc>POP'N BOUNCE IS A PUZZLE GAME SIMILAR TO BREAK OUT; THE PLAYER MUST BOUNCE A BALL OFF A PADDLE IN ORDER TO KNOCK OUT A WALL OF SPRITES. HOWEVER, IN POP'N BOUNCE, THE SPRITES ARE OF ASSORTED LIVING CREATURES INSTEAD OF BRICKS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>56A2CB46</hash>
+		<image>./images/popbounc.png</image>
+		<thumbnail>./boxart/popbounc.png</thumbnail>
+		<marquee>./marquee/popbounc.png</marquee>
+		<video>./snap/popbounc.mp4</video>
+	</game>
+	<game id="37581" source="ScreenScraper.fr">
+		<path>./garou.zip</path>
+		<name>Garou - Mark of the Wolves</name>
+		<desc>JÁ SE PASSARAM VÁRIOS ANOS DESDE QUE GEESE HOWARD FOI DERROTADO EM UMA BATALHA COM TERRY BOGARD, UM JOVEM QUE QUERIA VINGAR SEU PAI. EM VEZ DE PROCURAR SER SALVO DA MORTE DEPOIS DE CAIR DA VARANDA DE SEU ESCRITÓRIO, GEESE DECIDIU MORRER E DEIXOU PARA TRÁS SEU FILHO, ROCK. TERRY LEVOU ROCK E TORNOU-SE UM IRMÃO MAIS VELHO PARA ELE, CRIANDO O MENINO DURANTE TODA A SUA VIDA.NNNNAGORA ROCK É UM ADOLESCENTE, E TERRY É UM HOMEM DE 30 ANOS, E AMBOS ESTÃO PRESTES A SE UNIR EM UM NOVO CONFRONTO ... ROSTOS NOVOS E ANTIGOS SE JUNTAM PARA A MAIOR BATALHA ATÉ AGORA!</desc>
+		<rating>0.95</rating>
+		<releasedate>20000225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BC1EDDA4</hash>
+		<image>./images/garou.png</image>
+		<thumbnail>./boxart/garou.png</thumbnail>
+		<marquee>./marquee/garou.png</marquee>
+		<video>./snap/garou.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37576" source="ScreenScraper.fr">
+		<path>./fatfury1.zip</path>
+		<name>Garou Densetsu - Shukumei no Tatakai</name>
+		<desc>A CIDADE DE SOUTHTOWN É ANFITRIÃ DO TORNEIO KING OF FIGHTERS. ANDY E TERRY BOGARD PARTICIPAM DO TORNEIO PORQUE VENCER O TORNEIO É A ÚNICA MANEIRA DE DERROTAR GEESE HOWARD. GEESE HOWARD CONTROLA SOUTHTOWN CITY E MATOU SEU PAI HÁ VÁRIOS ANOS. TAMBÉM PARTICIPANDO DO TORNEIO ESTÁ JOE HIGASHI, UM KICKBOXER JAPONÊS. SELECIONE JOE, ANDY OU TERRY, VISITE VÁRIOS LOCAIS EM SOUTHTOWN CITY E VENÇA ESSE TORNEIO!NNNNFATAL FURY É UM JOGO DE LUTA 2D E É O PRIMEIRO JOGO DE UMA SÉRIE DE JOGOS DE LUTA UM-CONTRA-UM DA SNK.</desc>
+		<rating>0.6</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>10D23CBC</hash>
+		<image>./images/fatfury1.png</image>
+		<thumbnail>./boxart/fatfury1.png</thumbnail>
+		<marquee>./marquee/fatfury1.png</marquee>
+		<video>./snap/fatfury1.mp4</video>
+	</game>
+	<game id="37577" source="ScreenScraper.fr">
+		<path>./fatfury2.zip</path>
+		<name>Garou Densetsu 2 - Arata-naru Tatakai</name>
+		<desc>MAIS UMA VEZ, OS LOBOS SOLITÁRIOS RETORNAM!NNNNGEESE HOWARD PODE TER SIDO DERROTADO, MAS ISSO NÃO SIGNIFICA QUE TUDO ESTEJA EM PAZ. UM NOVO ADVERSÁRIO, WOLFGANG KRAUSER, VEIO PARA COMEÇAR UM NOVO TORNEIO FATAL FURY. OS LOBOS SOLITÁRIOS RETORNAM, COM NOVOS ROSTOS ENTRE ELES. APENAS UM PODE SER DECLARADO VENCEDOR.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930305T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>23DBC311</hash>
+		<image>./images/fatfury2.png</image>
+		<thumbnail>./boxart/fatfury2.png</thumbnail>
+		<marquee>./marquee/fatfury2.png</marquee>
+		<video>./snap/fatfury2.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37578" source="ScreenScraper.fr">
+		<path>./fatfury3.zip</path>
+		<name>Garou Densetsu 3 - Haruka-naru Tatakai</name>
+		<desc>FATAL FURY 3: ROAD TO THE FINAL VICTORY É UM JOGO DE LUTA MANO-A-MANO DE 1995 LANÇADO PELA SNK PARA O NEO-GEO. É O QUARTO JOGO DA SÉRIE FATAL FURY APÓS FATAL FURY SPECIAL (QUE EM SI FOI UMA VERSÃO ATUALIZADA DE FATAL FURY 2).NNFATAL FURY 3 MANTÉM O FORMATO E OS CONTROLES DO JOGO ANTERIOR DA SÉRIE, FATAL FURY SPECIAL. NO ENTANTO, OS ESTÁGIOS DE BATALHA DE DOIS PLANOS FORAM RENOVADOS EM UM FORMATO DE TRÊS PLANOS CONHECIDO COMO OVERSWAY SYSTEM.NNNOVAS TÉCNICAS INTRODUZIDAS NESTA EDIÇÃO INCLUEM CONTROLAR A ALTURA DO SALTO DO PERSONAGEM, BLOQUEAR O ATAQUE DE UM OPONENTE NO AR (AIR GUARD) E UM NOVO TIPO DE TÉCNICAS DE COMBINAÇÃO CONHECIDAS COMO COMBINATION ARTS, PERMITINDO AO JOGADOR CANCELAR UMA SÉRIE ESPECÍFICA (QUE VARIA ENTRE OS PERSONAGENS) DE ATAQUES REGULARES DE UM PARA O OUTRO. ALÉM DOS SPECIAL MOVES REGULARES, E OS SUPER SPECIAL MOVES QUE SÓ PODEM SER EXECUTADOS QUANDO O INDICADOR DE VIDA ESTIVER PISCANDO EM VERMELHO, CADA PERSONAGEM TAMBÉM TEM UMA "HABILIDADE ESCONDIDA", QUE É UMA VERSÃO MAIS FORTE DE UM SUPER SPECIAL MOVE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>24218162</hash>
+		<image>./images/fatfury3.png</image>
+		<thumbnail>./boxart/fatfury3.png</thumbnail>
+		<marquee>./marquee/fatfury3.png</marquee>
+		<video>./snap/fatfury3.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37575" source="ScreenScraper.fr">
+		<path>./fatfursp.zip</path>
+		<name>Garou Densetsu Special</name>
+		<desc>FATAL FURY SPECIAL É UMA VERSÃO MELHORADA DO JOGO DE LUTA 2D DA SNK, FATAL FURY 2. É UMA CONVERSÃO DO JOGO PARA ARCADES DE 1993 COM O MESMO NOME. O OBJETIVO AINDA É VENCER O TORNEIO, DERROTANDO TODOS OS OUTROS LUTADORES, INCLUINDO O CHEFE FINAL WOLFGANG KRAUSER. FATAL FURY SPECIAL APRESENTA UMA SELEÇÃO RAZOAVELMENTE GRANDE DE LUTADORES. UM NOVO MODO COUNT DOWN (DERROTE O MÁXIMO DE OPONENTES POSSÍVEIS EM 3 MINUTOS). ESQUEMAS DE CORES EXTRAS PARA CADA PERSONAGEM. NOVOS E APRIMORADOS GRÁFICOS DOS CENÁRIOS E SUPORTE AO SOM DOLBY SURROUND.</desc>
+		<rating>0.85</rating>
+		<releasedate>19931222T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>89D72D5A</hash>
+		<image>./images/fatfursp.png</image>
+		<thumbnail>./boxart/fatfursp.png</thumbnail>
+		<marquee>./marquee/fatfursp.png</marquee>
+		<video>./snap/fatfursp.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37584" source="ScreenScraper.fr">
+		<path>./gpilots.zip</path>
+		<name>Ghost Pilots</name>
+		<desc>O GHOST PILOTS É UM JOGO DE TIRO DE AVIÕES MILITARES NO QUAL VOCÊ DEVE ABATER JATOS DE COMBATE USANDO BALAS OU BOMBAS. UMA VEZ QUE VOCÊ TENHA MATADO CAÇAS SUFICIENTES, VOCÊ TERÁ QUE DERROTAR UM CAÇA A JATO PARA CONTINUAR. DEPOIS DE ALGUNS ESTÁGIOS, VOCÊ DEVE SELECIONAR UMA ROTA PARA CONTINUAR SUA JORNADA. PODERES PODEM SER COLETADOS QUE AUMENTARÃO SEU PODER DE FOGO, E ESTRELAS PODEM SER OBTIDAS POR PONTOS EXTRAS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0A5B677B</hash>
+		<image>./images/gpilots.png</image>
+		<thumbnail>./boxart/gpilots.png</thumbnail>
+		<marquee>./marquee/gpilots.png</marquee>
+		<video>./snap/gpilots.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37582" source="ScreenScraper.fr">
+		<path>./ghostlop.zip</path>
+		<name>Ghostlop</name>
+		<desc>GHOST LOP É UM EXCELENTE JOGO DE QUEBRA-CABEÇAS BASEADO EM GHOSTBUSTERS DA DATA EAST DE 1996. ELE COMBINA A AÇÃO RÁPIDA DE UM JOGO NO ESTILO ARKANOID, COM O PENSAMENTO RÁPIDO DE UM JOGO DO TIPO BUST-A-MOVE. O JOGO FOI COGITADO PARA LANÇAMENTO EM 2001, MAS A MORTE PREMATURA DA SNK NO MESMO ANO PODE TER TERMINADO COM ESSA POSSIBILIDADE. A DATA EAST ERA MAIS CONHECIDA POR SUA SÉRIE CHAIN REACTION/MAGICAL DROP DE JOGOS DE QUEBRA-CABEÇA, E ATÉ MAIS TARDE INCLUIU OS PERSONAGENS DE GHOSTLOP EM UM DOS LANÇAMENTOS POSTERIORES PARA SISTEMAS DE JOGOS DOMÉSTICOS MODERNOS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<players>1-2</players>
+		<hash>BC86C531</hash>
+		<image>./images/ghostlop.png</image>
+		<thumbnail>./boxart/ghostlop.png</thumbnail>
+		<marquee>./marquee/ghostlop.png</marquee>
+		<video>./snap/ghostlop.mp4</video>
+	</game>
+	<game id="13906" source="ScreenScraper.fr">
+		<path>./goalx3.zip</path>
+		<name>Goal! Goal! Goal!</name>
+		<desc>UM JOGO DE FUTEBOL COM TODOS OS INGREDIENTES CERTOS, HABILIDADE, TALENTO, PAIXÃO E, CLARO, OBJETIVOS! COM 28 SELEÇÕES NACIONAIS, PARTICIPE DE UM TORNEIO PARA SE TORNAR A MELHOR NAÇÃO DE FUTEBOL DO MUNDO. ULTRAPASSE A FASE DE GRUPOS DE ABERTURA E PASSE PARA UM ESTÁGIO DE ELIMINAÇÃO MATA-MATA ONDE O FRACASSO NÃO É UMA OPÇÃO. PARA AJUDÁ-LO NO SEU CAMINHO, MANTENHA PRESSIONADO O BOTÃO DE DISPARO ATÉ QUE A BARRA DE ENERGIA FIQUE CHEIA E VOCÊ POSSA FAZER UM SUPER CHUTE PODEROSO!</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BB02589E</hash>
+		<image>./images/goalx3.png</image>
+		<thumbnail>./boxart/goalx3.png</thumbnail>
+		<marquee>./marquee/goalx3.png</marquee>
+		<video>./snap/goalx3.mp4</video>
+	</game>
+	<game id="37585" source="ScreenScraper.fr">
+		<path>./gururin.zip</path>
+		<name>Gururin</name>
+		<desc>SEU OBJETIVO É FAZER COM QUE TRÊS PESSOAS DA MESMA COR SE ALINHEM E DESAPAREÇAM - MAS PARA FAZER ISSO, VOCÊ NÃO VAI VIRAR AS PESSOAS ENQUANTO ELAS CAEM, MAS SIM GIRAR O BURACO INTEIRO ASSIM QUE ATERRISSAREM. COMO ROUPAS EM UMA SECADORA, VOCÊ TEM QUE VIRAR TODO O CAMPO DE JOGO E TENTAR IGUALAR AS MINIATURAS ENQUANTO ELAS DESLIZAM PARA A PARTE DE BAIXO DA TELA, REORGANIZANDO-SE À MEDIDA QUE CHEGAM.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>FACE</developer>
+		<publisher>FACE</publisher>
+		<players>1-2</players>
+		<hash>4FC0AC19</hash>
+		<image>./images/gururin.png</image>
+		<thumbnail>./boxart/gururin.png</thumbnail>
+		<marquee>./marquee/gururin.png</marquee>
+		<video>./snap/gururin.mp4</video>
+	</game>
+	<game id="87608" source="ScreenScraper.fr">
+		<path>./janshin.zip</path>
+		<name>Janshin Densetsu - Quest of Jongmaster</name>
+		<desc>TEST YOUR PATIENCE AND SKILL AS YOU PLAY AGAINST A COMPUTERIZED OPPONENT AND TRY TO BEAT IT AT THE AMAZING AND ANCIENT CHINESE GAME OF MAHJONG. IN THE FANTASTIC JANSHIN DENSETSU: QUEST OF JONGMASTER YOU MUST KEEP A STEELY FACE AS YOU TAKE ON THE MIGHTIEST PLAYERS OF THE UNDERWORLD MAHJONG CIRCUIT. MATCH THE PIECES AND OUTSMART YOUR OPPONENT TO WIN AND STACK UP WILD AMOUNTS OF CASH!</desc>
+		<rating>0</rating>
+		<releasedate>19950331T000000</releasedate>
+		<developer>Aicom Corporation</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>C24FCF25</hash>
+		<image>./images/janshin.png</image>
+		<thumbnail>./boxart/janshin.png</thumbnail>
+		<marquee>./marquee/janshin.png</marquee>
+		<video>./snap/janshin.mp4</video>
+	</game>
+	<game id="37588" source="ScreenScraper.fr">
+		<path>./joyjoy.zip</path>
+		<name>Joy Joy Kid</name>
+		<desc>THIS GAME IS A CROSSOVER BETWEEN TETRIS AND BREAKOUT (OR ARKANOID) IN THAT YOUR BALLOON IS TRAPPED AT THE BOTTOM OF THE PUZZLE, AND YOU HAVE TO BREAK THE LINES DOWN FAR ENOUGH TO GIVE IT A CLEAR FLIGHT PATH TO THE TOP. OPEN UP A SPACE, AND YOUR BALLOON (SHARK-SHAPED IF YOU'RE THE BOY) FLOATS TO THE TOP, AND IT'S ON TO THE NEXT FLOOR IN THE TOWER. SOUND EASY? IT IS... AT FIRST. THE TOWER IS DIVIDED INTO MULTIPLE FLOORS, WITH 10 STAGES (PUZZLES) PER FLOOR. THERE ARE OVER 50 PUZZLES HERE AND THE ACTION GETS PRETTY FURIOUS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910107T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>E9E16EBC</hash>
+		<image>./images/joyjoy.png</image>
+		<thumbnail>./boxart/joyjoy.png</thumbnail>
+		<marquee>./marquee/joyjoy.png</marquee>
+		<video>./snap/joyjoy.mp4</video>
+	</game>
+	<game id="37595" source="ScreenScraper.fr">
+		<path>./kof98.zip</path>
+		<name>King of Fighters '98 - Dream Match Never Ends</name>
+		<desc>O KING OF FIGHTERS '98 FAZ UMA PAUSA NA SAGA OROCHI E, EM VEZ DISSO, É APRESENTADO COMO UM "DREAM MATCH" (SEMELHANTE AO MORTAL KOMBAT TRILOGY, MAS SEM O COMPONENTE HISTÓRIA). A MAIORIA DOS PERSONAGENS DOS ÚLTIMOS QUATRO ANOS RETORNA, FORNECENDO AO JOGADOR UMA LISTA MUITO GRANDE CONTENDO 38 PSERSONAGENS. MUITOS DOS PERSONAGENS FORAM ALTERADOS NA TENTATIVA DE EQUILIBRAR O JOGO, INDEPENDENTEMENTE DA ESCOLHA DO LUTADOR PELO JOGADOR. RUGAL BERNSTEIN É FORNECIDO COMO UM PERSONAGEM NÃO-SECRETO PELA PRIMEIRA VEZ NO KOF '98, E VÁRIOS PERSONAGENS REGULARES OCULTAM VERSÕES "ALTERNATIVAS" QUE TAMBÉM PODEM SER USADAS NO JOGO.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980923T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>1B68BF8E</hash>
+		<image>./images/kof98.png</image>
+		<thumbnail>./boxart/kof98.png</thumbnail>
+		<marquee>./marquee/kof98.png</marquee>
+		<video>./snap/kof98.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37598" source="ScreenScraper.fr">
+		<path>./kotm2.zip</path>
+		<name>King of the Monsters 2 - The Next Thing</name>
+		<desc>O OBJETO DO KING OF THE MONSTERS 2 É SEMELHANTE AO SEU PREDECESSOR. ESCOLHA ENTRE TRÊS MONSTROS QUE INCLUEM UM GRANDE LAGARTO, UM GRANDE MACACO ROBÓTICO E UM ENORME HUMANO MUTANTE. EM SEGUIDA, CAMINHE POR CADA CIDADE, CERTIFICANDO-SE DE DESTRUIR TUDO NO LOCAL, INCLUINDO AVIÕES, EDIFÍCIOS E OUTRAS CRIATURAS. QUANDO DESTRUÍDOS, ALGUNS PRÉDIOS REVELAM POWER-UPS QUE TORNAM SEU PERSONAGEM MAIS PODEROSO. NO FINAL DE CADA CIDADE, VOCÊ VAI CARA A CARA COM A CRIATURA CHEFE. EXISTEM PEQUENOS ESTÁGIOS ENTRE OS QUAIS VOCÊ LUTA CONTRA UM SEGUNDO MONSTRO POR PONTOS DE BÔNUS, OU VOCÊ CAI DO CÉU E ATERRISSA DEBAIXO D'ÁGUA ONDE VOCÊ TENTA COLETAR PONTOS E POWER-UPS ENQUANTO CAI.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Takara</publisher>
+		<players>1-2</players>
+		<hash>1347B499</hash>
+		<image>./images/kotm2.png</image>
+		<thumbnail>./boxart/kotm2.png</thumbnail>
+		<marquee>./marquee/kotm2.png</marquee>
+		<video>./snap/kotm2.mp4</video>
+	</game>
+	<game id="37597" source="ScreenScraper.fr">
+		<path>./kotm.zip</path>
+		<name>King of the Monsters</name>
+		<desc>KING OF THE MONSTERS É UM JOGO DE LUTAS (HUMANO VS HUMANO OU HUMANO VS COMPUTADOR) NO QUAL SÃO USADOS CRIATURAS GIGANTES QUE COMPETEM PELO TÍTULO DE CAMPEÃO MUNDIAL DOS MONSTROS. O JOGADOR TEM O CONTROLE DE MONSTROS PARECIDOS COM GODZILLAS E BATALHAM EM DIFERENTES CIDADES DO MUNDO. A MEDIDA QUE A LUTA AVANÇA AS CIDADES SÃO GRADUALMENTE DESTRUÍDAS PELAS CRIATURAS. OS JOGADORES PODEM INTERAGIR COM OS CENÁRIOS, PEGANDO BARCOS POR EXEMPLO, E USANDO COMO ARMAS CONTRA SEU RIVAL.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>3D8A1E82</hash>
+		<image>./images/kotm.png</image>
+		<thumbnail>./boxart/kotm.png</thumbnail>
+		<marquee>./marquee/kotm.png</marquee>
+		<video>./snap/kotm.mp4</video>
+	</game>
+	<game id="37635" source="ScreenScraper.fr">
+		<path>./sdodgeb.zip</path>
+		<name>Kunio no Nekketsu Toukyuu Densetsu</name>
+		<desc>SUPER DODGEBALL USES THE SAME BASIC GAMEPLAY USED IN THE OTHER GAMES IN THE SERIES WITH SOME MINOR DIFFERENCES. THE GAME PUTS YOU IN CONTROL OF A TEAM OF 3 CHARACTERS (WITH YOU CONTROLLING THE LEAD CHARACTER OR THE ONE WITH THE BALL AT THE TIME) THAT MUST DEFEAT A SELECTION OF OTHER TEAMS IN ORDER TO BECOME THE CHAMPION. THIS TIME AROUND THE TEAMS ARE ALL FORMED BY CHARACTERS FROM THE NEKKETSU KUNIO KUN UNIVERSE, EACH REPRESENTING DIFFERENT SUBURBS OF TOKYO THAT COMPETE IN AN AMUSEMENT PARK FOR THE ULTIMATE TITLE. EACH CHARACTER HAS THEIR UNIQUE STATS AND SPECIAL MOVES, WHICH NOW DEPEND ON A POWER BAR THAT CAN BE CHARGED-UP BY HOLDING BOTH ATTACK BUTTONS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<players>1-2</players>
+		<hash>AC81B423</hash>
+		<image>./images/sdodgeb.png</image>
+		<thumbnail>./boxart/sdodgeb.png</thumbnail>
+		<marquee>./marquee/sdodgeb.png</marquee>
+		<video>./snap/sdodgeb.mp4</video>
+	</game>
+	<game id="13957" source="ScreenScraper.fr">
+		<path>./lresort.zip</path>
+		<name>Last Resort</name>
+		<desc>LAST RESORT IS A 1-2 PLAYER HORIZONTAL SHOOTER GAME WHERE YOU PILOT A SPACECRAFT ACROSS HORIZONTALLY SCROLLING CITYSCAPES AND WASTELANDS, WHILE DESTROYING HORDES OF ENEMY SPACECRAFT, EITHER METALLIC OR ORGANIC, INCLUDING HUGE MID- AND END-LEVEL GUARDIANS. GETTING POWER-UP PODS PROVIDE THE CRAFT WITH A MOVABLE DRONE WHICH CAN BE CHARGED UP AND FIRED OR LOCKED INTO POSITION AND USED AS AN EXTRA GUN OR 'BATTERING RAM'/SHIELD. A CLONE OF R-TYPE (BOTH ONE AND TWO), BUT WITH MUCH IMPROVED GRAPHICS AND SOUND</desc>
+		<rating>0.8</rating>
+		<releasedate>19920424T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>7E98AFF1</hash>
+		<image>./images/lresort.png</image>
+		<thumbnail>./boxart/lresort.png</thumbnail>
+		<marquee>./marquee/lresort.png</marquee>
+		<video>./snap/lresort.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13976" source="ScreenScraper.fr">
+		<path>./lbowling.zip</path>
+		<name>League Bowling</name>
+		<desc>THE LANES ARE CROWDED EVERY NIGHT WITH BIG TIME PIN SLAMMIN' ACTION! YOU CALL THE SHOTS SELECTING A RIGHT OR LEFT HANDED BOWLER. DETERMINE BALL WEIGHT, AND DEVELOP THE SKILLS OF THE PRO'S AS YOU SKILLFULLY THROW A VARIETY OF SHOTS THAT YOU CONTROL. SO POP SOME REFRESHMENTS AND SETTLE INTO THIS INDOOR SPORT LIKE YOU'VE NEVER SEEN BEFORE!</desc>
+		<rating>0.65</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-4</players>
+		<hash>72D73FAB</hash>
+		<image>./images/lbowling.png</image>
+		<thumbnail>./boxart/lbowling.png</thumbnail>
+		<marquee>./marquee/lbowling.png</marquee>
+		<video>./snap/lbowling.mp4</video>
+	</game>
+	<game id="37601" source="ScreenScraper.fr">
+		<path>./legendos.zip</path>
+		<name>Legend of Success Joe</name>
+		<desc>JOE YABUKI IS A LITTLE PUNK WANDERING THE STREETS. HE WAS SPOTTED BY A BOXING COACH RETIRED FROM THE CIRCUIT THAT SEES HIM AS A FUTURE CHAMPION AND DECIDES TO MANAGE HIM. SUCH IS THE PLOT OF THIS BOXING GAME ON NEO GEO, ADAPTED FROM THE MANGA "ASHITA NO JOE" CREATED BY TETSUYA CHIBA AND ASAO TAKAMORI IN THE 70S.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Wave Corp</developer>
+		<publisher>Wave Corp</publisher>
+		<players>1-2</players>
+		<hash>30EAA3A3</hash>
+		<image>./images/legendos.png</image>
+		<thumbnail>./boxart/legendos.png</thumbnail>
+		<marquee>./marquee/legendos.png</marquee>
+		<video>./snap/legendos.mp4</video>
+	</game>
+	<game id="13904" source="ScreenScraper.fr">
+		<path>./magdrop2.zip</path>
+		<name>Magical Drop II</name>
+		<desc>IN MAGICAL DROP II, YOU CONTROL A CLOWN THAT CAN GRAB AND THROW BALLOONS. YOU HAVE TO MATCH THREE BALLOONS OF THE SAME COLOUR OR MORE VERTICALLY TO POP THEM AND CLEAR THE SCREEN. YOU CAN HOLD MULTIPLE BALLOONS OF THE SAME COLOUR AT ONCE AND CAUSE CONSECUTIVE COLLISIONS. THERE ARE SPECIAL BALLOONS THAT CANNOT BE REMOVED THAT EASILY AND POWER-UPS THAT CLEAR ENTIRE ROWS OR PROVIDE ADDITIONAL HELP.
+
+DEPENDING OF THE ORIGINATING COUNTRY, THERE ARE DIFFERENT GAME MODES:
+
+1. SURVIVAL: PLAY AS LONG AS YOU CAN - AN ENDLESS FLOW OF BALLOONS APPEARS AT A RAPIDLY INCREASING SPEED WHILE YOU MOVE UP LEVELS.
+
+2. PUZZLE: YOU HAVE A LIMITED TIME TO CLEAR A FIXED SET OF BALLOONS BEFORE TIME RUNS OUT.
+
+3. VS MODE: FIGHT THE CPU OR A FELLOW PLAYER IN A DIRECT SPLIT-SCREEN DUEL. EACH CHARACTER HAS SPECIFIC ITEM BALLOONS DURING GAMEPLAY.</desc>
+		<rating>0.55</rating>
+		<releasedate>19961124T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5E49132D</hash>
+		<image>./images/magdrop2.png</image>
+		<thumbnail>./boxart/magdrop2.png</thumbnail>
+		<marquee>./marquee/magdrop2.png</marquee>
+		<video>./snap/magdrop2.mp4</video>
+	</game>
+	<game id="13883" source="ScreenScraper.fr">
+		<path>./magdrop3.zip</path>
+		<name>Magical Drop III</name>
+		<desc>ESTA É A TERCEIRA PARTE DA SÉRIE DE QUEBRA-CABEÇAS MAGICAL DROP. NO JOGO, VOCÊ CONTROLA UM PALHAÇO QUE JOGA BOLINHAS NA TELA NO AGLOMERADO DE BOLINHAS, PEDRAS E CRISTAIS MULTICOLORIDOS. O OBJETIVO É OBTER TRÊS OU MAIS PEÇAS DA MESMA COR PARA REMOVER AS BOLINHAS, MAS VOCÊ TAMBÉM PODE PEGAR MAIS DE UMA NA HORA PARA CRIAR COMBOS E OBTER MELHORES BLOCOS "ESPECIAIS" NA PARTE SUPERIOR DA TELA.
+VOCÊ PODE JOGAR O JOGO NOS MODOS SINGLE PLAYER OU CONTRA UM AMIGO NO MODO VERSUS. NO MODO VERSUS, VOCÊ ESCOLHE SEU PERSONAGEM, MUITO PARECIDO COM UM JOGO DE LUTA, CADA UM COM SEUS PRÓPRIOS CONTRA-ATAQUES E HABILIDADES.</desc>
+		<rating>0.85</rating>
+		<releasedate>19970425T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<players>1-2</players>
+		<hash>7182F8DD</hash>
+		<image>./images/magdrop3.png</image>
+		<thumbnail>./boxart/magdrop3.png</thumbnail>
+		<marquee>./marquee/magdrop3.png</marquee>
+		<video>./snap/magdrop3.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37602" source="ScreenScraper.fr">
+		<path>./maglord.zip</path>
+		<name>Magician Lord</name>
+		<desc>MAGICIAN LORD PUTS YOU IN CHARGE OF ELTA, A WIZARD WHO HAS THE TASK OF COLLECTING EIGHT BOOKS OF WISDOM FROM THE CLUTCHES OF AZ ATORSE, THE GOD OF DESTRUCTION. BY COLLECTING THE RIGHT POWER-UPS ALONG THE WAY, YOU CAN TRANSFORM INTO DIFFERENT CHARACTERS, INCLUDING THE RAJIN, SAMURAI, WATERMAN, SHINOBI, POSEIDON, AND DRAGON WARRIOR. EACH CHARACTER HAS DIFFERENT ABILITIES. THERE ARE EIGHT AREAS IN THE GAME, AND EACH STAGE ENDS WITH YOU TRYING TO DEFEAT BOTH A GUARDIAN AND THE END-OF-AREA BOSS (WHICH ARE BASICALLY ATORSE'S INCARNATIONS). ONE OF THE FIRST GAMES THAT DEMONSTRATED THE GRAPHICAL ABILITIES OF THE NEO-GEO.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>688A06F1</hash>
+		<image>./images/maglord.png</image>
+		<thumbnail>./boxart/maglord.png</thumbnail>
+		<marquee>./marquee/maglord.png</marquee>
+		<video>./snap/maglord.mp4</video>
+	</game>
+	<game id="108990" source="ScreenScraper.fr">
+		<path>./mahretsu.zip</path>
+		<name>Mahjong Kyo Retsuden</name>
+		<desc>UM JOGO MAHJONG ONDE VOCÊ PODE CRIAR SEU PRÓPRIO ROSTO PARA SEU PERSONAGEM!</desc>
+		<rating>0</rating>
+		<releasedate>19900426T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>2743015A</hash>
+		<image>./images/mahretsu.png</image>
+		<thumbnail>./boxart/mahretsu.png</thumbnail>
+		<marquee>./marquee/mahretsu.png</marquee>
+		<video>./snap/mahretsu.mp4</video>
+	</game>
+	<game id="37604" source="ScreenScraper.fr">
+		<path>./mslug.zip</path>
+		<name>Metal Slug - Super Vehicle-001</name>
+		<desc>METAL SLUG, ORIGINALMENTE LANÇADO NO NEO GEO, É UM SIDE-SCROLLING SHOOT'EM'UP.NNNNO JOGADOR(ES) ASSUME O PAPEL DE UM SOLDADO (OU DOIS) E LUTA CONTRA UM GIGANTESCO EXÉRCITO. CADA NÍVEL CONSISTE EM CORRER PARA FRENTE E EXPLODIR TUDO O QUE SE MOVE, ENQUANTO COLETA POWER-UPS AO LONGO DO CAMINHO (HÁ TAMBÉM UMA GRANDE VARIEDADE DE ARMAS NO JOGO). NO FINAL DE CADA NÍVEL, O JOGADOR ENFRENTA UM CHEFE GIGANTESCO.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Nazca Corporation</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5A683B26</hash>
+		<image>./images/mslug.png</image>
+		<thumbnail>./boxart/mslug.png</thumbnail>
+		<marquee>./marquee/mslug.png</marquee>
+		<video>./snap/mslug.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37605" source="ScreenScraper.fr">
+		<path>./mslug2.zip</path>
+		<name>Metal Slug 2 - Super Vehicle-001/II</name>
+		<desc>COMO MARCO, ERI, TARMA OU FIO, VOCÊ DEVE DERROTAR O MALVADO GENERAL MORDEN E SEUS CAPANGAS. PARA FAZER ISSO, VOCÊ DEVE DERROTAR VÁRIOS INIMIGOS QUE FICAM NO SEU CAMINHO. AO LONGO DO JOGO, VOCÊ PODE COLETAR NOVAS ARMAS, INCLUINDO HEAVY MACHINE GUN, SHOT GUN, ROCKET LAUNCHER, FLAME SHOT, LASER SHOT, FLAME BOTTLES, AND ARMOR PIERCER. TAMBÉM ESPALHADOS POR TODO O JOGO, VOCÊ PODE ANDAR EM QUATRO VEÍCULOS DIFERENTES (CONHECIDOS COMO SLUGS), COMO O METAL SLUG, SLUG FLYER, SLUGNOID E CAMEL SLUG. AO USAR ESSES VEÍCULOS, VOCÊ PODE CAUSAR UMA DESTRUIÇÃO IMPRESSIONANTE CONTRA O EXÉRCITO MALIGNO DE MORDEN. OUTROS ITENS, COMO ENERGIA, MUNIÇÃO EXTRA E COMIDA (COMA DEMAIS E SEU JOGADOR GANHARÁ PESO) TAMBÉM SÃO ENCONTRADOS DURANTE O JOGO.</desc>
+		<rating>0.85</rating>
+		<releasedate>19980402T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>E1DB964B</hash>
+		<image>./images/mslug2.png</image>
+		<thumbnail>./boxart/mslug2.png</thumbnail>
+		<marquee>./marquee/mslug2.png</marquee>
+		<video>./snap/mslug2.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13852" source="ScreenScraper.fr">
+		<path>./mslug3.zip</path>
+		<name>Metal Slug 3</name>
+		<desc>NA TERCEIRA PARTE DA SÉRIE METAL SLUG, O GENERAL MORDEN ESTÁ DE VOLTA E ELE PLANEJA ESTABELECER UMA NOVA ORDEM MUNDIAL. VOCÊ GUIA UM DOS HERÓIS: MARCO, TARMA, ERI OU FIO ENQUANTO ELES ABREM CAMINHO ATRAVÉS DE NÍVEIS LATERAIS COM UM TEMA ÚNICO, REPLETO DE INCONTÁVEIS INIMIGOS E CHEFES DIFÍCEIS. VOCÊ TEM QUE LIBERTAR OS REFÉNS E VOCÊ PODE MONTAR VEÍCULOS BIZARROS, COMO CAMELOS, ELEFANTES, TANQUES E ROBÔS.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010917T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A6E4D5A1</hash>
+		<image>./images/mslug3.png</image>
+		<thumbnail>./boxart/mslug3.png</thumbnail>
+		<marquee>./marquee/mslug3.png</marquee>
+		<video>./snap/mslug3.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37606" source="ScreenScraper.fr">
+		<path>./mslug4.zip</path>
+		<name>Metal Slug 4</name>
+		<desc>O 5º EPISÓDIO DA MAIS FAMOSA SÉRIE DE TIRO DOS ARCADES TRAZ A JOGABILIDADE CLÁSSICA INALTERADA, UMA NOVA ARMA, 6 NOVOS VEÍCULOS, BEM COMO 2 NOVOS SOLDADOS PARA O PANTEÃO. A INTRODUÇÃO MAIS NOTÁVEL DA SÉRIE É O SISTEMA METALISH, DANDO AO JOGADOR UMA NOVA POSSIBILIDADE DE GANHAR MAIS PONTOS: DEPOIS DE PEGAR CERTOS EMBLEMAS EM FORMA DE ESCUDO, UMA BARRA DE CRONÔMETRO SERÁ EXIBIDA NA PARTE SUPERIOR DA TELA. DURANTE ESSE TEMPO, VOCÊ DEVE ATIRAR RAPIDAMENTE NO MAIOR NÚMERO DE INIMIGOS POSSÍVEL E, DEPENDENDO DA SUA ATUAÇÃO, VOCÊ RECEBERÁ UM BÔNUS CORRESPONDENTE A UM DISTINTIVO QUE SERÁ ADICIONADO À SUA PONTUAÇÃO APÓS COMPLETÁ-LO. QUANDO VOCÊ MORRE, O BÔNUS DESAPARECE.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020612T000000</releasedate>
+		<developer>MEGA Enterprise</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>94DCF726</hash>
+		<image>./images/mslug4.png</image>
+		<thumbnail>./boxart/mslug4.png</thumbnail>
+		<marquee>./marquee/mslug4.png</marquee>
+		<video>./snap/mslug4.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13871" source="ScreenScraper.fr">
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>A QUINTA EDIÇÃO DA MAIS FAMOSA SÉRIE DE TIRO DOS ARCADES TRAZ MUITAS MUDANÇAS: DESTA VEZ, VOCÊ NÃO ENFRENTARÁ O EXÉRCITO DE MORDEN COMO NOS JOGOS ANTERIORES, MAS UM NOVO GRUPO DE INIMIGOS QUE COMPÕE O JÁ MENCIONADO EXÉRCITO PTOLEMAICO. MAIS CONTEÚDO NESTE TÍTULO INCLUEM 3 ARMAS E 2 VEÍCULOS DE JOGOS PASSADOS FORAM REINCORPORADOS, ASSIM COMO 3 NOVOS VEÍCULOS. A ADIÇÃO MAIS IMPORTANTE É UM MOVIMENTO DESLIZANTE: PRESSIONAR O BOTÃO B AO FAZER O AGACHAMENTO FARÁ SEU PERSONAGEM DESLIZAR POR UM CURTO PERÍODO DE TEMPO NO SOLO. VOCÊ NÃO SERÁ CAPAZ DE LANÇAR GRANADAS, MAS SUA ARMA PODE SER DISPARADA NORMALMENTE.</desc>
+		<rating>0.85</rating>
+		<releasedate>20040217T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F3141BA2</hash>
+		<image>./images/mslug5.png</image>
+		<thumbnail>./boxart/mslug5.png</thumbnail>
+		<marquee>./marquee/mslug5.png</marquee>
+		<video>./snap/mslug5.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37607" source="ScreenScraper.fr">
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X - Super Vehicle-001</name>
+		<desc>METAL SLUG X É UMA VERSÃO ALTERNATIVA DO METAL SLUG 2. DIFERENTE DO PRIMEIRO JOGO DA FRANQUIA, METAL SLUG X PERMITE QUE VOCÊ ESCOLHA OS PERSONAGENS MARCO, TARMA, ERI E FIO.NNO GENERAL MORDEN DERROTADO POR MARCO E TARMA RESOLVE SE ALIAR A ALIENÍGENAS QUE VEM DO ESPAÇO E A SUA CONTÍNUA AMBIÇÃO DE CONQUISTAR O MUNDO.NNDURANTE AS MISSÕES DEVE-SE LIBERTAR OS PRISIONEIROS, ESTES OFERECEM ARMAS E EQUIPAMENTOS QUE PODEM SER USADOS NO COMBATE.NNSÃO 6 MISSÕES ATÉ O FINAL ONDE OS ALIENÍGENAS PRENDEM MORDEN E O EXÉRCITO SE UNE PARA DESTRUIR OS ALIENÍGENAS E LIBERTAR O GENERAL.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990527T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>7473C4C6</hash>
+		<image>./images/mslugx.png</image>
+		<thumbnail>./boxart/mslugx.png</thumbnail>
+		<marquee>./marquee/mslugx.png</marquee>
+		<video>./snap/mslugx.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87611" source="ScreenScraper.fr">
+		<path>./minasan.zip</path>
+		<name>Minasan no Okagesamadesu! Dai Sugoroku Taikai</name>
+		<desc>A DIFFICULT MAHJONG GAME WITH VERY ODD CHARACTERS AND BOARD GAME ELEMENTS. THIS IS BASED ON THE JAPANESE TV COMEDY SHOW 'MINASAN NO OKAGE DESU' CREATED BY THE JAPANESE COMEDY DUO 'TUNNELS', WHICH RAN ON FUJI TV FROM 1988-97. MANY OF THESE CHARACTERS APPEAR IN THE GAME.</desc>
+		<rating>0.2</rating>
+		<releasedate>19910721T000000</releasedate>
+		<developer>Monolith (Japan)</developer>
+		<publisher>Monolith (Japan)</publisher>
+		<hash>9531171F</hash>
+		<image>./images/minasan.png</image>
+		<thumbnail>./boxart/minasan.png</thumbnail>
+		<marquee>./marquee/minasan.png</marquee>
+		<video>./snap/minasan.mp4</video>
+	</game>
+	<game id="37643" source="ScreenScraper.fr">
+		<path>./spinmast.zip</path>
+		<name>Miracle Adventure</name>
+		<desc>AN EVIL DOCTOR HAS KIDNAPPED JOHN AND TOM'S FRIEND, MARY, AND HAS STOLEN THEIR TREASURE MAP. RESCUING MARY AND GETTING BACK ALL PIECES OF THE MAP TAKES THEM THROUGH 5 LEVELS OF ARCADE-STYLE JUMP'N SHOOT-ACTION.
+
+THERE ARE SEVERAL WEAPONS TO ACQUIRE, RANGING FROM A YO-YO (THE STANDARD WEAPON) TO BOMBS, ICICLES, MISSILES AND MORE. WEAPONS DIFFER IN RANGE, SHOOTING FREQUENCY, AND POWER, AND CAN BE SHOT IN ALL DIRECTIONS. EACH WEAPON ALSO HAS A UNIQUE CHARGEABLE ATTACK AS WELL AS A SUPER-ATTACK (WHICH USES UP ONE BOMB-SYMBOL).
+
+IT IS ALSO POSSIBLE TO JUMP ON ENEMIES OR PERFORM A SLIDING ATTACK.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940218T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<players>1-2</players>
+		<hash>77AE1810</hash>
+		<image>./images/spinmast.png</image>
+		<thumbnail>./boxart/spinmast.png</thumbnail>
+		<marquee>./marquee/spinmast.png</marquee>
+		<video>./snap/spinmast.mp4</video>
+	</game>
+	<game id="37603" source="ScreenScraper.fr">
+		<path>./miexchng.zip</path>
+		<name>Money Puzzle Exchanger</name>
+		<desc>MPE COMBINES THE GAMEPLAY MECHANICS OF THE MAGICAL DROP GAMES WITH SOME LIGHTNING-FAST COIN-COUNTING ADDITION--CALL IT "MATHICAL DROP." INSTEAD OF BUBBLES, MPE PLAYERS (MOST OF WHOM ARE PRESENTED AS SCHOOLCHILDREN IN PASTEL-COLORED FANTASY COSTUMES) STACK COINS THAT COMBINE TO MAKE HIGHER DENOMINATIONS--FIVE 1 COINS WILL TURN INTO A SINGLE 5, TWO 5'S BECOME A 10, FIVE 10'S TURN INTO 50 AND SO FORTH, ON UP TO 500 (TWO OF THOSE WILL DISAPPEAR COMPLETELY). ONE-PLAYER GAMES OFFER EITHER SOLO ENDURANCE ROUNDS OR MATCHES AGAINST A LADDER OF CPU OPPONENTS, BUT AS WITH MD, IT'S THE TWO-PLAYER MODE THAT MAKES THE GAME THE MOST FUN.</desc>
+		<rating>0.7</rating>
+		<releasedate>19971015T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>24EEF443</hash>
+		<image>./images/miexchng.png</image>
+		<thumbnail>./boxart/miexchng.png</thumbnail>
+		<marquee>./marquee/miexchng.png</marquee>
+		<video>./snap/miexchng.mp4</video>
+	</game>
+	<game id="13945" source="ScreenScraper.fr">
+		<path>./ganryu.zip</path>
+		<name>Musashi Ganryuki</name>
+		<desc>UM MÊS SE PASSOU DESDE QUE MUSASHI DERROTOU SEU INIMIGO JURADO, KOJIRO. MUSASHI ESTAVA A CAMINHO DE KYOTO, ONDE SUA AMADA OTSU ESTAVA ESPERANDO POR ELE. POR ESSA ÉPOCA, MUITOS SEQÜESTROS HAVIAM OCORRIDO POR UM MISTERIOSO GRUPO DE NINJAS, E OTSU ERA UMA DAS DESAPARECIDAS. QUAL É O VERDADEIRO PROPÓSITO DESSES NINJAS? A HORA DE LUTAR VEIO NOVAMENTE PARA MUSASHI !!
+VOCÊ DEVE GUIAR MUSASHI OU SUA IRMÃ, SUZAME, EM VÁRIOS LOCAIS, DERROTANDO UMA HORDA DE NINJAS COM APENAS UMA ESPADA. POWER-UPS DE ARMA E BÔNUS DE VIDA PODEM SER COLETADOS AO LONGO DO CAMINHO. VOCÊ PODE PULAR ALTO E USAR SEU GANCHO PARA PRENDER-SE E SUBIR EM ALGUNS TETOS, ALÉM DE SE PRENDER A OBJETOS DISTANTES. NO FINAL DE CADA LOCAL, VOCÊ DEVE DERROTAR UM GUARDIÃO PARA CONTINUAR O JOGO. CUT-SCENES SÃO VISTAS ENTRE OS LOCAIS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0DAFC364</hash>
+		<image>./images/ganryu.png</image>
+		<thumbnail>./boxart/ganryu.png</thumbnail>
+		<marquee>./marquee/ganryu.png</marquee>
+		<video>./snap/ganryu.mp4</video>
+	</game>
+	<game id="13896" source="ScreenScraper.fr">
+		<path>./mutnat.zip</path>
+		<name>Mutation Nation</name>
+		<desc>THE SLUM... AN AREA OF TOWN COMPLETELY FORGOTTEN. NO ONE COULD IMAGINE THE CRUELNESS SUFFERED BY INNOCENT PEOPLE WHO WERE TRANSFORMED INTO HORRIBLE MUTANT CREATURES BY GENETIC EXPERIMENTS. THEY HOVERED EVERYWHERE AND COMPLETELY TOOK CONTROL OF THE TOWN.
+
+MUTATION NATION IS A 1-2 PLAYER ACTION GAME WHERE YOU MUST CONTROL YOUR HERO AND BEAT UP ANY MUTANT THAT GETS IN YOUR WAY, BY EITHER USING YOUR FISTS OR ONE OF FOUR SPECIAL ATTACKS. A BOSS AT THE END OF EACH AREA NEEDS TO BE DEFEATED IF YOU WANT TO PROCEED FURTHER THROUGH THE GAME.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920417T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>71E66CFF</hash>
+		<image>./images/mutnat.png</image>
+		<thumbnail>./boxart/mutnat.png</thumbnail>
+		<marquee>./marquee/mutnat.png</marquee>
+		<video>./snap/mutnat.mp4</video>
+	</game>
+	<game id="13892" source="ScreenScraper.fr">
+		<path>./nam1975.zip</path>
+		<name>NAM-1975</name>
+		<desc>AS A SOLDIER, YOU AND/OR A FRIEND MUST TRAVEL THROUGH VIETNAM TO STOP THE SCIENTIST AND HIS WORLD DESTROYING LASER MACHINE. IN THE GAME, YOU MUST SHOOT ENEMY SOLDIERS, TANKS, HELICOPTERS, JEEPS, AND MORE BY AIMING THE MACHINE GUN CURSOR AND SHOOTING AT THEM. WITHIN EACH LOCATION, YOU CAN PICK UP MORE POWERFUL WEAPONS SUCH AS MACHINE GUNS AND FLAME THROWERS, BUT THESE HAVE A LIMITED SUPPLY OF AMMUNITION. PRESSING DOWN ON THE JOYSTICK WHILE RUNNING AT THE SAME TIME WILL CAUSE YOUR CHARACTER TO PERFORM A SOMERSAULT AND BE INVINCIBLE FOR A SECOND. AT THE END OF EVERY LOCATION, YOU WILL NEED TO DEFEAT A SERIES OF BOSSES, WHICH ARE NOT THE SAME EVERY PLAY. CUT-SCENES ARE VIEWED IN BETWEEN LOCATIONS, AND CONTAIN DRAMATIC DIGITIZED DIALOGUE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6C62D439</hash>
+		<image>./images/nam1975.png</image>
+		<thumbnail>./boxart/nam1975.png</thumbnail>
+		<marquee>./marquee/nam1975.png</marquee>
+		<video>./snap/nam1975.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13861" source="ScreenScraper.fr">
+		<path>./neobombe.zip</path>
+		<name>Neo Bomberman</name>
+		<desc>AS BOMBERMAN, YOU MUST KILL ALL THE ENEMIES IN THE LEVEL BEFORE PROCEEDING TO THE NEXT. TO DO THIS, YOU CLEAR A PATH OF BLOCKS BY SETTING BOMBS THAT WILL DETONATE A FEW SECONDS LATER, AND THEN USE THE BOMBS TO WIPE OUT ENEMIES. SOME BLOCKS WILL UNCOVER POWER-UPS, AND DEPENDING ON WHICH ONES YOU COLLECT, YOU WILL RECEIVE MORE BOMBS, MORE LIVES, MORE TIME, MANUAL BOMB DETONATION, EXPANDED BLAST ZONE, AND THE ABILITY TO MOVE FASTER. IN SOME LEVELS SOME BLOCKS WILL REVEAL EGGS THAT YOU CAN HATCH TO PRODUCE A BIRD THAT YOU CAN RIDE ON AND ALLOWS YOU TO TAKE AN ADDITIONAL HIT FROM AN ENEMY OR BOMB BLAST WITHOUT LOSING A LIFE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970105T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Hudson</publisher>
+		<players>1-4</players>
+		<hash>BBA2489B</hash>
+		<image>./images/neobombe.png</image>
+		<thumbnail>./boxart/neobombe.png</thumbnail>
+		<marquee>./marquee/neobombe.png</marquee>
+		<video>./snap/neobombe.mp4</video>
+	</game>
+	<game id="37610" source="ScreenScraper.fr">
+		<path>./neodrift.zip</path>
+		<name>Neo Drift Out - New Technology</name>
+		<desc>NEO DRIFT OUT ON NEO GEO IS A RALLY GAME INCLUDING 3 VEHICLES (TOYOTA CELICA, SUBARU IMPREZA AND MITSUBISHI LANCER) AND 6 RACES FOR MANY ENVIRONMENTS. THE DRIVING IS DONE EXCLUSIVELY BY DRIFTING AND EACH COURSE MUST BE COMPLETED WITHIN THE ALLOWED TIME IN ORDER TO REACH THE NEXT LEVEL.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>4B7D932D</hash>
+		<image>./images/neodrift.png</image>
+		<thumbnail>./boxart/neodrift.png</thumbnail>
+		<marquee>./marquee/neodrift.png</marquee>
+		<video>./snap/neodrift.mp4</video>
+	</game>
+	<game id="37611" source="ScreenScraper.fr">
+		<path>./neomrdo.zip</path>
+		<name>Neo Mr. Do!</name>
+		<desc>NEO MR. DO! É UMA VERSÃO APRIMORADA DO MR. DO!, E APRESENTA GRÁFICOS MELHORADOS, SOM ESTÉREO E INTERMISSÕES QUE PODEM SER VISUALIZADAS QUANDO UMA ÁREA É CONCLUÍDA. VOCÊ TAMBÉM PODE VIAJAR PARA AS FASES BÔNUS, ONDE O OBJETIVO É FAZER O SEU CAMINHO EM DIREÇÃO À SAÍDA, COLOCANDO CUIDADOSAMENTE AS MAÇÃS PARA CRIAR UM CAMINHO. ESTES ESTÁGIOS BÔNUS PODEM SER ALCANÇADOS MATANDO TODOS OS INIMIGOS NA TELA, AO INVÉS DE COLETAR TODOS OS ITENS QUE ESTÃO EM GRUPOS.</desc>
+		<rating>0.95</rating>
+		<releasedate>19970926T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Universal Interactive</publisher>
+		<players>1-2</players>
+		<hash>A41A80BD</hash>
+		<image>./images/neomrdo.png</image>
+		<thumbnail>./boxart/neomrdo.png</thumbnail>
+		<marquee>./marquee/neomrdo.png</marquee>
+		<video>./snap/neomrdo.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37609" source="ScreenScraper.fr">
+		<path>./neocup98.zip</path>
+		<name>Neo-Geo Cup '98 - The Road to the Victory</name>
+		<desc>NEO GEO CUP'98 É UM SIMULADOR DE FUTEBOL BASEADO NA COPA DO MUNDO DE 1998. ESTE TÍTULO É UMA NOVA PARCELA DA SÉRIE SUPER SIDEKICKS E ATUALIZA TODOS OS DADOS PARA FOCAR NO EVENTO. NA FASE DE QUALIFICAÇÃO OU DURANTE O MATA-MATA, LIDERE UMA DAS 64 EQUIPES DISPONÍVEIS PARA A VITÓRIA.</desc>
+		<rating>0.95</rating>
+		<releasedate>19980730T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6EA42747</hash>
+		<image>./images/neocup98.png</image>
+		<thumbnail>./boxart/neocup98.png</thumbnail>
+		<marquee>./marquee/neocup98.png</marquee>
+		<video>./snap/neocup98.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13956" source="ScreenScraper.fr">
+		<path>./nitd.zip</path>
+		<name>Nightmare in the Dark</name>
+		<desc>ESTA ERA UMA HISTÓRIA ANTIGA, QUANDO AS PESSOAS AINDA ACREDITAVAM EM BRUXARIA.NNNNLÁ VIVIA UM COVEIRO EM UMA ALDEIA MUITO PEQUENA EM UMA REGIÃO REMOTA. ELE VIVEU UMA VIDA TRANQUILA E SOLITÁRIA EM UM CANTO DO CEMITÉRIO. ELE SE MANTEVE LONGE DAS PESSOAS DA ALDEIA DEVIDO À SUA APARÊNCIA MUITO FEIA. UM DIA, ELE PERCEBEU QUE AS SEPULTURAS FORAM SAQUEADAS E ALGUNS CADÁVERES FORAM ROUBADOS. ELE NÃO QUERIA QUE AS PESSOAS DA ALDEIA DESCOBRISSEM, ENTÃO ELE DECIDIU ELIMINAR OS LADRÕES POR SI MESMO. ASSIM, ELE PATRULHAVA O CEMITÉRIO TODAS AS NOITES.NNNNEXISTEM CINCO FASES COM CINCO NÍVEIS CADA, E CADA UMA DELAS TEM VOCÊ JOGANDO BOLAS DE FOGO EM GHOULS, FANTASMAS, GOBLINS E ZUMBIS. QUANDO VOCÊ CONTINUA JOGANDO BOLAS DE FOGO NESSES INIMIGOS, ELES SE INCENDEIAM EM UMA BOLA DE FOGO GIGANTE, QUE VOCÊ PODE ATIRAR EM OUTROS INIMIGOS PARA MATÁ-LOS, E OBTER O TESOURO RESTANTE ANTES DE PASSAR PARA O PRÓXIMO NÍVEL. NO FINAL DO QUINTO NÍVEL, UM CHEFE DEVE SER DERROTADO PARA CONTINUAR O JOGO.</desc>
+		<rating>0</rating>
+		<releasedate>20010127T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>E7F0C7BF</hash>
+		<image>./images/nitd.png</image>
+		<thumbnail>./boxart/nitd.png</thumbnail>
+		<marquee>./marquee/nitd.png</marquee>
+		<video>./snap/nitd.mp4</video>
+	</game>
+	<game id="37608" source="ScreenScraper.fr">
+		<path>./ncombat.zip</path>
+		<name>Ninja Combat</name>
+		<desc>NINJA COMBAT PUTS YOU IN THE MIDDLE OF, YOU GUESSED IT, A NINJA INVASION! THE KAGE ICHIZOKU CLAN HAS CAUSED A GIANT TOWER TO APPEAR IN THE MIDDLE OF THE CITY, AND IT'S UP TO OUR HEROES JOE (PLAYER ONE) AND HAYABUSA (PLAYER TWO) TO TAKE THEM DOWN. BOTH CHARACTERS CAN ATTACK INCOMING ENEMIES BY USING SHURIKEN (THROWING STARS) WHICH CAN BE UPGRADED AND THEY CAN ALSO UNLEASH A FAIRLY STRONG SPECIAL ATTACK WHICH DESTROYS MANY ENEMIES ON THE SCREEN, OR DOES HEAVY DAMAGE TO THE BOSSES, BUT IT TAKES AWAY A QUARTER OF YOUR LIFE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>79FB3557</hash>
+		<image>./images/ncombat.png</image>
+		<thumbnail>./boxart/ncombat.png</thumbnail>
+		<marquee>./marquee/ncombat.png</marquee>
+		<video>./snap/ncombat.mp4</video>
+	</game>
+	<game id="13934" source="ScreenScraper.fr">
+		<path>./ncommand.zip</path>
+		<name>Ninja Commando</name>
+		<desc>THE MARS CORPORATION HAS CAUSED A PROBLEM IN THE TIME CONTINUUM, AND IT'S UP TO THE NINJA COMMANDOS TO GO AFTER SPIDER, LEADER OF THE MC, AND STOP HIS EVIL WORK.
+
+AS ONE OF THREE NINJA COMMANDOS, YOU MUST FIGHT YOUR OPPONENTS THROUGH DIFFERENT TIME PERIODS, SUCH AS THE PRIMITIVE AGE, THE EGYPTIAN ERA, AND THE JAPANESE CIVIL WAR ERA. EACH OF THE NINJA COMMANDOS HAVE THEIR OWN SPECIFIC STYLE OF ATTACK AND A SPECIAL "NINJA TRICK" SUPER POWER. BOXES AND OTHER STORAGE UNITS CAN BE BROKEN TO REVEAL POWER-UPS THAT UPGRADE YOUR WEAPONS. THE BOSSES ARE SUPER-POWERED HISTORICAL FIGURES AND INCLUDE A DINOSAUR, A MEDIEVAL SAMURAI, AN EGYPTIAN PHARAOH, ETC. CUT-SCENES OCCUR BETWEEN THE DIFFERENT TIME PERIODS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920529T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>E4BDDC23</hash>
+		<image>./images/ncommand.png</image>
+		<thumbnail>./boxart/ncommand.png</thumbnail>
+		<marquee>./marquee/ncommand.png</marquee>
+		<video>./snap/ncommand.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37612" source="ScreenScraper.fr">
+		<path>./ninjamas.zip</path>
+		<name>Ninja Master's - Haoh-ninpo-cho</name>
+		<desc>NINJA MASTER'S, IS SET IN THE FICTIONAL LAND OF "ZIPANGU". PLAYERS CAN SELECT FROM 10 DIFFERENT NINJAS AND WARRIORS WITH WHICH TO TEST THEIR MIGHT. THE MAIN FEATURE OF THIS GAME IS THE ABILITY FOR EACH CHARACTER TO USE A WIDE VARIETY OF WEAPONS. ALSO, AS EACH CHARACTER'S SUPER ATTACKS CHANGE DEPENDING ON WHETHER THEY ARE ARMED OR UNARMED, THE PLAYER NEEDS TO RESPOND DIFFERENTLY ACCORDING TO THE SITUATION. DAMAGE INCREASES WITH RESPECT TO THE SUPER POWER GAUGE. THERE ARE ALSO MANY MUST-SEE DEADLY TECHNIQUES LIKE "SUPER DEATH BLOW", "ULTIMATE SUPER MODE", "DARK SUPER POWER" AND "DARK COMBO!</desc>
+		<rating>0.7</rating>
+		<releasedate>19960628T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>005A5DA1</hash>
+		<image>./images/ninjamas.png</image>
+		<thumbnail>./boxart/ninjamas.png</thumbnail>
+		<marquee>./marquee/ninjamas.png</marquee>
+		<video>./snap/ninjamas.mp4</video>
+	</game>
+	<game id="13948" source="ScreenScraper.fr">
+		<path>./overtop.zip</path>
+		<name>Over Top</name>
+		<desc>IN 1991, ADK (THEN ALPHA TEAM) RELEASED THRASH RALLY FOR THE NEO GEO. WHILE FUN TO PLAY, IT WAS MOST NOTED FOR ITS WOEFULLY BAD GRAPHICS. FIVE YEARS LATER, ADK RELEASED ANOTHER "LOOK-OUT-FOR-THE-NEXT-TURN!" GAME CALLED OVERTOP. THIS TIME THEY GOT IT ALMOST ALL RIGHT: GREAT GRAPHICS, GOOD SOUNDS, LOTS OF VEHICLES, AND KEPT THE EXCELLENT PLAYABILITY OF ITS PREDECESSOR.</desc>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<players>1-2</players>
+		<hash>F704C9A4</hash>
+		<image>./images/overtop.png</image>
+		<thumbnail>./boxart/overtop.png</thumbnail>
+		<marquee>./marquee/overtop.png</marquee>
+		<video>./snap/overtop.mp4</video>
+	</game>
+	<game id="13933" source="ScreenScraper.fr">
+		<path>./panicbom.zip</path>
+		<name>Panic Bomber</name>
+		<desc>THAT ONE-PLAYER GAME CONSISTS IN FACING NINE OPPONENTS THROUGH DUELS WITH INDIVIDUAL SCREENS. EACH ONE IN HIS PLAYGROUND HAVE TO STACK BLOCKS COMPOSED OF THREE DIFFERENT COLORED HELMETS. LIKE TETRIS, IT IS POSSIBLE TO ROTATE, MOVE LEFT OR RIGHT OR ACCELERATE THE FALL OF THESE BLOCKS. STARTING FROM THREE IDENTICAL HELMETS LINED UP HORIZONTALLY, VERTICALLY OR DIAGONALLY, THEY EXPLODE AND GENERATE A BOMB IN THE PLAYGROUND. WHEN THEY DISAPPEAR, THEY CAN INITIATE CHAIN REACTIONS, FOR EXAMPLE WITH THE BLOCKS LYING ABOVE FALLING. AFTER A CERTAIN NUMBER OF REMOVED BLOCKS, COMES AN ACTIVATED BOMB: PLAYER HAVE TO PLACE IT IN ORDER TO MAKE THE MOST OF THESE BOMBS EXPLODE ON HIS TABLE.</desc>
+		<rating>0</rating>
+		<releasedate>19950118T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Hudson</publisher>
+		<players>1-2</players>
+		<hash>8DF16001</hash>
+		<image>./images/panicbom.png</image>
+		<thumbnail>./boxart/panicbom.png</thumbnail>
+		<marquee>./marquee/panicbom.png</marquee>
+		<video>./snap/panicbom.mp4</video>
+	</game>
+	<game id="37616" source="ScreenScraper.fr">
+		<path>./pnyaa.zip</path>
+		<name>Pochi to Nyaa</name>
+		<desc>A NICE PUZZLE GAME THAT IS PRETTY SIMILAR TO SUPER PUZZLE FIGHTER BUT DOESNT REACH THE SAME QUALITY LEVEL!</desc>
+		<rating>0.7</rating>
+		<releasedate>20031224T000000</releasedate>
+		<developer>Aiky</developer>
+		<publisher>Aiky</publisher>
+		<players>1-2</players>
+		<hash>F9CD83A0</hash>
+		<image>./images/pnyaa.png</image>
+		<thumbnail>./boxart/pnyaa.png</thumbnail>
+		<marquee>./marquee/pnyaa.png</marquee>
+		<video>./snap/pnyaa.mp4</video>
+	</game>
+	<game id="37914" source="ScreenScraper.fr">
+		<path>./matrim.zip</path>
+		<name>Power Instinct Matrimelee</name>
+		<desc>O REI DE CERTO PAÍS QUER ENCONTRAR UM DIGNO SUCESSOR PARA O TRONO E O MARIDO IDEAL PARA SUA FILHINHA (OU UMA MULHER BONITA E FORTE PARA SEU FILHO MAIS VELHO). ENTÃO ELE TEM UM TORNEIO DE LUTAS ONDE O PRÊMIO É A MÃO DA PRINCESA E A SUCESSÃO DO TRONO.</desc>
+		<rating>0.85</rating>
+		<releasedate>20030529T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6FEA7509</hash>
+		<image>./images/matrim.png</image>
+		<thumbnail>./boxart/matrim.png</thumbnail>
+		<marquee>./marquee/matrim.png</marquee>
+		<video>./snap/matrim.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37618" source="ScreenScraper.fr">
+		<path>./pspikes2.zip</path>
+		<name>Power Spikes II</name>
+		<desc>POWER SPIKES 2 ON NEO GEO IS A SPORT GAME IN WHICH YOU CONTROL ONE OF THREE CATEGORIES OF VOLLEYBALL TEAMS: MALE OR FEMALE INTERNATIONALS AND FUTURISTIC TEAMS. THE ENCOUNTERS ARE DIVIDED INTO THREE PHASES OF THE GAME: ATTACK, DEFENSE AND SERVICE. VARY THE ATTACKS BY THE PANOPLY OF SPECIAL MOVES AND ANTICIPATE YOUR OPPONENT TO COME OUT THE WINNER OF VARIOUS TOURNAMENTS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19941019T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Video System</publisher>
+		<players>1-2</players>
+		<hash>70A3C5C9</hash>
+		<image>./images/pspikes2.png</image>
+		<thumbnail>./boxart/pspikes2.png</thumbnail>
+		<marquee>./marquee/pspikes2.png</marquee>
+		<video>./snap/pspikes2.mp4</video>
+	</game>
+	<game id="13922" source="ScreenScraper.fr">
+		<path>./preisle2.zip</path>
+		<name>Prehistoric Isle 2</name>
+		<desc>THE SEQUEL TO "PREHISTORIC ISLE IN 1930", RELEASE MORE THAT 10 YEARS AFTER THE FIRST ONE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990927T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>7A83A3A9</hash>
+		<image>./images/preisle2.png</image>
+		<thumbnail>./boxart/preisle2.png</thumbnail>
+		<marquee>./marquee/preisle2.png</marquee>
+		<video>./snap/preisle2.mp4</video>
+	</game>
+	<game id="13876" source="ScreenScraper.fr">
+		<path>./pulstar.zip</path>
+		<name>Pulstar</name>
+		<desc>UMA AMEAÇA ALIENÍGENA PAIRA SOBRE A GALÁXIA E SÓ VOCÊ E SEU FIEL LUTADOR CONSEGUEM DERROTÁ-LOS.
+PULSTAR É UM SHOOTER DE ROLAGEM LATERAL 2D NO QUAL VOCÊ CONTROLA SUA NAVE ENQUANTO ELA PASSA POR ESTÁGIOS CHEIOS DE ONDAS APÓS ONDAS DE INIMIGOS EMPENHADOS EM SUA DESTRUIÇÃO. VOCÊ PODE ATUALIZAR SUAS ARMAS PRINCIPAIS COLETANDO POWER-UPS E RECARREGAR ENERGIA PARA LIBERAR ATAQUES CARREGADOS COM O CUSTO DE CONSUMO DE ENERGIA. ALÉM DISSO, SUA NAVE VEM COM UMA SEMPRE PRESENTE CÁPSULA DE "OPCIONAL" QUE FLUTUA EM TORNO DE SUA NAVE E QUE PODE SER POSICIONADA EM VÁRIAS POSIÇÕES PARA AJUDAR A PROTEGER A NAVE OU AUMENTAR SEU PODER DE FOGO.
+MESMO COMPLETAMENTE 2D, O JOGO USA SPRITES 3D PRÉ-RENDERIZADOS E INCLUI CUTSCENES TOTALMENTE ANIMADAS ENTRE CADA NÍVEL. TAMBÉM POSSUI SUPORTE PARA MODO COOPERATIVO.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A4A0EB88</hash>
+		<image>./images/pulstar.png</image>
+		<thumbnail>./boxart/pulstar.png</thumbnail>
+		<marquee>./marquee/pulstar.png</marquee>
+		<video>./snap/pulstar.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37619" source="ScreenScraper.fr">
+		<path>./puzzldpr.zip</path>
+		<name>Puzzle De Pon! R!</name>
+		<desc>THE GAME CONSISTS OF SHOOTING COLORED GLOBES TO MATCH AND REMOVE OTHER COLORED GLOBES OF THE SAME TYPE. VERY SIMILAR TO BUST-A-MOVE/PUZZLE BOBBLE, OTHER THAN THE FACT THAT YOU RECEIVE SPECIAL GLOBES. THERE ARE BOMBS (TO DESTROY SPIKED GLOBES), AIMING GLOBES (WHICH SHOW THE PATH OF FLIGHT IN THE FORM OF A DOTTED LINE), AND MAGIC GLOBES WHICH DESTROY ALL GLOBES OF THE COLOR IN WHICH IT TOUCHES.</desc>
+		<rating>0.4</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<players>1-2</players>
+		<hash>7F262B4E</hash>
+		<image>./images/puzzldpr.png</image>
+		<thumbnail>./boxart/puzzldpr.png</thumbnail>
+		<marquee>./marquee/puzzldpr.png</marquee>
+		<video>./snap/puzzldpr.mp4</video>
+	</game>
+	<game id="37620" source="ScreenScraper.fr">
+		<path>./puzzledp.zip</path>
+		<name>Puzzle De Pon!</name>
+		<desc>O JOGADOR ELIMINA AS BOLAS COLORIDAS NA TELA ATIRANDO BOLAS CONTRA OUTRAS BOLAS DA MESMA COR, O OBJETIVO DO JOGO NÃO É LIMPAR A TELA DAS BOLAS. EM VEZ DISSO, É NECESSÁRIO LIMPAR TODAS AS BOLAS AO REDOR DA FORMA DO NÍVEL, CONHECIDO COMO "DROP TOKEN". UMA VEZ QUE ESTA FORMA É LIBERADA, ELA EXPLODE E O JOGADOR VIAJA PARA O PRÓXIMO NÍVEL. EXISTEM 39 NÍVEIS NO JOGO, DIVIDIDOS EM GRUPOS DE TRÊS NÍVEIS. NOS DOIS PRIMEIROS NÍVEIS, A FORMA É ALGO GENÉRICO; NO TERCEIRO NÍVEL, A FORMA É UM SIGNO DO ZODÍACO, ATÉ O NÍVEL 36 (JÁ QUE HÁ 12 SINAIS). A FORMA DO NÍVEL 39 É O SÍMBOLO SOLAR.</desc>
+		<rating>0.85</rating>
+		<releasedate>19951128T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<players>1-2</players>
+		<hash>3E9F5BD1</hash>
+		<image>./images/puzzledp.png</image>
+		<thumbnail>./boxart/puzzledp.png</thumbnail>
+		<marquee>./marquee/puzzledp.png</marquee>
+		<video>./snap/puzzledp.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37626" source="ScreenScraper.fr">
+		<path>./rotd.zip</path>
+		<name>Rage of the Dragons</name>
+		<desc>ORIGINALMENTE CONCEBIDO PELO ESTÚDIO EVOGA PARA SER UMA CONTINUAÇÃO DO JOGO DE LUTA DOUBLE DRAGON DE 1995 (TRANSFORMANDO-O NUMA HOMENAGEM DEPOIS DE NÃO CONSEGUIR OS DIREITOS INTELECTUAIS DA SÉRIE), RAGE OF THE DRAGONS É UM JOGO DE LUTA DE DUPLAS DE 2 CONTRA 2, O MESMO ESTILO DE ARTE DO ANTIGO SENGOKU 3 DA NOISE FACTORY.NNNNA HISTÓRIA ENVOLVE VÁRIOS PARES DE ARTISTAS MARCIAIS E AQUELES COM PODERES SOBRENATURAIS, COM TODOS TENDO MOTIVAÇÕES PESSOAIS PARA LUTAR EM SUNSHINE CITY. ALGUNS DESSES LUTADORES APROVEITAM O PODER DOS ESPÍRITOS DO DRAGÃO (COM OS IRMÃOS BILLY E JIMMY LEWIS CONTROLANDO OS DRAGÕES AZUL E VERMELHO E O PRINCIPAL ANTAGONISTA, JOHANN, CONTROLANDO O DRAGÃO NEGRO).</desc>
+		<rating>0.7</rating>
+		<releasedate>20020920T000000</releasedate>
+		<developer>Evoga / Playmore</developer>
+		<publisher>Evoga / Playmore</publisher>
+		<players>1-2</players>
+		<hash>78B26847</hash>
+		<image>./images/rotd.png</image>
+		<thumbnail>./boxart/rotd.png</thumbnail>
+		<marquee>./marquee/rotd.png</marquee>
+		<video>./snap/rotd.mp4</video>
+	</game>
+	<game id="37569" source="ScreenScraper.fr">
+		<path>./bjourney.zip</path>
+		<name>Raguy</name>
+		<desc>O PLANETA DE RAGUY JÁ FOI BELO E PACÍFICO, MAS TODO O INFERNO COMEÇOU QUANDO FOI INVADIDO PELA TRIBO DARUMA. A POLUIÇÃO COMEÇOU A SE ESPALHAR PELA CIDADE. BLUE FOI CONVOCADO PARA SE LIVRAR DA TRIBO DARUMA E SALVAR RAGUY DO IMPÉRIO DARUMA, QUE TRANSFORMOU OS HABITANTES EM ESCRAVOS.
+
+VOCÊ CONTROLA BLUE, QUE TEM APENAS UMA ARMA PARA LIDAR COM OS DARUMAS. VOCÊ PODE USAR SUA FOLHA PARA CHICOTEAR E COLOCAR OS INIMIGOS DE CABEÇA PARA BAIXO E ARREMESSAR ESSES INIMIGOS NOS OUTROS. AO LONGO DO CAMINHO, VOCÊ PODE OBTER FLORES PARA USAR NA LOJA PARA COMPRAR ITENS QUE IRÃO AJUDÁ-LO AO LONGO DO CAMINHO. ESSES ITENS INCLUEM MEL DE FLORES (AUMENTA A RESISTÊNCIA), NADADEIRAS (NATAÇÃO MAIS FÁCIL), LUZ SEGURA (PROTEGE TODOS OS SEUS ITENS), ESTACAS E OCARINAS. MAIS TARDE NO JOGO, VOCÊ TAMBÉM PODE FAZER O LOJISTA CANTAR UMA MÚSICA PARA VOCÊ. ISSO AJUDA VOCÊ A QUEBRAR MALDIÇÕES QUE SÃO COLOCADAS EM VOCÊ POR UMA BRUXA. VOCÊ TAMBÉM VAI INTERAGIR COM OUTROS PERSONAGENS AO LONGO DO CAMINHO QUE TAMBÉM PODEM AJUDÁ-LO SE VOCÊ DISSER A VERDADE.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>4C9AAB88</hash>
+		<image>./images/bjourney.png</image>
+		<thumbnail>./boxart/bjourney.png</thumbnail>
+		<marquee>./marquee/bjourney.png</marquee>
+		<video>./snap/bjourney.mp4</video>
+	</game>
+	<game id="37623" source="ScreenScraper.fr">
+		<path>./rbff2.zip</path>
+		<name>Real Bout Garou Densetsu 2 - The Newcomers</name>
+		<desc>A SÉRIE DE LUTA FATAL FURY DA SNK CHEGA AO SEU 7º EPISÓDIO TRAZENDO MUITAS "INOVAÇÕES" E ALGUMAS MUDANÇAS SIGNIFICATIVAS, A COMEÇAR PELOS PERSONAGENS: TODOS OS 20 LUTADORES DO JOGO ANTERIOR RETORNAM COM NOVOS SPRITES E FASES COMPLETAMENTE REDESENHADAS, BEM COMO ALGUNS MOVIMENTOS REMODELADOS (OU NOVOS).NNNNO TRADICIONAL SISTEMA DE COMBATE VEM COM MODIFICAÇÕES SENSÍVEIS, COMO A REMOÇÃO DO "RANK SYSTEM" (SSS, SS, S, AAA ETC.) E OBJETOS QUEBRÁVEIS NO SOLO. O SISTEMA DE JOGO USANDO 2 PLANOS DE BATALHA (PRIMEIRO PLANO /  PLANO DE FUNDO) PERMANECE SEMI-INTACTO, PORQUE AGORA ALGUNS CAMPOS DE BATALHA (COMO O PALCO DE CHENG SINZAN) USAM UM ÚNICO PLANO, FORÇANDO OS JOGADORES A USAR APENAS A DEFESA BÁSICA PARA EVITAR ATAQUES.NNNNMAS A PRINCIPAL ADIÇÃO DESTE TÍTULO (E A RAZÃO PARA O SUBTÍTULO "THE NEWCOMERS") SÃO DOIS NOVOS PERSONAGENS PARA O ELENCO PRINCIPAL DE FATAL FURY: RICK STROWD, UM MISTERIOSO LUTADOR COM UM ESTILO DE LUTA PARTICULAR E LI XIANGFEI, UMA JOVEM MULHER CHINESA LUTADORA DE ARTES MARCIAIS.</desc>
+		<rating>0.95</rating>
+		<releasedate>19980429T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BA7BFD9F</hash>
+		<image>./images/rbff2.png</image>
+		<thumbnail>./boxart/rbff2.png</thumbnail>
+		<marquee>./marquee/rbff2.png</marquee>
+		<video>./snap/rbff2.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37624" source="ScreenScraper.fr">
+		<path>./rbffspec.zip</path>
+		<name>Real Bout Garou Densetsu Special</name>
+		<desc>ESTA É CONTINUAÇÃO DE REAL BOUT FATAL FURY, COM A QUAL A SÉRIE CHEGOU A SEU SEXTO TÍTULO, NESTA TEMOS 20 PERSONAGENS TERRY BOGARD, ANDY BOGARD, JOE HIGASHI, MAI SHIRANUI, TUNG FU RUE, CHENG CHINZAN E LAURENCE BLOOD, WOLFGANG KRAUSER, DUCK KING, KIM KAPHWAN, BLUE MARY, HON-FU, BOB WILSON, MOKIZUKI SOKAKU, FRANCO BASH, RYUJI YAMAZAKI, JIN CHONSHU, JIN CHONREI, BILLY KANE E GEESE HOWARD E SEUS SPRITES SÃO 100% REMODELADOS.NNALÉM DISSO, O JOGO MANTÉM A CAPACIDADE DE DESTRUIR ALGUMAS COISAS DA ZONA DE LUTA.</desc>
+		<rating>0.95</rating>
+		<releasedate>19970228T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F5786CB0</hash>
+		<image>./images/rbffspec.png</image>
+		<thumbnail>./boxart/rbffspec.png</thumbnail>
+		<marquee>./marquee/rbffspec.png</marquee>
+		<video>./snap/rbffspec.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37622" source="ScreenScraper.fr">
+		<path>./rbff1.zip</path>
+		<name>Real Bout Garou Densetsu</name>
+		<desc>O QUARTO TÍTULO DA SÉRIE FATAL FURY. AGORA, VOCÊ PODE DESTRUIR OBJETOS DA CENA DA LUTA E OS LUTADORES DE "FATAL FURY 2" ESTÃO DE VOLTA À LISTA: TERRY BOGARD, ANDY BOGARD, JOE HIGASHI, FRANCO BASH, MAI SHIRANUI, BOB WILSON, GEESE HOWARD, BILLY KANE, HON-FU, RYUJI YAMAZAKI, SOKAKU MOCHIZUKI, BLUE MARY, KIM KAPHWAN, JIN CHONREI, JIN CHONSHU E DUCK KING.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960126T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>19ED77FB</hash>
+		<image>./images/rbff1.png</image>
+		<thumbnail>./boxart/rbff1.png</thumbnail>
+		<marquee>./marquee/rbff1.png</marquee>
+		<video>./snap/rbff1.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37625" source="ScreenScraper.fr">
+		<path>./ridhero.zip</path>
+		<name>Riding Hero</name>
+		<desc>UM JOGO DE ESPORTES COM TONS DE RPG. COM TRÊS MODOS DE JOGO: MODO DE HISTÓRIA, ARCADE E MULTIPLAY. EMBORA O PRATO PRINCIPAL SE CONCENTRE NO MODO HISTÓRIA, NO QUAL NOS COLOCAREMOS NO LUGAR DE UM JOVEM PILOTO NOVATO, COM POUCOS RECURSOS CUJO OBJETIVO SERÁ DERROTAR DIAMOND DAVE, O PILOTO MAIS HABILIDOSO E RÁPIDO DA CIDADE. PARA ISSO, DEVEMOS COMPETIR CONTRA ADVERSÁRIOS CADA VEZ MAIS RÁPIDOS, E ASSIM GANHAR DINHEIRO SUFICIENTE PARA COMPRAR UMA MOTOCICLETA MAIS POTENTE, OU MELHORÁ-LA CORRIDA APÓS CORRIDA.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0788F3F2</hash>
+		<image>./images/ridhero.png</image>
+		<thumbnail>./boxart/ridhero.png</thumbnail>
+		<marquee>./marquee/ridhero.png</marquee>
+		<video>./snap/ridhero.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13918" source="ScreenScraper.fr">
+		<path>./roboarmy.zip</path>
+		<name>Robo Army</name>
+		<desc>A MAD SCIENTIST DECIDES TO CREATE AN ARMY OF ROBOTS TO DESTROY THE CITY, CAPTURE ALL THE CITIZENS, AND USE THEIR BRAINS FOR MORE ROBOTS TO TAKE OVER THE WORLD. YOU CONTROL ONE OF TWO ROBOTS WHO USE ITS FISTS AND SPECIAL ATTACKS TO TAKE ON THE ARMY THROUGHOUT A JUNGLE STAGE AND VARIOUS BUILDINGS IN THE DESTROYED CITY. ROBOTS AND ROBOT DOGS SOMETIMES LEAVE ARMS OR METAL BARS THAT CAN BE USED AS WEAPONS. AT THE END OF EACH AREA, YOU NEED TO DEFEAT A BOSS IN ORDER TO PROCEED TO THE NEXT AREA.</desc>
+		<rating>0.7</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>EF3C5555</hash>
+		<image>./images/roboarmy.png</image>
+		<thumbnail>./boxart/roboarmy.png</thumbnail>
+		<marquee>./marquee/roboarmy.png</marquee>
+		<video>./snap/roboarmy.mp4</video>
+	</game>
+	<game id="37566" source="ScreenScraper.fr">
+		<path>./aof2.zip</path>
+		<name>Ryuuko No Ken 2</name>
+		<desc>NESTA SEQUÊNCIA DO ART OF FIGHTING ORIGINAL, E PREQUELA PARA O FATAL FURY ORIGINAL, FICAMOS SABENDO QUE O MR. KARATE, O CHEFE FINAL DO JOGO ORIGINAL, POR DE TRÁS DA MÁSCARA, É REALMENTE TAKUMA SAKAZAKI, PAI DE RYO E YURI, QUE ESTAVA SENDO USADO POR GEESE HOWARD PARA SUAS PRÓPRIAS MÁS INTENÇÕES, E QUE O MR. BIG FOI QUEM HAVIA SEQUESTRADO YURI.NNNNMUITOS DOS PROBLEMAS QUE EXISTIAM NO PRIMEIRO JOGO FORAM CORRIGIDOS NESTA EDIÇÃO (É MAIS FÁCIL EXECUTAR MOVIMENTOS ESPECIAIS, VOCÊ NÃO TEM MAIS APENAS RYO OU ROBERT PARA ESCOLHER NO MODO 1 JOGADOR, ETC.).NNNNTODO O ELENCO DO PRIMEIRO ART OF FIGHTING ESTÁ AQUI (COM AS EXCEÇÕES DE TODO E MR. KARATE), JUNTO COM ALGUNS NOVOS PERSONAGENS: TAKUMA SAKAZAKI, PAI DE RYO E YURI; YURI SAKAZAKI, FILHA DE TAKUMA E IRMÃ DE RYO; EIJI KISARAGI, UM INIMIGO JURADO DOS SAKAZAKIS; TEMJIN, UM CAMINHONEIRO MONGOL; E UMA VERSÃO MAIS NOVA DE GEESE HOWARD, A QUEM VOCÊ ENFRENTA COMO O ÚLTIMO CHEFE SE VOCÊ VENCER O JOGO SEM PERDER UMA RODADA.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940311T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>AC57619B</hash>
+		<image>./images/aof2.png</image>
+		<thumbnail>./boxart/aof2.png</thumbnail>
+		<marquee>./marquee/aof2.png</marquee>
+		<video>./snap/aof2.mp4</video>
+	</game>
+	<game id="37567" source="ScreenScraper.fr">
+		<path>./aof3.zip</path>
+		<name>Ryuuko no Ken Gaiden</name>
+		<desc>NESTE TERCEIRO E ÚLTIMO ATO DA SÉRIE ART OF FIGHTING, A HISTÓRIA MUDA DE RYO SAKAZAKI PARA SEU MELHOR AMIGO E RIVAL, ROBERT GARCIA, QUANDO ELE SE AVENTURA NO MÉXICO PARA TENTAR LOCALIZAR FREIA LAWRENCE, UMA AMIGA DE INFÂNCIA, QUE PEDIU SUA AJUDA. NO ENTANTO, ELE DEIXA SEM O CONSENTIMENTO DA FUNDAÇÃO GARCIA, QUE ENVIA UM AGENTE CHAMADO KARMAN COLE PARA RECUPERÁ-LO. MAS NEM TUDO É TÃO SIMPLES COMO PARECE ... PORQUE ROBERT NÃO É O ÚNICO A PROCURAR POR FREIA.NNNNART OF FIGHTING 3: THE PATH OF THE WARRIOR (O CAMINHO DO GUERREIRO) POSSUI DEZ PERSONAGENS JOGÁVEIS COM DIFERENTES ESTILOS DE LUTA, UM SISTEMA DE LUTA COMPLETAMENTE NOVO BASEADO EM COMBINAÇÕES DE JOYSTICK E BOTÃO, E GRÁFICOS E ANIMAÇÕES INCRIVELMENTE DETALHADOS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19960426T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>8536D88E</hash>
+		<image>./images/aof3.png</image>
+		<thumbnail>./boxart/aof3.png</thumbnail>
+		<marquee>./marquee/aof3.png</marquee>
+		<video>./snap/aof3.mp4</video>
+	</game>
+	<game id="37565" source="ScreenScraper.fr">
+		<path>./aof.zip</path>
+		<name>Ryuuko No Ken</name>
+		<desc>O ENREDO DE ART OF FIGHTING TEM LUGAR EM 1978. RYO SAKAZAKI E ROBERT GARCIA PARTEM PARA ENCONTRAR A IRMÃ DE RYO, YURI, QUE FOI SEQUESTRADA POR MR. BIG. MR. BIG LEVOU YURI PARA ATRAIR TAKUMA SAKAZAKI, PAI DE RYO E CRIADOR DO KARATÊ KYOKUGEN, E TAMBÉM PORQUE RYO SE RECUSOU A TRABALHAR PARA BIG. DEPOIS QUE RYO E ROBERT DERROTAM MR. BIG, ELES ENFRENTAM O ENIGMÁTICO MR. KARATE. A HISTÓRIA DE ART OF FIGHTING TERMINA COM UMA REVIRAVOLTA; YURI ESTÁ PRESTES A REVELAR A VERDADEIRA IDENTIDADE DO MR. KARATE COMO SENDO SEU PAI TAKUMA.</desc>
+		<rating>0.75</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>563C1A54</hash>
+		<image>./images/aof.png</image>
+		<thumbnail>./boxart/aof.png</thumbnail>
+		<marquee>./marquee/aof.png</marquee>
+		<video>./snap/aof.mp4</video>
+	</game>
+	<game id="37629" source="ScreenScraper.fr">
+		<path>./samsho.zip</path>
+		<name>Samurai Shodown / Samurai Spirits</name>
+		<desc>NO INÍCIO DO JAPÃO, UM HOMEM CHAMADO SHIRO TOKISADA AMAKUSA PREGA UMA RELIGIÃO HERÉTICA. POUCO SABE ALGUÉM QUE AMAKUSA É REALMENTE UM SERVO DO MAL AMBROSIA, QUE ASSUMIU O CORPO DE AMAKUSA. AMBROSIA DESEJA ENCOBRIR O MUNDO NA ESCURIDÃO.NNAGORA, ESCOLHA ENTRE 12 GUERREIROS (E 3 PERSONAGENS BÔNUS) PARA LUTAR PELA HONRA DE DESTRUIR AMAKUSA E CUMPRIR UMA MISSÃO.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930811T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A72AB80E</hash>
+		<image>./images/samsho.png</image>
+		<thumbnail>./boxart/samsho.png</thumbnail>
+		<marquee>./marquee/samsho.png</marquee>
+		<video>./snap/samsho.mp4</video>
+	</game>
+	<game id="37632" source="ScreenScraper.fr">
+		<path>./samsho4.zip</path>
+		<name>Samurai Spirits - Amakusa Kourin</name>
+		<desc>TRAZENDO UM NOVO FÔLEGO PARA A SÉRIE DE LUTA DE ESPADACHINS DA SNK, ESTA 4ª EDIÇÃO MARCA O RETORNO DE 3 PERSONAGENS CLÁSSICOS (YAGYU JUBEI, CHARLOTTE E TAM TAM, AGORA COM MATERIAL ATUALIZADO), APRESENTA 2 PERSONAGENS RECÉM-CHEGADOS AO PANTEÃO (OS IRMÃOS SOGETSU KAZAMA E KAZUKI KAZAMA) E TRAZ ALGUNS NOVOS CENÁRIOS.NNNNAPESAR DESSAS PEQUENAS MELHORIAS, O JOGO PRESERVOU (E MELHOROU MUITO) MUITOS ELEMENTOS QUE FIZERAM O ANTERIOR (SAMURAI SHODOWN III) UM TÍTULO BASTANTE POPULAR, COMO O MOVIMENTO "DODGE" E A CHANCE DE ESCOLHER ENTRE DUAS VERSÕES DO LUTADOR: O PADRÃO E UM ESTILO "OBSCURO" ALTERNATIVO (SLASH E BUST, RESPECTIVAMENTE).NNNNCOM A INTENÇÃO DE FORNECER MAIS AÇÃO NAS BATALHAS, OS MOVIMENTOS "NO CONTEST" FORAM INTRODUZIDOS: TRABALHANDO DE MANEIRA SIMILAR (E SOB CERTAS CONDIÇÕES) AOS MUITOS JOGOS DA SÉRIE MORTAL KOMBAT, SEU LUTADOR EXECUTARÁ UM MOVIMENTO DE ABATE FINAL EM UM OPONENTE ATORDOADO.</desc>
+		<rating>0.95</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A59313E8</hash>
+		<image>./images/samsho4.png</image>
+		<thumbnail>./boxart/samsho4.png</thumbnail>
+		<marquee>./marquee/samsho4.png</marquee>
+		<video>./snap/samsho4.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37631" source="ScreenScraper.fr">
+		<path>./samsho3.zip</path>
+		<name>Samurai Spirits - Zankurou Musouken</name>
+		<desc>OS 12 SAMURAIS (E NINJAS) DA ELITE ESTÃO DE VOLTA, DESTA VEZ PARA RESPONDER À AMEAÇA DO DEMÔNIO ZANKURO, MINAZUKI. O ESPADACHIM POSSUÍDO MASSACROU BRUTALMENTE INOCENTES EM SEU CAMINHO, MAS NÃO CONSEGUIU ERGUER SUA LÂMINA PARA OS GRITOS DE UM BEBÊ INOCENTE. JURANDO NUNCA MAIS DERRAMAR SANGUE INOCENTE, ELE TEM COMO ALVO AQUELES QUE VIVEM PELO CAMINHO DA ESPADA ... MAS AGORA O CAÇADOR SE TORNA O CAÇADO. O TERCEIRO JOGO NA SÉRIE SAMURAI SHODOWN APRESENTA DUAS TÉCNICAS DIFERENTES PARA CADA PERSONAGEM. AS TÉCNICAS DE "SLASH" SÃO OS MOVIMENTOS ORIGINAIS DA MAIORIA DOS PERSONAGENS, ENQUANTO AS TÉCNICAS DE "BUST" PODEM SER A VERSÃO "OBSCURA" DE CADA PERSONAGEM.</desc>
+		<rating>0.85</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>8B7814A0</hash>
+		<image>./images/samsho3.png</image>
+		<thumbnail>./boxart/samsho3.png</thumbnail>
+		<marquee>./marquee/samsho3.png</marquee>
+		<video>./snap/samsho3.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37628" source="ScreenScraper.fr">
+		<path>./samsh5sp.zip</path>
+		<name>Samurai Spirits Zero Special</name>
+		<desc>SAMURAI SHODOWN V SPECIAL, CONHECIDO COMO SAMURAI SPIRITS ZERO SPECIAL NO JAPÃO, É O NONO JOGO DA SÉRIE DE JOGOS DE LUTA SAMURAI SHODOWN, DESENVOLVIDA PELA SNK. ESTE JOGO É UMA VERSÃO ATUALIZADA DO JOGO TITULADO COMO SAMURAI SHODOWN V, E É O ÚLTIMO JOGO OFICIAL DESENVOLVIDO PARA A PLATAFORMA NEO GEO.NNNNAO CONTRÁRIO DE SAMURAI SHODOWN V, A HISTÓRIA DESTA VERSÃO ATUALIZADA TEVE UM PEQUENO PAPEL NO JOGO ATRAVÉS DE SOMENTE FALAS DOS PERSONAGENS DE VITÓRIA. HÁ UM PEQUENO DIÁLOGO QUE SE ENCONTRA EXCLUSIVO À VERSÃO JAPONESA, ONDE ERA EXECUTADO QUANDO O PERSONAGEM DO JOGADOR EXECUTAVA O SEU ZETSUMEI OUGI. A VERSÃO EM INGLÊS SIMPLESMENTE USA SUAS FALAS DE VITÓRIA NORMAIS, DEPENDENDO DE QUANTOS PONTOS DE VIDA RESTAVAM.</desc>
+		<rating>0.75</rating>
+		<releasedate>20040709T000000</releasedate>
+		<developer>Yuki Enterprise / SNK Playmore</developer>
+		<publisher>Yuki Enterprise / SNK Playmore</publisher>
+		<players>1-2</players>
+		<hash>399058F6</hash>
+		<image>./images/samsh5sp.png</image>
+		<thumbnail>./boxart/samsh5sp.png</thumbnail>
+		<marquee>./marquee/samsh5sp.png</marquee>
+		<video>./snap/samsh5sp.mp4</video>
+	</game>
+	<game id="37633" source="ScreenScraper.fr">
+		<path>./samsho5.zip</path>
+		<name>Samurai Spirits Zero</name>
+		<desc>SETE ANOS APÓS O QUARTO JOGO DA SÉRIE, SAMURAI SHODOWN RETORNA. NO PERÍODO DE TEMPO DO JOGO, ESTE SE PASSA ANTES DO PRIMEIRO JOGO, DAÍ O TÍTULO JAPONÊS SAMURAI SPIRITS ZERO. ACONTECE EM 1786 DE JANEIRO ATÉ O FINAL DO VERÃO. O JOGO É, PORTANTO, CONSIDERADO UMA PREQUELA PARA A SÉRIE.NNNNA JOGABILIDADE GERAL FOI LIGEIRAMENTE ALTERADA. É UM POUCO MAIS RÁPIDO E O SISTEMA SLASH / BUST FOI REMOVIDO. CADA PERSONAGEM AGORA TEM APENAS UMA VERSÃO, OU O MODO BUST É SIMPLESMENTE SUBSTITUÍDO POR UM NOVO PERSONAGEM DE CONFIGURAÇÃO MUITO SEMELHANTE. BARRAS DE COMBINAÇÃO, ESQUIVAS E "FATALITIES" TAMBÉM DESAPARECERAM. OS MOVIMENTOS BÁSICOS FORAM MODELADOS APÓS OS PRIMEIROS JOGOS DA SÉRIE. ELES CONSISTEM EM TRÊS TIPOS DE BARRAS, UM ÚNICO CHUTE E VÁRIAS MANOBRAS DE ESQUIVA SEMELHANTES A SAMURAI SHODOWN II.NNNNEXISTEM 24 PERSONAGENS, UM ELENCO FAMILIAR COM ALGUNS NOVOS ROSTOS. AO CONTRÁRIO DOS JOGOS ANTERIORES, NÃO É POSSÍVEL MATAR O SEU ADVERSÁRIO.</desc>
+		<rating>0.95</rating>
+		<releasedate>20031211T000000</releasedate>
+		<developer>Yuki Enterprise / SNK Playmore</developer>
+		<publisher>Yuki Enterprise / SNK Playmore</publisher>
+		<players>1-2</players>
+		<hash>9FE9C26D</hash>
+		<image>./images/samsho5.png</image>
+		<thumbnail>./boxart/samsho5.png</thumbnail>
+		<marquee>./marquee/samsho5.png</marquee>
+		<video>./snap/samsho5.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37636" source="ScreenScraper.fr">
+		<path>./sengoku2.zip</path>
+		<name>Sengoku Denshou 2</name>
+		<desc>A SEQUEL TO SENGOKU, SENGOKU 2 ONCE AGAIN CASTS YOU AS TWO STREET FIGHTING HEROES CAUGHT IN THE MIDST OF A SUPERNATURAL ATTACK BY THE UNDEAD FORCES OF THE EVIL NOBUNAGA FROM THE JAPANESE SENGOKU PERIOD, ALTHOUGH THIS TIME THE GAME WARPS YOU THROUGH SEVERAL TIME PERIODS AND LOCATIONS TO FIGHT EVIL, FROM FEUDAL JAPAN TO WWII EUROPE.
+
+AS IN THE ORIGINAL, THE GAME PLAYS AS A STANDARD 2D SIDE-SCROLLING BEAT 'EM UP, IN WHICH YOU HAVE TO PROCEED THROUGH EACH STAGE KILLING ALL ENEMIES THAT CROSS YOUR PATH AND DEFEATING THE STAGE BOSS TO PROCEED. NEW FOR THE SEQUEL IS THE INCLUSION OF SWORDS AS YOUR DEFAULT WEAPONS, WHICH NOW FEATURE BOTH HIGH AND LOW ATTACKS, AS WELL AS A BLOCK MOVE THAT ALLOWS YOU TO PARRY ENEMY ATTACKS. COLLECTING ORBS GIVES YOU WEAPON UPGRADES AND ENERGY ATTACKS, AS WELL AS THE ABILITY TO MORPH INTO ANY OF THE THREE SPIRITS RELEASED IN THE ORIGINAL WHICH GIVE YOU A NEW ARSENAL OF MOVES AND POWERS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930409T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B2056D61</hash>
+		<image>./images/sengoku2.png</image>
+		<thumbnail>./boxart/sengoku2.png</thumbnail>
+		<marquee>./marquee/sengoku2.png</marquee>
+		<video>./snap/sengoku2.mp4</video>
+	</game>
+	<game id="37637" source="ScreenScraper.fr">
+		<path>./sengoku3.zip</path>
+		<name>Sengoku Denshou 2001</name>
+		<desc>THE THIRD GAME IN THE SENGOKU SERIES OF BEAT 'EM UPS, SENGOKU 3 ONCE AGAIN PITS YOU AND A FRIEND AGAINST THE UNDEAD FORCES OF NOBUNAGA, HOWEVER THIS TIME YOU CAN FREELY SELECT FROM A GROUP OF DIFFERENT CHARACTERS EACH WITH THEIR OWN WEAPONS AND ABILITIES, AS WELL AS CHOOSE WHICH LOCATION IN THE WORLD (OR LEVEL) TO TACKLE WHENEVER YOU WANT.
+
+THE GAME INCORPORATES A MORE COMPLEX FIGHTING SYSTEM SIMILAR TO A ONE-ON-ONE FIGHTING GAME, BY GIVING PLAYERS DIFFERENT ATTACK BUTTONS, SPECIAL MOVES BASED ON DIRECTIONAL INPUTS, COMBOS AND EVEN A SUPER BAR USED TO UNLEASH DEVASTATING SUPER MOVES. YOU CANNOT CHANGE WEAPONS OR TRANSFORM INTO OTHER CHARACTERS AS IN THE PREVIOUS GAMES, BUT YOU CAN ACQUIRE DIFFERENT RANGED WEAPONS FOR ADDITIONAL ATTACKS AS WELL AS UNLOCK CERTAIN BOSSES TO INCREASE YOUR AVAILABLE CHARACTERS.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011025T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BAB9B6BE</hash>
+		<image>./images/sengoku3.png</image>
+		<thumbnail>./boxart/sengoku3.png</thumbnail>
+		<marquee>./marquee/sengoku3.png</marquee>
+		<video>./snap/sengoku3.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13874" source="ScreenScraper.fr">
+		<path>./sengoku.zip</path>
+		<name>Sengoku Denshou</name>
+		<desc>A 2D SIDE-SCROLLING BEAT 'EM UP, SENGOKU CASTS YOU AND A FRIEND AS TWO RENEGADE FIGHTERS OUT TO BEAT THE CRAP OUT OF THE MANY ASSORTED GANGS THAT THREATEN THE POST-APOCALYPTIC CITIES OF THE FUTURE. UNFORTUNATELY FOR THEM THEY ALSO GET CAUGHT IN A TIME-WARPING SCHEME CAUSED BY THE EVIL NOBUNAGA WHO ATTEMPTS TO INVADE THE TIME PERIOD WITH MYTHICAL WARRIORS AND EVIL CREATURES FROM THE JAPANESE SENGOKU PERIOD.
+
+THE GAME THUS TAKES YOU FROM THE CITY TO A SPIRIT-REALM FROM TIME TO TIME, IN WHICH YOU MUST FIGHT ALL SORTS OF JAPANESE MYTHICAL FIGURES, AND RELEASE THREE HAUNTED SPIRITS THAT CAN AID YOU IN YOUR BATTLE. COLLECTING ORBS FROM DEFEATED ENEMIES ALLOWS YOU HEAL UP, GAIN WEAPONS AND EVEN ENERGY ATTACKS AND ALSO SUMMON THE WARRIOR FORMS OF THE SPIRITS YOU RELEASED, WHICH CHANGE YOUR CHARACTER'S FORM AND GIVE YOU A NEW COLLECTION OF ATTACKS AND POWERS.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>770C867B</hash>
+		<image>./images/sengoku.png</image>
+		<thumbnail>./boxart/sengoku.png</thumbnail>
+		<marquee>./marquee/sengoku.png</marquee>
+		<video>./snap/sengoku.mp4</video>
+	</game>
+	<game id="37630" source="ScreenScraper.fr">
+		<path>./samsho2.zip</path>
+		<name>Shin Samurai Spirits - Haohmaru Jigokuhen</name>
+		<desc>UMA DAS LENDÁRIAS SÉRIES DE JOGOS DE LUTA DA SNK FAZ SEU RETORNO! EM SAMURAI SHODOWN II, VOCÊ PODE ASSUMIR O PAPEL DE UM DOS 15 GUERREIROS AO LUTAR PELA TERRA PARA DERROTAR O MALVADO MIZUKI! CORTE, CHUTE E FATIE SEUS OPONENTES AO MEIO ... FAÇA O QUE FOR NECESSÁRIO ... VIVA PELA ESPADA E MORRA POR SUA LÂMINA.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941202T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>2FEACFA9</hash>
+		<image>./images/samsho2.png</image>
+		<thumbnail>./boxart/samsho2.png</thumbnail>
+		<marquee>./marquee/samsho2.png</marquee>
+		<video>./snap/samsho2.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37621" source="ScreenScraper.fr">
+		<path>./ragnagrd.zip</path>
+		<name>Shin-Oh-Ken</name>
+		<desc>THIS IS A FIGHTING GAME ORIGINALY DESIGNED IN 3D , AND 2D SPRITES TRANSPOSED (KNOWN AS COMPUTER GRAPHICS, OR CG), LIKE DONKEY KONG COUNTRY OR PULSTAR. STORY: IT IS A WORLD OCCUPIED BY GODS, THE WORLD IN WHICH REIGN THE GOD OF THE ARC OF ORION. HE DECIDED TO OFFER HIS SUCCESSION IN A TOURNAMENT AT EIGHT GODS. THE WINNER WILL HAVE ACCESS TO THE THRONE OF THE GOD OF THE ARC OF ORION. A STRUGGLE BETWEEN THE GODS IS ABOUT TO BEGIN.</desc>
+		<rating>0.75</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>Saurus</publisher>
+		<players>1-2</players>
+		<hash>31E5A066</hash>
+		<image>./images/ragnagrd.png</image>
+		<thumbnail>./boxart/ragnagrd.png</thumbnail>
+		<marquee>./marquee/ragnagrd.png</marquee>
+		<video>./snap/ragnagrd.mp4</video>
+	</game>
+	<game id="37638" source="ScreenScraper.fr">
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>AS ONE OF FOUR PLAYABLE CHARACTERS EACH WITH UNIQUE METHODS OF ATTACK AND POWER-UPS, GO THROUGH THE LEVEL AND DESTROY ANY ENEMIES THAT GET IN YOUR WAY, AND DEFEAT THE BOSS AT THE END OF THAT AREA. WHEN YOU HAVE COMPLETED THE FIRST AREA, YOU NEED TO SELECT A PATH TO CONTINUE THE GAME ON.
+
+THE SECOND GAME IN THE SHOCK TROOPERS SERIES ENABLES SHOT LOCKING, CLOSE PROXIMITY ATTACKS, AND EVASIVE MANEUVERS ALLOWING FOR FLEXIBLE OPERATION. IN ADDITION TO THE FOUR CHARACTERS, VERSATILE MODES OF ATTACK ARE FEATURED USING POWERFUL VEHICLES AND SPECIAL SHOTS. LETTERS THAT MAKE UP CERTAIN KEYWORDS CAN BE COLLECTED THROUGHOUT THE GAME, AND BY COLLECTING EACH LETTER IN THE KEYWORD, YOU WILL RECEIVE A HIGH SCORE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D16ECBE2</hash>
+		<image>./images/shocktr2.png</image>
+		<thumbnail>./boxart/shocktr2.png</thumbnail>
+		<marquee>./marquee/shocktr2.png</marquee>
+		<video>./snap/shocktr2.mp4</video>
+	</game>
+	<game id="37639" source="ScreenScraper.fr">
+		<path>./shocktro.zip</path>
+		<name>Shock Troopers</name>
+		<desc>SHOCK TROOPERS IS A 1-2 PLAYER GAME WHERE PLAYERS SELECT ONE OF EIGHT CHARACTERS TO PLAY AS. EACH CHARACTER HAS THEIR OWN ATTACK. PLAYERS ALSO HAVE TO CHOOSE ONE OF THREE ROUTES TO TAKE. THE OBJECT OF THE GAME IS TO GO TOWARD THE END OF THE LEVEL AND DEFEAT THE END-OF-LEVEL BOSS, WHICH IS USUALLY A HUGE VEHICLE. CRATES THAT ARE SCATTERED THROUGHOUT THE LEVELS CAN BE BROKEN INTO TO REVEAL NEW WEAPONS AND POWER-UPS.
+
+THERE IS A TEAM MODE WHERE PLAYERS HAVE TO SELECT THREE CHARACTERS. THE CHARACTERS CAN BE SWITCHED ON-THE-FLY DURING GAMEPLAY, WHICH IS USEFUL IF ONE OF THEM IS BADLY INJURED. PLAYERS CAN USE THE OTHER TEAMMATES UNTIL LIFE-UPS CAN BE FOUND.</desc>
+		<rating>0.8</rating>
+		<releasedate>19971111T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F6C34954</hash>
+		<image>./images/shocktro.png</image>
+		<thumbnail>./boxart/shocktro.png</thumbnail>
+		<marquee>./marquee/shocktro.png</marquee>
+		<video>./snap/shocktro.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37640" source="ScreenScraper.fr">
+		<path>./socbrawl.zip</path>
+		<name>Soccer Brawl</name>
+		<desc>THE CYBERNETIC PLAYERS USE SPECIAL KICK SHOTS AND BUILT-IN ARM PHASERS TO DESTROY OTHER PLAYERS. MAKE SURE YOUR POWER METER IS FULL WHEN EXERCISING THESE BRUTAL TACTICS. BOTH STADIUMS, WHICH ARE MAGNETICALLY ENCLOSED, ENABLE YOU TO KICK OR PASS... OFF THE WALL! THERE ARE NO FOULS IN THIS LEAGUE, SO WATCH YOUR BACK OR YOU'LL GET PULVERIZED BY THE OPPOSING TEAM! YOU'LL FIND HERE THE MOST ADVANCED SPORT IN THE WORLD OF SOCCER... SOCCER BRAWL!</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D55EDE11</hash>
+		<image>./images/socbrawl.png</image>
+		<thumbnail>./boxart/socbrawl.png</thumbnail>
+		<marquee>./marquee/socbrawl.png</marquee>
+		<video>./snap/socbrawl.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37648" source="ScreenScraper.fr">
+		<path>./stakwin.zip</path>
+		<name>Stakes Winner - GI Kinzen Seiha e no Michi</name>
+		<desc>STAKES WINNER IS A 2D HORSE RACING GAME. TAKING THE ROLE OF HORSE JOCKEYS, PLAYERS MUST WIN A SERIES OF RACES USING ONE OF THE GAME'S EIGHT SELECTABLE HORSES. EACH HORSE IS RATED IN STRENGTH, SPEED, AND STAMINA, MAKING EACH HORSE DIFFERENT IN HANDLING. DURING THE GAME, HORSE RATINGS CAN BE BOOSTED THROUGH COMPLETING BONUS LEVELS. EACH HORSE HAS A STAMINA BAR DISPLAYED AT THE BOTTOM OF THE SCREEN, NEXT TO A PICTURE OF THE HORSE'S HEAD SHOWING ITS CURRENT HEALTH. THE STAMINA BAR DECREASES AS THE HORSE RUNS, AND WHEN IT IS DEPLETED, THE RACE IS OVER FOR THAT HORSE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>087DC532</hash>
+		<image>./images/stakwin.png</image>
+		<thumbnail>./boxart/stakwin.png</thumbnail>
+		<marquee>./marquee/stakwin.png</marquee>
+		<video>./snap/stakwin.mp4</video>
+	</game>
+	<game id="13978" source="ScreenScraper.fr">
+		<path>./stakwin2.zip</path>
+		<name>Stakes Winner 2</name>
+		<desc>RACE YOUR CHAMPION RACEHORSE TO BEAT ALL THE COMPETITION AND WIN HUGE PRIZES! COME FLYING OUT OF THE PADDOCKS AND RACE ALONG THE TRACK FASTER THAN EVERYONE ELSE TO WIN, JUST REMEMBER TO TRY AND COLLECT BONUS SNACKS TO KEEP THE HORSE'S STAMINA UP!</desc>
+		<rating>0.55</rating>
+		<releasedate>19961213T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D5B5A57C</hash>
+		<image>./images/stakwin2.png</image>
+		<thumbnail>./boxart/stakwin2.png</thumbnail>
+		<marquee>./marquee/stakwin2.png</marquee>
+		<video>./snap/stakwin2.mp4</video>
+	</game>
+	<game id="37649" source="ScreenScraper.fr">
+		<path>./strhoop.zip</path>
+		<name>Street Slam</name>
+		<desc>QUAL TIME É O MELHOR NO 3 CONTRA 3? ESCOLHA ENTRE DEZ PAÍSES PARA DESCOBRIR. OS ARREMESSOS VARIAM DE ACORDO COM A DISTÂNCIA. FAKE DUNK, ALOOF - UMA VARIEDADE DE TÉCNICAS PARA ESCOLHER! VELOZ! PODEROSO! MOVA SEU CORPO PARA COM O RAP E O HIP HOP. QUANDO O MEDIDOR DE POTÊNCIA ATINGE O SEU MÁXIMO, O SUPER DUNK ACENDE!</desc>
+		<rating>0.7</rating>
+		<releasedate>19941209T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<players>1-2</players>
+		<hash>9C19D4F8</hash>
+		<image>./images/strhoop.png</image>
+		<thumbnail>./boxart/strhoop.png</thumbnail>
+		<marquee>./marquee/strhoop.png</marquee>
+		<video>./snap/strhoop.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37627" source="ScreenScraper.fr">
+		<path>./s1945p.zip</path>
+		<name>Strikers 1945 Plus</name>
+		<desc>THE PLAYER CHOOSES ONE OF SIX PLANES OR CAN OPT FOR A RANDOM CHOICE. THE FIRST FOUR STAGES ARE IN RANDOM ORDER, WHILE THE LAST FOUR ARE SEQUENTIAL. PLAYERS COLLECT WEAPON POWERUPS, BOMBS, AND GOLD BARS FOR POINTS. EACH PLANE HAS A UNIQUE "SUPERSHOT" WHICH IS CHARGED BY DAMAGING ENEMIES AND FIRED BY HOLDING THEN RELEASING THE FIRE BUTTON. SUPERSHOTS CAN BE STORED, ALTHOUGH THE NUMBER VARIES FROM PLANE TO PLANE. USING A BOMB RESULTS IN A LARGE FRIENDLY FIGHTER SWOOPING ONTO THE SCREEN AND BLOCKING SHOTS WHILE RETURNING FIRE FOR A FEW SECONDS.
+
+AFTER THE PLAYER BEATS THE FINAL BOSS, THE GAME STARTS AGAIN FROM THE BEGINNING, ALBEIT AT A MUCH HIGHER DIFFICULTY LEVEL. ALL LEVEL ARE SIMILAR TO THE ONES IN STRIKERS 1945 II. ONLY ONE OF THE FOUR BOSSES THAT ARE RANDOMLY CHOSEN AND THE SIXTH BOSS IS CHANGED.</desc>
+		<rating>0.75</rating>
+		<releasedate>19991224T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<players>1-2</players>
+		<hash>20172A79</hash>
+		<image>./images/s1945p.png</image>
+		<thumbnail>./boxart/s1945p.png</thumbnail>
+		<marquee>./marquee/s1945p.png</marquee>
+		<video>./snap/s1945p.mp4</video>
+	</game>
+	<game id="13853" source="ScreenScraper.fr">
+		<path>./svc.zip</path>
+		<name>SVC Chaos - SNK Vs. Capcom</name>
+		<desc>SVC CHAOS: SNK VS CAPCOM PARA NEO GEO É UM JOGO DE LUTA COM OS GUERREIROS DAS DUAS FAMOSAS SÉRIES STREET FIGHTER E KING OF FIGHTERS. O JOGO OFERECE UM MODO ARCADE ONDE SE SEGUE A HISTÓRIA DE SEU HERÓI, ASSIM COMO OS MODOS VERSUS, CHALLENGE  E SURVIVAL.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031113T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5E2C5F9C</hash>
+		<image>./images/svc.png</image>
+		<thumbnail>./boxart/svc.png</thumbnail>
+		<marquee>./marquee/svc.png</marquee>
+		<video>./snap/svc.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="108993" source="ScreenScraper.fr">
+		<path>./mosyougi.zip</path>
+		<name>Syougi No Tatsujin - Master of Syougi</name>
+		<desc>SHOUGI NO TATSUJIN WAS RELEASED IN SEPTEMBER 1995 IN JAPAN.
+THE TITLE OF THIS GAME TRANSLATES FROM JAPANESE AS 'MASTER OF SHOUGI'.
+THE 'SHOUGI' IS A JAPANESE CHESS-STYLE GAME.</desc>
+		<rating>0</rating>
+		<releasedate>19951013T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>930F97CC</hash>
+		<image>./images/mosyougi.png</image>
+		<thumbnail>./boxart/mosyougi.png</thumbnail>
+		<marquee>./marquee/mosyougi.png</marquee>
+		<video>./snap/mosyougi.mp4</video>
+	</game>
+	<game id="37653" source="ScreenScraper.fr">
+		<path>./tws96.zip</path>
+		<name>Tecmo World Soccer '96</name>
+		<desc>TECMO WORLD SOCCER '96 IS A 2D SOCCER GAME. THE GAME HAS A TOTAL OF 32 PLAYABLE TEAMS, EACH WITH ITS OWN STARTING FORMATION AS WELL AS RATINGS IN THREE ATTRIBUTES: SPEED, POWER, AND PRESS. THE TEAMS ARE DIVIDED BY GROUPS OF FOUR INTO EIGHT WORLD REGIONS: EUROPE I-IV, NORTH AMERICA, SOUTH AMERICA, AFRICA, AND ASIA AND OCEANIA. 
+
+ON OFFENSE YOU CAN PERFORM SHORT OR LONG PASSES WITH THE A AND C BUTTONS, RESPECTIVELY, WHILE THE B BUTTON PERFORMS A SCORING KICK. WHILE ON DEFENSE YOU CAN MANUALLY SWITCH PLAYER CONTROL WITH THE B BUTTON OR SLIDE TACKLE THE OPPOSING BALL CARRIER WITH THE A BUTTON. MOST OF THE TIME THE GAME PLAYS LIKE A TRADITIONAL 2D SOCCER TITLE, BUT WHEN THE BALL CARRIER AND A DEFENDING PLAYER FACE OFF AGAINST EACH OTHER, THE GAME CHANGES INTO A FEINTING INTERFACE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<players>1-2</players>
+		<hash>A0D83D4A</hash>
+		<image>./images/tws96.png</image>
+		<thumbnail>./boxart/tws96.png</thumbnail>
+		<marquee>./marquee/tws96.png</marquee>
+		<video>./snap/tws96.mp4</video>
+	</game>
+	<game id="37589" source="ScreenScraper.fr">
+		<path>./kabukikl.zip</path>
+		<name>Tengai Makyou - Shin Den</name>
+		<desc>"KABUKI KLASH" É UM JOGO DE LUTA EM 2D QUE APRESENTA PERSONAGENS DA FAMOSA SÉRIE JAPONESA DE RPG TENGAI MAKYOU, TAMBÉM CONHECIDA COMO FAR EAST OF EDEN. OS HERÓIS DOS TRÊS PRIMEIROS JOGOS DE TENGAI MAKYOU DEVEM PARTICIPAR DE UM TORNEIO E DESCOBRIR QUEM É O LUTADOR MAIS HABILIDOSO NA TERRA MÁGICA DE JIPANG (QUE É MUITO SEMELHANTE AO JAPÃO MEDIEVAL). OS PERSONAGENS INCLUEM CONHECIDOS HERÓIS DE FAR EAST OF EDEN, COMO ZIRIA, MANJIMARU, KABUKI, OROCHIMARU E OUTROS - UM TOTAL DE OITO PERSONAGENS JOGÁVEIS. DURANTE AS LUTAS, VOCÊ PODE DAR UM SOCO, CHUTAR OU USAR ATAQUES ESPECIAIS, QUE EXIGEM UM USO PRECISO DOS BOTÕES E TAMBÉM ESGOTAM O SUA BARRA DE MAGIA. EXISTEM ITENS ALEATÓRIOS (COMO POÇÕES DE CURA) JOGADOS NO CAMPO DE BATALHA ENQUANTO VOCÊ ESTÁ LUTANDO, O QUE VOCÊ PODE PEGAR.</desc>
+		<rating>0.6</rating>
+		<releasedate>19951123T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<players>1-2</players>
+		<hash>75076721</hash>
+		<image>./images/kabukikl.png</image>
+		<thumbnail>./boxart/kabukikl.png</thumbnail>
+		<marquee>./marquee/kabukikl.png</marquee>
+		<video>./snap/kabukikl.mp4</video>
+	</game>
+	<game id="13879" source="ScreenScraper.fr">
+		<path>./kof2000.zip</path>
+		<name>The King of Fighters 2000</name>
+		<desc>O ÚLTIMO KING OF FIGHTERS LANÇADO PELA SNK EM SEU ESTADO ORIGINAL, THE KING OF FIGHTERS 2000 EXPANDE A HISTÓRIA E JOGABILIDADE APRESENTADA EM THE KING OF FIGHTERS '99. O TORNEIO DESTE ANO É PATROCINADO PELOS IKARI WARRIORS, NUMA TENTATIVA DE DESCOBRIR MAIS SOBRE A ORGANIZAÇÃO NESTS, E DESCARRILAR OS PLANOS DOS POTENCIAIS AGENTES DA NESTS, K 'E MAXIMA. NEM TUDO É TÃO DIRETO COMO COSTUMA SER, NO ENTANTO, E ATÉ MESMO OS GUERREIROS IKARI CORREM O RISCO DE SEREM TRAÍDOS DE DENTRO ATÉ O FINAL DO TORNEIO.</desc>
+		<rating>0.8</rating>
+		<releasedate>20001221T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>4D1CDC66</hash>
+		<image>./images/kof2000.png</image>
+		<thumbnail>./boxart/kof2000.png</thumbnail>
+		<marquee>./marquee/kof2000.png</marquee>
+		<video>./snap/kof2000.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37591" source="ScreenScraper.fr">
+		<path>./kof2001.zip</path>
+		<name>The King of Fighters 2001</name>
+		<desc>NESTA OITAVA EDIÇÃO DA SÉRIE KING OF FIGHTERS, DEZ EQUIPES DIFERENTES MAIS UMA VEZ BATALHAM EM VÁRIOS PAÍSES PARA DECIDIR QUAL TIME SERÁ O REI DOS LUTADORES DESTE ANO. NO ENTANTO, A ORGANIZAÇÃO NESTS ESTÁ MAIS UMA VEZ NO CAMINHO DO PARTICIPANTE; ELES IMPLANTARAM SUA PRÓPRIA EQUIPE DE QUATRO LUTADORES, LIDERADOS POR DOIS INDIVÍDUOS DE ALTO ESCALÃO DENTRO DA NESTS: UM HOMEM QUE AFIRMA SER O ZERO ORIGINAL E IGNIZ, O CEO DA NESTS. A LISTA DE PERSONAGENS FOI ATUALIZADA NOVAMENTE PARA ESTE LANÇAMENTO DA SÉRIE.</desc>
+		<rating>0.65</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5D3BFA58</hash>
+		<image>./images/kof2001.png</image>
+		<thumbnail>./boxart/kof2001.png</thumbnail>
+		<marquee>./marquee/kof2001.png</marquee>
+		<video>./snap/kof2001.mp4</video>
+	</game>
+	<game id="13857" source="ScreenScraper.fr">
+		<path>./kof2002.zip</path>
+		<name>The King of Fighters 2002</name>
+		<desc>O SEGUNDO "DREAM MATCH" SEM TRAMA DA SÉRIE KING OF FIGHTERS, ESTE JOGO APRESENTA 39 PERSONAGENS NORMAIS E 5 PERSONAGENS SECRETOS, ALGUNS DOS QUAIS NÃO APARECEM DESDE O KOF98.NNNNO SISTEMA DE JOGABILIDADE TAMBÉM MUDOU. O SISTEMA DE ATACANTES E AS EQUIPES DE QUATRO PERSONAGENS ENCONTRADAS NOS ÚLTIMOS TRÊS LANÇAMENTOS DE KOF FORAM TOTALMENTE REMOVIDOS. EM SEU LUGAR ESTÃO AS EQUIPES DE TRÊS PERSONAGENS DA VELHA GUARDA E O SISTEMA "ADVANCE" DO THE KING OF FIGHTERS '97 E THE KING OF FIGHTERS '98.</desc>
+		<rating>0.8</rating>
+		<releasedate>20021218T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>00000000</hash>
+		<image>./images/kof2002.png</image>
+		<thumbnail>./boxart/kof2002.png</thumbnail>
+		<marquee>./marquee/kof2002.png</marquee>
+		<video>./snap/kof2002.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13878" source="ScreenScraper.fr">
+		<path>./kof2003.zip</path>
+		<name>The King of Fighters 2003</name>
+		<desc>COMO THE KING OF FIGHTERS 2002, ESTE JOGO VOLTA AO ANTIGO FORMATO 3-PARA-3 USADO DO KOF '94 AO KOF '98. UM NOVO RECURSO PARA ESTE JOGO QUE OS FÃS DO KOF DA VELHA GUARDA PODEM TER DIFICULDADE EM SE ACOSTUMAR É O NOVO SISTEMA DE EQUIPE INTERCAMBIÁVEL. VOCÊ AINDA ESCOLHE TRÊS PERSONAGENS E DECIDE A ORDEM DOS SEUS PERSONAGENS ANTES DE UMA PARTIDA, MAS AGORA VOCÊ TEM A OPÇÃO DE MUDAR PARA OUTRO PERSONAGEM DURANTE UMA PARTIDA. VOCÊ PODE MUDAR A QUALQUER MOMENTO DURANTE UMA PARTIDA, MAS VOCÊ NÃO PODE QUANDO DOIS DE SEUS COMPANHEIROS DE EQUIPE FORAM RETIRADOS, E APENAS UM PERSONAGEM É DEIXADO EM RESERVA.</desc>
+		<rating>0.7</rating>
+		<releasedate>20040318T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>553E08F3</hash>
+		<image>./images/kof2003.png</image>
+		<thumbnail>./boxart/kof2003.png</thumbnail>
+		<marquee>./marquee/kof2003.png</marquee>
+		<video>./snap/kof2003.mp4</video>
+	</game>
+	<game id="13894" source="ScreenScraper.fr">
+		<path>./kof94.zip</path>
+		<name>The King of Fighters '94</name>
+		<desc>KING OF FIGHTERS '94 É NOTÁVEL POR SER UM DOS PRIMEIROS JOGOS DE LUTA CONHECIDOS QUE COLOCA TIMES DE LUTADORES UM CONTRA O OUTRO EM COMBATE ÚNICO. CADA EQUIPE CONSISTE DE TRÊS LUTADORES PARA CADA JOGADOR, SENDO O VENCEDOR O JOGADOR QUE É CAPAZ DE ELIMINAR O OUTRO TIME PRIMEIRO. CADA PERSONAGEM ATIVO PODE CARREGAR, AO ESTILO "ART OF FIGHTING", PARA GANHAR ACESSO A "DESPERATION MOVES", OU "DMS" (MOVIMENTOS QUE FUNCIONAM MUITO COMO SUPER COMBOS DE STREET FIGHTER). JOGANDO CONTRA O COMPUTADOR, O JOGADOR DEVE DERROTAR TODAS AS 8 EQUIPES NO JOGO, A FIM DE CHEGAR AO CHEFE FINAL, RUGAL BERNSTEIN.</desc>
+		<rating>0.75</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0FDE37F0</hash>
+		<image>./images/kof94.png</image>
+		<thumbnail>./boxart/kof94.png</thumbnail>
+		<marquee>./marquee/kof94.png</marquee>
+		<video>./snap/kof94.mp4</video>
+	</game>
+	<game id="37592" source="ScreenScraper.fr">
+		<path>./kof95.zip</path>
+		<name>The King of Fighters '95</name>
+		<desc>A PRIMEIRA SEQUÊNCIA DA SÉRIE KING OF FIGHTERS COMEÇA UM ANO APÓS O FINAL DO PRIMEIRO TORNEIO. MAIS UMA VEZ, LUTADORES DE TODO O MUNDO RECEBEM UM MISTERIOSO CONVITE PARA UM TORNEIO DE LUTA EM EQUIPE. E ASSIM COMO NO ANO PASSADO, PARECE QUE O NOTÓRIO CRIMINOSO RUGAL BERNSTEIN ESTÁ POR TRÁS DISSO, APARENTEMENTE RETORNANDO DO MUNDO DOS MORTOS PARA SE ERGUER MAIS UMA VEZ ...NNNNKING OF FIGHTERS '95 APRESENTA O RIVAL DE KYO KUSANAGI, IORI YAGAMI, E COLOCA KYO COMO PERSONAGEM PRINCIPAL PARA O RESTO DA SÉRIE. A JOGABILIDADE DE THE KING OF FIGHTERS '95 ESTÁ ESSENCIALMENTE INALTERADA EM RELAÇÃO AO TÍTULO ANTERIOR, EMBORA INTRODUZA O CONCEITO DE "EDIÇÃO DE EQUIPE", QUE PERMANECERIA COMO UM RECURSO PADRÃO DA SÉRIE. USANDO O RECURSO "EDITAR EQUIPE", É POSSÍVEL CRIAR UMA EQUIPE TOTALMENTE PERSONALIZADA USANDO QUALQUER UM DOS LUTADORES DISPONÍVEIS OU USAR UMA DAS EQUIPES PADRÃO, SE DESEJAR.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>EC6F6E35</hash>
+		<image>./images/kof95.png</image>
+		<thumbnail>./boxart/kof95.png</thumbnail>
+		<marquee>./marquee/kof95.png</marquee>
+		<video>./snap/kof95.mp4</video>
+	</game>
+	<game id="37593" source="ScreenScraper.fr">
+		<path>./kof96.zip</path>
+		<name>The King of Fighters '96</name>
+		<desc>A PRINCIPAL SÉRIE DA SNK RETORNA PARA MAIS UM ANO. MUITAS DAS MUDANÇAS NO LANÇAMENTO DO KOF DESTE ANO VÊM NA FORMA DE GRÁFICOS APRIMORADOS, EFEITOS SONOROS, MÚSICA E SPRITES DE PERSONAGENS TOTALMENTE REFEITOS. A JOGABILIDADE DO SISTEMA FOI ALTERADA COM A ADIÇÃO DE COMBOS MULTI-HIT "RUSH" E NOVOS MOVIMENTOS PARA PRATICAMENTE TODOS OS PERSONAGENS. O ENREDO DA SÉRIE RECEBE GRANDE FOCO NESTA VERSÃO COM A SAGA OROCHI GIRANDO EM ALTA VELOCIDADE. OUTRAS CARACTERÍSTICAS DO ANO ANTERIOR INCLUEM A CAPACIDADE DE ESCOLHER ENTRE O MODO "TEAM FIGHTING" PADRÃO OU O TRADICIONAL ESTILO DE JOGO "SINGLE FIGHTER", ALÉM DOS MODOS DE JOGO "VERSUS" E "SURVIVAL".</desc>
+		<rating>0.8</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>18B951DF</hash>
+		<image>./images/kof96.png</image>
+		<thumbnail>./boxart/kof96.png</thumbnail>
+		<marquee>./marquee/kof96.png</marquee>
+		<video>./snap/kof96.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37594" source="ScreenScraper.fr">
+		<path>./kof97.zip</path>
+		<name>The King of Fighters '97</name>
+		<desc>MAIS UM ANO, OUTRO KOF. AS ADIÇÕES ESTE ANO VÊM NA FORMA DE GRÁFICOS E SONS LIGEIRAMENTE MELHORADOS, NOVOS MOVIMENTOS E UM NOVO MODO DE JOGO. A JOGABILIDADE É MUITO MAIS ORIENTADA PELO ENREDO, JÁ QUE VOCÊ TEM CHEFES INTERMEDIÁRIOS QUE PODEM MUDAR DEPENDENDO DE QUAL TIME VOCÊ SELECIONAR. ALÉM DISSO, EXISTEM VÁRIOS FINAIS ESPECIAIS QUE SÃO MOSTRADOS APENAS QUANDO CERTAS COMBINAÇÕES "EDIT TEAM" SÃO SELECIONADAS. NOVOS PERSONAGENS INCLUEM O NEW FACE TEAM, O FATAL FURY OUTLAW TEAM (COM A ESTRÉIA EM KOF DE "BLUE" MARY RYAN E RYUJI YAMAZAKI, E O RETORNO DE BILLY KANE), E O ALUNO DE KYO, SHINGO YABUKI. NO TOTAL, THE KING OF FIGHTERS '97 TEM 29 PERSONAGENS DIFERENTES.</desc>
+		<rating>0.85</rating>
+		<releasedate>19970925T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>54F05061</hash>
+		<image>./images/kof97.png</image>
+		<thumbnail>./boxart/kof97.png</thumbnail>
+		<marquee>./marquee/kof97.png</marquee>
+		<video>./snap/kof97.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37596" source="ScreenScraper.fr">
+		<path>./kof99.zip</path>
+		<name>The King of Fighters '99 : Millennium Battle</name>
+		<desc>CHEGAMOS MAIS UMA VEZ AO TEMPO PARA O FAMOSO KOF TOURNAMENT! NOVOS ROSTOS E VELHOS SE JUNTAM PARA PARTICIPAR DO ÚLTIMO TORNEIO KOF, MAS ALGO PARECE ERRADO. POR QUE O TORNEIO DESTE ANO FOI ANUNCIADO SEM FANFARRA? O QUE PODERIA ESTAR ACONTECENDO? ISSO É PARA VOCÊ DESCOBRIR! APRESENTANDO UMA JOGABILIDADE KOF CLÁSSICA COM UM NOVO TOQUE: THE STRIKER MATCH!</desc>
+		<rating>0.9</rating>
+		<releasedate>19990923T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>BF22192C</hash>
+		<image>./images/kof99.png</image>
+		<thumbnail>./boxart/kof99.png</thumbnail>
+		<marquee>./marquee/kof99.png</marquee>
+		<video>./snap/kof99.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13935" source="ScreenScraper.fr">
+		<path>./superspy.zip</path>
+		<name>The Super Spy</name>
+		<desc>ROY HEART HAS BEEN ASKED BY THE CIA TO WIPE OUT TERRORISTS WHO HAVE TAKEN OVER A LARGE SKYSCRAPER OF A MAJOR AUTO-MAKER IN JAPAN. 
+USING YOUR FISTS, KNIFE, OR GUN, YOU MUST USE THE ELEVATORS TO TRAVEL BETWEEN FLOORS AND WIPE OUT TERRORISTS THAT TRY TO BRING YOU DOWN. EACH WEAPON HAS ITS DISADVANTAGES. THE GUN, FOR EXAMPLE, WILL ONLY HAVE SO MANY BULLETS PER LIFE, AND THE KNIFE WILL DECREASE IN STRENGTH WITH EVERY USE. DURING YOUR MISSION, YOU WILL ALSO EARN EXPERIENCE POINTS, AND MEET AND FREE HOSTAGES ALONG THE WAY. THESE HOSTAGES WILL HEAL YOU, FIX YOUR KNIFE, AND GIVE YOU A MACHINE GUN. SOME FLOORS END WITH YOU DEFEATING A BOSS, WHILE OTHERS END AT ELEVATORS. YOUR MUST REACH THE TOP OF THE BUILDING WHERE YOU WILL CONFRONT THE LEADER.</desc>
+		<rating>0.45</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D52E3559</hash>
+		<image>./images/superspy.png</image>
+		<thumbnail>./boxart/superspy.png</thumbnail>
+		<marquee>./marquee/superspy.png</marquee>
+		<video>./snap/superspy.mp4</video>
+	</game>
+	<game id="37647" source="ScreenScraper.fr">
+		<path>./ssideki4.zip</path>
+		<name>The Ultimate 11: SNK Football Championship</name>
+		<desc>SUPER SIDEKICKS 4, ALSO KNOWN AS THE ULTIMATE 11: SNK FOOTBALL CHAMPIONSHIP, IS A SPORTS RETRO ARCADE FOOTBALL (SOCCER) GAME CREATED FOR THE NEO GEO ARCADE SYSTEM, AND IS THE FOURTH OF THE POPULAR SUPER SIDEKICKS SERIES. THE GAME FEATURES 80 NATIONAL TEAMS DIVIDED INTO 8 REGIONS OF THE GLOBE. BUILD POWER THE MORE YOU HOLD THE BALL. MAINTAIN YOUR DRIBBLE AND GUARD OFF AGAINST ENEMY STEALS. AMASS ENOUGH FOOT POWER AND KICK THE BALL TO THE GOAL!</desc>
+		<rating>0.7</rating>
+		<releasedate>19961220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>230774AA</hash>
+		<image>./images/ssideki4.png</image>
+		<thumbnail>./boxart/ssideki4.png</thumbnail>
+		<marquee>./marquee/ssideki4.png</marquee>
+		<video>./snap/ssideki4.mp4</video>
+	</game>
+	<game id="13962" source="ScreenScraper.fr">
+		<path>./trally.zip</path>
+		<name>Thrash Rally</name>
+		<desc>THRASH RALLY IS A FAST-PACED RACING GAME, SIMILAR TO NEO DRIFT OUT AND OVERTOP, BUT USING A TOP-DOWN VIEW. YOU CAN EITHER PARTICIPATE IN A WORLD CHAMPIONSHIP OR DO A COMPLETE PARIS DAKAR RALLY.
+USING BASIC CONTROLS: ACCELERATE WITH AUTOMATIC TRANSMISSION, BRAKE AND A COMBINATION OF BOTH TO POWER DRIFT, YOU HAVE TO FOLLOW A SET PATH OF COURSES. IN THE WORLD CHAMPIONSHIP, EACH LOCATION CONSISTS OF DIFFERENT STAGES THAT NEED TO BE FINISHED IN A SINGLE RUN. THERE IS A STRICT TIME LIMIT AND YOU RECEIVE A TIME BONUS UPON FINISHING A SECTION. THE DAKAR MODE IS ONE LONG TRACK WITHOUT STOPS. THE CHAMPIONSHIP USES REGULAR CARS, BUT IN THE DAKAR RACE YOU CAN ALSO CHOOSE A SAND BUGGY, OFF-ROAD BIKE OR A TRUCK.
+
+A GLOBAL RANKING IS KEPT WHILE RACING, BUT IT IS BASED ON YOUR TIME, NOT ON THE NUMBER OF CARS YOU PASS DURING THE RACE. ASIDE FROM YOUR OPPONENTS, YOU'LL ALSO FIND WATER, ANIMALS, HILLS, BRIDGES, BUSHES AND DIFFERENT OBSTACLES IN YOUR PATH.</desc>
+		<rating>0.55</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>772FD101</hash>
+		<image>./images/trally.png</image>
+		<thumbnail>./boxart/trally.png</thumbnail>
+		<marquee>./marquee/trally.png</marquee>
+		<video>./snap/trally.mp4</video>
+	</game>
+	<game id="37645" source="ScreenScraper.fr">
+		<path>./ssideki2.zip</path>
+		<name>Tokuten Ou 2 - Real Fight Football</name>
+		<desc>THIS IS A SOCCER GAME ON NEO-GEO. WHEN YOU START THE GAME, YOU GO INTO A "REGIONAL QUALIFYING ROUND FINAL" AGAINST ANOTHER TEAM FROM YOUR REGION. AFTER BEATING IT, YOUR TEAM GOES INTO THE WORLD (CUP) TOURNAMENT, IN WHICH YOU ARE GROUPED WITH THREE OTHER COUNTRIES IN A ROUND-ROBIN. AFTER WINNING AGAINST ALL OF THEM, YOU GO INTO AN ELIMINATION TOURNAMENT: THE QUARTERFINALS, SEMIFINALS, AND THE FINAL FOR THE WORLD CUP. THIS TYPE OF TOURNAMENT THUS IS MORE REMINISCENT OF THE REAL-LIFE WORLD CUP. IF A MATCH ENDS IN A DRAW, YOU ALSO HAVE THE OPTION OF REPLAYING A FULL GAME, GO TO THE PENALTY KICK TIEBREAKER, OR PLAY A SUDDEN DEATH GAME.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940527T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>4700A329</hash>
+		<image>./images/ssideki2.png</image>
+		<thumbnail>./boxart/ssideki2.png</thumbnail>
+		<marquee>./marquee/ssideki2.png</marquee>
+		<video>./snap/ssideki2.mp4</video>
+	</game>
+	<game id="37646" source="ScreenScraper.fr">
+		<path>./ssideki3.zip</path>
+		<name>Tokuten Ou 3 - Eikou e no Michi</name>
+		<desc>LOADED WITH WORLD CLASS EXCITEMENT! FEATURES 6 COMPETITION MODES LIKE WORLD CUP FOR 64 WORLDWIDE TEAMS. UTILIZES DIGITIZED TRACE ANIMATION AND 3D CAMERA ANGLED SHOTS FOR A REALISTIC ON-THE-FLY ACTION GRAPHIC EXPLOSION. WITH 8 DIFFERENT PLAYING MODES INCLUDING OPTIONS SUCH AS SPEED AND STAMINA, YOU CAN MIX AND MATCH 512 DIFFERENT TEAM CONFIGURATIONS. ACCIDENTS HINDER OR ENHANCE A TEAM'S ABILITY WITHIN HEAD-TO-HEAD GAMEPLAY FOR THE ULTIMATE SUPER-REAL SOCCER EXPERIENCE!</desc>
+		<rating>0.7</rating>
+		<releasedate>19950407T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>1F7BC7D8</hash>
+		<image>./images/ssideki3.png</image>
+		<thumbnail>./boxart/ssideki3.png</thumbnail>
+		<marquee>./marquee/ssideki3.png</marquee>
+		<video>./snap/ssideki3.mp4</video>
+	</game>
+	<game id="37644" source="ScreenScraper.fr">
+		<path>./ssideki.zip</path>
+		<name>Tokuten Ou</name>
+		<desc>EXPERIMENTE A ATMOSFERA E A EMOÇÃO DE UM ESTÁDIO LOTADO. O JOGO DE AÇÃO AO VIVO DA SNK ESTÁ AQUI. JUNTO COM O SEU ATACANTE ESTRELA E CARRINHOS, COM PASSES LONGOS OU RASTEIROS, DRIBLES QUE DESAFIAM A GRAVIDADE, ALCANCE A VITÓRIA E O PRÊMIO DA TAÇA SNK. VOCÊ SERÁ ESMAGADO COM A AÇÃO REALISTA E VOCÊ VAI ACABAR LAVANDO AS MANCHAS DE GRAMA DE SUAS ROUPAS QUANDO TIVER TERMINADO.</desc>
+		<rating>0.85</rating>
+		<releasedate>19930219T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6F052B0C</hash>
+		<image>./images/ssideki.png</image>
+		<thumbnail>./boxart/ssideki.png</thumbnail>
+		<marquee>./marquee/ssideki.png</marquee>
+		<video>./snap/ssideki.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37650" source="ScreenScraper.fr">
+		<path>./tophuntr.zip</path>
+		<name>Top Hunter</name>
+		<desc>CLEAN UP THE SPACE PIRATES! TIME: THE AGE OF SPACE COLONIALISM. THE DREADED KLAPTONS ARE ON THE LOOSE, TURNING PEACEFUL SETTLEMENTS INTO GHOST TOWNS. SEARCHING FOR THE PRICE ON THE KLAPTON'S HEADS COME THE COSMIC BOUNTY HUNTERS RODDY AND CATHY. DO THESE TWO HAVE WHAT IT TAKES TO SAVE THE UNIVERSE? CAN THEY WORK TOGETHER WITHOUT COMPETING FOR THE REWARDS THEMSELVES? THEIR FATE, AND THE FATE OF THE FREE UNIVERSE IS IN YOUR HANDS - THE LEGENDARY TEAM KNOWN AS TOP HUNTER!</desc>
+		<rating>0.7</rating>
+		<releasedate>19940624T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>9C5834C9</hash>
+		<image>./images/tophuntr.png</image>
+		<thumbnail>./boxart/tophuntr.png</thumbnail>
+		<marquee>./marquee/tophuntr.png</marquee>
+		<video>./snap/tophuntr.mp4</video>
+	</game>
+	<game id="13977" source="ScreenScraper.fr">
+		<path>./tpgolf.zip</path>
+		<name>Top Player's Golf</name>
+		<desc>COMPETIÇÃO DE PRIMEIRA CLASSE! EM UM BELO PERCURSO, A COMPETIÇÃO SILENCIOSA COMEÇARÁ. SELECIONE ENTRE QUATRO JOGADORES INDIVIDUAIS. JOGUE UM JOGO DE NASSAU PARA UM TOQUE DIFERENTE. DESFRUTE DE EMOÇÃO DE GOLFE NA VIDA REAL!</desc>
+		<rating>0.95</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6170DB22</hash>
+		<image>./images/tpgolf.png</image>
+		<thumbnail>./boxart/tpgolf.png</thumbnail>
+		<marquee>./marquee/tpgolf.png</marquee>
+		<video>./snap/tpgolf.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87614" source="ScreenScraper.fr">
+		<path>./totcarib.zip</path>
+		<name>Treasure of the Caribbean</name>
+		<desc>TREASURE OF THE CARIBBEAN IS A PUZZLE GAME: YOU MUST COMBINE THREE GHOSTS OR MORE OF THE SAME COLOR. THE NUMBER OF COMBINED GHOSTS ABOVE THREE ARE SENT TO THE OPPONENT IN THE FORM OF GRAVES. OF COURSE, THESE CAN IN TURN BE RETURNED IF THEY ARE CLOSE TO A COMBINATION OF THREE COLORED GHOSTS. OF COURSE, THE SPEED ALSO INCREASES BUT NOT ENOUGH TO MAKE THE GAME IMPOSSIBLE AS A PUYO PUYO OR TETRIS FOR EXAMPLE.</desc>
+		<rating>0</rating>
+		<releasedate>20120217T000000</releasedate>
+		<developer>Le Cortex / Face</developer>
+		<publisher>Neo Conception International</publisher>
+		<players>1-2</players>
+		<hash>571A302C</hash>
+		<image>./images/totcarib.png</image>
+		<thumbnail>./boxart/totcarib.png</thumbnail>
+		<marquee>./marquee/totcarib.png</marquee>
+		<video>./snap/totcarib.mp4</video>
+	</game>
+	<game id="37564" source="ScreenScraper.fr">
+		<path>./aodk.zip</path>
+		<name>Tsukai Gan Gan Koshinkyoku</name>
+		<desc>AGGRESSORS OF DARK KOMBAT É OUTRO JOGO DE LUTA DE RUA MANO-A-MANO DA BIBLIOTECA INTERMINÁVEL DE JOGOS DE LUTA DO NEO-GEO.NNNNELE COLOCA 8 LUTADORES DE DIFERENTES ESTILOS E FORÇAS UM CONTRA O OUTRO EM UM TORNEIO PARA VER QUEM É O MAIS CASCA GROSSA DAS RUAS DE TÓQUIO. SEU OBJETIVO, COMO DE COSTUME, É ACABAR COM A BARRA DE VIDA DE SEU OPONENTE DENTRO DO LIMITE DE TEMPO, USANDO SEUS ATAQUES BÁSICOS E MOVIMENTOS ESPECIAIS, EVITANDO SEUS MOVIMENTOS E ATAQUES.NNNNAGGRESSORS OF DARK KOMBAT É ÚNICO POIS COMBINA VÁRIOS ELEMENTOS TRADICIONAIS DOS BEAT 'EM UPS HORIZONTAIS, O QUE SIGNIFICA QUE OS PERSONAGENS PODEM SE MOVER LIVREMENTE EM UM ESPAÇO ISOMÉTRICO EM VEZ DE FICAREM RESTRITOS A UM ÚNICO PLANO DE MOVIMENTO. ARMAS E ITENS JOGÁVEIS GERALMENTE SÃO JOGADOS NA ARENA PELAS MULTIDÕES E VOCÊ PODE PEGÁ-LOS E USÁ-LOS PARA CAUSAR DANO ADICIONAL. ALÉM DISSO, AS PARTIDAS SÃO APENAS DE 1 RODADA, COM UMA BARRA DE SAÚDE DE VÁRIAS CAMADAS ESTENDIDA QUE PERMITE RODADAS MAIS LONGAS DO QUE O NORMAL.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940826T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>3DFB2C75</hash>
+		<image>./images/aodk.png</image>
+		<thumbnail>./boxart/aodk.png</thumbnail>
+		<marquee>./marquee/aodk.png</marquee>
+		<video>./snap/aodk.mp4</video>
+	</game>
+	<game id="37652" source="ScreenScraper.fr">
+		<path>./twinspri.zip</path>
+		<name>Twinkle Star Sprites</name>
+		<desc>COMPETITIVE SHOOTER WITH FLAVORS OF GALAGA, FIGHTING GAMES, AND SAILOR MOON.</desc>
+		<rating>0.65</rating>
+		<releasedate>19970131T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>4E6BCE56</hash>
+		<image>./images/twinspri.png</image>
+		<thumbnail>./boxart/twinspri.png</thumbnail>
+		<marquee>./marquee/twinspri.png</marquee>
+		<video>./snap/twinspri.mp4</video>
+	</game>
+	<game id="37587" source="ScreenScraper.fr">
+		<path>./irrmaze.zip</path>
+		<name>Ultra Denryu Iraira Bou</name>
+		<desc>THE IRRITATING MAZE ON NEO GEO IS A GAME WHERE YOU CONTROL A METAL BALL THROUGH A MAZE. THE GOAL IS TO REACH THE FINISH WITHOUT MAKING CONTACT WITH THE ELECTRIFIED LEDGES. TO FURTHER COMPLICATE THE TASK OF THE PLAYER, THE 3 COURSE OF THE GAME ARE ENHANCED WITH VARIOUS TRAPS AND TIME IS LIMITED.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>9BB39C38</hash>
+		<image>./images/irrmaze.png</image>
+		<thumbnail>./boxart/irrmaze.png</thumbnail>
+		<marquee>./marquee/irrmaze.png</marquee>
+		<video>./snap/irrmaze.mp4</video>
+	</game>
+	<game id="13929" source="ScreenScraper.fr">
+		<path>./viewpoin.zip</path>
+		<name>Viewpoint</name>
+		<desc>VIEWPOINT IS A TOP-DOWN ORTHOGRAPHIC PERSPECTIVE GAME IN THE TRADITION OF ZAXXON. THE PLAYSTATION AND SATURN VERSIONS FEATURE 3D RENDERED GRAPHICS WITH TEXTURE MAPS, UNLIKE THE OTHER VERSIONS WHICH PRIMARILY FEATURE SHADED POLYGONS.
+
+ONE OR TWO PLAYERS (IN HOT-SEAT OR COOPERATIVE MODE) CONTROL A SPACESHIP EQUIPPED WITH A LASER CANNON WHICH CAN BE CHARGED (BY HOLDING THE SHOOTING BUTTON DOWN) FOR A STRONGER BLAST. BESIDES THE MAIN WEAPON, THREE SPECIAL WEAPONS ARE AVAILABLE: A WALL OF FIRE WHICH WIPES THE SCREEN UP IN A WAVE, A NOVA-LIKE BLAST AND A CIRCLE OF SPHERICAL-GREEN HOMING MISSILES.</desc>
+		<rating>0.65</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>2355B354</hash>
+		<image>./images/viewpoin.png</image>
+		<thumbnail>./boxart/viewpoin.png</thumbnail>
+		<marquee>./marquee/viewpoin.png</marquee>
+		<video>./snap/viewpoin.mp4</video>
+	</game>
+	<game id="87615" source="ScreenScraper.fr">
+		<path>./vliner.zip</path>
+		<name>V-Liner</name>
+		<desc>V-LINER IS SIMPLY A MONEY GAME (VIRTUAL) AS A SLOT MACHINE LIKE A REAL CASINO!</desc>
+		<rating>0</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Dyna</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>349BC6AE</hash>
+		<image>./images/vliner.png</image>
+		<thumbnail>./boxart/vliner.png</thumbnail>
+		<marquee>./marquee/vliner.png</marquee>
+		<video>./snap/vliner.mp4</video>
+	</game>
+	<game id="13947" source="ScreenScraper.fr">
+		<path>./wakuwak7.zip</path>
+		<name>Waku Waku 7</name>
+		<desc>AS SETE BOLAS MÁGICAS WAKU WAKU SURGIRAM NOVAMENTE E OS POUCOS QUE SABEM DA SUA EXISTÊNCIA DECIDEM LUTAR UNS CONTRA OS OUTROS PARA RECOLHER TODAS ELAS. SE ELES FOREM CAPAZES DE DERROTAR O PODEROSO MONSTRO ESCRAVIZADO NELAS, AS BOLAS WAKU WAKU CONCEDERÃO AO SORTUDO VENCEDOR, SEJA QUAL FOR O DESEJO QUE FIZEREM. O JOGO EM GERAL FOI CRIADO COMO UMA PARÓDIA DA SÉRIE ANIME, WW7 REÚNE TODOS OS PILARES DO GÊNERO E OS FAZ LUTAR UNS CONTRA OS OUTROS. DE GATINHAS FOFINHAS E AFEMINADAS, ELFOS MUITO LEGAIS, A CRIATURAS PARECIDAS COM POKÉMON E HERÓIS IDIOTAS E BARULHENTOS.</desc>
+		<rating>0.9</rating>
+		<releasedate>19961227T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>44F95280</hash>
+		<image>./images/wakuwak7.png</image>
+		<thumbnail>./boxart/wakuwak7.png</thumbnail>
+		<marquee>./marquee/wakuwak7.png</marquee>
+		<video>./snap/wakuwak7.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37656" source="ScreenScraper.fr">
+		<path>./wjammers.zip</path>
+		<name>Windjammers</name>
+		<desc>WINDJAMMERS IS BASED ON A REAL-LIFE SPORT KNOWN AS SAUCER TENNIS OR FRISBEE TENNIS. YOU AND AN OPPONENT FACE OFF IN AN ARENA WITH A LOW NET IN THE MIDDLE. POINTS ARE SCORED BY THROWING A DISC INTO THE GOALS BEHIND A PLAYER OR WHENEVER YOUR OPPONENT IS NOT ABLE TO CATCH THE DISC IN TIME. THERE ARE TWO MOVES: A REGULAR THROW AND A LOB. BY USING QUARTER-CIRCLE MOVEMENT, YOU CAN ALSO ADD EFFECT TO THE THROW. TO CATCH DIFFICULT DISCS, YOU CAN SLIDE TO MOVE MORE QUICKLY. THERE ARE SIX CHARACTERS TO CHOOSE FROM, WITH SPECIFIC ABILITIES AND THEIR OWN COURT FIT FOR THEIR SKILLS. A SINGLE GAME CONSISTS OF SHORT SETS OF THIRTY SECONDS. THE GAME IS WON AFTER TWO WINNING SETS OR SUDDEN DEATH AFTER TWO DRAWS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>FACFD45D</hash>
+		<image>./images/wjammers.png</image>
+		<thumbnail>./boxart/wjammers.png</thumbnail>
+		<marquee>./marquee/wjammers.png</marquee>
+		<video>./snap/wjammers.mp4</video>
+	</game>
+	<game id="37655" source="ScreenScraper.fr">
+		<path>./wh2j.zip</path>
+		<name>World Heroes 2 Jet</name>
+		<desc>WORLD HEROES 2 JET IS THE THIRD GAME IN THE WORLD HEROES SERIES. A THIRD TOURNAMENT FEATURING WARRIORS FROM ALL OVER THE WORLD (AND DIFFERENT PERIODS IN TIME) HAS BEGUN, AND IT'S UP TO YOU TO FIGHT TO THE FINISH TO FIND OUT WHO IS ORGANIZING IT. THE GAME IS AN UPGRADE / FINE-TUNING OF WORLD HEROES 2.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>588A545B</hash>
+		<image>./images/wh2j.png</image>
+		<thumbnail>./boxart/wh2j.png</thumbnail>
+		<marquee>./marquee/wh2j.png</marquee>
+		<video>./snap/wh2j.mp4</video>
+	</game>
+	<game id="13942" source="ScreenScraper.fr">
+		<path>./wh2.zip</path>
+		<name>World Heroes 2</name>
+		<desc>THE TIME TRAVELING TOURNAMENT FIGHTERS ARE BACK! THE ORIGINAL EIGHT CHARACTERS FROM THE POPULAR ARCADE HIT RETURN, ALONG WITH SIX NEW CHARACTERS HAND-PICKED FROM SEVERAL DIFFERENT ERAS AND LOCATIONS ALL THROUGH TIME. BUT A NEW BOSS AWAITS THE VICTOR... WHO OR WHAT IS BEHIND THIS NEW TOURNAMENT? YOU'LL HAVE TO GET TO HIM TO FIND OUT!
+
+THIS SEQUEL FEATURES ALL-NEW STAGES AND MUSIC, AND IMPROVED ANIMATION AND GRAPHICS. YOU CAN NOW REFLECT PROJECTILE MOVES AT YOUR OPPONENT, AND REVERSE NORMAL THROWS IF YOUR TIMING IS RIGHT! THE ORIGINAL GAME'S DEATH MATCH MODE IS ALSO BACK, BUT WITH A NEW FEATURE - THE LIFE BAR WILL INCREASE OR DECREASE AS YOU INFLICT OR RECEIVE DAMAGE. GET YOUR SIDE'S LIFE BAR TO 100% AND YOUR ENEMY WILL LOSE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930604T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D789341A</hash>
+		<image>./images/wh2.png</image>
+		<thumbnail>./boxart/wh2.png</thumbnail>
+		<marquee>./marquee/wh2.png</marquee>
+		<video>./snap/wh2.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="13902" source="ScreenScraper.fr">
+		<path>./whp.zip</path>
+		<name>World Heroes Perfect</name>
+		<desc>IN THE FINAL ENTRY IN THE WORLD HEROES SAGA, ALL SIXTEEN FIGHTERS FROM PREVIOUS GAMES RETURN FOR ANOTHER TOURNAMENT. NEW FEATURES INCLUDE:
+
+1. AN ALL-NEW ATTACK MODE WHERE YOU USE ALL FOUR BUTTONS TO ATTACK AN ENEMY.
+2. A POWER BAR WHICH GRANTS YOU SPECIAL ABILITIES DEPENDING ON THE CHARACTER.
+3. ALL-NEW STAGES AND MUSIC SET ACROSS DIFFERENT LOCATIONS IN EARTH'S PAST AND FUTURE.
+4. THREE SECRET CHARACTERS TO CHOOSE FROM, INCLUDING A CHARACTER NEW TO THE SERIES</desc>
+		<rating>0</rating>
+		<releasedate>19950825T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>731DEF5C</hash>
+		<image>./images/whp.png</image>
+		<thumbnail>./boxart/whp.png</thumbnail>
+		<marquee>./marquee/whp.png</marquee>
+		<video>./snap/whp.mp4</video>
+	</game>
+	<game id="37654" source="ScreenScraper.fr">
+		<path>./wh1.zip</path>
+		<name>World Heroes</name>
+		<desc>AN ALIEN ENTITY KNOWN AS GEEGUS THREATENS THE EARTH IN THE YEAR 3091.  AS ALL OF EARTH'S FORCES HAVE BEEN DEFEATED, A SCIENTIST USES HIS RECENTLY-BUILT TIME MACHINE TO FIND THE GREATEST FIGHTERS OF DIFFERENT ERAS TO COMPETE AGAINST GEEGUS.
+
+FEATURING A CAST OF CHARACTERS RANGING FROM NINJAS TO A CYBERNETIC SUPERSOLDIER, YOU'LL FIGHT YOUR WAY THROUGH STANDARD-FARE ONE-ON-ONE MATCHES OR TAKE ON AN OPPONENT IN A DEATHMATCH, WHERE SPIKED WALLS AND LANDMINES ADD TO THE DANGER.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F9D7C8B1</hash>
+		<image>./images/wh1.png</image>
+		<thumbnail>./boxart/wh1.png</thumbnail>
+		<marquee>./marquee/wh1.png</marquee>
+		<video>./snap/wh1.mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="37657" source="ScreenScraper.fr">
+		<path>./zedblade.zip</path>
+		<name>Zed Blade</name>
+		<desc>VOCÊ E / OU UM AMIGO DEVEM ESCOLHER UM DOS TRÊS PERSONAGENS PARA JOGAR, CADA UM COM VELOCIDADES DIFERENTES NAS QUAIS CONTROLAM SUAS NAVES. EM SEGUIDA, SELECIONE TRÊS ARMAS PARA USAR NA FRENTE E NA TRASEIRA DA NAVE. DURANTE O JOGO, VOCÊ DEVE VIAJAR PARA TODOS OS PLANETAS DO SISTEMA SOLAR E DERROTAR AS VÁRIAS NAVES INIMIGAS E O CHEFE PERTO DO FIM DO PLANETA. SUAS ARMAS PODEM SER ATUALIZADAS DURANTE A BATALHA, E VOCÊ TAMBÉM PODE COLETAR HYPERBOMBS SE QUISER CAUSAR DANO MÁXIMO. CONTÉM UMA TRILHA SONORA AGRADÁVEL QUE REMETE AO INÍCIO DA DÉCADA DE 1990, A MÚSICA "RAVE".</desc>
+		<rating>0.75</rating>
+		<releasedate>19940913T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>C612F9E1</hash>
+		<image>./images/zedblade.png</image>
+		<thumbnail>./boxart/zedblade.png</thumbnail>
+		<marquee>./marquee/zedblade.png</marquee>
+		<video>./snap/zedblade.mp4</video>
+	</game>
+	<game id="13952" source="ScreenScraper.fr">
+		<path>./zintrckb.zip</path>
+		<name>Zintrick</name>
+		<desc>YET ANOTHER PUZZLE GAME ON NEO-GEO! EVERY FOUR YEARS TO ASGARD, THE "TOURNAMENT ZINTRICK" OCCURS. DURING THE COMPETITION, PARTICIPANTS FROM AROUND THE WORLD COME TO COMPETE FOR THE HONOR, GLORY AND WEALTH.</desc>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>78AB4195</hash>
+		<image>./images/zintrckb.png</image>
+		<thumbnail>./boxart/zintrckb.png</thumbnail>
+		<marquee>./marquee/zintrckb.png</marquee>
+		<video>./snap/zintrckb.mp4</video>
+	</game>
+	<game id="13913" source="ScreenScraper.fr">
+		<path>./zupapa.zip</path>
+		<name>Zupapa</name>
+		<desc>IS A 2001 RELEASE OF SNK FOR MVS. IT'S PRETTY MUCH A PUZZLER / SCREEN-CLEANING GAME WITH BRIGHT AND COLOURFUL OPTICS AND SIMPLE GAMEPLAY.</desc>
+		<rating>0</rating>
+		<releasedate>20010901T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6DCF938F</hash>
+		<image>./images/zupapa.png</image>
+		<thumbnail>./boxart/zupapa.png</thumbnail>
+		<marquee>./marquee/zupapa.png</marquee>
+		<video>./snap/zupapa.mp4</video>
+	</game>
+	<game id="44395" source="ScreenScraper.fr">
+		<path>./neogeo.zip</path>
+		<name>ZZZ(notgame):neogeo</name>
+		<rating>0</rating>
+		<hash>E8EBFD8D</hash>
+		<image>./images/neogeo.png</image>
+		<thumbnail>./boxart/neogeo.png</thumbnail>
+		<marquee>./marquee/neogeo.png</marquee>
+		<video>./snap/neogeo.mp4</video>
+	</game>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+	<game/>
+</gameList>

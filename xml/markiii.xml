@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="799" source="ScreenScraper.fr">
+		<path>./Action Fighter (USA, Europe).zip</path>
+		<name>Action Fighter</name>
+		<desc>PREPARE-SE PARA DESEMPENHAR UM PAPEL DE PROTAGONISTA NO INCRÍVEL MUNDO DA ESPIONAGEM INTERNACIONAL. VOCÊ TERÁ CINCO TAREFAS DIFERENTES, TODAS REPLETAS DE AÇÃO E AINDA ASSIM EXTREMAMENTE PERIGOSAS. QUAL É A SUA ARMA SECRETA? UM VEÍCULO QUE SE TRANSFORMA EM UMA DÚZIA DE DIFERENTES DISPOSITIVOS LETAIS. SUA MOTOCICLETA DE ALTA VELOCIDADE PODE SER CONVERTIDA EM UM CARRO PERSONALIZADO E, EM SEGUIDA, UM AVIÃO A JATO CAPAZ DE ROMPER A BARREIRA DO SOM. E TUDO EM QUESTÃO DE SEGUNDOS. É O TESTE REAL? SABER QUANDO USAR CADA ARMA. POR QUE ESCOLHER A MÁQUINA ERRADA, NA HORA ERRADA, PODE SER FATAL.</desc>
+		<rating>0.5</rating>
+		<releasedate>19860102T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>3658F3E0</hash>
+		<image>./images/Action Fighter (USA, Europe).png</image>
+		<thumbnail>./boxart/Action Fighter (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Action Fighter (USA, Europe).png</marquee>
+		<video>./snap/Action Fighter (USA, Europe).mp4</video>
+	</game>
+	<game id="832" source="ScreenScraper.fr">
+		<path>./After Burner (World).zip</path>
+		<name>After Burner</name>
+		<desc>ESTE SIMULADOR PERMITE AO JOGADOR CONTROLAR UM JATO F-14 TOMCAT QUE DEVE DESTRUIR UMA SÉRIE DE JATOS INIMIGOS AO LONGO DE 18 FASES. NO INÍCIO DO JOGO VOCÊ DECOLA DE UM PORTA-AVIÕES CHAMADO SEGA ENTERPRISE, QUE COMPARTILHA UM NOME SEMELHANTE AO USADO NO FILME DE 1986 TOP GUN.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>978C2927</hash>
+		<image>./images/After Burner (World).png</image>
+		<thumbnail>./boxart/After Burner (World).png</thumbnail>
+		<marquee>./marquee/After Burner (World).png</marquee>
+		<video>./snap/After Burner (World).mp4</video>
+	</game>
+	<game id="855" source="ScreenScraper.fr">
+		<path>./Alex Kidd BMX Trial (Japan).zip</path>
+		<name>Alex Kidd : BMX Trial</name>
+		<desc>COMO JOVEM ALEX, SEU TRABALHO É PASSAR POR UMA PISTA DE OBSTÁCULOS E CHEGAR À SAÍDA PRINCIPAL SEM OUTROS CONCORRENTES QUE TENTAM DERRUBÁ-LO DE SUA BICICLETA. VOCÊ COMEÇA EM BLACKWOOD FOREST, MAS DEPENDENDO DE ONDE ESTIVER, PODE VIAJAR PARA CACTUS DESERT, SOUTH SEAS, PYRAMID RIVER, OU PARA A CIDADE NATAL DE ALEX, RADAXIAN.</desc>
+		<rating>0.25</rating>
+		<releasedate>19871115T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>F9DBB533</hash>
+		<image>./images/Alex Kidd BMX Trial (Japan).png</image>
+		<thumbnail>./boxart/Alex Kidd BMX Trial (Japan).png</thumbnail>
+		<marquee>./marquee/Alex Kidd BMX Trial (Japan).png</marquee>
+		<video>./snap/Alex Kidd BMX Trial (Japan).mp4</video>
+	</game>
+	<game id="t" source="ScreenScraper.fr">
+		<path>./Alex Kidd - The Lost Stars (World).zip</path>
+		<name>Alex Kidd : The Lost Stars</name>
+		<desc>ALEX KIDD ESTÁ DE VOLTA! O PEQUENO PRÍNCIPE COM GRANDES ORELHAS E CORAGEM ILIMITADA. QUANDO O PERIGO AMEAÇA MIRACLE WORLD, ALEX KIDD ESTÁ PRONTO PARA ENFRENTAR QUALQUER DESAFIO.
+
+DESTA VEZ, O MALVADO JIGARATT ROUBOU AS ESTRELAS DA CONSTELAÇÃO DE ÁRIES. OS CÉUS ACIMA DA CIDADE DE RADACTIAN AGORA SÃO FRIOS E ESCUROS. SOMENTE ALGUÉM DE SANGUE REAL PODE RECUPERÁ-LOS ... E ESSE É ALEX KIDD!
+
+AJUDE ALEX EM 14 FASES DE AVENTURA POR MUNDOS ONDE TUDO É POSSÍVEL! VOCÊ TEM AS PERNAS QUE SALTAM COMO MOLAS DE AÇO E NUVENS MÁGICAS QUE ATIRAM PARANDA O INIMIGO. MAS A CHAVE PARA OBTER AS ESTRELAS DE VOLTA É A ESTRATÉGIA. VOCÊ É BOM O SUFICIENTE PARA VENCER JIGARATT?</desc>
+		<rating>0.35</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>C13896D5</hash>
+		<image>./images/Alex Kidd - The Lost Stars (World).png</image>
+		<thumbnail>./boxart/Alex Kidd - The Lost Stars (World).png</thumbnail>
+		<marquee>./marquee/Alex Kidd - The Lost Stars (World).png</marquee>
+		<video>./snap/Alex Kidd - The Lost Stars (World).mp4</video>
+	</game>
+	<game id="754" source="ScreenScraper.fr">
+		<path>./Alex Kidd in Miracle World (USA, Europe).zip</path>
+		<name>Alex Kidd in Miracle World</name>
+		<desc>SEU NOME É ALEX KIDD. VOCÊ TEM UMA CORAGEM INVEJÁVEL E UM GOLPE DE CARATÊ TÃO FORTE QUE É CAPAZ DE DESPEDAÇAR ROCHAS. SUA MISSÃO: SALVAR RADACTIAN, UMA CIDADE QUE ESTÁ EM PERIGO. MAS HÁ UMA ARMADILHA: COMO CHEGAR ATÉ LÁ? SUAS ÚNICAS DICAS SÃO UM MAPA MUITO CONFUSO E UM MEDALHÃO. SERÁ QUE VOCÊ CONSEGUE DECIFRAR ESTE ENIGMA? ENFRENTE OS OBSTÁCULOS, DESCUBRA OS SEGREDOS AO LONGO DA CAMINHADA, E PREPARE-SE PARA GRANDES AVENTURAS. ESTE É UM DESAFIO PARA POUCOS E ALEX KIDD É UM DELES!</desc>
+		<rating>0.75</rating>
+		<releasedate>19861201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>7545D7C2</hash>
+		<image>./images/Alex Kidd in Miracle World (USA, Europe).png</image>
+		<thumbnail>./boxart/Alex Kidd in Miracle World (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Alex Kidd in Miracle World (USA, Europe).png</marquee>
+		<video>./snap/Alex Kidd in Miracle World (USA, Europe).mp4</video>
+	</game>
+	<game id="778" source="ScreenScraper.fr">
+		<path>./Alex Kidd in Shinobi World (USA, Europe).zip</path>
+		<name>Alex Kidd in Shinobi World</name>
+		<desc>DEPOIS DE DEZ MIL ANOS BANIDO, DARK NINJA RETORNA PARA FAZER OUTRA TENTATIVA DE ASSUMIR MIRACLE WORLD. ALGUÉM DEFINITIVAMENTE TEM QUE DETÊ-LO! ADIVINHA QUEM SE ATREVE A ENFRENTAR O DESAFIO? VOCÊ! 
+VOCÊ É ALEX KIDD, O PRÍNCIPE QUE NÃO CONHECE O MEDO.
+UMA MENINA ADORÁVEL FOI SEQUESTRADA E SUA VIDA ESTÁ EM RISCO! E ELA É SUA NAMORADA DO PLANETA SHINOBI! SEGURANDO SEU REFÉM, O DARK NINJA PLANEJA REALIZAR SEU ESQUEMA DIABÓLICO. ELA DEVE SER SALVA ANTES QUE SEJA TARDE DEMAIS!
+VOCÊ PRECISA MAIS DO QUE CORAGEM PARA SER BEM SUCEDIDO. SE TRANSFORME EM UMA BOLA DE FOGO E QUEIME OS INIMIGOS QUE ATACAM VOCÊ. SALTE ATRAVÉS DE PAREDES IMPONENTES COM SUAS HABILIDADES SURPREENDENTES DE ESCALADA. SE TRANSFORME EM UM TORNADO. E QUANDO VOCÊ ENCONTRAR O DARK NINJA, PENSE APENAS EM GANHAR. CASO CONTRÁRIO, VOCÊ PERDERÁ SUA GAROTA E, PIOR AINDA, MIRACLE WORLD SERÁ CONDENADO PARA SEMPRE!</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>D2417ED7</hash>
+		<image>./images/Alex Kidd in Shinobi World (USA, Europe).png</image>
+		<thumbnail>./boxart/Alex Kidd in Shinobi World (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Alex Kidd in Shinobi World (USA, Europe).png</marquee>
+		<video>./snap/Alex Kidd in Shinobi World (USA, Europe).mp4</video>
+	</game>
+	<game id="852" source="ScreenScraper.fr">
+		<path>./Alien Syndrome (USA, Europe).zip</path>
+		<name>Alien Syndrome</name>
+		<desc>O ANO: 2089. MISTERIOSAS CRIATURAS VINDAS DE OUTRA GALÁXIA ESTÃO INVADINDO O NOSSO PLANETA. ELAS SÃO DIFERENTES DE TUDO O QUE VOCÊ JÁ VIU, E DECIDIDAMENTE NÃO ESTÃO BRINCANDO: TROUXERAM NAVES DO TAMANHO DE UMA CIDADE INTEIRA.O MUNDO ESTÁ EM PÂNICO. OS MELHORES SOLDADOS DA TROPA DE COMANDO DA TERRA FORAM ENVIADOS PARA CONTROLAR A SITUAÇÃO, MAS VEJA O QUE ACONTECEU: ELES FORAM LEVADOS COMO REFÉNS. AGORA TODOS ESTÃO À PROCURA DE VOLUNTÁRIOS PARA IREM EM UMA MISSÃO DE RESGATE. O QUÊ? VOCÊ ACEITA ESSA MISSÃO? ENTÃO FIQUE BEM ATENTO, POIS OS ALIENS TÊM UMA GRANDE VANTAGEM. ELES PODEM APARECER A QUALQUER HORA... EM QUALQUER LUGAR!</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>412D9A6B</hash>
+		<image>./images/Alien Syndrome (USA, Europe).png</image>
+		<thumbnail>./boxart/Alien Syndrome (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Alien Syndrome (USA, Europe).png</marquee>
+		<video>./snap/Alien Syndrome (USA, Europe).mp4</video>
+	</game>
+	<game id="841" source="ScreenScraper.fr">
+		<path>./Argos no Juujiken (Japan).zip</path>
+		<name>Argos no Juujiken</name>
+		<desc>AN EVIL BEING KNOWN AS LIGAR IS ABOUT TO CONQUER THE LAND OF ARGOOL. SUCH IS HIS POWER THAT NO LIVING CREATURE DARES TO CROSS PATHS WITH HIM. BUT THE LEGENDARY WARRIOR RYGAR RISES FROM HIS GRAVE TO RESTORE PEACE AND JUSTICE. ARMED WITH HIS FAMED WEAPON DISKARMOR, RYGAR BEGINS TO TRAVERSE THE VAST LANDS THAT LEAD TO THE LAIR OF THE DEMON, AS HIS MINIONS ARE TRYING IN VAIN TO STOP HIM...
+
+ORIGINALLY RELEASED ON THE ARCADES, RYGAR IS A SIDE-SCROLLING ACTION GAME. THE PLAYER CONTROLS THE TITULAR HERO, ADVANCING THROUGH STAGES POPULATED BY HOSTILE CREATURES. BESIDE THE DISKARMOR, A WEAPON THAT LOOKS LIKE A SHIELD WITH A CHAIN ATTACHED TO IT, THE HERO CAN USE A VARIETY OF OTHER WEAPONS, INCLUDING PROJECTILES THAT CAN BE FIRED IN FOUR DIRECTIONS. VARIOUS "POWERS" ARE SCATTERED THROUGH THE LEVELS AND CAN BE COLLECTED. THE EFFECTS OF THESE POWERS INCLUDE INCREASING THE FIRE POWER OF THE EQUIPPED WEAPON, ADDING TIME TO THE CLOCK, TEMPORARY INVISIBILITY, EXTRA POINTS, ETC.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880325T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Salio - Tecmo</publisher>
+		<players>1-2</players>
+		<hash>BAE75805</hash>
+		<image>./images/Argos no Juujiken (Japan).png</image>
+		<thumbnail>./boxart/Argos no Juujiken (Japan).png</thumbnail>
+		<marquee>./marquee/Argos no Juujiken (Japan).png</marquee>
+		<video>./snap/Argos no Juujiken (Japan).mp4</video>
+	</game>
+	<game id="64911" source="ScreenScraper.fr">
+		<path>./Astro Warrior &amp; Pit Pot (Europe).zip</path>
+		<name>Astro Warrior &amp; Pit Pot</name>
+		<desc>TWO SUPER HITS IN ONE!  TURN BACK THE INVADERS AND SAVE THE GALAXY IN ASTRO WARRIOR.  CAN YOU FIND YOUR WAY SAFELY THROUGH THE MAGICAL MAZES IN PIT POT?</desc>
+		<rating>0.5</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>69EFD483</hash>
+		<image>./images/Astro Warrior &amp; Pit Pot (Europe).png</image>
+		<thumbnail>./boxart/Astro Warrior &amp; Pit Pot (Europe).png</thumbnail>
+		<marquee>./marquee/Astro Warrior &amp; Pit Pot (Europe).png</marquee>
+		<video>./snap/Astro Warrior &amp; Pit Pot (Europe).mp4</video>
+	</game>
+	<game id="918" source="ScreenScraper.fr">
+		<path>./Astro Warrior (Japan, USA).zip</path>
+		<name>Astro Warrior</name>
+		<desc>ASTRO WARRIOR LEVA VOCÊ À IMENSIDÃO DO UNIVERSO, NUMA BATALHA EMOCIONANTE CONTRA PODEROSAS ESTAÇÕES E NAVES INIMIGAS. ATIRE RÁPIDO. ATIRE NA HORA CERTA. A PRECISÃO SERÁ SUA MAIOR ALIADA. NESTE JOGO DE AVENTURA ESPACIAL, AS CHANCES ESTÃO CONTRA VOCÊ, E A ÚNICA SAÍDA É TORNAR SUA NAVE MAIS FORTE E COM MAIS ARMAS. MAS PARA ISSO VOCÊ PRECISA SER UM VERDADEIRO CAMPEÃO. PREPARE-SE PARA MUITA AÇÃO, POIS QUALQUER DESCUIDO PODE LEVÁ-LO AO FIM DO JOGO.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>299CBB74</hash>
+		<image>./images/Astro Warrior (Japan, USA).png</image>
+		<thumbnail>./boxart/Astro Warrior (Japan, USA).png</thumbnail>
+		<marquee>./marquee/Astro Warrior (Japan, USA).png</marquee>
+		<video>./snap/Astro Warrior (Japan, USA).mp4</video>
+	</game>
+	<game id="834" source="ScreenScraper.fr">
+		<path>./Aztec Adventure - The Golden Road to Paradise (World).zip</path>
+		<name>Aztec Adventure</name>
+		<desc>EM ALGUM LUGAR DA FLORESTA DOS ANTIGOS ASTECAS ESTÁ ESCONDIDO UM PARAÍSO. PARA CHEGAR ATÉ LÁ, VOCÊ TEM QUE ATRAVESSAR UM LABIRINTO PERIGOSO, CHEIO DE CRIATURAS MISTERIOSAS. POR ISSO, NUNCA ALGUÉM CONSEGUIU ALCANÇAR ESTE PARAÍSO. SOMENTE EL NINO, O EXPLORADOR, É CORAJOSO O BASTANTE PARA SE AVENTURAR NO LABIRINTO... E COM CHANCES DE SOBREVIVER. NESTA TERRA ONDE O DINHEIRO FALA MAIS ALTO, CADA UM TEM SEU PREÇO. SEUS INIMIGOS DE HOJE PODEM SER SEUS ALIADOS DE AMANHÃ. A CAMINHADA SERÁ ARRISCADA, MAS O PARAÍSO ASTECA ESPERA POR VOCÊ!</desc>
+		<rating>0.65</rating>
+		<releasedate>19880301T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>FF614EB3</hash>
+		<image>./images/Aztec Adventure - The Golden Road to Paradise (World).png</image>
+		<thumbnail>./boxart/Aztec Adventure - The Golden Road to Paradise (World).png</thumbnail>
+		<marquee>./marquee/Aztec Adventure - The Golden Road to Paradise (World).png</marquee>
+		<video>./snap/Aztec Adventure - The Golden Road to Paradise (World).mp4</video>
+	</game>
+	<game id="944" source="ScreenScraper.fr">
+		<path>./Blade Eagle (World).zip</path>
+		<name>Blade Eagle 3-D</name>
+		<desc>TUDO COMEÇOU QUANDO OS DIABÓLICOS ARVIANS, AJUDADOS POR ROBÔS PROGRAMADOS PARA DESTRUIR, ATACARAM SEM AVISO. EM ALGUNS DIAS, OS TRÊS PLANETAS DO SISTEMA SOLAR FORAM ARRASADOS. SÓ RESTOU UMA NAVE ILESA: A SUA. AGORA VOCÊ É O ÚNICO QUE TEM O PODER DE LIBERTAR O SISTEMA SOLAR, COM A SUA NAVE BLADE EAGLE, A MAIS AVANÇADA E A MAIS TEMIDA DO UNIVERSO. VOCÊ PRECISARÁ USAR TODOS OS ARTIFÍCIOS POSSÍVEIS, EM 9 NÍVEIS DE DIFICULDADE, COM FANTÁSTICOS EFEITOS TRIDIMENSIONAIS. AS CHANCES DE VENCER ESTA BATALHA CONTRA OS MAIS TERRÍVEIS E AMBICIOSOS INIMIGOS DO UNIVERSO SÃO" DE 1 EM 1 MILHÃO.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>FBF96C81</hash>
+		<image>./images/Blade Eagle (World).png</image>
+		<thumbnail>./boxart/Blade Eagle (World).png</thumbnail>
+		<marquee>./marquee/Blade Eagle (World).png</marquee>
+		<video>./snap/Blade Eagle (World).mp4</video>
+	</game>
+	<game id="791" source="ScreenScraper.fr">
+		<path>./Bomber Raid (World).zip</path>
+		<name>Bomber Raid</name>
+		<desc>JOGO DE NAVE COM MOVIMENTAÇÃO VERTICAL DE TELA, BOMBER RAID LEMBRA UM POUCO O CLÁSSICO 1942 DA CAPCOM. O JOGADOR PILOTA UM AVIÃO DE GUERRA, ATIRANDO CONTRA VEÍCULOS INIMIGOS EM TERRA, ÁGUA E AR. HÁ POWER-UPS QUE AUMENTAM O PODER E A VELOCIDADE DE SUA ARMA E QUE FAZEM ATÉ UM AVIÃO ALIADO VOAR AO SEU LADO, DISPARANDO JUNTO COM A SUA AERONAVE. A DIFICULDADE É ALTA: TRÊS VIDAS, NADA DE CONTINUES E CHEFÕES QUE ENCHEM A TELA DE TIROS. HÁ MUITA AÇÃO NO JOGO E DIVERSOS POWER-UPS CRUZANDO A TELA, MAS BOMBER RAID CONSEGUE MANTER UMA BOA VELOCIDADE. FOI O ÚLTIMO JOGO LANÇADO PARA MASTER SYSTEM NO JAPÃO.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Activision</publisher>
+		<players>1</players>
+		<hash>3084CF11</hash>
+		<image>./images/Bomber Raid (World).png</image>
+		<thumbnail>./boxart/Bomber Raid (World).png</thumbnail>
+		<marquee>./marquee/Bomber Raid (World).png</marquee>
+		<video>./snap/Bomber Raid (World).mp4</video>
+	</game>
+	<game id="770" source="ScreenScraper.fr">
+		<path>./Bubble Bobble (Europe).zip</path>
+		<name>Bubble Bobble</name>
+		<desc>BUBBLE BOBBLE IS THE STORY OF TWO HUMANS, BUB AND BOB WHO WANDER INTO THE MYSTERIOUS CAVE OF MONSTERS AND MAGICALLY TURN INTO DINOSAURS. THE ONLY WAY TO TRANSFORM BACK IS TO REACH THE END OF THE CAVE...
+
+BUBBLE BOBBLE IS A PLATFORM GAME, WITH EACH LEVEL BEING A SINGLE SCREEN. THE ENEMIES MUST BE CLEARED FROM A LEVEL TO GO TO THE NEXT ONE. WITH ONE PLAYER CONTROLLING BUB AND THE OTHER CONTROLLING BOB, THE PLAYER CAN JUMP AND COLLECT ITEMS FOR POINTS (SUCH AS FRUIT). THE REAL POWER BUB AND BOB HAVE HOWEVER IS THE ABILITY TO BLOW BUBBLES. THESE BUBBLES CAN BE AS PLATFORMS TO LEAP ON, OR TO TRAP ENEMIES. ENEMIES TRAPPED IN A BUBBLE MUST BE POPPED BY JUMPING INTO THEM, WHEREIN THEY'LL TURN TO FRUIT. ADDITIONALLY, POWER-UPS SOMETIMES FLOAT BY IN BUBBLES. THEY INCLUDE LIGHTNING, WHICH FLIES OUT HORIZONTALLY AT ENEMIES, AND WATER, WHICH DRAGS THE PLAYER AND ENEMIES STRAIGHT DOWN FLOWING OVER PLATFORMS. TAKING TOO LONG TO COMPLETE ANY LEVEL WILL SUMMON BARON VON BLUBBA, WHO WILL FLOAT AROUND THE SCREEN TRYING TO DESTROY THE PLAYER.</desc>
+		<rating>0.85</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<players>1-2</players>
+		<hash>E843BA7E</hash>
+		<image>./images/Bubble Bobble (Europe).png</image>
+		<thumbnail>./boxart/Bubble Bobble (Europe).png</thumbnail>
+		<marquee>./marquee/Bubble Bobble (Europe).png</marquee>
+		<video>./snap/Bubble Bobble (Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="869" source="ScreenScraper.fr">
+		<path>./Captain Silver (USA).zip</path>
+		<name>Captain Silver</name>
+		<desc>JACK AVERY É UM GAROTO FASCINADO POR TESOUROS E AVENTURAS. ELE ESTÁ NO RASTRO DE CAPTAIN SILVER, O MAIS TEMIDO DOS PIRATAS SANGUINÁRIOS, NA PROCURA POR UM TESOURO DE IMENSO VALOR. CAPTAIN SILVER ESTÁ MORTO, MAS ISTO PIORA AINDA MAIS A SITUAÇÃO. SEU FANTASMA CONTINUA A PROCURA DO TESOURO PERDIDO E FICA FURIOSO COM QUEM TENTA FAZER O MESMO. MUITOS HOMENS FORTES E VALENTES JÁ FORAM PARAR EM COVAS PROFUNDAS. MAS VOCÊ NÃO TEM MEDO DE FANTASMAS... OU TEM? COM UM VELHO MAPA NAS MÃOS, VOCÊ DEVE FAREJAR E SEGUIR AS PISTAS, ENFRENTANDO INIMIGOS VIVOS E MORTOS. LUTE BEM E SUA ESPADA TERÁ UM MAIOR PODER. UMA FORÇA ESPECIAL PERMITIRÁ QUE VOCÊ FIQUE INVISÍVEL POR ALGUM TEMPO. NO FINAL, O GRANDE CONFRONTO: VOCÊ E O FANTASMA DE CAPTAIN SILVER! OU VOCÊ DESFRUTARÁ PELO RESTO DE SUA VIDA AS RIQUEZAS DO TESOURO, OU SE JUNTARÁ A ESTES SERES DE OUTRO MUNDO.</desc>
+		<rating>0.55</rating>
+		<releasedate>19880702T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East - Sega</publisher>
+		<players>1</players>
+		<hash>A4852757</hash>
+		<image>./images/Captain Silver (USA).png</image>
+		<thumbnail>./boxart/Captain Silver (USA).png</thumbnail>
+		<marquee>./marquee/Captain Silver (USA).png</marquee>
+		<video>./snap/Captain Silver (USA).mp4</video>
+	</game>
+	<game id="877" source="ScreenScraper.fr">
+		<path>./Penguin Land (USA, Europe).zip</path>
+		<name>Doki Doki Penguin Land : Uchuu Daibouken</name>
+		<desc>WELCOME TO PENGUIN LAND, WHERE YOU'RE GOING UNDERGROUND TO PLAN MORE THAN YOUR NEXT MOVE. BECAUSE NOW WITH THE HELP OF A SUPER ADVANCED BATTERY, YOU CAN ACTUALLY DESIGN EACH GAME MAZE AS YOU PLAY AND SAVE YOUR MAZE FOR MORE FUN LATER.
+
+HERE'S THE SETTING. YOU'RE ABOARD A COSMIC EXPEDITION THAT'S FULL OF ACTION AND ADVENTURE. AND GUESS WHO'S IN COMMAND?
+
+THAT'S RIGHT, YOU'RE OVERBITE, COMMANDER OF A SPECIAL PENGUIN TASK FORCE.YOUR MISSION: BRING FRAGILE EGGS BACK SAFELY TO HOME FROM A FOREIGN LAND.YOUR JOURNEY WILL TAKE YOU DEEP INTO MYSTERIOUS CAVERNS WHERE DANGEROUS ANIMALS AWAIT TO ATTACK AND DESTROY YOUR EGGS.
+
+BUT REMEMBER, YOUR SPACE SHIP AND CREW NEED YOU TOO. SO BE CAREFUL NOT TO "CRACK-UP" BECAUSE YOU, CAN'T BE A HERO WITH "EGG ON YOUR FACE."</desc>
+		<rating>0.8</rating>
+		<releasedate>19870818T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>2BCDB8FA</hash>
+		<image>./images/Penguin Land (USA, Europe).png</image>
+		<thumbnail>./boxart/Penguin Land (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Penguin Land (USA, Europe).png</marquee>
+		<video>./snap/Penguin Land (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="762" source="ScreenScraper.fr">
+		<path>./Double Dragon (World).zip</path>
+		<name>Double Dragon</name>
+		<desc>NUMA CIDADE DOMINADA PELA E PELO CRIME, VOCÊS PRECISAM UM DO OUTRO PARA SOBREVIVER.
+VOCÊ É BILLY LEE E SEU IRMÃO GÊMEO É JIMMY LEE, MAS SÃO MAIS CONHECIDOS COMO "SPIKE" E "THE HAMMER" MESTRES EM ARTES MARCIAIS, DOMINAM TODOS OS GOLPES MORTAIS.
+PREPARE-SE PARA A GRANDE BATALHA.
+A MAIS TERRÍVEL GANGUE DA CIDADE (OS GUERREIROS NEGROS) SEQÜESTROU A NAMORADA DE JIMMY, E ESTÁ USANDO-A PARA ATRAÍ-LO PARA SEU TERRITÓRIO.
+VOCÊ TERÁ QUE SALVÁ-LA, E PARA ISSO USARÁ TODAS AS SUAS HABILIDADES.
+MAS TOME MUITO CUIDADO PRINCIPALMENTE COM O PIOR DE TODOS: O LÍDER DA GANGUE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19881101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tradewest</publisher>
+		<players>1-2</players>
+		<hash>B8CFFA0F</hash>
+		<image>./images/Double Dragon (World).png</image>
+		<thumbnail>./boxart/Double Dragon (World).png</thumbnail>
+		<marquee>./marquee/Double Dragon (World).png</marquee>
+		<video>./snap/Double Dragon (World).mp4</video>
+	</game>
+	<game id="844" source="ScreenScraper.fr">
+		<path>./Enduro Racer (USA, Europe).zip</path>
+		<name>Enduro Racer</name>
+		<desc>IN THIS GAME YOU PLAY THE ROLE OF AN ENDURANCE BIKE RACER. THE GAMEPLAY INVOLVES YOU RACING AGAINST THE CLOCK TO GET TO THE FINISH LINE AND JUMPING OVER RAMPS. AT THE END OF EACH RACE YOU GET POINTS FOR HOW MANY CARS OR BIKES YOU HAVE OVERTAKEN WITH WHICH YOU CAN UPGRADE YOUR BIKE.
+THERE ARE VARIOUS DIFFERENT TERRAIN FOR YOU TO RACE ON INCLUDING DESERT BEACH AND DIRT TRACKS PLUS A NUMBER OF THINGS TO SLOW YOU DOWN OR EVEN KNOCK YOU OFF OF YOUR BIKE ALL TOGETHER. THE MAIN IDEA IS TO FIND THE BEST ROUTE THROUGH EACH LEVEL TO SHAVE OFF VALUABLE SECONDS IN ORDER TO OVER TAKE MORE CARS AND BIKES.
+
+THE JAPANESE VERSION OF THE GAME HAS MORE TRACKS THAN THE EUROPEAN AND US VERSIONS HAVE. AMONG  THEM IS A SNOW TRACK WHICH IS ONE OF THE HARDEST TRACKS IN THE GAME, BECAUSE THERE IS A LOT OF STONES ON THE THIN ROAD.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>1FE4E74D</hash>
+		<image>./images/Enduro Racer (USA, Europe).png</image>
+		<thumbnail>./boxart/Enduro Racer (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Enduro Racer (USA, Europe).png</marquee>
+		<video>./snap/Enduro Racer (USA, Europe).mp4</video>
+	</game>
+	<game id="964" source="ScreenScraper.fr">
+		<path>./Fantasy Zone - The Maze (USA, Europe).zip</path>
+		<name>Fantasy Zone  : The Maze</name>
+		<desc>JUNTE-SE AO OPA-OPA NESTE FANTASY ZONE! VOCÊ ENCONTRARÁ TODA AÇÃO E AVENTURA QUE FAZEM DE FANTASY ZONE UM SUCESSO...
+OS TERRÍVEIS MENONS RETORNARAM EM NAVES DE VÁRIOS NÍVEIS E ESTÃO ESCONDIDOS EM SETE PLANETAS DIFERENTES! O CORAJOSO OPA-OPA FOI CHAMADO PARA COMBATER A AMEAÇA. E JUNTO ESTÁ SEU IRMÃO, O UPA-UPA.
+SUA MISSÃO: GUIAR O TIME DOS VALENTES IRMÃOS, NÍVEL APÓS NÍVEL, ATRAVÉS DE LABIRINTOS TRAIÇOEIROS. PEGUE AS MOEDAS DE OURO ROUBADAS PELO MERCADOR MENON E USE-AS PARA ADQUIRIR ARMAS SUPER PODEROSAS.
+FANTASY ZONE CONTA COM VOCÊ PARA ESTA MISSÃO. NÃO O DECEPCIONE.</desc>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>D29889AD</hash>
+		<image>./images/Fantasy Zone - The Maze (USA, Europe).png</image>
+		<thumbnail>./boxart/Fantasy Zone - The Maze (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Fantasy Zone - The Maze (USA, Europe).png</marquee>
+		<video>./snap/Fantasy Zone - The Maze (USA, Europe).mp4</video>
+	</game>
+	<game id="848" source="ScreenScraper.fr">
+		<path>./Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).zip</path>
+		<name>Fantasy Zone II : Opa-Opa no Namida</name>
+		<desc>OPA-OPA, O GRANDE HERÓI, ESTÁ DE VOLTA, SÓ QUE DESTA VEZ NUMA MISSÃO AINDA MAIS PERIGOSA.
+BEM-VINDOS AO FANTASY ZONE II, ONDE O PERIGO É GRANDE, MAS A RECOMPENSA É MAIOR.
+A PAZ ESTÁ AMEAÇADA E OS INIMIGOS, OS BLACKHEARTS, SÃO MUITO MAIS TERRÍVEIS. TOME CUIDADO COM CRIATURAS INOCENTES QUE SE APROXIMAM DE VOCÊ. NA VERDADE, ESTÃO DO LADO DO INIMIGO, E FARÃO TUDO PARA IMPEDÍ-LO DE CUMPRIR A SUA MISSÃO. FANTASY ZONE II: UMA GRANDE EMOÇÃO.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>C722FB42</hash>
+		<image>./images/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png</image>
+		<thumbnail>./boxart/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png</marquee>
+		<video>./snap/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="801" source="ScreenScraper.fr">
+		<path>./Fantasy Zone (World).zip</path>
+		<name>Fantasy Zone</name>
+		<desc>THE FANTASY ZONE IS A SOLAR SYSTEM CONSISTING OF EIGHT BRIGHTLY COLORED, FANTASTIC PLANETS. THE EVIL MENONS ARE TRYING TO TAKE OVER ALL OF THE PLANETS IN THE FANTASY ZONE BY USING MISAPPROPRIATED FOREIGN CURRENCY TO BUILD THEIR FORCES. IT IS THE PLAYER'S JOB TO RECOVER ALL OF THE COINS AND SAVE THE SOLAR SYSTEM! 
+
+FANTASY ZONE IS AN ARCADE STYLE SHOOTER FOR ONE OR TWO PLAYERS. THE GOAL IS TO DESTROY ALL OF THE CREATURES ON EACH PLANET AND COLLECT AS MANY OF THE LOST COINS AS POSSIBLE. AT THE END OF EACH LEVEL IS A LARGE ENEMY THAT WILL HAVE TO BE DEFEATED BEFORE MOVING ON TO THE NEXT WORLD.  AT VARIOUS POINTS IN THE GAME, THE PLAYER WILL BE ABLE TO FIND A PARTS SHOP, WHICH ALLOWS PURCHASING IMPROVEMENTS FOR HIS SPACESHIP, INCLUDING BETTER WEAPONS AND FASTER ENGINES.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>65D7E4E0</hash>
+		<image>./images/Fantasy Zone (World).png</image>
+		<thumbnail>./boxart/Fantasy Zone (World).png</thumbnail>
+		<marquee>./marquee/Fantasy Zone (World).png</marquee>
+		<video>./snap/Fantasy Zone (World).mp4</video>
+	</game>
+	<game id="18486" source="ScreenScraper.fr">
+		<path>./Galactic Protector (Japan).zip</path>
+		<name>Galactic Protector</name>
+		<desc>AS A SHIP THAT LOOKS LIKE THE ONE IN THE FANTASY ZONE SERIES YOU MUST PROTECT THREE PLANETS FROM FLOATING SPACE DEBRIS BY USING YOUR BUILT-IN LASER SHOTS TO DESTROY THEM. IF YOU FAIL TO SHOOT AT THEM QUICKLY, THE DEBRIS WILL EVENTUALLY COME IN CONTACT WITH IT. IF THIS HAPPENS, 10% OF THE PLANET'S LIFE WILL BE LOST. ONCE YOU HAVE DESTROYED ENOUGH DEBRIS, YOU RECEIVE A BONUS FOR HOW MUCH PLANET LIFE THAT REMAINS AND MOVE ON TO THE NEXT ROUND. LATER IN THE GAME, YOU WILL RECEIVE A 3-WAY SHOT AS WELL AS PROTECTION THAT WILL GREATLY HELP YOU IN FURTHER ROUNDS. THE GAME ENDS WHEN YOU LOSE ALL YOUR LIVES OR THE PLANET BLOWS UP. 25 ROUNDS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880221T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>A6FA42D0</hash>
+		<image>./images/Galactic Protector (Japan).png</image>
+		<thumbnail>./boxart/Galactic Protector (Japan).png</thumbnail>
+		<marquee>./marquee/Galactic Protector (Japan).png</marquee>
+		<video>./snap/Galactic Protector (Japan).mp4</video>
+	</game>
+	<game id="862" source="ScreenScraper.fr">
+		<path>./Golvellius (USA, Europe).zip</path>
+		<name>Golvellius : Valley of Doom</name>
+		<desc>ENTRE NO MUNDO DE GOLVELLIUS. UMA TERRA ONDE DEMÔNIOS CONTROLAM O VALE DA ÁGUA... E DOMINAM AS CRIATURAS DA TERRA, ÁGUA E AR. UM LUGAR ONDE QUASE TODOS ESTÃO CONTRA VOCÊ. HÁ SOMENTE UMA FORMA DE ENTRAR... E NÃO HÁ SAÍDA EXCETO A VITÓRIA OU A MORTE!!!
+É UMA FANTÁSTICA AVENTURA QUE O FARÁ PERCORRER DESERTOS E MONTANHAS, OCEANOS E FLORESTAS... ATRAVÉS DE SINISTROS CEMITÉRIOS E CAVERNAS REPLETAS DE PERIGOS, MISTÉRIOS E SURPRESAS.
+SE VOCÊ GOSTA DE AVENTURAS REPLETAS DE AÇÃO E DESAFIOS, GOLVELLIUS COM CERTEZA IRÁ AGRADÁ-LO. A SUA GRANDE DIVERSIDADE DE FASES, E DIFICULDADES SEMPRE CRESCENTES, IRÁ DESPERTAR O GUERREIRO QUE HÁ EM VOCÊ. VAMOS LÁ, ACEITE O DESAFIO!!
+GOLVELLIUS TEM TAMBÉM UMA SENHA (PASSWORD SAVE) QUE VOCÊ IRÁ RECEBER TODA VEZ QUE QUISER PARAR DE JOGAR. COM ESTA SENHA, QUANDO VOCÊ RESOLVER JOGAR DE NOVO, VOCÊ SERÁ LEVADO AO MESMO PONTO EM QUE HAVIA PARADO NO MOMENTO EM QUE RECEBEU A SENHA. VOCÊ CONTARÁ TAMBÉM COM AS MESMAS POSSES QUE ESTAVAM EM SEU PODER. PORTANTO, ANOTE ESTA SENHA ASSIM QUE A RECEBER, E DESTA FORMA VOCÊ IRÁ EVITAR DE TER QUE ENFRENTAR NOVAMENTE FASES QUE JÁ TENHAM SIDO VENCIDAS ANTES.</desc>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile - Sega</publisher>
+		<players>1</players>
+		<hash>00196EBA</hash>
+		<image>./images/Golvellius (USA, Europe).png</image>
+		<thumbnail>./boxart/Golvellius (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Golvellius (USA, Europe).png</marquee>
+		<video>./snap/Golvellius (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="1008" source="ScreenScraper.fr">
+		<path>./Great Basketball (World).zip</path>
+		<name>Great Basketball</name>
+		<desc>GREAT BASKETBALL É UMA SIMULAÇÃO DE 8 BITS DA COMPETIÇÃO INTERNACIONAL DE BASQUETE. ESCOLHA ENTRE UM DOS OITO PAÍSES (EUA, CANADÁ, UNIÃO SOVIÉTICA, JAPÃO, CUBA, CHECOSLOVÁQUIA, ITÁLIA, HUNGRIA) E SALTE PARA A INTENSA AÇÃO DE ARCOS, COM JOGO 5-CONTRA-5, FALTAS DEFENSIVAS E OFENSIVAS, LANCES LIVRES E TRÊS. TIROS PONTUAIS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>2AC001EB</hash>
+		<image>./images/Great Basketball (World).png</image>
+		<thumbnail>./boxart/Great Basketball (World).png</thumbnail>
+		<marquee>./marquee/Great Basketball (World).png</marquee>
+		<video>./snap/Great Basketball (World).mp4</video>
+	</game>
+	<game id="983" source="ScreenScraper.fr">
+		<path>./Great Football (World).zip</path>
+		<name>Great Football</name>
+		<desc>GREAT FOOTBALL PLAYS AS A REGULAR PROFESSIONAL AMERICAN FOOTBALL GAME. ONE HAS THE OPTION TO CHOOSE FROM THE AFC LEAGUE OR THE NFC LEAGUE AND THEN CHOOSE FROM SEVERAL FABRICATED TEAMS SUCH AS THE BOMBERS, SHARKS, BEAVERS OR BUCKS.
+DURING GAMEPLAY, ONE MUST CHOOSE FROM A NUMBER OF PLAY FORMATIONS. THE PLAYER CAN CHOOSE FROM RUNNING AND PASSING PLAYS TO FIELD GOALS AND PUNTING PLAYS WHEN THE TIME IS RIGHT.
+IN A ONE-PLAYER GAME, THE PLAYER ONLY COMPETES ON OFFENSE. THE GAME STARTS OUT WITH THE CPU AHEAD IN SCORE AND THE PLAYER MUST TRY TO SCORE ENOUGH POINTS TO WIN. THE CPU WILL AUTOMATICALLY KICK-OFF AFTER A POSSESSION IS OVER, THERE IS NO DEFENSE TO BE PLAYED. IN A TWO-PLAYER GAME, THERE IS BOTH OFFENSE AND DEFENSE TO BE PLAYED. ONE MUST TRY TO DO WHATEVER POSSIBLE TO WIN, WHETHER IT BE THROUGH TOUCHDOWNS AND FIELD GOALS ON OFFENSE OR INTERCEPTIONS AND SAFETIES ON DEFENSE.</desc>
+		<rating>0.45</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>2055825F</hash>
+		<image>./images/Great Football (World).png</image>
+		<thumbnail>./boxart/Great Football (World).png</thumbnail>
+		<marquee>./marquee/Great Football (World).png</marquee>
+		<video>./snap/Great Football (World).mp4</video>
+	</game>
+	<game id="1003" source="ScreenScraper.fr">
+		<path>./Great Golf (World).zip</path>
+		<name>Great Golf</name>
+		<desc>KEEP YOUR HEAD DOWN. EYES ON THE BALL. GRIP THE CLUB FAMILY ... AND SWING. WELCOME TO THE SEGA MASTER'S TOURNAMENT WHERE YOU NEED TO PLAY BETTER THAN "PAR" IF YOU WANT TO WIN.
+
+SO TEE-UP FOR SOME REAL FUN. AND REMEMBER TO PLAY WITH CAUTION. THIS CHAMPIONSHIP COURSE HAS BEEN GROOMED FOR A TRULY COMPETITIVE CHALLENGE. EIGHTEEN HOLES FULL OF ROUGHS, BUNKERS, AND WATER HAZARDS WILL PUT YOUR NERVES TO A REAL TEST.
+
+BUT NOT TO WORRY. YOU'VE GOT SOME CLEVER MOVES TO MEET THE CHALLENGE OF A "DOG LEG" FAIRWAY OR A TRICKY GREEN. SO GO FOR A SNEAKY SLICE OR HARD HOOK TO OUTPLAY THE REST. WINNER TAKES ALL! FORE!</desc>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-4</players>
+		<hash>98E4AE4A</hash>
+		<image>./images/Great Golf (World).png</image>
+		<thumbnail>./boxart/Great Golf (World).png</thumbnail>
+		<marquee>./marquee/Great Golf (World).png</marquee>
+		<video>./snap/Great Golf (World).mp4</video>
+	</game>
+	<game id="978" source="ScreenScraper.fr">
+		<path>./Great Volleyball (USA, Europe).zip</path>
+		<name>Great Volleyball</name>
+		<desc>ASSEMBLE YOUR SIX MAN TEAM AND TAKE ON THE WORLD! IN VOLLEYBALL, THAT IS! CHOOSE FROM ONE OF EIGHT DIFFERENT COUNTRIES, INCLUDING USA, THE U.S.S.R., CUBA AND BRAZIL, AND PLAY AGAINST THE REST, EITHER IN GOODWILL MATCHES, OR ON A WORLDWIDE TOURNAMENT.
+
+THE GAME IS VERY SIMPLE TO PLAY, AND FEATURES A PRACTICE MODE. YOU CAN TRY OUT THE GAME MECHANICS THERE, AND A COACH JUDGES YOUR SKILL BY YELLING AT YOU. IF YOU FAIL TO PERFORM EVEN THE SIMPLEST TASKS CORRECTLY, YOU'LL HAVE TO DO EVERYTHING AGAIN.
+
+ONCE YOU'RE CONFIDENT ENOUGH TO TAKE ON OTHER TEAMS, BE SURE TO CHECK OUT THE TOURNAMENT MODE, WHERE YOU PLAY AGAINST THE OTHER TEAMS TO OBTAIN THE WORLD CUP!</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>B2801B0C</hash>
+		<image>./images/Great Volleyball (USA, Europe).png</image>
+		<thumbnail>./boxart/Great Volleyball (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Great Volleyball (USA, Europe).png</marquee>
+		<video>./snap/Great Volleyball (USA, Europe).mp4</video>
+	</game>
+	<game id="963" source="ScreenScraper.fr">
+		<path>./High School! Kimengumi (Japan) (Translated En).zip</path>
+		<name>High School! Kimengumi (Trans.)</name>
+		<desc>HIGH SCHOOL! KIMENGUMI IS A SEGA MASTER SYSTEM GAME BASED UPON THE 1985 ANIME ADAPTATION OF HIGH SCHOOL! KIMENGUMI.</desc>
+		<rating>0</rating>
+		<releasedate>19861215T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>8A296A3E</hash>
+		<image>./images/High School! Kimengumi (Japan) (Translated En).png</image>
+		<thumbnail>./boxart/High School! Kimengumi (Japan) (Translated En).png</thumbnail>
+		<marquee>./marquee/High School! Kimengumi (Japan) (Translated En).png</marquee>
+		<video>./snap/High School! Kimengumi (Japan) (Translated En).mp4</video>
+	</game>
+	<game id="821" source="ScreenScraper.fr">
+		<path>./Hokuto no Ken (Japan).zip</path>
+		<name>Hokuto no Ken</name>
+		<desc>É O JOGO DE CARATÊ MAIS REAL QUE VOCÊ JÁ VIU EM UMA TELA DE TV. A HISTÓRIA SE PASSA APÓS UMA GUERRA NUCLEAR, E OS BANDIDOS E SUAS GANGS ESTÃO LEVANDO A MELHOR. USE SUA PERÍCIA DE FAIXA PRETA PARA RESTABELECER A ORDEM. SÃO VÁRIOS ROUNDS, ONDE VOCÊ DEVE VENCER OS INIMIGOS, LÍDERES MALIGNOS. CADA UM DELES POSSUI DIFERENTES PONTOS FRACOS E FORTES. TODA A SABEDORIA APRENDIDA COM OS GRANDES MESTRES SERÁ NECESSÁRIA PARA ACABAR COM A VIOLÊNCIA E RESTAURAR A PAZ.</desc>
+		<rating>0.5</rating>
+		<releasedate>19860720T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>24F5FE8C</hash>
+		<image>./images/Hokuto no Ken (Japan).png</image>
+		<thumbnail>./boxart/Hokuto no Ken (Japan).png</thumbnail>
+		<marquee>./marquee/Hokuto no Ken (Japan).png</marquee>
+		<video>./snap/Hokuto no Ken (Japan).mp4</video>
+	</game>
+	<game id="18498" source="ScreenScraper.fr">
+		<path>./Hoshi wo Sagasite... (Japan) (Translated En).zip</path>
+		<name>Hoshi wo Sagasite... (Trans.)</name>
+		<desc>THE STORY OF MIO BEGINS AS YOU, FINALLY HAVING GONE ON HOLIDAYS, ARRIVE ON THE PLANET ILM TO SEE YOUR SWEETHEART LAILA AGAIN. BEFORE GOING TO HER HOUSE, YOU DECIDE TO BUY A PRESENT FOR HER. YOU VISIT A SHADY FOREIGN MAN'S SHOP AND BUY AN EGG THAT HE PROMISES WILL HATCH A CUTE PET. WHEN LAILA SEES THE EGG, SHE RECOGNIZES IT AS A MIO EGG, MIOS BEING A RARE ANIMAL THAT IS THOUGHT TO BE EXTINCT. SINCE YOU GAVE HER THE EGG, IT IS YOUR RESPONSIBILITY TO FIND OUT HOW YOU KEEP A MIO. STILL, THE FACT THAT YOU HAVE A MIO EGG SHOULD NOT BE KNOWN TO EVERYONE, SINCE SCIENTISTS WILL BE VERY KEEN TO TAKE THE ANIMAL FROM YOU FOR PURPOSES OF THEIR STUDIES.
+
+YOUR QUEST FOR THE WELL-BEING, AND EVENTUAL MYSTERY, OF THE MIO ANIMAL TAKES YOU ON A QUEST ACROSS SEVERAL PLANETS, NOT TOO FAR FROM THE PLANET SYSTEM OF PHANTASY STAR. THE GAME IS CONTROLLED USING AN INTERFACE POPULAR IN JAPANESE ADVENTURES OF THE EIGHTIES, MOSTLY IDENTICAL WITH ICOM'S INTERFACE USED IN ADVENTURES FROM THE SAME ERA, SUCH AS SHADOWGATE OR DÉJÀ VU. YOU CAN TALK TO PEOPLE IN THE GAME BY DECIDING WHOM TO TALK TO AND THE TOPIC, BUT THESE INTERROGATIONS HAVE LITTLE IN COMMON WITH THE MORE INTERACTIVE LUCASARTS ADVENTURES. FINDING OUT THINGS IS OFTEN A MATTER OF REPEATEDLY ASKING, ASKING AT THE RIGHT MOMENT OR IN THE RIGHT ORDER. BATTERY-BACKED UP RAM IS NOT USED FOR SAVING, INSTEAD YOU ARE GIVEN A PASSWORD WHEN QUITTING.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880204T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>B5CE862F</hash>
+		<image>./images/Hoshi wo Sagasite... (Japan) (Translated En).png</image>
+		<thumbnail>./boxart/Hoshi wo Sagasite... (Japan) (Translated En).png</thumbnail>
+		<marquee>./marquee/Hoshi wo Sagasite... (Japan) (Translated En).png</marquee>
+		<video>./snap/Hoshi wo Sagasite... (Japan) (Translated En).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="822" source="ScreenScraper.fr">
+		<path>./Kenseiden (USA, Europe).zip</path>
+		<name>Kenseiden</name>
+		<desc>ESTE JOGO SE PASSA NO JAPÃO, SÉCULO XVI. OS FEITICEIROS SATÂNICOS TOMARAM CONTA DE SEU PAÍS. ELES ROUBARAM A ESPADA DO REI DRAGÃO E OS CINCO
+MANUSCRITOS SECRETOS QUE PERTENCEM À SUA FAMÍLIA! CABE A VOCÊ, UM DESTEMIDO SAMURAI, RECUPERAR OS OBJETOS QUE FORAM ROUBADOS, SUPERANDO TODOS OS FEITICEIROS QUE O AGUARDAM NO CASTELO DA MAGIA NEGRA!
+É MAIS DO QUE UMA QUESTÃO DE HONRA. O DESTINO DE UMA NAÇÃO DEPENDE DE SEU SUCESSO!</desc>
+		<rating>0.85</rating>
+		<releasedate>19880901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Samsung - Sega</publisher>
+		<players>1</players>
+		<hash>548AA53C</hash>
+		<image>./images/Kenseiden (USA, Europe).png</image>
+		<thumbnail>./boxart/Kenseiden (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Kenseiden (USA, Europe).png</marquee>
+		<video>./snap/Kenseiden (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="881" source="ScreenScraper.fr">
+		<path>./Lord of the Sword (USA, Europe).zip</path>
+		<name>Lord of Sword</name>
+		<desc>ESTAMOS NO REINO DE BALJINYA, ONDE UM GRUPO DE 4 CRIATURAS MALIGNAS TOMOU O PODER, MATANDO O REI E SUA FAMÍLIA, A FIM DE RESSUSCITAR EM BREVE O SEU ANTIGO LÍDER, O DEMÔNIO LORD RA GOAN, MORTO HÁ MUITO TEMPO, E QUE DESEJA RECONSTRUIR O IMPÉRIO O MAL NO DESPROTEGIDO REINO.
+VOCÊ SERÁ LANDAU, UM PODEROSO GUERREIRO DO NORTE, QUE ARMADO APENAS COM SUA ESPADA E SUA CORAGEM, É PROVAVELMENTE O ÚNICO EM TODO O REINO CAPAZ DE IMPEDIR OS TERRÍVEIS PLANOS DE RA GOAN.
+SUA MISSÃO FOI DECRETADA PELOS ANCIÕES DE BALJINYA. VOCÊ DEVE CUMPRIR TRÊS DIFÍCEIS TAREFAS PARA PODER SE TOMAR O NOVO REI, LIVRANDO, DESSA FORMA, O REINO DO MAL QUE ESTÁ POR VIR. SÓ QUE PARA PODER CUMPRIR ESTAS 3 TAREFAS, VOCÊ TERÁ DE ENFRENTAR ADVERSÁRIOS TEMÍVEIS E UMA SÉRIE DE ENORMES DIFICULDADES, QUE TENTARÃO DETÊ-LO A QUALQUER CUSTO.
+NÃO SE DEIXE ATINGIR, GUERREIRO. VOCÊ É A ÚNICA ESPERANÇA DE BALJINYA. SE VOCÊ NÃO CONSEGUIR CUMPRIR SUA MISSÃO, O REINO ESTÁ FADADO A VIVER SOB A ESCURIDÃO ETERNA, SOFRENDO AS CRUELDADES DOS PODERES DO MAL. ESTÁ TUDO EM SUAS MÃOS. SERÁ QUE VOCÊ VAI CONSEGUIR? É O QUE VEREMOS...</desc>
+		<rating>0.6</rating>
+		<releasedate>19880502T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>AA7D6F45</hash>
+		<image>./images/Lord of the Sword (USA, Europe).png</image>
+		<thumbnail>./boxart/Lord of the Sword (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Lord of the Sword (USA, Europe).png</marquee>
+		<video>./snap/Lord of the Sword (USA, Europe).mp4</video>
+	</game>
+	<game id="44273" source="ScreenScraper.fr">
+		<path>./Mahjong Sengoku Jidai (Japan).zip</path>
+		<name>Mahjong Sengoku Jidai</name>
+		<desc>MAHJONG SENGOKU JIDAI ("SENGOKU PERIOD MAHJONG") IS A FAIRLY STRAIGHTFORWARD MAHJONG GAME FROM SANRITSU, A COMPUTER GAME DEVELOPER THAT HAD PRIOR EXPERIENCE WITH THE GENRE AND WOULD LATER WORK WITH SEGA ON MANY MORE PROJECTS.</desc>
+		<rating>0</rating>
+		<releasedate>19871018T000000</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>BCFBFC67</hash>
+		<image>./images/Mahjong Sengoku Jidai (Japan).png</image>
+		<thumbnail>./boxart/Mahjong Sengoku Jidai (Japan).png</thumbnail>
+		<marquee>./marquee/Mahjong Sengoku Jidai (Japan).png</marquee>
+		<video>./snap/Mahjong Sengoku Jidai (Japan).mp4</video>
+	</game>
+	<game id="1003" source="ScreenScraper.fr">
+		<path>./Great Golf (Japan).zip</path>
+		<name>Masters Golf</name>
+		<desc>KEEP YOUR HEAD DOWN. EYES ON THE BALL. GRIP THE CLUB FAMILY ... AND SWING. WELCOME TO THE SEGA MASTER'S TOURNAMENT WHERE YOU NEED TO PLAY BETTER THAN "PAR" IF YOU WANT TO WIN.
+
+SO TEE-UP FOR SOME REAL FUN. AND REMEMBER TO PLAY WITH CAUTION. THIS CHAMPIONSHIP COURSE HAS BEEN GROOMED FOR A TRULY COMPETITIVE CHALLENGE. EIGHTEEN HOLES FULL OF ROUGHS, BUNKERS, AND WATER HAZARDS WILL PUT YOUR NERVES TO A REAL TEST.
+
+BUT NOT TO WORRY. YOU'VE GOT SOME CLEVER MOVES TO MEET THE CHALLENGE OF A "DOG LEG" FAIRWAY OR A TRICKY GREEN. SO GO FOR A SNEAKY SLICE OR HARD HOOK TO OUTPLAY THE REST. WINNER TAKES ALL! FORE!</desc>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-4</players>
+		<hash>6586BD1F</hash>
+		<image>./images/Great Golf (Japan).png</image>
+		<thumbnail>./boxart/Great Golf (Japan).png</thumbnail>
+		<marquee>./marquee/Great Golf (Japan).png</marquee>
+		<video>./snap/Great Golf (Japan).mp4</video>
+	</game>
+	<game id="44275" source="ScreenScraper.fr">
+		<path>./Megumi Rescue (Japan).zip</path>
+		<name>Megumi Rescue</name>
+		<desc>MEGUMI RESCUE PUTS YOU IN THE SHOES OF A RESCUE TEAM, TRYING TO SAVE THE INHABITANTS OF THE BURNING BUILDINGS. YOU CONTROL TWO STRETCHERS CARRYING A CANVAS THAT MAKES A FIREMAN JUMP AND BOUNCE, CATCH THE VICTIMS, OR EXTINGUISH THE FIRE FROM THE WINDOWS. THE GOAL IS TO RESCUE THE PEOPLE IN DANGER, OR EXTINGUISH ALL THE FLAMES OF THE BUILDING.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880730T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>29BC7FAD</hash>
+		<image>./images/Megumi Rescue (Japan).png</image>
+		<thumbnail>./boxart/Megumi Rescue (Japan).png</thumbnail>
+		<marquee>./marquee/Megumi Rescue (Japan).png</marquee>
+		<video>./snap/Megumi Rescue (Japan).mp4</video>
+	</game>
+	<game id="44264" source="ScreenScraper.fr">
+		<path>./Nekkyuu Koushien (Japan).zip</path>
+		<name>Nekkyuu Koushien</name>
+		<desc>NEKKYUU KOUSHIEN IS A BASEBALL GAME FOR THE SEGA MASTER SYSTEM. IT WAS ONLY RELEASED IN JAPAN.</desc>
+		<rating>0</rating>
+		<releasedate>19880909T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>2</players>
+		<hash>5B5F9106</hash>
+		<image>./images/Nekkyuu Koushien (Japan).png</image>
+		<thumbnail>./boxart/Nekkyuu Koushien (Japan).png</thumbnail>
+		<marquee>./marquee/Nekkyuu Koushien (Japan).png</marquee>
+		<video>./snap/Nekkyuu Koushien (Japan).mp4</video>
+	</game>
+	<game id="788" source="ScreenScraper.fr">
+		<path>./Ninja Gaiden (Europe).zip</path>
+		<name>Ninja Gaiden</name>
+		<desc>RYU HAYABUSA É UM DESCENDENTE DO CLÃ DOS DRAGON NINJAS, QUE MANTIVERAM A PAZ NO JAPÃO POR VÁRIAS GERAÇÕES. UM DIA, ELE RECEBEU A NOTICIA DE QUE SUA VILA, A DRAGON VILLAGE, FORA ATACADA POR DESCONHECIDOS.
+DESESPERADO, ELE CORREU PARA A SUA CASA, MAS JÁ ERA TARDE DEMAIS. TUDO QUE ELE PÔDE FAZER FOI OLHAR PARA AS RUÍNAS DO QUE UM DIA FOI UMA BELA E PACÍFICA CIDADE... E O PIOR: O BUSHYDO TINHA SIDO ROUBADO !
+O BUSHYDO ERA UM DOCUMENTO MUITO ANTIGO E PODEROSO, GUARDADO POR GERAÇÕES E QUE CONTÉM SEGREDOS QUE PODEM CONTROLAR TODAS AS FORÇAS DA NATUREZA... QUEM TIVER ESTE DOCUMENTO PODE ATÉ MESMO CONQUISTAR O MUNDO!
+VOCÊ NÃO VAI FAZER NADA ? RYU JÁ PEGOU A SUA PODEROSA ESPADA NINJA E JUROU RECUPERAR O BUSHYDO. JUNTE-SE A ELE E O AJUDE A VINGAR A POBRE VILA!</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Sega - Tecmo</publisher>
+		<players>1</players>
+		<hash>761E9396</hash>
+		<image>./images/Ninja Gaiden (Europe).png</image>
+		<thumbnail>./boxart/Ninja Gaiden (Europe).png</thumbnail>
+		<marquee>./marquee/Ninja Gaiden (Europe).png</marquee>
+		<video>./snap/Ninja Gaiden (Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="1004" source="ScreenScraper.fr">
+		<path>./OutRun 3-D (Europe).zip</path>
+		<name>Out Run 3-D</name>
+		<desc>ESTA EDIÇÃO DO CLÁSSICO JOGO DE CONDUÇÃO LEVA O ORIGINAL E ADICIONA UMA VISTA 3D, USANDO OS ÓCULOS 3D DO MASTER SYSTEM. POUCO MAIS É MODIFICADO. VOCÊ AINDA DIRIGE UMA FERRARI VERMELHA EM UMA ESTRADA QUE SE BIFURCA EM MAIS E MAIS NÍVEIS. AS PRINCIPAIS DIFERENÇAS SÃO OS NÍVEIS, QUE PARECEM UM POUCO DIFERENTES, O FATO DE QUE SUA FERRARI É UM POUCO MENOR QUE A CONVERSÃO ORIGINAL DO MASTER SYSTEM, E QUE HÁ TRÊS NOVAS TRILHAS SONORAS PARA ESCOLHER; RODOVIA DA MEIA-NOITE, COR DO OCEANO E VENTO BRILHANTE. O ORIGINAL MAGICAL SOUND SHOWER AINDA É DEIXADO PARA OS TRADICIONALISTAS.</desc>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>D6F43DDA</hash>
+		<image>./images/OutRun 3-D (Europe).png</image>
+		<thumbnail>./boxart/OutRun 3-D (Europe).png</thumbnail>
+		<marquee>./marquee/OutRun 3-D (Europe).png</marquee>
+		<video>./snap/OutRun 3-D (Europe).mp4</video>
+	</game>
+	<game id="768" source="ScreenScraper.fr">
+		<path>./Phantasy Star (USA, Europe).zip</path>
+		<name>Phantasy Star</name>
+		<desc>PHANTASY STAR LEVA VOCÊ A UM MUNDO ELETRIZANTE, DIFERENTE DE TUDO QUE VOCÊ JÁ EXPERIMENTOU. O OBJETIVO É DERROTAR LASSIC, O PERVERSO TIRANO DA GALÁXIA.
+PARA CONSEGUIR CUMPRIR SUA MISSÃO, ENFRENTARÁ UM GRANDE DESAFIO ATRAVÉS DAS ESTRELAS, TENTANDO ACHAR AMIGOS, ITENS MÁGICOS, ARMAS E ARMADURAS. NESTE JOGO VOCÊ APRENDERÁ MUITO, NÃO SÓ SOBRE O SISTEMA ESTELAR ALGOL, COMO TAMBÉM A VERDADEIRA HERANÇA DE ALIS E SEUS AMIGOS.
+VOCÊ TERÁ MUITAS HORAS DE DIVERTIMENTO E AVENTURA, COM VIAGENS ESPACIAIS E BATALHAS TRAVADAS NO SOLO E NO SUBSOLO. LÓGICA E ESTRATÉGIA SÃO AS CHAVES PARA VENCER PHANTASY STAR.
+
+ALGOL É UM SISTEMA ESTELAR QUE CONSISTE EM TRÊS PLANETAS: O VERDEJANTE PALMA, O ÁRIDO MOTAVIA, E O GELADO DEZOLIS. RECENTEMENTE, O ANTIGO BENEVOLENTE REI LASSIC CONVERTEU-SE EM UMA NOVA RELIGIÃO E COMEÇOU A GOVERNAR ALGOL COM UM PUNHO DE FERRO. NERO, O LÍDER DE UM GRUPO REBELDE, É BRUTALMENTE MORTO PELOS POLICIAIS ROBÓTICOS DE LASSIC. SUAS ÚLTIMAS PALAVRAS FORAM DIRIGIDAS A SUA IRMÃ ALIS: ELE IMPLORA QUE ELA ENCONTRE UM GUERREIRO CHAMADO ODIN. ALIS JURA VINGANÇA CONTRA LASSIC E EMBARCA EM UMA VIAGEM PARA ENCONTRAR ODIN E OUTROS COMPANHEIROS QUE IRÃO AJUDÁ-LA A DERROTAR O TIRANO.
+
+PHANTASY STAR É COMUMENTE CONSIDERADO UM DOS PROGENITORES DO ESTILO JAPONÊS DE RPGS. AO CONTRÁRIO DE DRAGON QUEST, ELE TEM UMA ESTÉTICA VISUAL DE ESTILO ANIME, E CONTÉM MUITOS ELEMENTOS CARACTERÍSTICOS DO GÊNERO. AO INVÉS DE SER LANÇADO COMO UM AVENTUREIRO OU GUERREIRO EM UMA MISSÃO IMPESSOAL, O JOGADOR CONTROLA UM PERSONAGEM COM SUA PRÓPRIA HISTÓRIA DE FUNDO, MOTIVAÇÕES E DESEJOS. O JOGO INTRODUZ O MODELO TÍPICO DO GÊNERO DE PERSONAGENS NÃO-JOGADORES ESPECÍFICOS QUE SE JUNTAM AO GRUPO POR MOTIVOS RELACIONADOS A UM ENREDO. O JOGO TAMBÉM É NOTÁVEL POR SER UM DOS PRIMEIROS RPGS COM UM PROTAGONISTA FEMININO PRÉ-DETERMINADO. É DEFINIDO EM UM AMBIENTE DE SCI-FI EM QUE A TECNOLOGIA AVANÇADA E MÁGICA CO-EXISTEM, UM POUCO REMINISCENTE DE STAR WARS.
+
+O NÚCLEO DE JOGABILIDADE É INFLUENCIADO POR JOGOS COMO ULTIMA, COM COMBATE POR TURNO MAIS SIMPLES CONTRA INIMIGOS APARECENDO ALEATORIAMENTE, QUE É SEMELHANTE A WIZARDRY. O JOGADOR CONTROLA ALIS PELO MAPA-MUNDI, VISITANDO CIDADES E DUNGEONS QUE SÃO REPRESENTADAS POR ÍCONES. AS DUNGEONS TÊM GRÁFICOS PSEUDO-3D E SÃO LABIRÍNTICAS.
+
+O JOGADOR PODE COMPRAR NOVAS ARMAS, ARMADURAS, ESCUDOS, BEM COMO CURAR E RESTAURAR ITENS NAS CIDADES, OU ENCONTRÁ-LOS EM COFRES DE TESOURO NAS MASMORRAS. CADA PERSONAGEM UTILIZA TIPOS DE ARMA ÚNICOS (POR EXEMPLO, MYAU USA GARRAS OU PRESAS, ODIN MANIPULA ARMAS E MACHADOS, ETC.). PONTOS DE EXPERIÊNCIA SÃO CONCEDIDOS POR DERROTAR INIMIGOS; DEPOIS DE UM PERSONAGEM TER ACUMULADO UMA QUANTIDADE SUFICIENTE DELES, ELE OU ELA GANHA UM NÍVEL, GANHANDO PONTOS ADICIONAIS DE VIDA MÁXIMA (HP) E MAIORES PARÂMETROS DE COMBATE. ALGUNS PERSONAGENS PODEM LANÇAR FEITIÇOS MÁGICOS, EXIGINDO PONTOS MÁGICOS (MP), QUE TAMBÉM AUMENTAM AO UPAR. OS PERSONAGENS PODEM VISITAR MÉDICOS NAS CIDADES, RECUPERANDO HP E MP. O PROGRESSO DO JOGO PODE SER SALVO EM QUALQUER LUGAR.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>75971BEF</hash>
+		<image>./images/Phantasy Star (USA, Europe).png</image>
+		<thumbnail>./boxart/Phantasy Star (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Phantasy Star (USA, Europe).png</marquee>
+		<video>./snap/Phantasy Star (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172291" source="ScreenScraper.fr">
+		<path>./Pro Yakyuu Pennant Race, The (Japan).zip</path>
+		<name>Pro Yakyuu Pennant Race, The</name>
+		<desc>THE PRO YAKYUU PENNANT RACE IS A BASEBALL GAME FOR THE SEGA MASTER SYSTEM. THE GAME WAS AN UPGRADE OF GREAT BASEBALL, A TITLE THAT WAS NOT RELEASED IN JAPAN.
+
+THE GAME UNDERWENT SIGNIFICANT CHANGES, SUCH AS LOCALIZATION OF PLAYERS AND TEAMS FOR THE JAPANESE MARKET ALONG WITH ADDING NEW GAME MODES, A MORE DETAILED INTERFACE AND FEATURING A BIRD'S-EYE VIEW WHEN FIELDING AS OPPOSED TO GREAT BASEBALL'S ISOMETRIC VIEW.</desc>
+		<rating>0</rating>
+		<releasedate>19870817T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<hash>DA9BE8F0</hash>
+		<image>./images/Pro Yakyuu Pennant Race, The (Japan).png</image>
+		<thumbnail>./boxart/Pro Yakyuu Pennant Race, The (Japan).png</thumbnail>
+		<marquee>./marquee/Pro Yakyuu Pennant Race, The (Japan).png</marquee>
+		<video>./snap/Pro Yakyuu Pennant Race, The (Japan).mp4</video>
+	</game>
+	<game id="874" source="ScreenScraper.fr">
+		<path>./Rocky (World).zip</path>
+		<name>Rocky</name>
+		<desc>PLAY AS ROCKY BALBOA, THE "ITALIAN STALLION" IN THIS ACTION PACKED BOXING GAME. THIS GAME REFLECTS THE ROCKY SERIES QUITE WELL. ONLY IN THIS GAME YOU GO ONE GUY TO THE NEXT. FROM APOLLO THE REMAINING CHAMPION, TO LANG AN AGGRESSIVE CONTENDER, TO DRAGO THE SOVIET BOXER WHO TRAINS CONSTANTLY. BEFORE YOU HAVE A FIGHT JUST LIKE IN THE "ROCKY" MOVIES YOU HAVE TO TRAIN. PRACTICE YOUR TIMING AND PUNCHING STRENGTH WITH SOME SANDBAG PUNCHING BEFORE FIGHTING APOLLO.  WARM UP PUNCHING A PUNCHING BALL TO BECOME MORE FASTER AND SMARTER TO GET READY FOR LANG. THEN YOU WILL DO SOME PUNCHING MITTS TRAINING BEFORE FIGHTING DRAGO WHERE YOU WATCH THE MITTS AND PUNCH AT THE AS THEY MOVE. ALL OF THESE TRAININGS HAVE QUALIFICATIONS SUCH AS PUNCHES PER SECOND, QUALIFY AND YOUR COMBINATIONS GET BETTER FOR THE FOLLOWING FIGHT. 
+
+DURING A FIGHT YOU ONLY HAVE ONE METER UNDER YOUR NAME, THAT IS THE POWER METER. YOUR OPPONENT HAS ONE LIKEWISE. WATCHING YOUR POWER BAR CAN TELL YOU A LOT ABOUT WHICH WAY THE FIGHT IS HEADED, EITHER IT'S FULL AND YOU CAN TAKE MORE PUNCHES AND PUNCH MORE POWERFULLY OR IT'S LOW AND YOU'RE IN  TROUBLE. WATCHING THE OPPONENTS POWER BAR WILL TELL YOU WHEN TO TAKE HIM DOWN OR WHEN TO BLOCK.
+
+BETWEEN ROUNDS YOU GET A CHANCE TO FRESHEN UP AND GET SOME LAST MINUTE COACHING. DURING THE ONE MINUTE INTERVAL, YOUR POWER WILL GO UP ONLY HALF OF WHAT HAS BEEN DRAINED. 
+
+IF YOU DO HAPPEN TO TAKE A FALL THE CONTROLS ARE SIMILAR TO NINTENDOS "PUNCH OUT", BASICALLY YOU JUST PRESS THE 1 AND 2 BUTTONS AS FAST AS POSSIBLE. HOPEFULLY ROCKY STANDS UP AND IS READY FOR MORE.</desc>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>065E081F</hash>
+		<image>./images/Rocky (World).png</image>
+		<thumbnail>./boxart/Rocky (World).png</thumbnail>
+		<marquee>./marquee/Rocky (World).png</marquee>
+		<video>./snap/Rocky (World).mp4</video>
+	</game>
+	<game id="814" source="ScreenScraper.fr">
+		<path>./R-Type (World).zip</path>
+		<name>R-Type</name>
+		<desc>R-TYPE IS A SIDE SCROLLING SHOOT 'EM UP BEST KNOWN FOR ITS EXTREMELY TOUGH AND STRATEGIC GAMEPLAY.  YOU CONTROL THE R-9 SPACESHIP AS IT LAUNCHES A LAST-DITCH EFFORT TO REPEL THE EVIL BYDO EMPIRE.
+
+THE R-9 COMES EQUIPPED AS STANDARD WITH A SMALL GUN WHICH CAN ONLY TAKE DOWN THE SMALLEST OF ENEMIES WITHOUT FIRING SEVERAL SHOTS. BY HOLDING DOWN THE FIRE BUTTON, IT CAN BE LOADED UP SO AS TO RELEASE A LARGE BURST OF ENERGY, ELIMINATING ALL BUT THE STRONGEST ENEMIES IN ITS PATH. FROM TIME TO TIME, PODS WILL COME FLYING IN YOUR DIRECTION. UPON BEING SHOT, THEY RELEASE AN UPGRADE. THE FIRST ONE WILL INVARIABLY BE THE ONE CALLED "THE FORCE", WHICH IS A WEAPONS POD THAT CLINGS EITHER TO THE FRONT OR THE BACK OF YOUR SHIP, ABSORBING ANY ENEMY BULLETS OR ACTING AS A BUMPER WITH WHICH YOU CAN FLY HEAD-ON INTO THEM. YOU CAN ALSO USE IT AS AN OFFENSIVE WEAPON BY FIRING IT AND PULLING IT BACK IN. MASTERING THE FORCE IS VITAL TO SURVIVING IN R-TYPE, SINCE IT MUST BE USED BOTH AS PROTECTION AGAINST BULLET CLUSTERS, AS A REMOTE CONTROLLED CANNON, AND IN ORDER TO CLEAR THE SCREEN FROM OBSTACLES. OTHER UPGRADES GIVE YOU TARGET-SEEKING MISSILES OR A BIGGER MAIN GUN. DIFFERENT GUN TYPES, DIFFERENTIATED BY THEIR COLOUR, SERVE DIFFERENT PURPOSES. THE BLUE ONE SENDS LASER BEAMS BOUNCING ACROSS THE SCREEN (GOOD FOR TUNNELS), THE RED ONE FIRES STRAIGHT AHEAD, AND THE YELLOW ONE FOLLOWS ANY WALLS IT MAY ENCOUNTER (GOOD FOR ARTILLERY EMPLACEMENTS).
+
+THE STAGES OF R-TYPE ARE MADE IN AN ORGANIC STYLE, CERTAINLY INSPIRED BY H. R. GIGER'S ARTWORK FOR THE ALIEN MOVIES. WHEN IT CAME OUT, IT WAS CONSIDERED TREND-SETTING SINCE IT BROKE OFF FROM THE STEREOTYPICAL SCI-FI MOULD OF OTHER SHOOT'EM'UPS. IN PART, THE LEVELS THEMSELVES ARE YOUR ENEMY, WHICH IS EXEMPLIFIED BY THE FOURTH, WHERE SPIDER-LIKE CREATURES WEAVE WEBS THAT COVER THE SCREEN AND BLOCK YOUR PATH, OR LEVELS WITH INTRICATE TUNNEL SYSTEMS. STILL, THE LEVELS ARE BEST HANDLED WITH A COMBINATION OF STRATEGY AND REFLEXES, WITHOUT THE MEMORISATION THAT IS REQUIRED OF R-TYPE'S CONTEMPORARY RIVAL, GRADIUS.</desc>
+		<rating>0.85</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem - Sega</publisher>
+		<players>1</players>
+		<hash>BB54B6B0</hash>
+		<image>./images/R-Type (World).png</image>
+		<thumbnail>./boxart/R-Type (World).png</thumbnail>
+		<marquee>./marquee/R-Type (World).png</marquee>
+		<video>./snap/R-Type (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="761" source="ScreenScraper.fr">
+		<path>./Shinobi (USA, Europe).zip</path>
+		<name>Shinobi</name>
+		<desc>VOCÊ É UM MESTRE NINJA. A SUA FRENTE ESTÁ UM GRUPO DE TERRORISTAS ARMADOS, EXÍMIOS LUTADORES DAS ARTES MARCIAIS. ELES RAPTARAM OS FILHOS DOS LÍDERES DO UNIVERSO E OS MANTÊM COMO REFÉNS EM VÁRIOS LUGARES DIFERENTES. ELES NÃO TÊM NENHUM ESCRÚPULO... MAS VOCÊ CONTA COM UMA ARMA SECRETA: A MAGIA NINJA!</desc>
+		<rating>0.8</rating>
+		<releasedate>19880901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>11FDDFB2</hash>
+		<image>./images/Shinobi (USA, Europe).png</image>
+		<thumbnail>./boxart/Shinobi (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Shinobi (USA, Europe).png</marquee>
+		<video>./snap/Shinobi (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="884" source="ScreenScraper.fr">
+		<path>./Solomon no Kagi - Oujo Rihita no Namida (Japan).zip</path>
+		<name>Solomon no Kagi : Oujo Rihita no Namida</name>
+		<desc>SOLOMON'S KEY IS A PLATFORM GAME WITH BOTH ACTION AND STRATEGY ELEMENTS. ON EACH LEVEL YOUR GOAL IS TO RETRIEVE A KEY WHICH CAN THEN BE USED TO UNLOCK THE EXIT. TO HELP OUT, YOU HAVE A MAGIC WAND WHICH CAN BE USED TO CREATE AND DESTROY BLOCKS (THOUGH SOME BLOCKS CAN'T BE DESTROYED). IN ORDER TO REACH THE KEY YOU WILL NEED CAREFULLY TO ARRANGE THE BLOCKS ON THE SCREEN SO YOU CAN JUMP YOUR WAY AROUND SAFELY. WANDERING AROUND EACH LEVEL ARE A VARIETY OF ENEMIES WHICH WILL CAUSE YOU TO LOSE A LIFE IF YOU'RE CAUGHT. SOME CREATURES CAN BE KILLED BY DESTROYING THE BLOCK THEY ARE STANDING ON, OTHERS MUST BE DODGED. HIDDEN BONUSES AND MAGIC CAN BE FOUND ON MANY OF THE LEVELS, SOMETIMES EVEN HIDDEN IN BLOCKS. SOME TREASURES GIVE YOU BONUS POINTS, OTHERS CAN FORM MAGIC SPELLS TO HELP DEAL WITH THE ENEMIES. TO MAKE THE GAME MORE DIFFICULT, EACH LEVEL HAS A TIME LIMIT IN WHICH IT MUST BE COMPLETED.</desc>
+		<rating>1</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Tecmo</publisher>
+		<players>1</players>
+		<hash>11645549</hash>
+		<image>./images/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</image>
+		<thumbnail>./boxart/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</thumbnail>
+		<marquee>./marquee/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</marquee>
+		<video>./snap/Solomon no Kagi - Oujo Rihita no Namida (Japan).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="115850" source="ScreenScraper.fr">
+		<path>./Wonder Boy in Monster Land (USA, Europe).zip</path>
+		<name>Sonic-boy In Monster Land (Hack)</name>
+		<desc>HACK BRASILEÑO DEL JUEGO "WONDER BOY IN MONSTER LAND" EN EL QUE EL PERSONAJE PRINCIPAL (WONDERBOY) ES REEMPLAZADO POR SONIC.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>hack</developer>
+		<publisher>hack</publisher>
+		<hash>6A16DCE4</hash>
+		<image>./images/Wonder Boy in Monster Land (USA, Europe).png</image>
+		<thumbnail>./boxart/Wonder Boy in Monster Land (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Wonder Boy in Monster Land (USA, Europe).png</marquee>
+		<video>./snap/Wonder Boy in Monster Land (USA, Europe).mp4</video>
+	</game>
+	<game id="901" source="ScreenScraper.fr">
+		<path>./Space Harrier 3-D (USA, Europe).zip</path>
+		<name>Space Harrier 3D</name>
+		<desc>SPACE HARRIER 3-D IS MORE LIKE SPACE HARRIER  1 1/2.  WHILE IT'S NOT A DIRECT SEQUEL TO SPACE HARRIER, IT WAS DESIGNED TO TAKE ADVANTAGE OF THE 3-D GLASSES AVAILABLE AT THE TIME.  THIS GAME IS CONSIDERABLY DARKER THAN THE ORIGINAL AND THE SEQUEL IN BOTH LOOK AND FEEL.  EVEN THE DIGITIZED VOICES ARE DEEPER IN TONE, CREATING A SENSE OF URGENCY ABOUT IT.  THINGS ARE OBVIOUSLY NOT RIGHT IN SPACE HARRIER'S WORLD.  BUT IF YOU'RE FAMILIAR WITH THE ORIGINAL, THE PREMISE IS THE SAME; BLOW EVERYTHING UP AND FIGHT THE BOSS AT THE END.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>6BD5C2BF</hash>
+		<image>./images/Space Harrier 3-D (USA, Europe).png</image>
+		<thumbnail>./boxart/Space Harrier 3-D (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Space Harrier 3-D (USA, Europe).png</marquee>
+		<video>./snap/Space Harrier 3-D (USA, Europe).mp4</video>
+	</game>
+	<game id="878" source="ScreenScraper.fr">
+		<path>./Space Harrier (USA, Europe).zip</path>
+		<name>Space Harrier</name>
+		<desc>RUN FLY DODGE THOSE OBSTACLES, BUT RETURN FIRE ON WAVE AFTER WAVE OF ATTACKING ALIENS. ARMED WITH A REALLY BIG GUN, YOU HAVE TO DEFEND YOURSELF AGAINST THE ALIEN HORDES USING YOUR WITS TO NAVIGATE AROUND THE SCREEN. BUT WATCH OUT FOR THOSE END OF LEVEL BOSSES!</desc>
+		<rating>0.85</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>BEDDF80E</hash>
+		<image>./images/Space Harrier (USA, Europe).png</image>
+		<thumbnail>./boxart/Space Harrier (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Space Harrier (USA, Europe).png</marquee>
+		<video>./snap/Space Harrier (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="44282" source="ScreenScraper.fr">
+		<path>./Sports Pad Football (USA).zip</path>
+		<name>Sports Pad Soccer</name>
+		<desc>PLAYOFF FEVER GRIPS YOU. AND NO WONDER. YOU'RE THE DRIVING FORCE THAT CAN TAKE YOUR FOOTBALL TEAM TO THE TOP IN THIS ROUGH AND TUMBLE CONTEST BETWEEN THE LEAGUES. THE OUTCOME OF THE GAME IS IN YOUR HANDS. AS THE QUARTERBACK, YOU SELECT THE PLAYS. LINE UP THE FORMATION. CALL THE SIGNALS AND CARRY THE BALL. CUT DOWN YOUR OPPONENT WITH DEADLY BLOCKING. INTERCEPT A PASS. MAKE A FLYING TACKLE. ALL YOU NEED IS SKILL. STRATEGY. CUNNING. AND NERVE. FOR NON-STOP ACTION THAT CHARGES ACROSS THE SCREEN. YOU DECIDE TO PASS. IT LOOKS GOOD. TOUCHDOWN!</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>2</players>
+		<hash>41C948BF</hash>
+		<image>./images/Sports Pad Football (USA).png</image>
+		<thumbnail>./boxart/Sports Pad Football (USA).png</thumbnail>
+		<marquee>./marquee/Sports Pad Football (USA).png</marquee>
+		<video>./snap/Sports Pad Football (USA).mp4</video>
+	</game>
+	<game id="44285" source="ScreenScraper.fr">
+		<path>./Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).zip</path>
+		<name>Sukeban Deka II : Shoujo Tekkamen Densetsu (Trans.)</name>
+		<desc>SUKEBAN DEKA II: SHOUJO TEKKAMEN DENSETSU É UM JOGO BASEADO NA LICENÇA DE SUKEBAN DEKA, ESPECIFICAMENTE NO REMAKE DO PROGRAMA DE TV DOS ANOS 80, CHAMADO SUKEBAN DEKA II. PORQUE ESTE JOGO NÃO TEM ANTECESSOR APESAR DE SER UM "II"). A SÉRIE SEGUE UMA COLEGIAL JAPONESA QUE OPTOU POR COMBATER O CRIME DEPOIS DE EXIBIR A LEI MUITAS VEZES. SUA ÚNICA CARACTERÍSTICA NOTÁVEL, NO QUE DIZ RESPEITO A ESTE JOGO, É O USO DE UM IOIÔ DE METAL ARMADO PARA ESPANCAR SEUS INIMIGOS.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Saga</publisher>
+		<hash>0950A312</hash>
+		<image>./images/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).png</image>
+		<thumbnail>./boxart/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).png</thumbnail>
+		<marquee>./marquee/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).png</marquee>
+		<video>./snap/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).mp4</video>
+	</game>
+	<game id="44289" source="ScreenScraper.fr">
+		<path>./Super Racing (Japan).zip</path>
+		<name>Super Racing</name>
+		<desc>F1 GAME THAT ONLY WAS RELEASED IN JAPAN.</desc>
+		<rating>0</rating>
+		<releasedate>19880702T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>7E0EF8CB</hash>
+		<image>./images/Super Racing (Japan).png</image>
+		<thumbnail>./boxart/Super Racing (Japan).png</thumbnail>
+		<marquee>./marquee/Super Racing (Japan).png</marquee>
+		<video>./snap/Super Racing (Japan).mp4</video>
+	</game>
+	<game id="842" source="ScreenScraper.fr">
+		<path>./Cyber Shinobi, The (Europe).zip</path>
+		<name>The Cyber Shinobi</name>
+		<desc>IN THE PREVIOUS GAME, AN EVIL ARMY OF VILLAINS, KNOWN SIMPLY AS "ZEED" , BUT SOME OF THEM ESCAPED, HOWEVER. 
+
+TIME HAS PASSED AND IT IS THE YEAR 2XXX WHERE ATOMIC POWER PLANTS IN COUNTRIES AROUND THE WORLD ARE ATTACKED, AND PLUTONIUM, WHICH WAS THE EQUIVALENT OF 100,000 MEGATONS OF EXPLOSIVE POWER, WAS STOLEN FROM THESE PLANTS. THE WORDS "CYBER ZEED" WAS ALWAYS WRITTEN AT THE SCENE OF THE CRIME. LATER, THE WORLD REALIZED WHAT CYBER ZEED HAD PLANNED TO DO: USE THEIR NUCLEAR CAPABILITIES TO TERRORIZE THE WORLD. EVERY NATION SENT THEIR BEST FORCES TO STOP THIS THREAT, BUT ALL OF THEM FAILED. 
+
+JOE MUSASHI CAME FORWARD TO THIS GREAT EVIL, AND HE IS REQUIRED TO FIGHT THOSE WHO ROSE FROM THE ASHES AND PUT AN END TO THIS THREAT.
+
+CYBER SHINOBI IS A ONE-PLAYER GAME THAT CONSISTS OF SIX ROUNDS. YOU NEED TO FIGHT NINJAS THAT GET IN YOUR WAY USING YOUR FISTS AND LEGS. YOU CAN ALSO DEFEAT THEM USING SPECIAL ATTACKS AND NINJITSU. POWER-UPS CAN BE COLLECTED ALONG THE WAY, WHICH WILL GIVE YOU MORE SHOTS, NINJITSU, POWER, AND LIFE. A BOSS NEEDS TO BE DEFEATED AT THE END OF THE ROUND.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>1350E4F8</hash>
+		<image>./images/Cyber Shinobi, The (Europe).png</image>
+		<thumbnail>./boxart/Cyber Shinobi, The (Europe).png</thumbnail>
+		<marquee>./marquee/Cyber Shinobi, The (Europe).png</marquee>
+		<video>./snap/Cyber Shinobi, The (Europe).mp4</video>
+	</game>
+	<game id="796" source="ScreenScraper.fr">
+		<path>./Ninja, The (USA, Europe).zip</path>
+		<name>The Ninja</name>
+		<desc>EARLY IN JAPAN'S EDO ERA, CIRCA 1630, PEACE HAD CONTINUED IN THE WESTERN PROVINCE OF OHKAMI UNTIL THE FEUDAL LORD PASSED AWAY. GYOKURO, AN EVIL EMPEROR, GAINED POWER AND HIS OPPRESSIVE RULE CAUSED GREAT HARDSHIP TO THE PEOPLE, AND THE PRINCESS WHO OPPOSED HIM WAS CONFINED TO A DUNGEON SOMEWHERE IN THE OHKAMI CASTLE. GYOKURO HAS THE OHKAMI NINJA UNDER CONTROL AT HIS COMMAND. UTILIZING VARIOUS NINJITSU TECHNIQUES, IN ADDITION TO THE ONE THAT TRANSFORMS THEM INTO A WOLF, THEY PROTECT HIM FROM THE PEOPLE WHO ARE HIS ENEMIES.
+
+YOU PLAY KAZAMURU, A GREAT WARRIOR WHO CHALLENGES THE CLAN TO A FIGHT IN ORDER TO RESCUE THE PRINCESS. HOWEVER, HE CAN'T RESCUE THE PRINCESS UNLESS HE FINDS THE FIVE SCROLLS IN THE THIRTEEN AREAS OF OHKAMI. ON HIS QUEST, HE MUST DEFEAT VARIOUS NINJAS SUCH AS KUNO-ICHI AND NINNIKU, AS WELL AS FIRE-BLOWING NINJAS, SLASHING NINJAS, AND FOOTLOOSE NINJAS. YOU'LL EXPLORE GRASSY FIELDS, SHRINES, RIVER BANKS,  TOWNS, AND THE CASTLE ITSELF. SOME OF THE STEPS HAVE VARIED GAMEPLAY. FOR EXAMPLE, YOU MUST AVOID BOULDERS IN STEP 2, MUST USE LOGS IN ORDER TO CROSS A RIVER IN STEP 5, AVOID BEING TRAMPLED ON BY HORSES IN STEP 7, AND SCALE A CLIFF IN STEP 9.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>66A15BD9</hash>
+		<image>./images/Ninja, The (USA, Europe).png</image>
+		<thumbnail>./boxart/Ninja, The (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Ninja, The (USA, Europe).png</marquee>
+		<video>./snap/Ninja, The (USA, Europe).mp4</video>
+	</game>
+	<game id="849" source="ScreenScraper.fr">
+		<path>./Thunder Blade (USA, Europe).zip</path>
+		<name>Thunder Blade</name>
+		<desc>ABOARD THE LETHAL GUNSHIP GLADIATOR HELICOPTER, IT IS YOUR JOB TO ENSURE THAT A COUP FAILS TO INSTALL A DICTATOR AS LEADER. 
+
+THE GAME FEATURES 12 LEVELS SPLIT INTO THREE DISTINCT STYLES. FIRST OF ALL YOU'LL BE FLYING OVER A CITY IN YOUR HELICOPTER, SHOOTING OUT TANKS BY DUCKING LOW ENOUGH TO TARGET THEM, BUT ALSO CLIMBING TO AVOID THE SKYSCRAPERS IN THE AREA. THE THIRD SECTION IS VIEWED SIMILARLY, BUT SEES YOU ATTEMPTING TO WIPE OUT THE PLANES MOUNTED ON AN AIRCRAFT CARRIER.
+
+THE SECOND SECTION IS VIEWED BEHIND YOUR HELICOPTER IN FULL 3D, AND ADDS HELICOPTERS AND PLANES TO BE SHOT, WITH DODGING THEIR BULLETS AS YOU DUCK DOWN TO SHOOT THE TANKS BEING THE MAIN CHALLENGE.</desc>
+		<rating>0.65</rating>
+		<releasedate>19880730T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>C0CE19B1</hash>
+		<image>./images/Thunder Blade (USA, Europe).png</image>
+		<thumbnail>./boxart/Thunder Blade (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Thunder Blade (USA, Europe).png</marquee>
+		<video>./snap/Thunder Blade (USA, Europe).mp4</video>
+	</game>
+	<game id="774" source="ScreenScraper.fr">
+		<path>./Wonder Boy in Monster World (Europe).zip</path>
+		<name>Wonder Boy in Monster World</name>
+		<desc>"MONSTER WORLD WAS ONCE A PEACEFUL REGION. THEN, THE PEACE WAS SHATTERED BY AN INVADING ARMY OF MONSTERS. A YOUNG MAN NAMED SHION VOWED TO DEFEAT THEM AND MAKE HIS LAND PEACEFUL AGAIN."
+
+WONDER BOY IN MONSTER WORLD PUTS YOU IN CONTROL OF SHION IN HIS QUEST TO SAVE MONSTER WORLD FROM THE EVIL HANDS OF BIOMEKA.  IT CONTROLS LIKE YOUR STANDARD PLATFORM GAME - RUN, JUMP, AND KILL ENEMIES.  THE GAME IS FILLED WITH RPG ELEMENTS SUCH AS TALKING TO TOWNSFOLK, COLLECTING MONEY TO BUY ITEMS, UPGRADING YOUR LIFE, AND EQUIPPING A VARIETY OF ARMOR AND WEAPONS - STAYING VERY CLOSE TO THE "ZELDA FORMAT".  YOU CAN SAVE YOUR GAME TO CONTINUE YOUR QUEST AT A LATER TIME.
+
+WONDER BOY IN MONSTER WORLD IS THE THIRD GAME IN THE MONSTER WORLD SPIN-OFF SERIES.  IN JAPAN THE GAME IS CALLED WONDER BOY 5: MONSTER WORLD 3.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>7D7CE80B</hash>
+		<image>./images/Wonder Boy in Monster World (Europe).png</image>
+		<thumbnail>./boxart/Wonder Boy in Monster World (Europe).png</thumbnail>
+		<marquee>./marquee/Wonder Boy in Monster World (Europe).png</marquee>
+		<video>./snap/Wonder Boy in Monster World (Europe).mp4</video>
+	</game>
+	<game id="767" source="ScreenScraper.fr">
+		<path>./Wonder Boy (USA, Europe).zip</path>
+		<name>Wonder Boy</name>
+		<desc>JUSTAMENTE QUANDO TUDO IA BEM ENTRE VOCÊ E SUA BELA NAMORADA, TANYA, ELA FOI SEQÜESTRADA PELOS LACAIOS DE UM REI DOS BOSQUES. E ONDE ESTÁ ELA AGORA, PRESA E INCOMUNICÁVEL? VOCÊ NÃO TEM A MÍNIMA PISTA. POR ISSO, TERÁ QUE EMBRENHAR-SE EM FLORESTAS ESCURAS, CRUZAR OCEANOS SEM FIM, ESCALAR ENCOSTAS TRAIÇOEIRAS. TERÁ DE EXPLORAR VULCÕES EM ERUPÇÃO, PERIGOSAS GELEIRAS E ATÉ MESMO CAMINHAR SOBRE NUVENS. MAS VOCÊ NÃO ESTARÁ COMPLETAMENTE SOZINHO, O SEU ANJO DA GUARDA ESTARÁ AO SEU LADO.</desc>
+		<rating>0.65</rating>
+		<releasedate>19870601T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Sega</publisher>
+		<players>1-2</players>
+		<hash>4A7C29CD</hash>
+		<image>./images/Wonder Boy (USA, Europe).png</image>
+		<thumbnail>./boxart/Wonder Boy (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Wonder Boy (USA, Europe).png</marquee>
+		<video>./snap/Wonder Boy (USA, Europe).mp4</video>
+	</game>
+	<game id="936" source="ScreenScraper.fr">
+		<path>./Zaxxon 3-D (World).zip</path>
+		<name>Zaxxon 3D</name>
+		<desc>THE ENEMY HAS BUILT BATTLE FORTRESSES IN THE FARTHEST REACHES OF SPACE. THERE'S ONLY ONE WAY IN... AND ONE WAY OUT. YOUR MISSION: INFILTRATE THE ENEMY'S DEFENSES AND DESTROY THEIR MOTHERSHIPS!</desc>
+		<rating>0</rating>
+		<releasedate>19880301T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>A3EF13CB</hash>
+		<image>./images/Zaxxon 3-D (World).png</image>
+		<thumbnail>./boxart/Zaxxon 3-D (World).png</thumbnail>
+		<marquee>./marquee/Zaxxon 3-D (World).png</marquee>
+		<video>./snap/Zaxxon 3-D (World).mp4</video>
+	</game>
+	<game id="915" source="ScreenScraper.fr">
+		<path>./Zillion II - The Tri Formation (World).zip</path>
+		<name>Zillion II : The Tri Formation</name>
+		<desc>THEY'RE AT IT AGAIN. THE DREADED NORSA EMPIRE IS BACK... AND STRONGER THAN EVER BEFORE. THIS TIME THEY WON'T MAKE ANY MISTAKES. OTHERS HAVE TRIED TO STOP THEM AND ALL HAVE FAILED. THE EVIL BARON RICKS KNOWS YOU ARE COMING. AND IT'S A TRAP! BUT YOU'RE THE GALAXY'S LAST HOPE. CAN YOU DO WHAT'S NEVER BEEN DONE BEFORE?</desc>
+		<rating>0.65</rating>
+		<releasedate>19880701T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>2F2E3BC9</hash>
+		<image>./images/Zillion II - The Tri Formation (World).png</image>
+		<thumbnail>./boxart/Zillion II - The Tri Formation (World).png</thumbnail>
+		<marquee>./marquee/Zillion II - The Tri Formation (World).png</marquee>
+		<video>./snap/Zillion II - The Tri Formation (World).mp4</video>
+	</game>
+	<game id="937" source="ScreenScraper.fr">
+		<path>./Zillion (USA).zip</path>
+		<name>Zillion</name>
+		<desc>ARE YOU READY FOR THE ULTIMATE DANGER? YOU'RE ALONE, OUTNUMBERED AND THERE'S NO GUARANTEE YOU'LL MAKE IT ALIVE. YOU'RE J.J. YOUR OBJECTIVE: SECRETLY INFILTRATE THE UNDERGROUND LABYRINTH OF THE NORSA EMPIRE AND STEAL THEIR PLANS FOR DOMINATION. ARMED WITH THE ULTRA SPEED AND POWER OF THE ZILLION LASER, YOUR MISSION IS COMPLEX. AND SHEER STRENGTH WILL NOT WIN THIS ONE ALONE. YOU'LL NEED MORE BRAINS THAN BRAWN IN THIS SOPHISTICATED OPERATION. SO, HOW WILL YOU THINK YOUR WAY TO VICTORY? WITH CUNNING STRATEGY AND MEMORY TO GUIDE YOU SUCCESSFULLY THROUGH THE MAZE WHICH AWAITS. WHERE ONCE INSIDE, YOU'LL FIND THE INFORMATION NEEDED TO DESTROY THE NORSAS AND RESTORE PEACE FOREVER.</desc>
+		<rating>0.8</rating>
+		<releasedate>19871101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<hash>5718762C</hash>
+		<image>./images/Zillion (USA).png</image>
+		<thumbnail>./boxart/Zillion (USA).png</thumbnail>
+		<marquee>./marquee/Zillion (USA).png</marquee>
+		<video>./snap/Zillion (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+</gameList>

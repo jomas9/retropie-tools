@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="47070" source="ScreenScraper.fr">
+		<path>./Baseball Stars Color (World) (En,Ja).zip</path>
+		<name>Baseball Stars Color</name>
+		<desc>BASEBALL STARS COLOR IS SPORTS GAME ABOUT BASEBALL. GAME IS SIMILAR TO BASEBALL STARS FROM NES BUT HAS LESS REALISTIC CHARACTERS AND GAMEPLAY'S STYLE. YOU MANAGE OWN BASEBALL TEAM AND PLAY IN SERIES OF MATCHES. GAME HAS TYPICAL BASEBALL RULES - ONE PLAYER THROWS THE BALL, SECOND HITS THE BALL, SOMEONE ELSE GRABS IT ETC. EACH CHARACTER HAS OWN STATISTICS</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Saurus - SNK</publisher>
+		<players>1-2</players>
+		<hash>FFA7E88D</hash>
+		<image>./images/Baseball Stars Color (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Baseball Stars Color (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Baseball Stars Color (World) (En,Ja).png</marquee>
+		<video>./snap/Baseball Stars Color (World) (En,Ja).mp4</video>
+	</game>
+	<game id="47025" source="ScreenScraper.fr">
+		<path>./Biomotor Unitron (USA, Europe).zip</path>
+		<name>Bio Motor Unitron</name>
+		<desc>BIOMOTOR UNITRON IS A RPG FOR THE NEO GEO POCKET COLOR.
+
+AFTER A METEOR BRINGS A NEW SOURCE OF ENERGY TO THE WORLD, THE CONSTRUCTION OF GIANT ROBOTS BEGINS. THESE ROBOTS ARE USED FOR ENTERTAINMENT AND FIGHT IN ARENA FIGHTS AGAINST ONE-ANOTHER FOR THE TITLE MASTER OF MASTERS. YOU PLAY A DUO OF CHARACTERS THAT PARTICIPATES IN THESE GLADIATOR BATTLES. YOU CAN CONTROL BOTH CHARACTERS AND HAVE TO EXPLORE AND PERFORM QUESTS TO EARN MONEY AND ITEMS TO UPGRADE YOUR UNITRON ROBOT WITH. YOU CAN TALK TO INHABITANTS OF THE CITY AND BUY NEW ITEMS AT STORES.
+
+THE UNITRON CHANGES VISIBLY WHEN YOU APPLY UPGRADES AND A GREAT DEAL OF UPGRADES ARE AT HAND. OVER TWO HUNDRED DIFFERENT WEAPON CONFIGURATIONS ARE POSSIBLE. EACH WEAPON AND PART HAS A CERTAIN MATERIAL AND ELEMENT. FIRE WEAPONS WILL WORK BETTER AGAINST WOODEN ROBOTS THAN WATER-BASED ROBOTS.
+
+BENEATH THE CITY THERE ARE LARGE DUNGEONS WHERE MOST QUESTS WILL HAVE TO BE SOLVED AND MOST ITEMS WILL BE FOUND.
+
+THE BATTLES ARE LIKE IN POKÉMON, COMPLETELY MENU BASED. YOU PICK WHATEVER POWERS YOU WANT TO USE FROM A DROP-DOWN LIST.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>3807DF4F</hash>
+		<image>./images/Biomotor Unitron (USA, Europe).png</image>
+		<thumbnail>./boxart/Biomotor Unitron (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Biomotor Unitron (USA, Europe).png</marquee>
+		<video>./snap/Biomotor Unitron (USA, Europe).mp4</video>
+	</game>
+	<game id="87588" source="ScreenScraper.fr">
+		<path>./Bust-A-Move Pocket (USA).zip</path>
+		<name>Bust-A-Move Pocket</name>
+		<desc>THE CLASSIC GAME BUBBLE BOBBLE IS THE ANCESTOR OF PUZZLE BOBBLE. YOUR AIM IN EACH STAGE IS TO BREAK ALL THE BUBBLES, BY BREAKING 3 OR MORE OF THE SAME COLOR.  THE GAME CONTAINS A TWO-PLAYER MODE WHERE EACH PLAYER TRIES TO BREAK ALL BUBBLES FIRST.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>SNK - Taito</publisher>
+		<players>1-2</players>
+		<hash>85FE6AE3</hash>
+		<image>./images/Bust-A-Move Pocket (USA).png</image>
+		<thumbnail>./boxart/Bust-A-Move Pocket (USA).png</thumbnail>
+		<marquee>./marquee/Bust-A-Move Pocket (USA).png</marquee>
+		<video>./snap/Bust-A-Move Pocket (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="51140" source="ScreenScraper.fr">
+		<path>./Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
+		<name>Cool Boarders Pocket</name>
+		<desc>COOL BOARDERS POCKET DIFFERS TO OTHER GAMES IN THE COOL BOARDERS SERIES. IT FEATURES AN ISOMETRIC (OVERHEAD) VIEW INSTEAD OF A THIRD-PERSON PERSPECTIVE. THE GAME FEATURES TWO PLAY MODES A FREE-RIDE MODE WHERE THE PLAYER NAVIGATES AN OBSTACLE COURSE WITH NO RESTRICTIONS UNTIL HE/SHE REACHES THE GOAL, AND A SURVIVAL MODE WHERE THE PLAYER SNOWBOARDS THROUGH THE OBSTACLE COURSE UNTIL THEY RUN OUT OF HEALTH. THE GAME ALLOWS THE PLAYER TO CHOOSE ONE OF TWO CHARACTERS; A FEMALE OR MALE SNOWBOARDER.</desc>
+		<rating>0.45</rating>
+		<releasedate>20000224T000000</releasedate>
+		<developer>UEP Systems</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>833F9C22</hash>
+		<image>./images/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</image>
+		<thumbnail>./boxart/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</marquee>
+		<video>./snap/Cool Boarders Pocket (Japan, Europe) (En,Ja).mp4</video>
+	</game>
+	<game id="47027" source="ScreenScraper.fr">
+		<path>./Crush Roller (World) (En,Ja).zip</path>
+		<name>Crush Roller</name>
+		<desc>CRUSH ROLLER IS A GAME FOR THE NEO GEO POCKET COLOR BASED ON THE 1981 ARCADE GAME MAKE TRAX, WHICH WAS RELEASED AS CRUSH ROLLER IN EUROPE AND ASIA.
+
+THE OBJECT OF THE GAME IS TO COLOR THE ENTIRE MAZE-LIKE PLAYING FIELD WITH A PAINT BRUSH. WHILE YOU PAINT, TWO ENEMIES WALK AROUND IN THE MAZE, WHEN THEY HIT YOU, YOU LOSE A LIFE.
+
+A LEVEL HAS ROLLERS WHICH YOU CAN PUSH FORWARD WITH YOUR PAINT BRUSH. IF YOU CAPTURE AN ENEMY IN THE PATH OF THE ROLLER HE DIES AND IS TEMPORARILY TAKEN OUT OF THE GAME. THIS SCORES YOU EXTRA POINTS. EACH SUBSEQUENT ENEMY ROLLED OVER IS WORTH MORE POINTS.
+
+EVERY ONCE IN A WHILE ANOTHER CREATURE WILL POP UP, IT WILL RUN AROUND LEAVING BEHIND TRACK MARKS IN YOUR PAINT. PAINTING OVER THIS CREATURE REMOVES IT FROM THE GAME AND SCORES YOU ADDITIONAL POINTS. HIS TRACKS HAVE TO BE REPAINTED.
+
+WHEN THE ENTIRE MAZE IS PAINTED YOU WIN THE LEVEL. UNLIKE THE ORIGINAL ARCADE VERSION THE NEO GEO POCKET COLOR VERSION HAS MULTIPLE LEVELS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>F20FF9F2</hash>
+		<image>./images/Crush Roller (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Crush Roller (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Crush Roller (World) (En,Ja).png</marquee>
+		<video>./snap/Crush Roller (World) (En,Ja).mp4</video>
+	</game>
+	<game id="47028" source="ScreenScraper.fr">
+		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
+		<name>Dark Arms - Beast Buster 1999</name>
+		<desc>DARK ARMS: BEAST BUSTER 1999 IS A RPG FOR THE NEO GEO POCKET COLOR. IT'S A SPIN-OFF FROM THE ARCADE GAME BEAST BUSTERS.
+
+PARALLEL TO OUR WORLD WE FIND THE DARK REALM. AS THE PLAYER, YOU FIND ACCESS TO THIS PARALLEL DIMENSION AFTER SIGNING A PACT WITH THE MASTER OF THE DARK REALM. IN HIS REALM, YOU ARE SUPPOSED TO CATCH MONSTERS. THESE CAN BE FED TO YOUR BIOLOGICAL WEAPONS: DARK ARMS. YOU WEAPONS GAIN ABILITIES FROM CONSUMED MONSTERS AND CAN EVOLVE INTO MORE POWERFUL EQUIPMENT. YOU CAN ALSO FIND SEEDS IN THE DARK REALM THAT TURN INTO NEW WEAPONS.
+
+THE GAME FEATURES PUZZLES THAT HAVE TO BE SOLVED AND A WIDE ARRAY OF UNDEAD MONSTERS THAT CAN BE FED TO YOUR DARK ARMS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>6F353F34</hash>
+		<image>./images/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
+		<video>./snap/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
+	</game>
+	<game id="87554" source="ScreenScraper.fr">
+		<path>./Dive Alert - Matt's Version (USA, Europe).zip</path>
+		<name>Dive Alert - Matt's Version</name>
+		<desc>THE PLAYER TAKES CONTROL OF A CHARACTER NAMED MATT. THE GAME IS SET IN THE FUTURE AND THE WORLD IS PRIMARILY SURROUNDED BY WATER. THE ONLY SMALL PATCH OF LAND CALLED IS CALLED TERRA. THE PLAYER MUST SHOW THEIR WORTH TO BE ACCEPTED ON TO TERRA BY PROVING THEIR SKILL AS A SUBMARINE COMMANDER AND DESTROYING ENEMY VESSELS.
+
+MATT'S VERSION FEATURES DIFFERENT CHARACTERS, ITEMS AND BOATS TO BECKY'S VERSION. THESE ARE LOGGED IN A DEVICE SIMILAR TO A POKÉDEX. THE BATTLES TAKE PLACE AGAINST OTHER SHIPS. A RADAR VIEW IS USED TO HELP PLAYERS GUIDE TORPEDOES AGAINST THE ENEMY. A LARGE PART OF THE GAME IS TEXT BASED WITH ANIMATED CUTSCENES. TWO PLAYERS CAN LINK-UP WITH THE CABLE TO BATTLE, EXCHANGE SHIPS AND ACCUMULATE OTHER DATA.</desc>
+		<rating>0.5</rating>
+		<releasedate>20000416T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>EF75081B</hash>
+		<image>./images/Dive Alert - Matt's Version (USA, Europe).png</image>
+		<thumbnail>./boxart/Dive Alert - Matt's Version (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Dive Alert - Matt's Version (USA, Europe).png</marquee>
+		<video>./snap/Dive Alert - Matt's Version (USA, Europe).mp4</video>
+	</game>
+	<game id="47031" source="ScreenScraper.fr">
+		<path>./Dive Alert - Becky's Version (USA, Europe).zip</path>
+		<name>Dive Alert: Becky's Version</name>
+		<desc>DIVE ALERT: BECKY'S VERSION IS AN RPG FOR THE NEO GEO POCKET COLOR. THERE IS ANOTHER VERSION OF DIVE ALERT CALLED DIVE ALERT: MATT'S VERSION. THE TWO GAMES ARE RATHER LIKE JOINT POKEMON RELEASES (RED/BLUE, ETC) WHEREIN THEY ARE OVERALL THE SAME GAME WITH A VARIETY OF SMALLER DIFFERENCES.
+
+THE PLAYER TAKES CONTROL OF A CHARACTER NAMED BECKY. THE GAME TAKES PLACE IN THE FUTURE AND THE WORLD IS PRIMARILY SURROUNDED BY WATER. THE ONLY LAND IS A SMALL PATCH CALLED TERRA. THE PLAYER MUST PROVE THEIR WORTH TO BE ACCEPTED ON TO TERRA BY PROVING THEIR SKILL AS A SUBMARINE COMMANDER AND DESTROYING ENEMY VESSELS.
+
+BECKY'S VERSION FEATURES DIFFERENT CHARACTERS, ITEMS AND BOATS FROM MATT'S VERSION. THESE ARE LOGGED IN A DEVICE SIMILAR TO A POKÉDEX (FROM POKEMON). BATTLES TAKE PLACE AGAINST ENEMY SHIPS AND A RADAR VIEW IS USED TO HELP THE PLAYER GUIDE TORPEDOES TOWARDS THE ENEMY VESSELS. MUCH OF THE GAME IS TEXT-BASED WITH ANIMATED CUTSCENES. 
+
+THE GAME FEATURES THE ABILITY FOR TWO PLAYERS TO LINK UP NEO GEO POCKET COLOR UNITS TO EXCHANGES SHIPS AND DATA, AND TO BATTLE ONE ON ONE.  THE GAME ALSO FEATURES BATTERY BACK-UP AND A TRAINING MODE.</desc>
+		<rating>0.55</rating>
+		<releasedate>20000416T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>83DB5772</hash>
+		<image>./images/Dive Alert - Becky's Version (USA, Europe).png</image>
+		<thumbnail>./boxart/Dive Alert - Becky's Version (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Dive Alert - Becky's Version (USA, Europe).png</marquee>
+		<video>./snap/Dive Alert - Becky's Version (USA, Europe).mp4</video>
+	</game>
+	<game id="87556" source="ScreenScraper.fr">
+		<path>./Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
+		<name>Dynamite Slugger</name>
+		<desc>DYNAMITE SLUGGER IS A VIDEO GAME. IT WAS RELEASED IN 2000 FOR THE NEO GEO POCKET COLOR HANDHELD GAME CONSOLE. THE GAME IS SIMILAR TO OTHER BASEBALL VIDEOGAMES ON THE NEO GEO POCKET COLOR SUCH AS BASEBALL STARS AND BASEBALL STARS COLOR. DUE TO DYNAMITE SLUGGER BEING THE LATEST BASEBALL VIDEOGAME TO BE RELEASED FOR THE NEO GEO POCKET COLOR IT FEATURES BETTER GRAPHICS THAN OTHER SPORTS TITLES.</desc>
+		<rating>0.45</rating>
+		<releasedate>20000525T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<hash>7F1779CD</hash>
+		<image>./images/Dynamite Slugger (Japan, Europe) (En,Ja).png</image>
+		<thumbnail>./boxart/Dynamite Slugger (Japan, Europe) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Dynamite Slugger (Japan, Europe) (En,Ja).png</marquee>
+		<video>./snap/Dynamite Slugger (Japan, Europe) (En,Ja).mp4</video>
+	</game>
+	<game id="47032" source="ScreenScraper.fr">
+		<path>./Evolution - Eternal Dungeons (Europe).zip</path>
+		<name>Evolution: Eternal Dungeon</name>
+		<desc>A PORTABLE VERSION OF EVOLUTION: THE WORLD OF SACRED DEVICE. ETERNAL DUNGEON TELLS THE STORY OF THE YOUNG EXPLORER MAG LAUNCHER AND HIS QUEST FOR THE FABLED EVOLUTIA, AN ITEM OF IMMENSE POWER.
+
+THE BASIC PREMISE OF THE GAME IS TO TAKE QUESTS IN THE TOWN AND THEN ASSEMBLE YOUR PARTY AND ATTEMPT TO CLEAR OUT THE MANY DUNGEONS IN THE GAME, GRINDING YOUR CHARACTERS AND GETTING THE LOOT AND EXPERIENCE NEEDED TO ADVANCE THE PLOT AND BUY ITEMS, EQUIPMENT, AND UPGRADES FOR YOUR CY-FRAME, A ROBOTIC ATTACHMENT THAT ENABLES MAG TO ENHANCE HIS COMBAT ABILITIES.
+
+AS EXPECTED FOR A PORTABLE VERSION, THE GAMEPLAY HAS BEEN SIGNIFICANTLY DOWNGRADED FROM ITS ORIGINAL DREAMCAST VERSION. TOWN NAVIGATION IS MENU-DRIVEN AND ALL GRAPHICS ARE NOW TOP-DOWN 2D SPRITES, WITH ALL DUNGEONS BEING PRE-DESIGNED INSTEAD OF RANDOMLY GENERATED. COMBAT IS TURN-BASED USING A MENU SYSTEM FROM WHICH YOU SELECT YOUR ACTIONS FOR EACH PARTY MEMBER (UP TO 3) AND EXECUTE THEM, BUT OTHERWISE REMAINS UNCHANGED.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>ESP</developer>
+		<publisher>ESP - Sega</publisher>
+		<players>1-2</players>
+		<hash>BE47E531</hash>
+		<image>./images/Evolution - Eternal Dungeons (Europe).png</image>
+		<thumbnail>./boxart/Evolution - Eternal Dungeons (Europe).png</thumbnail>
+		<marquee>./marquee/Evolution - Eternal Dungeons (Europe).png</marquee>
+		<video>./snap/Evolution - Eternal Dungeons (Europe).mp4</video>
+	</game>
+	<game id="47033" source="ScreenScraper.fr">
+		<path>./Fantastic Night Dreams Cotton (Europe).zip</path>
+		<name>Fantastic Night Dreams: Cotton</name>
+		<desc>FANTASTIC NIGHT DREAMS: COTTON IS A 2D SIDE-SCROLLING SHOOTER IN WHICH THE PLAYER TAKES THE ROLE OF THE YOUNG WITCH COTTON, WHO SETS OUT ON HER MAGICAL BROOM ON A QUEST TO GET HER FAVORITE CANDY. FORTUNATELY FOR US HER OBSESSION GETS HER IN THE WAY OF SEVERAL WORLD-THREATENING TERRORS THAT SHE MUST DESTROY IN STANDARD SHOOTER FARE.
+
+THE GAME FEATURES AN EXPERIENCE-EARNING SYSTEM IN WHICH THE MORE ENEMIES THE PLAYER KILLS THE MORE HE CAN UPGRADE HIS WEAPON BY COLLECTING POWER CRYSTALS. PLAYERS CAN ALSO CHARGE THEIR WEAPON FOR SPECIAL ATTACKS AND ENLIST THE AID OF SILK, COTTON'S MAGICAL FAIRY FRIEND WHO CAN FORM UP IN DIFFERENT "OPTION" CONFIGURATIONS.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Success Corp.</developer>
+		<publisher>SNK Europe Ltd.</publisher>
+		<players>1</players>
+		<hash>1BF412F5</hash>
+		<image>./images/Fantastic Night Dreams Cotton (Europe).png</image>
+		<thumbnail>./boxart/Fantastic Night Dreams Cotton (Europe).png</thumbnail>
+		<marquee>./marquee/Fantastic Night Dreams Cotton (Europe).png</marquee>
+		<video>./snap/Fantastic Night Dreams Cotton (Europe).mp4</video>
+	</game>
+	<game id="47034" source="ScreenScraper.fr">
+		<path>./Faselei! (Europe).zip</path>
+		<name>Faselei!</name>
+		<desc>FASELEI! IS ONE OF THE LAST TITLES TO BE RELEASED FOR THE NEO GEO POCKET COLOR AND EVEN FEATURES DIGITISED LYRICS TO THE GAME'S MAIN THEME. HEAVILY STORY DRIVEN, THIS STRATEGY RPG TAKES PLACE IN A TIME WHEN MECHS KNOWN AS TS ARE THE WEAPON OF CHOICE FOR COMBAT. GAMEPLAY REVOLVES AROUND THE BATTLES AND CUSTOMISING YOUR TS BETWEEN THOSE BATTLES.
+
+BATTLES ARE PART TURN BASED AND PART REALTIME. THE PLAYER INPUTS THEIR ACTIONS AT THE BEGINNING OF THE TURN. THE AMOUNT OF ACTIONS THEY CAN INPUT IS DEPENDANT ON THEIR TYPE OF TS. ONCE THEY HAVE FINISHED THEIR SELECTION EVERYTHING IS PLAYED OUT IN REALTIME FOR THE DURATION OF THE TURN. THIS MAKES THINKING ABOUT WHAT YOUR OPPONENTS AND ALLIES WILL DO IN ADVANCE ESSENTIAL BEFORE TAKING YOUR TURN.</desc>
+		<rating>0.85</rating>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>E705E30E</hash>
+		<image>./images/Faselei! (Europe).png</image>
+		<thumbnail>./boxart/Faselei! (Europe).png</thumbnail>
+		<marquee>./marquee/Faselei! (Europe).png</marquee>
+		<video>./snap/Faselei! (Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47035" source="ScreenScraper.fr">
+		<path>./Fatal Fury F-Contact (World) (En,Ja).zip</path>
+		<name>Fatal Fury - F-Contact</name>
+		<desc>USING THE WORLD-FAMOUS JAPANESE "SD" (SUPER-DEFORMED) ARTWORK STYLE, THIS IS THE ONLY TITLE OF THE FATAL FURY SERIES TO BE RELEASED ON SNK'S COLOR HANDHELD.
+
+THE GAME IS BASED ON ITS ARCADE/CONSOLE COUNTERPART REAL BOUT FATAL FURY 2: THE NEWCOMERS, AND HAS ITS MAIN CHARACTERISTICS, LIKE THE POSSIBILITY OF EXECUTE SPECIAL MOVES WHILE BLOCKING (A.K.A. BREAKSHOTS), THE EXECUTION OF HIGH-STRENGTH BLOWS (A.K.A. S. POWER AND P. POWER MOVES) AND THE STARRING OF TWO NEW COMBATANTS (LI XIANGFEI AND RICK STROWD).
+
+DUE TO NGPC HARDWARE LIMITATIONS, SOME CHARACTERS HAVE BEEN REMOVED FROM THE MAIN CAST (AS WELL AS THE BACKGROUND/FOREGROUND BATTLE PLANE SYSTEM). WITH THIS, THE FIGHTERS INITIALLY AVAILABLE FOR THIS CONTEST ARE: ANDY BOGARD, TERRY BOGARD, JOE HIGASHI, MAI SHIRANUI, KIM KAPHWAN, RYUJI YAMAZAKI, RICK STROWD, LI XIANGFEI, BILLY KANE, WOLFGANG KRAUSER AND GEESE HOWARD.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A9119B5A</hash>
+		<image>./images/Fatal Fury F-Contact (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Fatal Fury F-Contact (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Fatal Fury F-Contact (World) (En,Ja).png</marquee>
+		<video>./snap/Fatal Fury F-Contact (World) (En,Ja).mp4</video>
+	</game>
+	<game id="47038" source="ScreenScraper.fr">
+		<path>./King of Fighters R-2 (World) (En,Ja).zip</path>
+		<name>King of Fighters - R-2</name>
+		<desc>USING AGAIN THE JAPANESE "SD" (SUPER-DEFORMED) ARTWORK STYLE (NOW REWORKED), THE KOF SERIES MAKES YOUR DEBUT IN THE NEW SNK'S COLOR HANDHELD. THE TITLE BRINGS THE SAME GAMEPLAY CHARACTERISTICS PRESENT IN ITS ARCADE/CONSOLE COUNTER-PART THE KING OF FIGHTERS '98, LIKE THE POSSIBILITY OF CHOOSE BETWEEN TWO GAME MODES (ADVANCED OR EXTRA), AN IDENTICAL ADAPTATION OF THE BATTLE STAGES, THE ADDITION OF "ADVANTAGE SYSTEM" (DIRECTLY RELATED TO THE POWER GAUGES) AND THE CHANCE TO BATTLE WITH A POWERED VERSION OF THE "FRANCHISE BOSS", RUGAL BERNSTEIN.
+
+UNLIKE THE PREVIOUS GAME (THE KING OF FIGHTERS R-1), THIS SEQUENCE DOESN'T HAVE A DEFINED STORYLINE, BUT IT'S IMPLICIT THAT RUGAL IS STILL ALIVE AND RETURNS ONCE AGAIN TO TRY CONQUER THE WORLD AND SATISFY HIS EVIL AMBITIONS.
+
+THE TEAMS INCLUDED IN THE GAME WERE SLIGHTLY REFORMULATED AND NOW ARE THE FOLLOWING ONES (THIS TIME, LEONA HEIDERN AND IORI YAGAMI ARE SINGLE ENTRIES):
+
+1. TEAM KUSANAGI (KYO KUSANAGI, SAISYU KUSANAGI AND SHINGO YABUKI)SUPER BABE TEAM (ATHENA ASAMIYA, YURI SAKAZAKI AND KASUMI TODO)
+2. NEW SOUTHTOWN TEAM (RYO SAKAZAKI, MAI SHIRANUI AND TERRY BOGARD)
+3. OROCHI TEAM (YASHIRO NANAKASE, SHERMIE AND CHRIS)</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>47E490A2</hash>
+		<image>./images/King of Fighters R-2 (World) (En,Ja).png</image>
+		<thumbnail>./boxart/King of Fighters R-2 (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/King of Fighters R-2 (World) (En,Ja).png</marquee>
+		<video>./snap/King of Fighters R-2 (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87560" source="ScreenScraper.fr">
+		<path>./Magical Drop Pocket (USA, Europe).zip</path>
+		<name>Magical Drop Pocket</name>
+		<desc>MAGICAL DROP POCKET'S CORE MECHANICS ARE SIMILAR TO THOSE OF MAGICAL DROP III. THE ONLY EXCEPTION IS THAT THAT THE BATTLEFIELD CONSISTS OF SIX COLUMNS INSTEAD OF SEVEN, AKIN TO THE SUPER FAMICOM PORTS OF THE FIRST TWO MAGICAL DROP GAMES.
+
+THE GAME FEATURES STORY, SELF CHALLENGE AND FRIEND CHALLENGE; THESE CORRESPOND TO THE STANDARD 1P VS COM, SOLO, AND 2P VS MODES FEATURED IN OTHER MAGICAL DROP GAMES. STORY FEATURES FIVE DIFFICULTY MODES WHILE SELF CHALLENGE FEATURES THREE.
+
+LIKE MANY OTHER HANDHELD PUZZLE GAMES OF THE TIME, STORY DOES NOT FEATURE A "TRUE" AI OPPONENT; INSTEAD, THE PLAYER ATTEMPTS TO FILL A GAUGE BY CREATING CHAINS. WHILE THE PLAYER ATTEMPTS TO FILL THIS GAUGE, THE AI ATTACKS AT RANDOM INTERVALS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991205T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>7712F82D</hash>
+		<image>./images/Magical Drop Pocket (USA, Europe).png</image>
+		<thumbnail>./boxart/Magical Drop Pocket (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Magical Drop Pocket (USA, Europe).png</marquee>
+		<video>./snap/Magical Drop Pocket (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47041" source="ScreenScraper.fr">
+		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug - 2nd Mission</name>
+		<desc>TAKE CONTROL OF THE METAL SLUG TANK ON THE NGPC ONCE AGAIN, THIS TIME TO DEFEAT THE REBEL STRIKE FORCE "PHANTOM." TRAVEL THROUGH 38 STAGES IN A NON-LINEAR BATTLE PATH DEFEATING ENEMY TROOPS AND RESCUING HOSTAGES. PILOT THE METAL SLUG TANK, SLUG FLYER COMBAT JET, AND THE SLUG SUB SUBMARINE AND FIRE THE HEAVY MACHINE GUN, ROCKET LAUNCHER, AND FIRE GUN. TWO UNIQUE PLAYABLE CHARACTERS, A LIST OF RESCUED HOSTAGES, AND A TIME ATTACK MODE ADD DEPTH TO THIS SIDE-SCROLLER.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Ukiyotei Company, Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>AC549144</hash>
+		<image>./images/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Metal Slug - 2nd Mission (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
+		<video>./snap/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47040" source="ScreenScraper.fr">
+		<path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug 1st Mission</name>
+		<desc>AS A MEMBER OF THE ELITE FORCES SQUAD "PEREGRINE FALCONS," YOUR MISSION IS TO ELIMINATE THE EVIL COLONEL BILDEGAARN. USING THE METAL SLUG MULTIFUNCTION TANK AND THE SLUG FLYER AS WELL AS YOUR WITS AND HANDGUN BLAST THROUGH UP TO 17 MISSIONS IN YOUR QUEST TO MAKE THE WORLD SAFE FROM TYRANNY. MULTIPLE STAGE PROGRESSIONS AND A GAMEPLAY RANKING SYSTEM GIVE REASON TO PLAY THROUGH MORE THAN ONCE. IN-GAME SAVE LETS THE PLAYER ON THE GO TURN OFF THE NEO GEO POCKET AND NOT LOSE PROGRESS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990527T000000</releasedate>
+		<developer>Ukiyotei Company, Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>4FF91807</hash>
+		<image>./images/Metal Slug - 1st Mission (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Metal Slug - 1st Mission (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Metal Slug - 1st Mission (World) (En,Ja).png</marquee>
+		<video>./snap/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
+	</game>
+	<game id="87564" source="ScreenScraper.fr">
+		<path>./Neo 21 - Real Casino Series (World).zip</path>
+		<name>Neo 21 - Real Casino Series</name>
+		<desc>NEO 21 IS A CASINO-STYLE BLACKJACK GAME THAT OFFERS THREE MODES OF PLAY: CASINO MODE, ORIGINAL MODE, AND VERSUS MODE. AS A CASINO STYLE GAME, IT SUPPORTS ALL THE ACTIONS THAT PLAYERS SITTING AT A CASINO BLACKJACK TABLE CAN PERFORM.
+
+BLACKJACK, ALSO KNOWN AS "TWENTY-ONE," IS A CARD GAME WHERE PLAYERS ATTEMPT TO PUT TOGETHER A HAND THAT ADDS UP TO AS CLOSE TO 21 IN TOTAL POINTS WITHOUT GOING OVER. ACES COUNT FOR ONE OR ELEVEN, FACE CARDS COUNT FOR TEN, AND THE OTHER CARDS COUNT AS THEIR RESPECTIVE VALUES.
+
+AT THE BEGINNING OF EACH HAND, THE DEALER DEALS EACH PLAYER, INCLUDING THE DEALER, TWO CARDS. EACH ROUND PLAYERS CAN OPT TO HIT, STAND, SPLIT OR DOUBLE DOWN. WHEN A PLAYER CALLS FOR A HIT, THE DEALER DEALS ANOTHER CARD. A PLAYER WHO STANDS IS DEALT NO MORE CARDS FOR THE REST OF THE HAND. PLAYERS WHO GET DEALT TWO CARDS OF THE SAME VALUE CAN SPLIT THEM, PUT ANOTHER WAGER DOWN AND PLAY BOTH AS INDIVIDUAL HANDS. DOUBLING DOWN IS THE ACT OF CALLING FOR ONE LAST HIT, AND DOUBLING YOUR WAGER AT THE SAME TIME. ANY PLAYER WHO GOES OVER 21 IN VALUE BUSTS AND LOSES.
+
+IN NEO 21, PLAYERS ENGAGE IN A ONE-ON-ONE MATCH AGAINST A CPU DEALER, OR IN THE VERSUS MODE, TWO PLAYERS CAN COMPETE VIA THE LINK CABLE, WITH ONE ACTING AS THE DEALER.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>Dyna Corp</publisher>
+		<players>1-2</players>
+		<hash>0A2A2F28</hash>
+		<image>./images/Neo 21 - Real Casino Series (World).png</image>
+		<thumbnail>./boxart/Neo 21 - Real Casino Series (World).png</thumbnail>
+		<marquee>./marquee/Neo 21 - Real Casino Series (World).png</marquee>
+		<video>./snap/Neo 21 - Real Casino Series (World).mp4</video>
+	</game>
+	<game id="87565" source="ScreenScraper.fr">
+		<path>./Neo Baccarat - Real Casino Series (World).zip</path>
+		<name>Neo Baccarat - Real Casino Series</name>
+		<desc>EXPERIENCE THE THRILLS OF NEO BACCARAT, THE NEW GAME IN THE POCKET CASINO SERIES!
+
+WILL THE HOUSE WIN? OR MAYBE THE PLAYER? GUESS ON THE WINNER AND PLACE YOUR BETS! "BACCARAT" IS THE HOTTEST GAME IN THE CASINO. AND NOW YOU CAN FIND ALL ITS PULSE-POUNDING EXCITEMENT ON NEOGEO POCKET COLOR! THE POCKET CASINO SERIES: NEO BACCARAT. ARE YOU UP FOR THE CHALLENGE?!
+
+THRILL TO THE FUN OF "ORIGINAL MODE" AND "CASINO MODE" IN SINGLE-PLAYER GAMES!
+USE THE NEOGEO POCKET LINK CABLE FOR 2-PLAYER SHOWDOWNS!
+BE IT AMERICAN- OR EUROPEAN-STYLE BACCARAT, NEOGEO POCKET'S GOT IT!
+
+TO SEE EXPLANATIONS OF GAME RULES, SELECT THE "GAME EXPLANATION" ITEM IN THE OPTION MENU.</desc>
+		<rating>0</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>Dyna Corp.</publisher>
+		<hash>22AAB454</hash>
+		<image>./images/Neo Baccarat - Real Casino Series (World).png</image>
+		<thumbnail>./boxart/Neo Baccarat - Real Casino Series (World).png</thumbnail>
+		<marquee>./marquee/Neo Baccarat - Real Casino Series (World).png</marquee>
+		<video>./snap/Neo Baccarat - Real Casino Series (World).mp4</video>
+	</game>
+	<game id="87566" source="ScreenScraper.fr">
+		<path>./Neo Cherry Master Color - Real Casino Series (World) (En,Ja).zip</path>
+		<name>Neo Cherry Master Color - Real Casino Series</name>
+		<desc>EXPERIENCE THE PLAY OF ACTUAL CASINO GAMING! FEEL THE FUN OF ULTRA-REAL SLOT MACHINE GAME SIMULATION!!
+	
+"CHERRY MASTER", THE SLOT MACHINE POPULAR IN CASINOS THROUGHOUT THE WORLD BECOMES PART OF THE NEOGEO POCKET COLOR. WITH THE VIVID SCREEN AND THE SYSTEM OF NO DIFFERENT FROM THE REAL THING, MAKING FOR REAL, ADULT GAMING ENTERTAINMENT!
+
+INCLUDES 2 MODES FOR THAT TANTALIZING TASTE OF SLOT MACHINE GAMING! (ORIGINAL MODE FOR PROFESSIONALS / SIMPLE MODE FOR BEGINNERS)</desc>
+		<rating>1</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>A6DCA584</hash>
+		<image>./images/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</marquee>
+		<video>./snap/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87568" source="ScreenScraper.fr">
+		<path>./Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).zip</path>
+		<name>Neo Dragon's Wild - Real Casino Series</name>
+		<desc>THE SUPER AUTHENTIC POKER GAME SIMULATION!!
+
+THE POPULAR CASINO POKER GAME FOR NEOGEO POCKET! THIS SYSTEM CAN BE ENJOYED BY EVERYONE: FROM ENTHUSIASTS WHO ENJOY CASINO GAME REALISM, TO CASINO GAME NOVICES. NOW YOU CAN ENJOY TRUE GAME EXCITEMENT WITH NEO DRAGON'S WILD - THE NEW POCKET CASINO GAME!
+
+BEGINNERS CAN SELECT SIMPLE MODE FOR EASIER GAME SETTINGS.
+SKILLED PLAYERS CAN CHOOSE ORIGINAL MODE TO ENJOY REAL POKER WITH AUTHENTIC FEEL.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>5D028C99</hash>
+		<image>./images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</image>
+		<thumbnail>./boxart/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</thumbnail>
+		<marquee>./marquee/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</marquee>
+		<video>./snap/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87569" source="ScreenScraper.fr">
+		<path>./Neo Mystery Bonus - Real Casino Series (World) (En,Ja).zip</path>
+		<name>Neo Mystery Bonus - Real Casino Series</name>
+		<desc>NEO MYSTERY BONUS, WHILE NOT THE MOST FULLY FEATURED SLOTS GAME AROUND, IS QUICK AND SIMPLE TO GET INTO. LIKE MOST OTHER SLOTS GAMES YOU START BY PLACING YOUR BET THEN SPIN THE SLOTS AND TEST YOUR LUCK. THE GRAPHICS ARE PLAIN AND DEPICT THE DIFFERENT ICONS ON THE MACHINE VERY CLEARLY. THERE ARE NO EXTRA MODES IN THE GAME, JUST BASIC SLOTS.</desc>
+		<rating>0.95</rating>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>E79DC5B3</hash>
+		<image>./images/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).png</marquee>
+		<video>./snap/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47043" source="ScreenScraper.fr">
+		<path>./Neo Turf Masters (World) (En,Ja).zip</path>
+		<name>Neo Turf Masters</name>
+		<desc>NEO TURF MASTERS IS A GOLF GAME THAT OFFERS PLAY IN THREE DIFFERENT COUNTRIES. YOU CAN PLAY IN THE US, GERMANY, AND JAPAN. THERE ARE 18 HOLES PER COURSE, JUST LIKE IN REAL LIFE, WHICH TOTALS TO 54 HOLES. THE GAME FEATURES A TWO-PLAYER VERSUS MODE AND THREE SINGLE PLAYER MODES. YOU CAN CHOOSE FROM ONE OF SIX DIFFERENT CHARACTERS, WHO EACH HAVE THEIR OWN STRENGTHS AND WEAKNESSES. LIKE MANY OTHER GOLF GAMES, YOU USE AN ACCURATE CLICK TYPE OF PLAY, WHERE YOU CLICK IN AN OVERHEAD MAP WHERE YOU WANT TO HIT THE BALL, THEN ADJUST HOOK, SLICE, AND POWER. IN VERSUS MODE, YOU CAN EARN "SUPER-CLUBS" THAT CAN ONLY BE USED ONCE. THESE CAN ALSO BE TRADED BETWEEN FRIENDS.</desc>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>317A66D2</hash>
+		<image>./images/Neo Turf Masters (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Neo Turf Masters (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Neo Turf Masters (World) (En,Ja).png</marquee>
+		<video>./snap/Neo Turf Masters (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47042" source="ScreenScraper.fr">
+		<path>./Neo Geo Cup '98 Plus (World) (En,Ja).zip</path>
+		<name>NeoGeo Cup '98 Plus</name>
+		<desc>NEO GEO CUP '98 PLUS IS A SOCCER GAME FOR THE NEO GEO POCKET. THE GAME FEATURES SINGLE MATCH PLAY, HEAD-TO-HEAD PLAY (USING A LINK CABLE), AND STORY MODE. YOU CAN CHOOSE TO PLAY ONE OF 16 INTERNATIONAL TEAMS. EACH TEAM HAS THEIR OWN COLLECTIVE STATS. ON THE FIELD YOU CAN PERFORM PASSES, SHOTS, DRIBBLES, SLIDINGS AND CHARGES. IN THE STORY MODE YOU HAVE TO WIN AS MANY MATCHES AS POSSIBLE IN A SERIES OF TOURNAMENTS. BEFORE AND DURING MATCHES YOU CAN CHANGE THE FIELD FORMATIONS AND SWITCH PLAYERS. EACH WON MATCH GIVES YOU PRIZE MONEY, THIS CAN BE USED TO BUY ITEMS FOR YOUR TEAM. THESE ITEMS USUALLY IMPROVE ONE STAT, BUT DECREASE ANOTHER.</desc>
+		<rating>0</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1</players>
+		<hash>C0DA4FE9</hash>
+		<image>./images/Neo Geo Cup '98 Plus (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Neo Geo Cup '98 Plus (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Neo Geo Cup '98 Plus (World) (En,Ja).png</marquee>
+		<video>./snap/Neo Geo Cup '98 Plus (World) (En,Ja).mp4</video>
+	</game>
+	<game id="47044" source="ScreenScraper.fr">
+		<path>./Pac-Man (World) (En,Ja).zip</path>
+		<name>Pac-Man</name>
+		<desc>ONE OF THE MOST POPULAR AND INFLUENTIAL GAMES OF THE 1980'S, PAC-MAN STARS A LITTLE, YELLOW DOT-MUNCHER WHO WORKS HIS WAY AROUND TO CLEAR A MAZE OF THE VARIOUS DOTS AND FRUIT WHICH INHABIT THE BOARD.
+
+PAC-MAN'S GOAL IS CONTINUALLY CHALLENGED BY FOUR GHOSTS: THE SHY BLUE GHOST BASHFUL (INKY), THE TRAILING RED GHOST SHADOW (BLINKY), THE FAST PINK GHOST SPEEDY (PINKY), AND THE FORGETFUL ORANGE GHOST POKEY (CLYDE).  ONE TOUCH FROM ANY OF THESE GHOSTS MEANS A LOSS OF LIFE FOR PAC-MAN.
+
+PAC-MAN CAN TURN THE TABLES ON HIS PURSUERS BY EATING OF THE FOUR ENERGIZERS LOCATED WITHIN THE MAZE.  DURING THIS TIME, THE GHOSTS TURN BLUE, AND PAC-MAN CAN EAT THEM FOR BONUS POINTS.  THIS ONLY LASTS FOR A LIMITED AMOUNT OF TIME, AS THE GHOST'S EYES FLOAT BACK TO THEIR CENTER BOX, AND REGENERATE TO CHASE AFTER PAC-MAN AGAIN.
+
+SURVIVE A FEW ROUNDS OF GAMEPLAY, AND BE TREATED TO HUMOROUS INTERMISSIONS BETWEEN PAC-MAN AND THE GHOSTS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco - SNK</publisher>
+		<players>1</players>
+		<hash>21E8CC15</hash>
+		<image>./images/Pac-Man (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Pac-Man (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Pac-Man (World) (En,Ja).png</marquee>
+		<video>./snap/Pac-Man (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87572" source="ScreenScraper.fr">
+		<path>./Picture Puzzle (USA, Europe).zip</path>
+		<name>Picture Puzzle</name>
+		<desc>PICTURE PUZZLE (OEKAKI PUZZLE IN JAPAN) IS A PAINT-BY-NUMBERS PUZZLE GAME DEVELOPED BY SUCCESS FOR THE NEO GEO POCKET COLOR. THE GAME PLAYS IDENTICAL TO NINTENDO'S PICROSS SERIES. PICTURE PUZZLE OFFERS A TOTAL OF 200 PUZZLES: 20 5X5 PUZZLES, 105 10X10'S, AND 75 15X15'S. THIS IS BIASED TOWARDS SMALLER PUZZLES BECAUSE THE GRIDS IN ANYTHING LARGER WOULD BE INCREDIBLY TINY ON THE NGPC'S SCREEN. ALSO, LARGER PUZZLES TAKE MUCH LONGER TO SOLVE; SMALLER PUZZLES ALLOWS YOU TO PICK UP THE POCKET FOR 10-20 MINUTES AT A TIME AND, ON A GOOD DAY, SOLVE A COMPLETE PUZZLE.
+
+UPON COMPLETION OF A PUZZLE, THE GAME REPLACES IT WITH A COLORED VERSION OF THE SAME GRID AND GIVES IT A TITLE. ESPECIALLY WITH THE SMALLER PUZZLES, THIS IS HELPFUL IN THAT IT IS SOMETIMES OTHERWISE UNCLEAR AS TO WHAT EXACTLY THE COMPLETED PICTURE IS SUPPOSED TO BE. BECAUSE IT COLORIZES THEM, THE GAME REQUIRES THE NEO GEO POCKET COLOR, I.E, IT WON'T RUN ON A MONOCHROME NEO GEO POCKET.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>67E6DC56</hash>
+		<image>./images/Picture Puzzle (USA, Europe).png</image>
+		<thumbnail>./boxart/Picture Puzzle (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Picture Puzzle (USA, Europe).png</marquee>
+		<video>./snap/Picture Puzzle (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="87584" source="ScreenScraper.fr">
+		<path>./Pocket Reversi (Europe).zip</path>
+		<name>Pocket Reversi</name>
+		<rating>0.5</rating>
+		<releasedate>20000127T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>20F09880</hash>
+		<image>./images/Pocket Reversi (Europe).png</image>
+		<thumbnail>./boxart/Pocket Reversi (Europe).png</thumbnail>
+		<marquee>./marquee/Pocket Reversi (Europe).png</marquee>
+		<video>./snap/Pocket Reversi (Europe).mp4</video>
+	</game>
+	<game id="87585" source="ScreenScraper.fr">
+		<path>./Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
+		<name>Pocket Tennis Color - Pocket Sports Series</name>
+		<desc>THIS SPORTS FAVORITE BOASTS EIGHT PLAYABLE CHARACTERS AND ENOUGH TENNIS ACTION TO KEEP ANY FAN HAPPY. ENJOY REALISTIC PLAY THAT GIVES YOU COMPLETE ARRAY OF SHOTS, INCLUDING LOBS, HIGH-SPEED SMASHES AND MORE. EXHIBITION MODE SETS UP A SINGLE MATCH AGAINST THE COMPUTER, OR, WITH THE NEOGEO CABLE LINK (SOLD SEPARATELY), A FRIEND. TOURNAMENT MODE PITS YOU AGAINST STIFF COMPETITION TO SEE IF YOU'VE GOT WHAT IT TAKES TO EARN THE TITLE. SAVE YOUR MATCH RESULTS SO YOU CAN BRAG LATER. RECORD MODE LETS YOU RELAX AND ENJOY YOUR ON-COURT ACCOMPLISHMENTS BY VIEWING YOUR RECORDS AND TROPHIES.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>D8590B96</hash>
+		<image>./images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</marquee>
+		<video>./snap/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).mp4</video>
+	</game>
+	<game id="87587" source="ScreenScraper.fr">
+		<path>./Puyo Pop (World) (En,Ja) (v1.06).zip</path>
+		<name>Puyo Puyo 2</name>
+		<desc>THE OBJECT OF THIS HEAD-TO-HEAD PUZZLE GAME IS TO CLEAR YOUR GRID OF FALLING PATTERNS CALLED PUYOS BY FORMING CHAINS OF FOUR OR MORE SAME-COLORED PUYOS IN A STRAIGHT LINE OR ONE OF SEVERAL GEOMETRIC PATTERNS. WHAT MAKES THIS A CHALLENGING TWO-PLAYER CONTEST IS THE FACT THAT WHEN YOU CLEAR A CHAIN OF PUYOS FROM YOUR GRID, IT DROPS A RANDOM PIECE OF FILLER ONTO YOUR OPPONENT'S GRID. THE MORE PUYOS YOU CLEAR, THE MORE YOU FILL YOUR OPPONENT'S GRID, AND IF YOU CAN CLUTTER UP HIS GRID ENOUGH TO FILL IT TO THE TOP, YOU'VE WON THE GAME.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>5C649D1E</hash>
+		<image>./images/Puyo Pop (World) (En,Ja) (v1.06).png</image>
+		<thumbnail>./boxart/Puyo Pop (World) (En,Ja) (v1.06).png</thumbnail>
+		<marquee>./marquee/Puyo Pop (World) (En,Ja) (v1.06).png</marquee>
+		<video>./snap/Puyo Pop (World) (En,Ja) (v1.06).mp4</video>
+	</game>
+	<game id="87588" source="ScreenScraper.fr">
+		<path>./Puzzle Bobble Mini (Japan, Europe) (v1.10).zip</path>
+		<name>Puzzle Bobble Mini</name>
+		<desc>THE CLASSIC GAME BUBBLE BOBBLE IS THE ANCESTOR OF PUZZLE BOBBLE. YOUR AIM IN EACH STAGE IS TO BREAK ALL THE BUBBLES, BY BREAKING 3 OR MORE OF THE SAME COLOR.  THE GAME CONTAINS A TWO-PLAYER MODE WHERE EACH PLAYER TRIES TO BREAK ALL BUBBLES FIRST.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>SNK - Taito</publisher>
+		<players>1-2</players>
+		<hash>E69EAE3E</hash>
+		<image>./images/Puzzle Bobble Mini (Japan, Europe) (v1.10).png</image>
+		<thumbnail>./boxart/Puzzle Bobble Mini (Japan, Europe) (v1.10).png</thumbnail>
+		<marquee>./marquee/Puzzle Bobble Mini (Japan, Europe) (v1.10).png</marquee>
+		<video>./snap/Puzzle Bobble Mini (Japan, Europe) (v1.10).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47047" source="ScreenScraper.fr">
+		<path>./Puzzle Link 2 (USA, Europe).zip</path>
+		<name>Puzzle Link 2</name>
+		<desc>THE GAMEPLAY OF PUZZLE LINK 2 IS GENERALLY IDENTICAL TO THE FIRST GAME: PUZZLE LINK IS A GAME WHERE BLOCKS OF MATCHING COLOR HAVE TO BE DISSOLVED. NEW BLOCKS CONSTANTLY SCROLL INTO THE SCREEN FROM THE TOP. THE GAME IS OVER WHEN THE FIRST BLOCKS REACH THE BOTTOM OF THE SCREEN. YOU CAN DISSOLVE BLOCKS BY SHOOTING AT THEM. THE SHOTS FORM A LINE WHERE THEY IMPACT. IF THAT LINE CONNECTS OTHERWISE UNCONNECTED BLOCKS OF THE SAME COLOR THEY WILL DISSOLVE.
+
+THERE ARE NEW MODES IN PUZZLE LINK 2. LIKE THE ORIGINAL, THERE ARE THE STANDARD CHALLENGE AND PUZZLE ROUNDS. BUT NEW TO THE SERIES IS THE MARATHON-STYLE GAME WHERE YOU CONTINUE ELIMINATING PIECES AS THE GAME GRADUALLY INCREASES SPEED. IN THIS MODE, MORE POWER-UPS APPEAR AS THE PLAYER PERFORMS FASTER. HERE, YOU GET THREE SHOTS THAT WILL ELIMINATE THE SAME COLOR TILE FROM THE BOARD. THE GAME ALSO HAS LINK CABLE SUPPORT FOR TWO PLAYERS.</desc>
+		<rating>0.75</rating>
+		<releasedate>20000401T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>BA9CA21C</hash>
+		<image>./images/Puzzle Link 2 (USA, Europe).png</image>
+		<thumbnail>./boxart/Puzzle Link 2 (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Puzzle Link 2 (USA, Europe).png</marquee>
+		<video>./snap/Puzzle Link 2 (USA, Europe).mp4</video>
+	</game>
+	<game id="47046" source="ScreenScraper.fr">
+		<path>./Puzzle Link (Europe).zip</path>
+		<name>Puzzle Link</name>
+		<desc>PUZZLE LINK IS A GAME WHERE BLOCKS OF MATCHING COLOR HAVE TO BE DISSOLVED. NEW BLOCKS CONSTANTLY SCROLL INTO THE SCREEN FROM THE TOP. THE GAME IS OVER WHEN THE FIRST BLOCKS REACH THE BOTTOM OF THE SCREEN. YOU CAN DISSOLVE BLOCKS BY SHOOTING AT THEM. THE SHOTS FORM A LINE WHERE THEY IMPACT. IF THAT LINE CONNECTS OTHERWISE UNCONNECTED BLOCKS OF THE SAME COLOR THEY WILL DISSOLVE.
+
+THERE ARE THREE DIFFERENT MODES: IN "NORMAL" YOU HAVE TO LINK TWO SPECIAL BLOCKS THAT APPEAR AFTER SOME TIME. IF YOU MANAGE TO FINISH THE LEVEL WITHIN THE TIME LIMIT YOU WILL UNLOCK ONE OF 50 COLLECTIBLE CARDS. IN "CLEAR MODE" YOU HAVE TO CLEAR A GIVEN CONSTELLATION OF BLOCKS. "BATTLE MODE" IS A TWO PLAYER LINK-CABLE MODE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+		<hash>8D0610AC</hash>
+		<image>./images/Puzzle Link (Europe).png</image>
+		<thumbnail>./boxart/Puzzle Link (Europe).png</thumbnail>
+		<marquee>./marquee/Puzzle Link (Europe).png</marquee>
+		<video>./snap/Puzzle Link (Europe).mp4</video>
+	</game>
+	<game id="47048" source="ScreenScraper.fr">
+		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>Samurai Shodown II</name>
+		<desc>ONE OF SNK'S LEGENDARY FIGHTING GAME SERIES HAS MADE A RETURN! IN SAMURAI SHODOWN II, YOU CAN TAKE ON ONE OF THE ROLES OF 15 WARRIORS AS YOU FIGHT YOUR WAY THROUGH THE LAND TO DEFEAT THE EVIL MIZUKI! SLASH, KICK, AND SLICE YOUR OPPONENTS IN HALF...DO WHATEVER IT TAKES...LIVE BY THE SWORD, AND DIE BY ITS BLADE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>4F7FB156</hash>
+		<image>./images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
+		<video>./snap/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+	</game>
+	<game id="47049" source="ScreenScraper.fr">
+		<path>./Shanghai Mini (World) (En,Ja).zip</path>
+		<name>Shanghai Mini</name>
+		<desc>SHANGHAI MINI IS A RELEASE FOR ONE MORE PLATFORM IN THE FOR EVER CONTINUING SERIES OF ACTIVISION'S TILE MATCHING GAME. 
+
+INCLUDED ARE CLASSIC, TOURNAMENT AND DYNASTY MODES. CLASSIC IS NORMAL GAME WITH SIX DIFFERENT BOARD LAYOUTS. IN TOURNAMENT GAME PLAYER CHALLENGES THE TOWER OF SHANGHAI AND TRIES TO BEAT THE SHANGHAI MASTER BY SOLVING DIFFERENT BOARD LAYOUTS WITHIN TIME LIMIT. DYNASTY IS TWO PLAYER COMPETITION - AGAINST COMPUTER OR HUMAN (REQUIRES LINK CABLE) OPPONENT.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>90732D53</hash>
+		<image>./images/Shanghai Mini (World) (En,Ja).png</image>
+		<thumbnail>./boxart/Shanghai Mini (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/Shanghai Mini (World) (En,Ja).png</marquee>
+		<video>./snap/Shanghai Mini (World) (En,Ja).mp4</video>
+	</game>
+	<game id="47050" source="ScreenScraper.fr">
+		<path>./SNK Gals' Fighters (USA, Europe).zip</path>
+		<name>SNK Gals Fighters</name>
+		<desc>ORGANIZED AND SPONSORED BY A MYSTERIOUS FIGHTER NICKNAMED AS "MISS X", THE FIRST QUEEN OF FIGHTERS TOURNAMENT IS OFFICIALLY OPEN, BUT THIS COMPETITION DIFFERS OF THE OTHERS FOR ALLOWING ONLY WOMEN AS PARTICIPANTS. MEANWHILE, AFTER HAVE PASSED FOR SEVERAL AND TOUGH FIGHTS (INCLUDING A FINAL SHOWDOWN WITH MISS X), THE WINNER WILL BE REWARDED WITH A MYSTICAL ARTIFACT KNOWN AS THE "K TALISMAN", THAT HAS THE CAPACITY TO GRANT ANY WISH. WITH THIS RARE-UNIQUE POSSIBILITY OF ACCOMPLISH THEIR PESSOAL DREAMS AND AMBITIONS, 8 POWERFUL FEMME FATALE FIGHTERS WERE INVITED TO FACE THE BIGGEST COMBAT OF THEIR LIVES...
+
+BEHIND THIS SIMPLE STORYLINE, THE TITLE BRINGS A CAST OF 8 ALL-FEMALE CHARACTERS TAKEN FROM SNK'S FIGHTING SERIES THE KING OF FIGHTERS (MAI SHIRANUI, YURI SAKAZAKI, ATHENA ASAMIYA, LEONA HEIDERN, SHERMIE), THE LAST BLADE (AKARI ICHIJYOU) AND SAMURAI SHODOWN (SHIKI, NAKORURU); ALL WITH THE SAME BLOWS (PARODIED OR NOT) OF THEIR ORIGIN GAMES.
+
+THE GAMEPLAY IS IDENTICAL TO KOF'S ADVANCED MODE (E.G. EMERGENCY EVASION AND RUN COMMANDS), BUT WITHOUT SDMS. TO INCREASE THE REPLAY FACTOR, A POWER-UP MODE WAS INCLUDED: DEPENDING ON YOUR COMBAT PERFORMANCE, YOU'LL BE FAVORED WITH SEVERAL RANDOM ITEMS (E.G. START WITH FULL MAX GAUGE, SPEED UP ETC.) THAT CAN BE USED TO IMPROVE YOUR CHARACTER FOR A WHILE.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B02C2BE7</hash>
+		<image>./images/SNK Gals' Fighters (USA, Europe).png</image>
+		<thumbnail>./boxart/SNK Gals' Fighters (USA, Europe).png</thumbnail>
+		<marquee>./marquee/SNK Gals' Fighters (USA, Europe).png</marquee>
+		<video>./snap/SNK Gals' Fighters (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47053" source="ScreenScraper.fr">
+		<path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
+		<name>SNK vs. Capcom - The Match of the Millennium</name>
+		<desc>WITH 18 STARTING CHARACTERS (26 TOTAL AFTER UNLOCKING), NUMEROUS BATTLE MODES AND VARIED MINIGAMES, THIS MAY BE THE LARGEST FIGHTING GAME FOR THE NEO GEO POCKET COLOR. CHOOSE THE FIGHTING STYLE THAT SUITS YOU FROM THE AVAILABLE SINGLE, TAG AND TEAM MODES. THE SC OLYMPIC MODE GRANTS ACCESS TO MINIGAMES FROM A MUSIC GAME FEATURING FELICIA TO A WHACK-A-MOLE STYLE GAME WITH JUBEI. THE OLYMPIC MODE ALSO ALLOWS PLAYERS TO COMPETE FOR GOLD, SILVER AND BRONZE MEDALS IN VARIOUS FIGHTING CHALLENGES. LINK FEATURES INCLUDE NGPC-TO-NGPC BATTLES AND NGPC-TO-DREAMCAST DATA EXCHANGE WITH OTHER SNK TITLES.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom - SNK</publisher>
+		<players>1-2</players>
+		<hash>B173030A</hash>
+		<image>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</image>
+		<thumbnail>./boxart/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</thumbnail>
+		<marquee>./marquee/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</marquee>
+		<video>./snap/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47051" source="ScreenScraper.fr">
+		<path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
+		<name>SNK vs. Capcom: Card Fighter's Clash - Capcom Vers</name>
+		<desc>COMPETE IN THE SC CARD FIGHTERS' CLASH TOURNAMENT WITH YOUR CAPCOM DECK IN THIS NGPC CARD GAME. COLLECT THE 300 CARDS FROM BOTH SNK AND CAPCOM FRANCHISES AND DUEL AND TRADE WITH YOUR FRIENDS USING THE EXTENSIVE LINK MODE. WITH MECHANICS SIMILAR TO CCGS SUCH AS YU-GI-OH AND POPULAR CHARACTERS FROM BOTH SNK AND CAPCOM, CARD FIGHTERS CLASH OFFERS BOTH COLLECTION AND STRATEGY GAMEPLAY. THIS GAME ALSO ALLOWS LINKING WITH SNK VS. CAPCOM: MATCH OF THE MILLENNIUM TO TRANSFER COLLECTIBLE POINTS.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Capcom - Moto Kikaku - SNK</publisher>
+		<players>1-2</players>
+		<hash>80CE137B</hash>
+		<image>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</image>
+		<thumbnail>./boxart/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</thumbnail>
+		<marquee>./marquee/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png</marquee>
+		<video>./snap/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47052" source="ScreenScraper.fr">
+		<path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
+		<name>SNK vs. Capcom: Card Fighter's Clash - SNK Version</name>
+		<desc>COMPETE IN THE SC CARD FIGHTERS' CLASH TOURNAMENT WITH YOUR SNK DECK IN THIS NGPC CARD GAME. COLLECT THE 300 CARDS FROM BOTH SNK AND CAPCOM FRANCHISES AND DUEL AND TRADE WITH YOUR FRIENDS USING THE EXTENSIVE LINK MODE. WITH MECHANICS SIMILAR TO CCGS SUCH AS YU-GI-OH AND POPULAR CHARACTERS FROM BOTH SNK AND CAPCOM, CARD FIGHTERS CLASH OFFERS BOTH COLLECTION AND STRATEGY GAMEPLAY. THIS GAME ALSO ALLOWS LINKING WITH SNK VS. CAPCOM: MATCH OF THE MILLENNIUM TO TRANSFER COLLECTIBLE POINTS.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Capcom - Moto Kikaku - SNK</publisher>
+		<players>1-2</players>
+		<hash>94B63A97</hash>
+		<image>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</image>
+		<thumbnail>./boxart/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</thumbnail>
+		<marquee>./marquee/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png</marquee>
+		<video>./snap/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47054" source="ScreenScraper.fr">
+		<path>./Sonic the Hedgehog - Pocket Adventure (World).zip</path>
+		<name>Sonic the Hedgehog - Pocket Adventure</name>
+		<desc>ASSUMA O CONTROLE DE SONIC PELO CAMINHO COM SONIC POCKET ADVENTURE. PERCORRA 9 ZONAS ATACANDO ROBÔS E COLETANDO ANÉIS. ALÉM DA JOGABILIDADE TRADICIONAL DO SONIC, ESTE CARTUCHO POSSUI OS MODOS TRIAL ROOM, DUEL ROOM E PUZZLE ROOM. NO PUZZLE ROOM, O JOGADOR PODE ORGANIZAR "PEÇAS DE QUEBRA-CABEÇA" COLETADAS ATRAVÉS DAS FASES E DESBLOQUEAR IMAGENS OCULTAS. PARA FACILITAR A JOGABILIDADE NO PORTÁTIL, VOCÊ PODE REINICIAR SEU JOGO EM QUALQUER ZONA DESBLOQUEADA OU ATO. DA MESMA FORMA ESTE JOGO APRESENTA VÁRIOS NÍVEIS DE DIFICULDADE E A OPÇÃO DE DESATIVAR O LIMITE PADRÃO DE TEMPO DE 10 MINUTOS EM CADA FASE.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>356F0849</hash>
+		<image>./images/Sonic the Hedgehog - Pocket Adventure (World).png</image>
+		<thumbnail>./boxart/Sonic the Hedgehog - Pocket Adventure (World).png</thumbnail>
+		<marquee>./marquee/Sonic the Hedgehog - Pocket Adventure (World).png</marquee>
+		<video>./snap/Sonic the Hedgehog - Pocket Adventure (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="47064" source="ScreenScraper.fr">
+		<path>./Last Blade, The - Beyond the Destiny (Europe).zip</path>
+		<name>The Last Blade - Beyond the Destiny</name>
+		<desc>1863. HISTORY'S HIDDEN SECRET IS REVEALED. DURING THE AGE KNOWN AS "BAKUMATSU", 135 YEARS AGO, CHAOS RULES! IT'S ALL YOURS: A NEW TYPE OF WEAPON FIGHTING GAME IN WHICH POWER AND SPEED WEAPONS, IN ADDITION TO VARIOUS REPEL MOVES CAN BE USED TO EXPERIENCE A NEW SENSATION IN VIDEO GAME THRILLS!</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>94FCFD1E</hash>
+		<image>./images/Last Blade, The - Beyond the Destiny (Europe).png</image>
+		<thumbnail>./boxart/Last Blade, The - Beyond the Destiny (Europe).png</thumbnail>
+		<marquee>./marquee/Last Blade, The - Beyond the Destiny (Europe).png</marquee>
+		<video>./snap/Last Blade, The - Beyond the Destiny (Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+</gameList>

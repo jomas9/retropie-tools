@@ -1,0 +1,1627 @@
+<?xml version="1.0"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="59772" source="ScreenScraper.fr">
+		<path>./Aero Blasters (USA).zip</path>
+		<name>Aero Blasters</name>
+		<desc>AIR BUSTER IS A FAST SIDE-SCROLLING SHOOTER. THE PLAYER CONTROLS A SMALL CRAFT THROUGH DIFFERENT LEVELS WITH MANY ENEMIES. EVERY LEVEL ENDS WITH A BOSS AND SOME SECTIONS SPEED UP THE GAMEPLAY, OFFERING FAST OBSTACLE COURSES BOTH HORIZONTALLY AND VERTICALLY SCROLLING. FLYING ORANGE PODS RELEASE MANY POWER-UPS AT ONCE, ENHANCING THE SHIPS WITH NEW OR MORE POWERFUL LASERS, WING MEN AND SHIELDS. THE PLAYER CAN ALSO HOLD THE FIRE KEY TO CHARGE A BLAST THAT REMOVES ALL ENEMY BULLETS FROM THE SCREEN AND DEALS DAMAGE TO ALL ENEMIES. WITH AN UNFORGIVING DIFFICULTY, EVERY HIT IS FATAL, BUT THE GAME CAN BE CONTINUED FROM ANY POINT AS LONG AS THERE ARE LIVES AND CREDITS LEFT. THE GAME CAN BE PLAYED WITH TWO PLAYERS COOPERATIVELY.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>B03E0B32</hash>
+		<image>./images/Aero Blasters (USA).png</image>
+		<thumbnail>./boxart/Aero Blasters (USA).png</thumbnail>
+		<marquee>./marquee/Aero Blasters (USA).png</marquee>
+		<video>./snap/Aero Blasters (USA).mp4</video>
+	</game>
+	<game id="14526" source="ScreenScraper.fr">
+		<path>./Air Zonk (USA).zip</path>
+		<name>Air Zonk</name>
+		<desc>IN 1992, HUDSON SOFT EXPANDED UPON THE BONK'S ADVENTURE FRANCHISE THEY HAD BUILT BY CREATING AIR ZONK, A 2D SIDE-SCROLLING "CUTE 'EM UP" SHOOTER SET IN A CYBERPUNK-ESQUE FUTURE. WHILE AIR ZONK DIFFERED FROM ITS SUCCESSOR IN TERMS OF GAMEPLAY, THE CARTOONISH STYLE OF THE BONK SERIES COULD STILL BE SEEN ALL THROUGHOUT THE GAME, ESPECIALLY IN THE GRAPHICS, THE CHARACTERS, &amp; OF COURSE, ZONK HIMSELF.
+
+AIR ZONK MAY APPEAR TO FEATURE A CANDY CARTOON COATING ON THE OUTSIDE, BUT IT'S STILL A TRADITIONAL SHOOT-'EM-UP AT HEART. YOU STILL HAVE A SELECTION OF YOUR BASIC WEAPON POWER-UPS (8 IN TOTAL HERE), BUT SPREAD GUNS &amp; POWERFUL BURSTS ARE NOW REPRESENTED BY KILLER DECKS OF CARDS &amp; GIANT METAL MANDIBLES. LARGE, IMPOSING ENDBOSSES ARE STILL THE NORM, BUT HERE YOUR FOES RANGE FROM GIANT HEAPS OF LIVING GARBAGE TO KILLER FOOTBALL PLAYERS. AND OUTER SPACE? WHO NEEDS TO BLOW UP THINGS THERE WHEN YOU HAVE OTHER VENUES (5 IN TOTAL) SUCH AS A GIGANTIC STADIUM TO DO IT IN?
+
+IN ADDITION TO ALL OF THIS, AIR ZONK GIVES YOU A FEATURE THAT ALLOWS YOU TO CHOOSE FROM ONE OF 10 "FRIENDS" AT THE BEGINNING OF EACH LEVEL WHO WILL FIGHT BY YOUR SIDE ONCE YOU PICK UP A CERTAIN POWER-UP. THESE FRIENDS RANGE FROM GIANT SCUD MISSILES TO LIVING DUMP TRUCKS TO FLOATING COW-THINGS, AMONG OTHERS. PICK UP ANOTHER POWER-UP, &amp; ZONK &amp; HIS FRIEND COMBINE TO CREATE A POWERFUL HYBRID FORM, FEATURING SOME OF THE STRANGEST ATTACKS YOU MAY EVER SEE IN A VIDEO GAME.
+
+SO WILL ZONK BE ABLE TO DEFEAT KING DROOL, RESCUE THE MOON FROM HIS CLUTCHES, &amp; SAVE THE WORLD? AS USUAL, THE ANSWER IS UP TO YOU...</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>933D5BCC</hash>
+		<image>./images/Air Zonk (USA).png</image>
+		<thumbnail>./boxart/Air Zonk (USA).png</thumbnail>
+		<marquee>./marquee/Air Zonk (USA).png</marquee>
+		<video>./snap/Air Zonk (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59818" source="ScreenScraper.fr">
+		<path>./Panza Kick Boxing (USA).zip</path>
+		<name>Andre' Panza Kick Boxing</name>
+		<desc>ENDORSED BY ANDRÉ PANZA, THIS VIDEO GAME ADAPTATION OF THAI KICK BOXING FEATURES OVER 35 MOVES. USE THE TRAINING GYM TO BUILD UP YOUR CHARACTER'S ABILITIES UNTIL YOU FEEL READY TO TAKE ON AN OPPONENT. YOU ALSO HAVE THE ABILITY TO CUSTOMIZE YOUR ATTACKS. WHEN YOU ARE READY, GO TO THE RING TO TAKE ON VARIOUS OPPONENTS AS YOU TRY TO BECOME THE BEST KICK BOXER IN THE GAME.</desc>
+		<rating>0.25</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1-2</players>
+		<hash>A980E0E9</hash>
+		<image>./images/Panza Kick Boxing (USA).png</image>
+		<thumbnail>./boxart/Panza Kick Boxing (USA).png</thumbnail>
+		<marquee>./marquee/Panza Kick Boxing (USA).png</marquee>
+		<video>./snap/Panza Kick Boxing (USA).mp4</video>
+		<developer>Futura</developer>
+	</game>
+	<game id="59774" source="ScreenScraper.fr">
+		<path>./Ballistix (USA).zip</path>
+		<name>Ballistix</name>
+		<desc>PSYGNOSIS' BALLISTIX IS AN ARCADE GAME IN WHICH YOU HAVE TO MANIPULATE A BALL IN ORDER TO SCORE A GOAL WITH YOUR OPPONENT. TO DO THIS, YOU WILL CONTROL AN ARROW THAT DEFINES A DIRECTION, AND PRESSING THE FIRE KEY WILL LAUNCH A BALL FROM THIS ARROW IN THE DIRECTION THE ARROW POINTS TO; BY LAUNCHING BALLS AT CORRECT ANGLES, YOU WILL MANIPULATE THE MAIN BALL AND CONTROL THE WAY IT MOVES. BALLISTIX ALSO KEEPS CERTAIN PHYSICS LAWS (NAMELY GRAVITY AND FRICTION), AND WILL PRESENT YOU WITH VARYING OBSTACLES IN EITHER ONE OR TWO PLAYER MODE.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1-2</players>
+		<hash>420FA189</hash>
+		<image>./images/Ballistix (USA).png</image>
+		<thumbnail>./boxart/Ballistix (USA).png</thumbnail>
+		<marquee>./marquee/Ballistix (USA).png</marquee>
+		<video>./snap/Ballistix (USA).mp4</video>
+		<developer>Reflections Interactive</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+	</game>
+	<game id="59775" source="ScreenScraper.fr">
+		<path>./Battle Royale (USA).zip</path>
+		<name>Battle Royale</name>
+		<desc>BATTLE ROYALE IS A WRESTLING GAME THAT PRESENTS LAST-MAN-STANDING TYPE BATTLES BETWEEN UP TWO FIVE WRESTLERS. THE GAME FEATURES THREE DIFFICULTY SETTINGS, FIVE WRESTLERS TO CHOOSE FROM, AND TWO GAME MODES. FOR SINGLE PLAYERS ONLY IS THE TOURNAMENT MODE, F</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-4</players>
+		<hash>E70B01AF</hash>
+		<image>./images/Battle Royale (USA).png</image>
+		<thumbnail>./boxart/Battle Royale (USA).png</thumbnail>
+		<marquee>./marquee/Battle Royale (USA).png</marquee>
+		<video>./snap/Battle Royale (USA).mp4</video>
+		<developer>Incredible Technologies</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+	</game>
+	<game id="78606" source="ScreenScraper.fr">
+		<path>./Blazing Lazers (USA).zip</path>
+		<name>Blazing Lazers</name>
+		<desc>BLAZING LAZERS IS A TOP-DOWN SHOOTER FEATURING 9 LEVELS OF VARIED AND FAST-PACED ACTION.  THE STORY HERE IS THE USUAL SAVE-THE-WORLD VARIETY. YOU MUST PILOT YOUR SHIP AGAINST 8 SUPER-WEAPONS AND ULTIMATELY DESTROY THE MENACE ONCE AND FOR ALL.
+
+THE POWER-UP SYSTEM IN BLAZING LAZERS DESERVES SPECIAL MENTION.  THERE ARE FOUR MAIN TYPES OF WEAPONS, AND EACH TYPE OF WEAPON CAN BE UPGRADED SEVERAL TIMES TO PRODUCE AN INCREDIBLE AMOUNT OF FIREPOWER.  IN ADDITION, THERE ARE SECONDARY WEAPONS SYSTEMS THAT PROVIDE YOU WITH SHIELDS, HOMING MISSILES, MULTI-FIRE UNITS, OR SUPER WEAPON POWER.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>B4A1B0F6</hash>
+		<image>./images/Blazing Lazers (USA).png</image>
+		<thumbnail>./boxart/Blazing Lazers (USA).png</thumbnail>
+		<marquee>./marquee/Blazing Lazers (USA).png</marquee>
+		<video>./snap/Blazing Lazers (USA).mp4</video>
+		<developer>Compile</developer>
+		<publisher>NEC</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59776" source="ScreenScraper.fr">
+		<path>./Bloody Wolf (USA).zip</path>
+		<name>Bloody Wolf</name>
+		<desc>SNAKE AND EAGLE, TWO COMMANDOS OF THE BLOODY WOLF SPECIAL FORCES, RECEIVE INSTRUCTIONS FROM THEIR COMMANDER TO DESTROY THE ENEMY'S HEAVILY ARMED BASE TO RESCUE THE PRESIDENT AND ANY ALLIES WHO HAVE BEEN REPORTED AS MIA.
+
+BASED OFF THE 1988 ARCADE GAME, THIS SINGLE-PLAYER, TOP-DOWN, RUN AND GUN SHOOTER TAKES A NOD TO CONTRA-STYLE GAMEPLAY, ALLOWING ONE OF THE TWO MERCENARIES TO BLAST THEIR WAY THROUGH EIGHT LEVELS OF ENEMY OPPOSITION ARMED WITH ONLY A KNIFE AND A MACHINE GUN.  
+
+ALONG THE WAY, NEW WEAPONS SUCH AS SHOTGUNS, BAZOOKAS, FLASH BOMBS AND GRENADES GRENADES CAN BE ADDED TO THE ARSENAL, AS WELL AS HEALTH AND DEFENSIVE POWER-UPS.  PLAYERS CAN EVEN FIND A MOTORCYCLE TO RIDE IN SOME AREAS, OR SWIM THROUGH CERTAIN PARTS OF A LEVEL.
+
+THE PRESIDENT AND YOUR FELLOW SOLDIERS NEED YOU!</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>37BAF6BC</hash>
+		<image>./images/Bloody Wolf (USA).png</image>
+		<thumbnail>./boxart/Bloody Wolf (USA).png</thumbnail>
+		<marquee>./marquee/Bloody Wolf (USA).png</marquee>
+		<video>./snap/Bloody Wolf (USA).mp4</video>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+	</game>
+	<game id="14484" source="ScreenScraper.fr">
+		<path>./Bomberman '93 (USA).zip</path>
+		<name>Bomberman '93</name>
+		<desc>BLACK BOMBERMAN HAS CUT POWER TO THE GALAXY'S OWN POWER STATION, WHICH RESULTED IN DISPUTES BETWEEN SEVEN PLANETS, AND IT IS UP TO WHITE BOMBERMAN TO RESTORE POWER TO THE STATION AND BRING PEACE TO THE PLANETS AGAIN. THE OBJECTIVE IS THE SAME AS IN DYNA BLASTER: USE BOMBS TO DESTROY ALL ENEMIES IN A LEVEL. ONCE YOU HAVE DESTROYED THEM ALL, FIND THE EXIT HIDDEN IN A BLOCK SO YOU CAN BE TRANSPORTED TO THE NEXT LEVEL. A BLOCK WILL ALSO FLASH YELLOW TO LET YOU KNOW THAT A POWER-UP CAN BE OBTAINED THERE. POWER-UPS INCLUDE MORE BOMBS, MANUAL DETONATION, EXTRA LIVES, AND EXTENDED FLAMES. OCCASIONALLY, YOU ALSO GET THE ABILITY TO WALK THROUGH BOMBS OR WALLS, OR TO KICK BOMBS.
+
+IF YOU MANAGE TO REVEAL THE EXIT BEFORE ALL ENEMIES ARE DESTROYED, IT REMAINS IN AN "INACTIVE" STATE, MEANING THAT YOU CANNOT BE TRANSPORTED TO THE NEXT LEVEL UNTIL YOU BLOW UP ALL THE ENEMIES AND THEREFORE MAKING IT "ACTIVE". IF YOU ACCIDENTALLY BLOW UP THE EXIT, WHETHER IT IS ACTIVE OR NOT, OR IF TIME RUNS OUT, YOU WILL UNLEASH A FEW ENEMIES THAT YOU ALSO NEED TO DESTROY. AFTER EVERY EIGHTH LEVEL, THERE IS A BOSS THAT YOU NEED TO DESTROY TO PROCEED TO THE NEXT PLANET.
+
+BESIDES THIS NORMAL MODE, THERE ARE TWO OTHER MODES: BATTLE AND VERSUS. IN BATTLE, YOU CAN PLAY AGAINST FOUR HUMAN- OR COMPUTER-CONTROLLED PLAYERS IN ONE OF SEVEN STAGES, EACH WITH DIFFERENT FEATURES LIKE WARP HOLES, CONVEYOR BELTS, REVOLVING DOORS, AND MUCH MORE. IN VERSUS, YOU PLAY HEAD-TO-HEAD AGAINST A FRIEND USING THE TURBOEXPRESS FOR NON-STOP ACTION. REGARDLESS OF THESE TWO MODES, YOU CAN STILL OBTAIN POWER-UPS TO GIVE OUT SOME PUNISHMENT AGAINST YOUR FELLOW PLAYERS, AND THE MAXIMUM NUMBER OF WINS CAN BE SET BEFORE PLAY.</desc>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<players>1-2</players>
+		<hash>56171C1C</hash>
+		<image>./images/Bomberman '93 (USA).png</image>
+		<thumbnail>./boxart/Bomberman '93 (USA).png</thumbnail>
+		<marquee>./marquee/Bomberman '93 (USA).png</marquee>
+		<video>./snap/Bomberman '93 (USA).mp4</video>
+		<developer>Nec Interchannel</developer>
+		<publisher>Hudson</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59777" source="ScreenScraper.fr">
+		<path>./Bomberman (USA).zip</path>
+		<name>Bomberman</name>
+		<desc>THE BLACK SPACEMAN KIDNAPPED YOUR BELOVED AND BROUGHT HER TO HIS CHAMBERS IN THE CASTLE, FAR BEYOND YOUR REACH, OVER THE RIVERS, FOREST AND MOUNTAINS. YOUR JOB IS TO SAVE HER, BATTLING THE SEA OF THE ENEMIES, WITH ONLY BOMBS AT YOUR DISPOSAL.
+
+THE RANGE OF EXPLOSION CAN BE UPGRADED WITH TIME, BUT IF YOU DIE, THE RANGE RESETS TO MINIMUM AND YOU LOOSE YOUR PREVIOUS SKILLS, THOUGH. SOME UPDATES CAN MAKE YOU WALK THROUGH THE WALLS, INCREASE YOUR SPEED, AND GIVE YOU SOME OTHER ASSETS TO AID YOU IN YOUR QUEST TO SAVE THE WOMAN YOU LOVE.
+
+THIS TOP-DOWN ACTION-ARCADE GAME CONSISTS OF NINE LEVELS PER STAGE, EACH TOUGHER THAN THE OTHER, AND EACH FINAL CONSISTING OF THE BOSS YOU'LL HAVE TO DEAL WITH. YOU CAN MOVE HORIZONTALLY AND VERTICALLY AND LAY DOWN BOMBS BEHIND YOU THUS EVAPORATING THE ENEMIES, BUT BEWARE, 'COS YOU CAN BLOCK YOURSELF WITH YOUR OWN BOMB, AND BECOME A VICTIM OF YOUR OWN TRICKS IF YOU'LL PLAY IN A HUFF.</desc>
+		<rating>0.8</rating>
+		<releasedate>19901207T000000</releasedate>
+		<players>1-5</players>
+		<hash>5F6F3C2A</hash>
+		<image>./images/Bomberman (USA).png</image>
+		<thumbnail>./boxart/Bomberman (USA).png</thumbnail>
+		<marquee>./marquee/Bomberman (USA).png</marquee>
+		<video>./snap/Bomberman (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59779" source="ScreenScraper.fr">
+		<path>./Bonk III - Bonk's Big Adventure (USA).zip</path>
+		<name>Bonk III : Bonk's Big Adventure</name>
+		<desc>BONK'S BIG ADVENTURE IS THE THIRD INSTALMENT IN THE SIDE-SCROLLING PLATFORMER SERIES. AS IN PREVIOUS GAMES, THE PLAYER ASSUMES THE ROLE OF A CAVEMAN NAMED BONK WHO HEADBUTTS HIS WAY THROUGH VARIOUS ENEMIES IN ORDER TO DEFEAT KING DROOL. FAMILIAR MOVES INC</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<players>1</players>
+		<hash>5A3F76D8</hash>
+		<image>./images/Bonk III - Bonk's Big Adventure (USA).png</image>
+		<thumbnail>./boxart/Bonk III - Bonk's Big Adventure (USA).png</thumbnail>
+		<marquee>./marquee/Bonk III - Bonk's Big Adventure (USA).png</marquee>
+		<video>./snap/Bonk III - Bonk's Big Adventure (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+	</game>
+	<game id="59780" source="ScreenScraper.fr">
+		<path>./Bonk's Adventure (USA).zip</path>
+		<name>Bonk's Adventure</name>
+		<desc>BONK'S ADVENTURE IS A PREHISTORIC PLATFORM GAME WHERE YOU ARE IN CONTROL OF A LARGE BALD HEADED CAVEMAN, GUIDING HIM THROUGH THE LEVELS TAKING OUT ALL MANNER OF STRANGE PREHISTORIC CREATURES THAT GET IN YOUR WAY INCLUDING KING DROOLS HENCHMEN - ALL IN EFFORT TO FREE THE CAPTURED/CONTROLLED RESIDENTS OF MOONLAND (BOSSES) - INCLUDING THE PRINCESS ZA FROM KING DROOL ATTEMPTED TAKE OVER.
+
+THE GAME IS NOT UNLIKE OTHER PLATFORM GAMES OF THE ERA. THOUGH IT'S UNIQUE IN THAT YOU CAN CLIMB WALLS AND SWING ON ROPE WITH YOUR TEETH AND YOUR ONLY METHOD OF ATTACK IS HEAD BUTTING ENEMIES - STRAIGHT FORWARD OR DIVE BOMB STYLE. THE GAME STARTS OFF WITH SIMPLISTIC POINT A TO POINT B STYLE, BUT FOCUSES MORE ON EXPLORATION IN THE LATER STAGES, WHICH INCLUDE FINDING HIDDEN BONUS AREAS. 
+
+THE GAME IS ALSO KNOWN FOR ITS TRADEMARK GAMEPLAY MECHANISM OF 'SPIN ATTACK', WHERE BONK FLOATS THROUGH THE AIR IF YOU HAVE THE TURBO BUTTON ON. THIS CAN BE USED TO FLOAT AROUND THE LEVEL AND REACH AREAS FOR EXTRA/HIDDEN ITEMS, BUT ALSO AS A METHOD OF ATTACK AS WELL. THE GAME STARTS YOU OFF WITH 3 HEARTS, BUT ALLOWS YOU TO INCREASE THIS NUMBER WHEN YOU FIND SPECIAL HEART CONTAINER ITEMS, ALLOWING BONK TO TAKE A NUMBER OF HITS BEFORE DYING.
+
+A VARIETY OF BONUS STAGES CAN BE FOUND THROUGHOUT THE GAME, WHICH PROVIDE BONUS POINTS UPON COMPLETION AND THUS RESULTING IN ACCUMULATING EXTRA LIVES. ENEMIES THEMSELVES CAN BE 'MILKED' FOR POINTS IN THAT YOU CAN KEEP 'BONKING' THEIR DEAD BODIES AND NOT LETTING THEM HIT THE GROUND. SPIN ATTACK IS ANOTHER METHOD FOR DOING THIS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>599EAD9B</hash>
+		<image>./images/Bonk's Adventure (USA).png</image>
+		<thumbnail>./boxart/Bonk's Adventure (USA).png</thumbnail>
+		<marquee>./marquee/Bonk's Adventure (USA).png</marquee>
+		<video>./snap/Bonk's Adventure (USA).mp4</video>
+		<developer>Atlus</developer>
+		<publisher>Hudson</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="78611" source="ScreenScraper.fr">
+		<path>./Bonk's Revenge (USA).zip</path>
+		<name>Bonk's Revenge</name>
+		<desc>BONK HAS HIS REVENGE ON KING DROOL III IN HIS SECOND GAME FOR THE TURBOGRAFX.  IT'S NOT EXACTLY CLEAR WHY BONK IS SO VENGEFUL, BUT IT APPEARS THAT KING DROOL IS RESPONSIBLE.  BONK USES HIS OVER-SIZED CRANIUM AS A LETHAL WEAPON IN THIS SEQUEL.
+
+THE GAMEPLAY IN THIS ADVENTURE IS VERY SIMILAR TO THE FIRST GAME.  BONK HAS  HEAD-BUTTING, HEAD-STOMPING, AND FIRE-BREATHING MOVES WHEN HE EATS SOME SPICY MEAT.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>14250F9A</hash>
+		<image>./images/Bonk's Revenge (USA).png</image>
+		<thumbnail>./boxart/Bonk's Revenge (USA).png</thumbnail>
+		<marquee>./marquee/Bonk's Revenge (USA).png</marquee>
+		<video>./snap/Bonk's Revenge (USA).mp4</video>
+		<developer>Red Company</developer>
+		<publisher>NEC</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="78612" source="ScreenScraper.fr">
+		<path>./Boxyboy (USA).zip</path>
+		<name>Boxyboy</name>
+		<desc>MASTERMIND YOUR WAY TO THE TOP, AS YOUR FIRST JOB TURNS INTO A MIND-BOGGLING GAME OF STRATEGY! SHOW 'EM YOU'VE GOT THE BRAINS AND MUSCLE, AND THEY'LL SEND YOU AROUND THE WORLD TO FACE 100 MIND-BENDING LEVELS OF PUZZLES. JUST BE COOL, AND YOU'LL DISCOVER SECRET LEVELS THAT TWIST BRAINS INTO PRETZELS! SOON YOU CAN START CALLING THE SHOTS WITH YOUR OWN PUZZLE CREATIONS! ONE THING'S FOR SURE. ONCE YOU'RE INTO THIS BRAIN BUSTER, YOU'LL BE TOO HOOKED TO STOP!</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>605BE213</hash>
+		<image>./images/Boxyboy (USA).png</image>
+		<thumbnail>./boxart/Boxyboy (USA).png</thumbnail>
+		<marquee>./marquee/Boxyboy (USA).png</marquee>
+		<video>./snap/Boxyboy (USA).mp4</video>
+		<developer>NEC Corporation</developer>
+		<publisher>Media Rings Corporation</publisher>
+	</game>
+	<game id="78613" source="ScreenScraper.fr">
+		<path>./Bravoman (USA).zip</path>
+		<name>Bravoman</name>
+		<desc>THE EVIL DR. BOMB HAS TAKEN OVER NITTA VILLAGE AND ONLY YOU, AN ORDINARY SALARY MAN, CAN STOP HIS EVIL PLANS BY TRANSFORMING INTO THE FABULOUS SUPERHERO BRAVOMAN!
+
+THE GAME IS A SIDE-SCROLLING ACTION PLATFORMER. AS BRAVOMAN, YOU HAVE THE POWER TO ELONGATE YOUR MEMBERS DEPENDING ON HOW LONG YOU PRESS EACH BUTTON ALLOWING YOU TO JUMP HIGHER OR PUNCH ENEMIES ON THE OTHER SIDE OF THE SCREEN.
+
+FEATURES 22 STAGES FILLED WITH BIZARRE SETTINGS AND ENEMIES, ALL RENDERED USING COLORFUL 2D GRAPHICS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>CCA08B02</hash>
+		<image>./images/Bravoman (USA).png</image>
+		<thumbnail>./boxart/Bravoman (USA).png</thumbnail>
+		<marquee>./marquee/Bravoman (USA).png</marquee>
+		<video>./snap/Bravoman (USA).mp4</video>
+		<developer>Now Production</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+	</game>
+	<game id="14511" source="ScreenScraper.fr">
+		<path>./Cadash (USA).zip</path>
+		<name>Cadash</name>
+		<desc>TROUBLE IS IN THE KINGDOM OF DILSARL: THE YOUNG, BEAUTIFUL PRINCESS SALASA WAS ABDUCTED BY THE EVIL ARCH-MAGE BALROG. THE KING SEEKS HELP FROM THE FOUR BEST WARRIORS OF THE COUNTRY. THE TASK IS CLEAR, BUT NOT SO SIMPLE: FIND BALROG, DESTROY HIS EVIL MINIONS AND OTHER MONSTERS ROAMING THE LAND, AND RESCUE THE PRINCESS.
+
+CADASH IS A PLATFORM ACTION ROLE-PLAYING GAME. THE PLAYER CHOOSES ONE OF THE FOUR CHARACTER CLASSES IN THE BEGINNING OF THE GAME: FIGHTER, PRIESTESS, MAGE, OR NINJA (THE GENESIS VERSION HAS ONLY TWO CHARACTERS: FIGHTER AND MAGE). THE PROTAGONIST FIGHTS HIS OR HER WAY THROUGH DUNGEONS, ATTACKING PHYSICALLY OR CASTING SPELLS (AS PRIESTESS OR MAGE). LIKE IN REGULAR PLATFORM GAMES, THERE ARE PLACES WHERE THE PLAYER CHARACTER IS REQUIRED TO JUMP, DUCK, OR CLIMB. THE PROTAGONIST GAINS EXPERIENCE FOR DEFEATING MONSTERS, AND THEIR LEVEL RISES IN A TRUE RPG FASHION.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1-2</players>
+		<hash>BB0B3AEF</hash>
+		<image>./images/Cadash (USA).png</image>
+		<thumbnail>./boxart/Cadash (USA).png</thumbnail>
+		<marquee>./marquee/Cadash (USA).png</marquee>
+		<video>./snap/Cadash (USA).mp4</video>
+		<developer>Taito</developer>
+		<publisher>Working Designs</publisher>
+	</game>
+	<game id="78616" source="ScreenScraper.fr">
+		<path>./Champions Forever Boxing (USA).zip</path>
+		<name>Champions Forever Boxing</name>
+		<desc>IT'S ALI, FOREMAN, FRAZIER, HOLMES, AND NORTON - FIVE OF THE WORLD'S GREATEST HEAVYWEIGHT BOXING CHAMPS! BE THEM OR BATTLE THEM. EACH HAS HIS ACTUAL PHYSICAL TRAITS AND BOXING STYLE. MOVE AND JAB, OR GO TOE-TO-TOE AND UNLEASH A FLURRY OF PUNISHING HOOKS AND UPPERCUTS, AND BODY SHOTS. PROTECT YOURSELF BY BLOCKING PUNCHES OR CLINCHING. TAUNT OPPONENTS WITH SHOWBOAT MOVES IF YOU'VE GOT THE GUTS. FIGHT EXHIBITION MATCHES OR AN ENTIRE 15-YEAR CAREER. BETWEEN ROUND CLOSE-UPS SHOW EACH BOXER'S FACIAL DAMAGE. BEAT THESE 5 LEGENDS AND BECOME A CHAMPION FOREVER.
+
+"NEC HAS CREATED A GREAT MIX OF SPORTS HISTORY AND VIDEO GAMING...THE VISUAL EFFECTS OF FIGHTING AGAINST THE CLASSIC BOXERS IN THEIR PRIME REALLY HAS IMPACT." - VIDEOGAMES &amp; COMPUTER ENTERTAINMENT MAGAZINE</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1-2</players>
+		<hash>15EE889A</hash>
+		<image>./images/Champions Forever Boxing (USA).png</image>
+		<thumbnail>./boxart/Champions Forever Boxing (USA).png</thumbnail>
+		<marquee>./marquee/Champions Forever Boxing (USA).png</marquee>
+		<video>./snap/Champions Forever Boxing (USA).mp4</video>
+		<developer>Distinctive Software, Inc</developer>
+		<publisher>NEC Corporation</publisher>
+	</game>
+	<game id="14520" source="ScreenScraper.fr">
+		<path>./Taito Chase H.Q. (USA).zip</path>
+		<name>Chase H.Q.</name>
+		<desc>AS AN UNDERCOVER AGENT OF CHASE HEADQUARTERS, YOUR JOB IS TO PATROL THE STREETS AND TRACK DOWN FIVE CRIMINALS. YOU ARE GIVEN A MISSION BRIEFING BEFORE YOU START WHICH GIVES INFORMATION ON THE SUSPECT AND WHAT CAR THEY DRIVE. THEN YOU DRIVE ACROSS THE CITY WITHOUT CRASHING INTO OTHER CARS, AND CATCH UP WITH THE CRIMINAL'S CAR. TO ARREST THE SUSPECTS, YOU MUST KEEP BUMPING INTO THEIR CAR UNTIL IT IS NO LONGER FUNCTIONAL. AND YOU HAVE TO DO THIS UNDER A STRICT TIME LIMIT. YOU CAN'T AFFORD TO CRASH INTO CARS OR BUILDINGS OR YOU WASTE TIME GETTING ON THE ROAD AGAIN. 
+
+HOWEVER, ONCE YOU'VE CAUGHT UP WITH YOUR SUSPECT, YOU ARE GIVEN MORE TIME. YOUR CAR IS ALSO EQUIPPED WITH TURBO BOOSTS, WHICH YOU CAN USE TO GAIN EXTRA SPEED IF YOU ARE WAY BEHIND THE CRIMINAL. EACH ARREST IS BASED ON A "SUSPICION".</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>9298254C</hash>
+		<image>./images/Taito Chase H.Q. (USA).png</image>
+		<thumbnail>./boxart/Taito Chase H.Q. (USA).png</thumbnail>
+		<marquee>./marquee/Taito Chase H.Q. (USA).png</marquee>
+		<video>./snap/Taito Chase H.Q. (USA).mp4</video>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+	</game>
+	<game id="14556" source="ScreenScraper.fr">
+		<path>./Chew Man Fu (USA).zip</path>
+		<name>Chew Man Fu</name>
+		<desc>CHEW MAN FU HAS SET A CURSE TO ROB THE WORLD OF FRIED RICE, EGG ROLLS AND ALL ITS OTHER FAVOURITE FOODS. TO STOP HIM YOU MUST WORK THROUGH 550 ROUNDS, CLEARING THEM BY PLACING FOUR DIFFERENT COLOURED BALLS INTO THE APPROPRIATELY-COLOURED HOLE.
+
+GAMEPLAY IS SOMETHING OF A PENGO VARIANT, AS THE SINGLE-SCREEN LEVELS ARE INHABITED BY ENEMIES, WHO CAN BE KILLED BY FIRING ONE OF THE BALLS AT THEM AT SPEED. WHEN IT HITS ONE IT WILL CONTINUE MOVING IN THE SAME DIRECTION, REBOUNDING OFF WALLS IF NECCESSARY, AND PUSHING YOU BACKWARDS SLIGHTLY IF IT COMES BACK TO YOU - BUT IT CAN BE INSTANTANEOUSLY BROUGHT BACK UNDER CONTROL. BLOCKS CAN ALSO BE MOVED AT A MORE CASUAL SPEED, INCLUDING ROUND CORNERS. ONCE A BLOCK IS PLACED ONTO ITS SPOT, IT CAN BE USED AGAIN AS A WEAPON. THE LEVELS ARE IN A MAZE STYLE, AND PARTS OF THIS CAN BE OPENED UP. THE GAME ALSO INCLUDES A SMALL BONUS KICK-BALL GAME FOR 2 PLAYERS, WHICH DOUBLES AS PRACTICE WITH THE CONTROL SYSTEM.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>8CD13E9A</hash>
+		<image>./images/Chew Man Fu (USA).png</image>
+		<thumbnail>./boxart/Chew Man Fu (USA).png</thumbnail>
+		<marquee>./marquee/Chew Man Fu (USA).png</marquee>
+		<video>./snap/Chew Man Fu (USA).mp4</video>
+		<developer>Now Production</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="78788" source="ScreenScraper.fr">
+		<path>./China Warrior (USA).zip</path>
+		<name>China Warrior</name>
+		<desc>CHINA WARRIOR IS A GAME IN THE SPIRIT OF KUNG-FU MASTER.  THE STORY IS OF A KUNG-FU WARRIOR NAMED WANG WHO SETS OUT THE DESTROY THE DARK EMPEROR AND LIBERATE CHINA.  THE GAMEPLAY IS A SIDE-SCROLLER AND THE GOAL OF THE GAME IS TO MAKE IT TO THE END OF THE STAGE AND BATTLE ITS BOSS, BASHING BAD GUYS ALONG THE WAY.  THERE ARE ONLY THREE TYPES OF ATTACK; PUNCH, KICK AND JUMP-KICK AND THERE ARE FOUR STAGES IN ALL.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-2</players>
+		<hash>A2EE361D</hash>
+		<image>./images/China Warrior (USA).png</image>
+		<thumbnail>./boxart/China Warrior (USA).png</thumbnail>
+		<marquee>./marquee/China Warrior (USA).png</marquee>
+		<video>./snap/China Warrior (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="14527" source="ScreenScraper.fr">
+		<path>./Cratermaze (USA).zip</path>
+		<name>Cratermaze</name>
+		<desc>CRATERMAZE IS AN ACTION PUZZLE GAME VIEWED FROM AN OVERHEAD PERSPECTIVE. EACH STAGE CONSISTS OF A MAZE FILLED WITH VARIOUS ENEMIES AND ITEMS. YOU MUST COLLECT ALL OF THE KEYS ON THE STAGE TO OPEN THE EXIT DOOR WHILE AVOIDING OR ELIMINATING ENEMIES. YOUR PRIMARY METHOD OF DEALING WITH ENEMIES IS TO DIG HOLES; IF AN ENEMY WALKS INTO A HOLE, THEY ARE MOMENTARILY TRAPPED AND YOU CAN THEN FILL THE HOLE TO KILL THE ENEMY.
+
+YOU CAN ALSO OBTAIN TEMPORARY WEAPON POWERUPS SUCH AS RAYGUNS AND YO-YOS, AS WELL AS EXTEND YOUR DIGGING REACH TO DIG MULTIPLE HOLES AT ONCE. THERE ARE ALSO SEVERAL BOSSES ENCOUNTERED THROUGHOUT THE GAME.
+
+THE JAPANESE RELEASE, DORAEMON: MEIKYU DAISAKUSEN, FEATURES POPULAR CHILDREN'S CHARACTER DORAEMON AND HIS FRIENDS. THE GAME IS A CONVERSION OF THE 1987 NICHIBUTSU COIN-OP KID NO HORE HORE DAISAKUSEN, WHICH ALSO SAW A MODIFIED FAMICOM VERSION CALLED BOOBY KIDS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>9033E83A</hash>
+		<image>./images/Cratermaze (USA).png</image>
+		<thumbnail>./boxart/Cratermaze (USA).png</thumbnail>
+		<marquee>./marquee/Cratermaze (USA).png</marquee>
+		<video>./snap/Cratermaze (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="59785" source="ScreenScraper.fr">
+		<path>./Cyber Core (USA).zip</path>
+		<name>Cyber Core</name>
+		<desc>CYBER-CORE IS A VERTICALLY SCROLLING SHOOTER IN WHICH THE PLAYER FIGHTS INSECTS. THE BASIC IDEA IS TRADITIONAL: SHOOTING EVERYTHING BEFORE THEY CAN SHOOT/TOUCH THE PLAYER: AFTER THREE HITS THE CHITIN ARMOR BREAKS AND A LIFE IS LOST. BESIDES FLYING ENEMIES</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>4CFB6E3E</hash>
+		<image>./images/Cyber Core (USA).png</image>
+		<thumbnail>./boxart/Cyber Core (USA).png</thumbnail>
+		<marquee>./marquee/Cyber Core (USA).png</marquee>
+		<video>./snap/Cyber Core (USA).mp4</video>
+		<developer>Alfa System</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="14487" source="ScreenScraper.fr">
+		<path>./Darkwing Duck (USA).zip</path>
+		<name>Darkwing Duck</name>
+		<desc>DARKWING DUCK WAS A POPULAR ANIMATED TELEVISION SHOW THAT AIRED ON WEEKDAY AFTERNOONS IN THE EARLY 1990'S. DARKWING WAS A CRIME-FIGHTING DUCK THAT KEPT THE CITY SAFE FROM A BUNCH OF NOT-SO-SMART CRIMINALS. THE TURBOGRAFX-16 GAME BASED ON THE CARTOON IS VE</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>4AC97606</hash>
+		<image>./images/Darkwing Duck (USA).png</image>
+		<thumbnail>./boxart/Darkwing Duck (USA).png</thumbnail>
+		<marquee>./marquee/Darkwing Duck (USA).png</marquee>
+		<video>./snap/Darkwing Duck (USA).mp4</video>
+		<developer>Turbo Technologies</developer>
+		<publisher>Radiance Software</publisher>
+	</game>
+	<game id="78625" source="ScreenScraper.fr">
+		<path>./Davis Cup Tennis (USA).zip</path>
+		<name>Davis Cup Tennis</name>
+		<desc>CHALLENGE 32 TOP-SEEDED INTERNATIONAL PROS IN EXPLOSIVE COURT ACTION, OR TAKE ON YOUR FRIENDS WITH TONS OF REAL PLAYING OPTIONS AND A TRUE PLAYER'S VIEW! COMMAND AN ARSENAL OF PINPOINT SERVES AND POWERFUL BASELINE PASSING SHOTS. ATTACK THE NET WITH TOPSPIN OR DROPSHOT VOLLEYS. THEN DESTROY YOUR OPPONENT'S LOB AND MORALE WITH YOUR OVERHEAD SPASH. PLAY SINGLES AND DOUBLES ON GRASS, CLAY, INDOORS OR HARDCOURT IN EXHIBITION AND WORLDWIDE TOURNAMENTS. PRACTICE AGAINST THE BALL MACHINE TO PERFECT YOUR SKILLS FOR THE ULTIMATE QUEST, THE COVETED DAVID CUP!</desc>
+		<rating>0.45</rating>
+		<releasedate>19910101T000000</releasedate>
+		<hash>9EDAB596</hash>
+		<image>./images/Davis Cup Tennis (USA).png</image>
+		<thumbnail>./boxart/Davis Cup Tennis (USA).png</thumbnail>
+		<marquee>./marquee/Davis Cup Tennis (USA).png</marquee>
+		<video>./snap/Davis Cup Tennis (USA).mp4</video>
+		<developer>Loriciels</developer>
+		<publisher>Micro World</publisher>
+	</game>
+	<game id="59792" source="ScreenScraper.fr">
+		<path>./Dead Moon (USA).zip</path>
+		<name>Dead Moon</name>
+		<desc>ABOUT 200 YEARS IN THE FUTURE, A COMET IS DETECTED AT THE EDGE OF THE SOLAR SYSTEM.  ASTRONOMERS DETERMINE THAT IT WILL PASS NEAR THE EARTH, AND SEND PROBES TO EXAMINE IT.  WHEN THE PROBES NEAR THE COMET, IT ABRUPTLY CHANGES DIRECTIONS AND HEADS TOWARDS EARTH.  AT THE LAST MOMENT, THE PEOPLE OF EARTH ARE ABLE TO LAUNCH SURFACE-TO-COMET MISSILES AND DEFLECT ITS IMPACT INTO THE MOON. AT THE CENTER OF THE IMPACT CRATER, ALIEN WAR MACHINES ARE GATHERING! THE U.N. SENDS A LONE SPACESHIP TO THE MOON TO DESTROY THE ALIEN THREAT.
+
+DEAD MOON IS A SIDE SCROLLING SHOOTER WITH 6 LEVELS THAT TAKE PLACE ON EARTH, IN SPACE, AND ON THE MOON.  IT FEATURES 4 DIFFERENT PRIMARY WEAPON TYPES, AND SEVERAL SECONDARY WEAPON TYPES.  EACH LEVEL FEATURES MINI-BOSSES AND END OF LEVEL BOSSES.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>F5D98B0B</hash>
+		<image>./images/Dead Moon (USA).png</image>
+		<thumbnail>./boxart/Dead Moon (USA).png</thumbnail>
+		<marquee>./marquee/Dead Moon (USA).png</marquee>
+		<video>./snap/Dead Moon (USA).mp4</video>
+		<developer>Studio Ducks</developer>
+		<publisher>Natsume, Inc.</publisher>
+	</game>
+	<game id="59793" source="ScreenScraper.fr">
+		<path>./Deep Blue (USA).zip</path>
+		<name>Deep Blue</name>
+		<desc>ALIENS ARE INVADING THE OCEAN AND HAVE MUTATED THE FISH AND OTHER AQUATIC BEINGS! BUT AN A.N.G.E.L. FISH ATTACK SUB IS ON ITS WAY TO BLAST THROUGH FOUR SCENES OF SWIMMING TERROR AND STOP THE ALIENS FROM TAKING OVER THE SEA. FORTUNATELY, THE A.N.G.E.L. IS</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>16B40B44</hash>
+		<image>./images/Deep Blue (USA).png</image>
+		<thumbnail>./boxart/Deep Blue (USA).png</thumbnail>
+		<marquee>./marquee/Deep Blue (USA).png</marquee>
+		<video>./snap/Deep Blue (USA).mp4</video>
+		<developer>Pack-In-Video</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="78626" source="ScreenScraper.fr">
+		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
+		<name>Devil's Crush</name>
+		<desc>IMAGINE AN ADVENTURE GAME IN THE FORMAT OF PINBALL, AND YOU GET DRAGON'S FURY. YOUR HERO IS A SMALL SILVER BALL, AND YOUR BATTLEFIELD IS A THREE-TIERED PINBALL MACHINE. USING YOUR BALL, YOU CAN DEFEAT MONSTERS, RACK UP POINTS, AND ENTER BONUS STAGES. IF YOU PLAY WITH ENOUGH SKILL, YOU CAN TRIGGER ALL SORTS OF POINT-ACCUMULATING BONUSES. IF YOU GET ONE BILLION POINTS, YOU GET TO FIGHT THE FINAL BOSS AND VIEW THE ENDING TO THE GAME.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>157B4492</hash>
+		<image>./images/Devil's Crush - Naxat Pinball (USA).png</image>
+		<thumbnail>./boxart/Devil's Crush - Naxat Pinball (USA).png</thumbnail>
+		<marquee>./marquee/Devil's Crush - Naxat Pinball (USA).png</marquee>
+		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
+		<developer>Compile</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="78630" source="ScreenScraper.fr">
+		<path>./Double Dungeons - W (USA).zip</path>
+		<name>Double Dungeons</name>
+		<desc>DOUBLE DUNGEONS IS A SOLO DUNGEON CRAWLER IN THE STRICTEST SENSE. ONE OR TWO PLAYERS CAN EXPLORE PSEUDO-3D, MAZE-LIKE DUNGEONS (WITHOUT AUTO-MAP FEATURE, BUT WITH DIRECTIONS DISPLAYED ON THE SCREEN) AND FIGHT THE MONSTERS POPULATING THEM. THE PLAYER(S) CAN CHOOSE TO VENTURE INTO ANY OF THE AVAILABLE 20 DUNGEONS. THE DUNGEONS HAVE THE SAME TEXTURES, BUT THEIR LAYOUT VARIES; THE HIGHER IS THE NUMBER OF THE CHOSEN DUNGEON, THE MORE DANGEROUS ARE ITS ENEMIES. TWO-PLAYER MODE FEATURES A SPLIT SCREEN; THE TWO PLAYERS START EXPLORING THE DUNGEON FROM DIFFERENT POINTS.
+
+THE BASIC GAMEPLAY IS VERY SIMPLE. ENEMIES APPEAR AT SPECIFIC POINTS (THEY CAN ALSO RE-SPAWN), AND MUST BE DEFEATED IN ORDER TO PROCEED. THE COMBAT IS TURN-BASED AT ITS CORE, THOUGH THE TURNS FOLLOW VERY QUICKLY, AND THE ENEMIES WILL ATTACK EVEN IF THE PLAYER DOES NOTHING. ATTACKING IS DONE SIMPLY BY PRESSING A BUTTON; THERE ARE NO OTHER COMBAT OPTIONS. 
+
+THE PLAYER CAN FIND EQUIPMENT AND HEALING ITEMS (WHICH CAN ALSO BE DROPPED BY ENEMIES). THESE CAN BE USED TO RESTORE THE PLAYER CHARACTER'S HP OUTSIDE OF BATTLES. LEVELING UP IS COMPLETELY AUTOMATIC.
+
+THERE IS NO NARRATIVE IN THE GAME; THE ONLY STORY-RELATED INFORMATION COMES IN FORM OF VERY SHORT TEXT INTROS TO THE DIFFERENT DUNGEONS, ALONG THE LINES OF "THE KING WANTS TO RETRIEVE A TREASURE AND SENDS A WARRIOR INTO THE DUNGEON" OR COMPARABLE MISSION OBJECTIVES.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>4A1A8C60</hash>
+		<image>./images/Double Dungeons - W (USA).png</image>
+		<thumbnail>./boxart/Double Dungeons - W (USA).png</thumbnail>
+		<marquee>./marquee/Double Dungeons - W (USA).png</marquee>
+		<video>./snap/Double Dungeons - W (USA).mp4</video>
+		<developer>NCS Corporation</developer>
+		<publisher>Masaya</publisher>
+	</game>
+	<game id="78634" source="ScreenScraper.fr">
+		<path>./Dragon Spirit (USA).zip</path>
+		<name>Dragon Spirit</name>
+		<desc>AMUR, THE SPIRIT OF THE DRAGON, LIVES WITHIN YOU. AS THE WINGED CREATURE THAT BREATHES MEGA-TONS OF FIRE, YOUR MISSION IS REVEALED. RESCUE PRINCESS ALICIA FROM ZOWEL, DEMON OF DARKNESS. SO TAKE TO THE SKIES AND DESTROY ENEMY CREATURES WITH BREATH AND FIREBALLS. ADD DRAGON HEADS AND INCREDIBLE POWER-UPS. CONFRONT ZOWEL IN A SUPER BATTLE OF BEASTS. (CAREFUL NOT TO BREATHE ON ALICIA).</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>086F148C</hash>
+		<image>./images/Dragon Spirit (USA).png</image>
+		<thumbnail>./boxart/Dragon Spirit (USA).png</thumbnail>
+		<marquee>./marquee/Dragon Spirit (USA).png</marquee>
+		<video>./snap/Dragon Spirit (USA).mp4</video>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="14468" source="ScreenScraper.fr">
+		<path>./Dragon's Curse (USA).zip</path>
+		<name>Dragon's Curse</name>
+		<desc>POOR HU-MAN! HE JUST ISN'T HIS OLD SELF. TRYING TO ESCAPE FROM THE EVIL DRAGON MECHA, HE'S TRANSFORMED INTO THE HORRIFIC LIZARD MAN! GET READY TO KICK SOME SERIOUS DRAGON TAIL, BECAUSE 5 MORE ARE WAITING TO STOP YOU. EACH IS MORE VICIOUS THAN THE LAST. AND EACH TURNS HU-MAN INTO A DIFFERENT KIND OF TOTAL GROSS OUT! SLASH 'EM, BURN 'EM, AND BLOW 'EM AWAY! THEN CAPTURE THE SALAMANDER CROSS TO BREAK THE DRAGON'S CURSE.</desc>
+		<rating>0.9</rating>
+		<releasedate>19901231T000000</releasedate>
+		<players>1</players>
+		<hash>7D2C4B09</hash>
+		<image>./images/Dragon's Curse (USA).png</image>
+		<thumbnail>./boxart/Dragon's Curse (USA).png</thumbnail>
+		<marquee>./marquee/Dragon's Curse (USA).png</marquee>
+		<video>./snap/Dragon's Curse (USA).mp4</video>
+		<developer>Westone</developer>
+		<publisher>NEC</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="78635" source="ScreenScraper.fr">
+		<path>./Drop.Off (USA).zip</path>
+		<name>Drop.Off</name>
+		<desc>DROP OFF IS SIMILAR TO BREAKOUT, IN THAT THE PLAYER CONTROLS A PADDLE WHICH CAN MOVE LEFT AND RIGHT, HITTING A BALL WHICH THE PLAYER IS USING TO ELIMINATE JEWELS AT THE UPPER END OF THE PLAY FIELD. THE GAME DIFFERS FROM BRE</desc>
+		<rating>0.55</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>FEA27B32</hash>
+		<image>./images/Drop.Off (USA).png</image>
+		<thumbnail>./boxart/Drop.Off (USA).png</thumbnail>
+		<marquee>./marquee/Drop.Off (USA).png</marquee>
+		<video>./snap/Drop.Off (USA).mp4</video>
+		<developer>Data East</developer>
+		<publisher>NEC Corporation</publisher>
+	</game>
+	<game id="59794" source="ScreenScraper.fr">
+		<path>./Dungeon Explorer (USA).zip</path>
+		<name>Dungeon Explorer</name>
+		<desc>THE FORMER KING OF ODDESIA HAS ENTRUSTED YOU WITH AN IMPORTANT, DANGEROUS TASK. YOU MUST FIND THE SACRED ORA STONE, WHICH POSSESSES THE POWERS OF LIFE, LIGHT AND HAPPINESS, AND RETRIEVE IT BEFORE THE KING OF THE ALIEN RACE, NATAS, DOES. HE HAS CONQUERED THIS LAND AND PLUNGED IT INTO AN AGE OF TERROR AND DESPAIR, PLAGUED WITH VIOLENCE. IT IS UP TO YOU TO STAND AGAINST HIM AND RETURN YOUR WORLD TO ITS FORMER GLORY.
+
+DUNGEON EXPLORER PLAYS LIKE GAUNTLET: YOU CHOOSE ONE OF SEVERAL DIFFERENT CHARACTERS TO PLAY AS (FIGHTER, THIEF, WARLOCK,  WITCH, BARD, BISHOP, ELF AND KNOME) AND SET OUT ON YOUR ADVENTURE ALONE OR WITH UP TO FOUR OTHER PLAYERS. BATTLES ARE REAL-TIME AND OF THE SHOOTER VARIETY, IE, RATHER THAN SWING A SWORD, YOU FIRE KNIVES (OR SPELLS DEPENDING ON YOUR CLASS). ENEMIES RESPAWN OUT OF HOLES IN THE GROUND WHICH MUST BE ERADICATED TO KEEP THEM FROM POURING FORTH IN WAVES. THERE ARE A NUMBER OF ITEMS TO BE FOUND AND USED THROUGHOUT THE GAME INCLUDING POTIONS OF WHITE AND BLACK MAGIC, HEALING DRINKS AND THE LIKE, BUT UNLIKE GAUNTLET THERE IS NO FOOD TO WORRY ABOUT.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-5</players>
+		<hash>4FF01515</hash>
+		<image>./images/Dungeon Explorer (USA).png</image>
+		<thumbnail>./boxart/Dungeon Explorer (USA).png</thumbnail>
+		<marquee>./marquee/Dungeon Explorer (USA).png</marquee>
+		<video>./snap/Dungeon Explorer (USA).mp4</video>
+		<developer>Atlus</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="78643" source="ScreenScraper.fr">
+		<path>./Falcon (USA).zip</path>
+		<name>Falcon</name>
+		<desc>WHEN YOU CLIMB INTO THE COCKPIT OF THE F-16 FIGHTING FALCON, GET SET FOR THE "FIGHT OF YOUR LIFE" AS THE POWERFUL FALCON F-16 TAKES YOU STREAKING ACROSS THE SKY AT MACH 2. ACCURATE WEAPONS SYSTEM, HEAD-UP-DISPLAYS, COCKPIT CONTROLS AND OVERALL FLIGHT CHARACTERISTICS MAKE THIS THE ULTIMATE IN SIMULATIONS. THE ENEMY MIGS YOU ENCOUNTER ARE VERY RESOURCEFUL AND SKILLED. AND IF THAT ISN'T ENOUGH, CHALLENGE ANOTHER PILOT IN THE HEAD-TO-HEAD OPTION VIA DIRECT COMPUTER LINK. STATE OF THE ART 3D GRAPHIC IMAGES OF BUILDINGS, FORESTS, FREEWAYS, AND BRIDGES FLASH BY AS YOU FLY AT THE SPEED OF SOUND ONLY 150 FEET ABOVE THE DECK. TAKE OUT BRIDGES, POWER STATIONS, TANKS, AIRFIELDS AND SAM SITES. WHETHER YOU ARE A NOVICE PILOT OR A REAL "TOP GUN", FALCON IS FOR YOU!</desc>
+		<rating>0.45</rating>
+		<releasedate>19920101T000000</releasedate>
+		<hash>0BC0A12B</hash>
+		<image>./images/Falcon (USA).png</image>
+		<thumbnail>./boxart/Falcon (USA).png</thumbnail>
+		<marquee>./marquee/Falcon (USA).png</marquee>
+		<video>./snap/Falcon (USA).mp4</video>
+		<developer>Spectrum Holobyte</developer>
+		<publisher>Spectrum Holobyte</publisher>
+	</game>
+	<game id="59796" source="ScreenScraper.fr">
+		<path>./Fantasy Zone (USA).zip</path>
+		<name>Fantasy Zone</name>
+		<desc>THE FANTASY ZONE IS A SOLAR SYSTEM CONSISTING OF EIGHT BRIGHTLY COLORED, FANTASTIC PLANETS. THE EVIL MENONS ARE TRYING TO TAKE OVER ALL OF THE PLANETS IN THE FANTASY ZONE BY USING MISAPPROPRIATED FOREIGN CURRENCY TO BUILD THEIR FORCES. IT IS THE PLAYER'S JOB TO RECOVER ALL OF THE COINS AND SAVE THE SOLAR SYSTEM! 
+
+FANTASY ZONE IS AN ARCADE STYLE SHOOTER FOR ONE OR TWO PLAYERS. THE GOAL IS TO DESTROY ALL OF THE CREATURES ON EACH PLANET AND COLLECT AS MANY OF THE LOST COINS AS POSSIBLE. AT THE END OF EACH LEVEL IS A LARGE ENEMY THAT WILL HAVE TO BE DEFEATED BEFORE MOVING ON TO THE NEXT WORLD.  AT VARIOUS POINTS IN THE GAME, THE PLAYER WILL BE ABLE TO FIND A PARTS SHOP, WHICH ALLOWS PURCHASING IMPROVEMENTS FOR HIS SPACESHIP, INCLUDING BETTER WEAPONS AND FASTER ENGINES.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-2</players>
+		<hash>E8C3573D</hash>
+		<image>./images/Fantasy Zone (USA).png</image>
+		<thumbnail>./boxart/Fantasy Zone (USA).png</thumbnail>
+		<marquee>./marquee/Fantasy Zone (USA).png</marquee>
+		<video>./snap/Fantasy Zone (USA).mp4</video>
+		<developer>Bits Laboratory</developer>
+		<publisher>Nec Interchannel</publisher>
+	</game>
+	<game id="14593" source="ScreenScraper.fr">
+		<path>./Final Lap Twin (USA).zip</path>
+		<name>Final Lap Twin</name>
+		<desc>FINAL LAP TWIN IS AN OPEN-WHEEL F1-STYLE RACING GAME LOOSELY BASED ON NAMCO'S FINAL LAP ARCADE GAME.  THE GAME DISPLAY IS ALWAYS IN SPLIT SCREEN MODE, EVEN IF ONLY ONE PLAYER IS PLAYING.  THE OTHER DISPLAY SHOWS YOUR NEAREST RIVAL IF YOU ARE RACING AGAINST THE COMPUTER.
+
+THERE ARE TWO BASIC MODES: GRAND PRIX AND QUEST.  GRAND PRIX CONSISTS OF A MULTI-RACE POINTS CHAMPIONSHIP.  THERE ARE TWO CAR TYPES FOR THIS MODE: F-3000 AND F1.  GRAND PRIX MODE CAN BE PLAYED WITH ONE OR TWO PLAYERS.
+
+QUEST MODE HAS MORE DEPTH AND FORMS THE CORE OF FINAL LAP TWIN.  THIS IS ESSENTIALLY A RACING RPG.  YOU TAKE THE ROLE OF A BOY WHO DESIRES TO BECOME THE WORLD CHAMPION.  TO DO SO, YOU MUST TRAVEL FROM TOWN TO TOWN FINDING CHALLENGES AND WINNING THEM TO GAIN MONEY AND SPECIAL ITEMS TO IMPROVE YOUR CAR.  AS YOU MOVE AROUND THE GAME WORLD, WHICH IS PRESENTED IN AN OVERHEAD VIEW, YOU WILL ENCOUNTER RANDOM CHALLENGES, MUCH LIKE RANDOM BATTLES IN A TRADITIONAL RPG.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-2</players>
+		<hash>26408EA3</hash>
+		<image>./images/Final Lap Twin (USA).png</image>
+		<thumbnail>./boxart/Final Lap Twin (USA).png</thumbnail>
+		<marquee>./marquee/Final Lap Twin (USA).png</marquee>
+		<video>./snap/Final Lap Twin (USA).mp4</video>
+		<developer>Nec Interchannel</developer>
+		<publisher>Namco</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="14510" source="ScreenScraper.fr">
+		<path>./Galaga '90 (USA).zip</path>
+		<name>Galaga '90</name>
+		<desc>GALAGA '88 TAKES THE BASIC GAMEPLAY OF GALAGA AND ADDS HIGHER-QUALITY GRAPHICS, TRIPLE SHIP ABILITIES, PARSEC PROGRESSION, POWER-UPS, ASTEROIDS, BOSSES AND OTHER ENHANCEMENTS. PERIODICALLY THE PLAYER ENCOUNTERS CHALLENGING STAGES, WHICH ARE SET TO MUSIC AND FEATURE "DANCING" ENEMIES.  THE OBJECTIVE IS TO SHOOT ALL 40 ENEMIES BEFORE THEY DISAPPEAR, FOR A BONUS OF AT LEAST 10,000 POINTS. THERE ARE A TOTAL OF 29 STAGES. THE PLAYER CAN BEGIN WITH ONE SHIP WITH TWO IN RESERVE OR START RIGHT OUT WITH A DUAL SHIP (BUT ONLY ONE IN RESERVE).  
+
+SOME ENEMIES NOW HAVE THE ABILITY TO COMBINE INTO A MUCH LARGER SINGLE ENEMY THAT TAKES MULTIPLE SHOTS TO DESTROY. OTHERS EXPLODE IN A BRILLIANT SHOWER OF FIREWORKS WHEN DESTROYED, AND OCCASIONALLY THESE ENEMIES DROP A SMALL FORMATION OF MUCH SMALLER ENEMIES THAT "WIGGLE" THEIR WAY DOWN THE SCREEN.  SOME ENEMIES ARRIVE IN SPHERICAL "EGGS" AND EMIT A LOUD, HIGH-PITCHED NOISE WHEN HIT. THESE CREATURES TAKE MULTIPLE HITS TO DESTROY IN FLIGHT (JUST ONE HIT IN FORMATION), AND THEIR MAIN ATTACK PATTERN IS TO MOVE ABOUT HALFWAY DOWN THE SCREEN, STOP, FIRE MULTIPLE SHOTS AT ONCE, AND THEN FLY STRAIGHT DOWN OFF THE BOTTOM OF THE SCREEN.  ANOTHER TYPE OF ENEMY TAKES AT LEAST FIVE HITS TO DESTROY, AND IT GROWS LARGER WITH EACH CONSECUTIVE HIT, MAKING IT BOTH A LARGER TARGET AND ALLOWING IT TO ACT AS A SHIELD TO OTHER ENEMIES. 
+
+LATER IN THE GAME SOME ENEMIES ARE EQUIPPED WITH ARMOR THAT RENDERS THEM INVINCIBLE WHILE IN FORMATION. WHEN ONE OF THESE ENEMIES STARTS ITS DIVE, IT WILL FLIP OVER AND EXPOSE ITS VULNERABLE SIDE, THEN FLIP OVER AGAIN AND BECOME INVINCIBLE WHILE IT MOVES BACK UP THE SCREEN, THEN FLIP ONE MORE TIME AND FINISH ITS DIVE. WHILE VULNERABLE, THIS ENEMY CAN BE DESTROYED IN ONE HIT, SCORING BONUS POINTS. IN ADDITION, MANY DIFFERENT KINDS OF OBSTACLES APPEAR THROUGHOUT THE GAME, INCLUDING BLUE CRYSTALS, BOULDERS AND GREEN BLOBS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>2909DEC6</hash>
+		<image>./images/Galaga '90 (USA).png</image>
+		<thumbnail>./boxart/Galaga '90 (USA).png</thumbnail>
+		<marquee>./marquee/Galaga '90 (USA).png</marquee>
+		<video>./snap/Galaga '90 (USA).mp4</video>
+		<developer>Namco</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="59798" source="ScreenScraper.fr">
+		<path>./Ghost Manor (USA).zip</path>
+		<name>Ghost Manor</name>
+		<desc>WITH AN EARTH-SHATTERING EXPLOSION, HORROR FROM ANOTHER DIMENSION GRIPS YOUR ONCE PEACEFUL TOWN. GRISLY CREATURES PREY ON THE INNOCENT. THE DEAD RISE TO ROAM THE STREETS. ALL RESISTANCE FALLS! BUT HEY, NO PROBLEM, YOU HAVE A PLAN! FIND THE SECRET PASSAGE TO THEIR MANSION STRONGHOLD AND BATTLE PAST THE ZOMBIES AND GHOULS. NOW GET YOUR AXE INSIDE, 'CAUSE IT'S WAY FULL OF DEMONS AND GHASTLY SURPRISES! RIDE THE AWESOME SKULL SLAMMER AND SEARCH FOR THEIR LEADER, THE HIDEOUS ORB GAMUT. DISCOVER HIS WEAKNESS AND BE A HERO. IF YOU DON'T, YOU'LL BE DUST.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<hash>2DB4C1FD</hash>
+		<image>./images/Ghost Manor (USA).png</image>
+		<thumbnail>./boxart/Ghost Manor (USA).png</thumbnail>
+		<marquee>./marquee/Ghost Manor (USA).png</marquee>
+		<video>./snap/Ghost Manor (USA).mp4</video>
+		<developer>ICOM Simulations</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+	</game>
+	<game id="14590" source="ScreenScraper.fr">
+		<path>./Gunboat (USA).zip</path>
+		<name>Gunboat</name>
+		<desc>GUNBOAT IS A 2D ACTION SIMULATION. YOU TAKE CONTROL OF A U.S. GUNBOAT IN SEVERAL CONFLICT ZONES.
+
+YOUR GUNBOAT CARRIES A CREW OF FOUR MEN:
+
+- A FIRST-CLASS PETTY OFFICER WHO SERVES AS BOAT CAPTAIN AND PILOT
+- A GUNNERS MATE, WHO CONTROLS THE FORWARD GUNS
+- AN ENGINE MAN, WHO TAKES CARE OF THE ENGINES AND SERVES AS MIDSHIP GUNNER
+- A SEAMAN WHO CONTROLS THE AFT GUNS
+
+ALL FOUR MEN ARE CROSS-TRAINED IN EACH OTHERS TASKS  REDUNDANCY BECOMES CRUCIAL IF ONE OR TWO CREW MEMBERS ARE WOUNDED OR DEAD.
+
+BE CAREFUL ON THE RIVERS ...!
+
+ANCHORS AWEIGH!</desc>
+		<rating>0.1</rating>
+		<releasedate>19920101T000000</releasedate>
+		<hash>F370B58E</hash>
+		<image>./images/Gunboat (USA).png</image>
+		<thumbnail>./boxart/Gunboat (USA).png</thumbnail>
+		<marquee>./marquee/Gunboat (USA).png</marquee>
+		<video>./snap/Gunboat (USA).mp4</video>
+		<developer>Accolade</developer>
+		<publisher>Accolade</publisher>
+	</game>
+	<game id="78668" source="ScreenScraper.fr">
+		<path>./Hit the Ice - VHL the Official Video Hockey League (USA).zip</path>
+		<name>Hit the Ice - VHL the Official Video Hockey League</name>
+		<desc>THIS RADICAL HOCKEY GAME PITS YOU AND YOUR TEAM AGAINST SOME OF THE TOUGHEST SKATERS EVER TO BURN A HOLE IN THE ICE! VICTORY GOES TO THE TEAM THAT KICKS, PUNCHES, AND HIGH-STICKS ITS OPPONENT INTO SLUSH. STANDARD HOCKEY RULES APPLY, PLUS A FEW SURPRISES TO STIR THINGS UP. SO LACE ON YOUR SKATES AND FASTEN YOUR FACE MASK - HOCKEY IS ABOUT TO BREAK LOOSE!</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1-2</players>
+		<hash>8B29C3AA</hash>
+		<image>./images/Hit the Ice - VHL the Official Video Hockey League (USA).png</image>
+		<thumbnail>./boxart/Hit the Ice - VHL the Official Video Hockey League (USA).png</thumbnail>
+		<marquee>./marquee/Hit the Ice - VHL the Official Video Hockey League (USA).png</marquee>
+		<video>./snap/Hit the Ice - VHL the Official Video Hockey League (USA).mp4</video>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+	</game>
+	<game id="14604" source="ScreenScraper.fr">
+		<path>./Impossamole (USA).zip</path>
+		<name>Impossamole</name>
+		<desc>MONTY MOLE HAS BEEN LIVING IN LUXURY SINCE HIS PREVIOUS ADVENTURES, BUT HE HAS NOW BEEN BEAMED UP BY AN ALIEN RACE WHO WANT HIM TO DO A JOB FOR THEM. MONTY MUST TREK THROUGH FIVE WORLDS TO RETRIEVE THE SACRED SCROLLS OF THE RACE'S GUARDIANS. 
+
+AS WITH CORE'S PREVIOUS HIT RICK DANGEROUS 2 THERE IS VERSATILITY IN THE EXACT STRUCTURE OF THE GAME. THE FIRST FOUR CONSIST OF THE ORIENT, A KLONDIKE MINE, AN ICE WORLD AND AN AMAZON FOREST - ONCE THESE ARE COMPLETED THE FINAL WORLD IS OPEN TO YOU.
+
+THE PLATFORM-BASED GAMEPLAY IS SIMILAR TO MONTY'S EARLIER GAMES, WITH PRIMARILY HORIZONTAL PROGRESSES AS WELL AS ROPES AND LADDERS TO NAVIGATE. MONTY HAS DEVELOPED A USEFUL FLYING KICK, AND HAS BEEN GIVEN A SMART BOMB, WITH THE POTENTIAL TO COLLECT EXTRA BOMBS AND GUNS. HAZARDS, ENEMIES AND LEVEL DESIGNS ARE THEMED AROUND EACH LEVEL, AND RANGE FROM CABLE CARS AND FALLING SNOWBALLS TO NINJAS AND MONKEYS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>E2470F5F</hash>
+		<image>./images/Impossamole (USA).png</image>
+		<thumbnail>./boxart/Impossamole (USA).png</thumbnail>
+		<marquee>./marquee/Impossamole (USA).png</marquee>
+		<video>./snap/Impossamole (USA).mp4</video>
+		<developer>Nec Interchannel</developer>
+		<publisher>Core Design</publisher>
+	</game>
+	<game id="78672" source="ScreenScraper.fr">
+		<path>./J.J. &amp; Jeff (USA).zip</path>
+		<name>J.J. &amp; Jeff</name>
+		<desc>KATO &amp; KEN DETECTIVE AGENCY ARE ASSIGNED THE TASK OF LOCATING A MISSING RICH MAN, AND YOU CAN CHOOSE EITHER KATO OR KEN TO GO ON THE MISSION. YOUR PARTNER DOESN'T LIKE THIS ONE BIT, SO HE DECIDES TO MAKE A NUISANCE OF HIMSELF ALONG THE WAY. SIMILAR TO ADVENTURE ISLAND, YOU MUST MAKE YOUR WAY THROUGH SEVERAL LEVELS, DESTROYING WILDLIFE ALONG THE WAY, BUT INSTEAD OF USING A HAMMER, YOU HAVE THREE DIFFERENT WAYS TO KILL THEM: JUMP ON OR KICK THEM, OR WHEN THEY ARE WALKING ON THE GROUND, BLOW GAS OUT OF THEM. 
+
+WHILE SCROLLING THROUGH THE LEVEL, YOUR VITALITY WILL DECREASE, BUT IT CAN BE RESTORED BY COLLECTING FRUIT AND JUNK FOOD. DURING YOUR TRAVELS, YOU WILL ALSO ENCOUNTER YOUR PARTNER DOING THINGS THAT SHOULDN'T BE DONE IN PUBLIC, BUT SOMETIMES, HE WILL THROW STUFF AT YOU TO MAKE YOU LOSE SOME OF YOUR VITALITY. THE ONLY WAY THAT YOU CAN DEAL WITH HIM IS BY KICKING HIM WHERE IT HURTS.
+
+ALONG THE WAY, YOU CAN ENTER DOORS. DOING THIS WILL GIVE YOU A HINT ABOUT THE LEVEL AND YOUR VITALITY WILL BE INCREASED AS WELL. YOU CAN KICK CERTAIN OBJECTS SUCH AS LAMP POSTS, TRASHCANS, OR THIN AIR TO OBTAIN COINS, OR TO MAKE HIDDEN PLATFORMS APPEAR. COINS CAN BE USED IN SLOT MACHINES THAT WILL GIVE YOU EXTRA VITALITY, MORE LIVES, EXTRA COINS, AND MORE. SLOT MACHINES ONLY APPEAR WHEN YOU ENTER CERTAIN DOORS.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>E01C5127</hash>
+		<image>./images/J.J. &amp; Jeff (USA).png</image>
+		<thumbnail>./boxart/J.J. &amp; Jeff (USA).png</thumbnail>
+		<marquee>./marquee/J.J. &amp; Jeff (USA).png</marquee>
+		<video>./snap/J.J. &amp; Jeff (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Nec Interchannel</publisher>
+	</game>
+	<game id="78673" source="ScreenScraper.fr">
+		<path>./Jack Nicklaus' Turbo Golf (USA).zip</path>
+		<name>Jack Nicklaus' Turbo Golf</name>
+		<desc>JACK NICKLAUS' GREATEST 18 HOLES OF MAJOR CHAMPIONSHIP GOLF IS A 3D GOLF SIMULATION FEATURING AN 18 HOLE COURSE CREATED BY JACK NICKLAUS HIMSELF. EACH OF THE 18 HOLES ARE FROM FAMOUS COURSES AROUND THE WORLD AND INCLUDE NUMBER 8 AT PEBBLE BEACH, NUMBER 18 FROM MUIRFIELD, NUMBER 12 FROM ST. ANDREWS, NUMBER 12 FROM AUGUSTA, NUMBER 10 AT RIVIERA, AND MORE. GAMEPLAY IS FOR ONE TO FOUR PLAYERS AND CAN BE EITHER STROKE PLAY OR A SKINS GAME.</desc>
+		<rating>0.55</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-4</players>
+		<hash>83384572</hash>
+		<image>./images/Jack Nicklaus' Turbo Golf (USA).png</image>
+		<thumbnail>./boxart/Jack Nicklaus' Turbo Golf (USA).png</thumbnail>
+		<marquee>./marquee/Jack Nicklaus' Turbo Golf (USA).png</marquee>
+		<video>./snap/Jack Nicklaus' Turbo Golf (USA).mp4</video>
+	</game>
+	<game id="78675" source="ScreenScraper.fr">
+		<path>./Jackie Chan's Action Kung Fu (USA).zip</path>
+		<name>Jackie Chan's Action Kung Fu</name>
+		<desc>JACKIE CHAN AND HIS TWIN SISTER JOSEPHINE WERE GREAT KUNG FU FIGHTERS IN CHINA AND TRAINED UNDER A GREAT MASTER. ONE DAY WHEN JACKIE AND JOSEPHINE WERE OUT WALKING, THE MASTER'S GREAT ENEMY, THE SORCERER, APPEARED. THE SORCERER HAD COME TO RULE OVER CHINA AND KNEW THE TWINS WOULD STAND IN HIS WAY, SO HE CAST A SPELL TO MAKE JOSEPHINE DISAPPEAR. NOW IT'S UP TO JACKIE CHAN TO FOLLOW AFTER THE SORCERER AND BATTLE HIS MINIONS IN ORDER TO RESCUE HIS SISTER AND SAVE CHINA.
+
+JACKIE CHAN'S ACTION KUNG FU IS A SIDE-SCROLLING FIGHTING GAME. JACKIE'S CONTROLS ARE ONE BUTTON TO JUMP AND ANOTHER ONE TO ATTACK OR BE USED IN COMBINATION WITH A DIRECTION FOR A SPECIAL ATTACK. ON HIS QUEST, JACKIE MUST PUNCH AND KICK HIS WAY PAST FROGS, NINJAS, BIRDS AND OTHER ENEMIES. JACKIE CAN ACQUIRE SPECIAL-MOVES SUCH AS THE TORNADO ATTACK, THE 180 DEGREE SPIN KICK, THE 360 DEGREE SPIN KICK AND THE SKY ATTACK. OTHER POWER-UPS INCLUDE ENERGY REFILLS AND BONUS POINTS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>9D2F6193</hash>
+		<image>./images/Jackie Chan's Action Kung Fu (USA).png</image>
+		<thumbnail>./boxart/Jackie Chan's Action Kung Fu (USA).png</thumbnail>
+		<marquee>./marquee/Jackie Chan's Action Kung Fu (USA).png</marquee>
+		<video>./snap/Jackie Chan's Action Kung Fu (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="78683" source="ScreenScraper.fr">
+		<path>./Keith Courage in Alpha Zones (USA).zip</path>
+		<name>Keith Courage in Alpha Zones</name>
+		<desc>AS A MEMBER OF N.I.C.E. (NATIONS FOR INTERNATIONAL CITIZENS OF EARTH), KEITH COURAGE TAKES UP THE FIGHT AGAINST THE ALIENS OF B.A.D. (BAD ALIEN DUDES) THROUGH SEVEN LEVELS IN THIS SIDE-SCROLLING ACTION PLATFORMER.
+
+AS KEITH COURAGE MAKES HIS WAY THROUGH THE VARIOUS ZONES, HE ATTACKS VARIOUS FORMS OF ENEMIES IN ORDER TO GAIN COINS.  THE COINS CAN BE USED IN THE SHOPS FOR VARIOUS POWER-UPS, EQUIPMENT, AND OTHER HELPFUL ITEMS.
+
+WHEN HE MAKES IT TO A CERTAIN POINT IN EACH LEVEL, KEITH COURAGE IS GIVEN ACCESS TO THE NOVA SUIT, AN ARMORED SUIT WITH A POWERFUL SWORD THAT IS USED TO DISPATCH THE END BOSSES OF EACH LEVEL IN THE UNDERWORLD.  ONCE KEITH COURAGE DEFEATS THE BOSS, THE RETURNS TO THE OVERWORLD SANS ARMOR TO COMPLETE THE NEXT SET OF CHALLENGES.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>474D7A72</hash>
+		<image>./images/Keith Courage in Alpha Zones (USA).png</image>
+		<thumbnail>./boxart/Keith Courage in Alpha Zones (USA).png</thumbnail>
+		<marquee>./marquee/Keith Courage in Alpha Zones (USA).png</marquee>
+		<video>./snap/Keith Courage in Alpha Zones (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+	</game>
+	<game id="59805" source="ScreenScraper.fr">
+		<path>./King of Casino (USA).zip</path>
+		<name>King of Casino</name>
+		<desc>KING OF CASINO IS A CASINO SIMULATION AND OFFERS FIVE DIFFERENT GAMES TO WIN/LOSE SOME ELECTRONIC MONEY WITH: POKER, SLOT MACHINE, BLACKJACK, ROULETTE AND KENO. AFTER SELECTING ONE OF THE THREE PLAYING MODES (NORMAL, FAST OR PARTY), THERE ARE 15 CASINOS W</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-5</players>
+		<hash>2F2E2240</hash>
+		<image>./images/King of Casino (USA).png</image>
+		<thumbnail>./boxart/King of Casino (USA).png</thumbnail>
+		<marquee>./marquee/King of Casino (USA).png</marquee>
+		<video>./snap/King of Casino (USA).mp4</video>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59807" source="ScreenScraper.fr">
+		<path>./Klax (USA).zip</path>
+		<name>Klax</name>
+		<desc>AN ACTION/PUZZLE GAME, THE OBJECT IS TO CATCH ASSORTED COLOR FALLING TILES AND CREATE ROWS, COLUMNS, OR DIAGONALS OF A SINGLE COLOR. EACH LEVEL REQUIRES A DIFFERENT PATTERN TO BE MADE, AND THE TILES FALL FASTER, MORE AT A TIME, AND IN AN INCREASING NUMBER OF COLORS AS THE GAME PROGRESSES.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>0F1B59B4</hash>
+		<image>./images/Klax (USA).png</image>
+		<thumbnail>./boxart/Klax (USA).png</thumbnail>
+		<marquee>./marquee/Klax (USA).png</marquee>
+		<video>./snap/Klax (USA).mp4</video>
+		<developer>Atari</developer>
+		<publisher>Tengen</publisher>
+	</game>
+	<game id="14583" source="ScreenScraper.fr">
+		<path>./Legend of Hero Tonma (USA).zip</path>
+		<name>Legend of Hero Tonma</name>
+		<desc>A LITTLE CAPED HERO CALLED TOMMY MUST FIGHT HIS WAY TO THE BOSS' CASTLE THROUGH A CUTE WORLD TO RESCUE A PRINCESS, BUT STOPPING HIM FROM HIS RESCUE MISSION WILL BE SEVERAL ENEMIES, WHICH HE HAS TO DEAL WITH BY LAUNCHING LITTLE FIREBALLS AT THEM. TOMMY MAY ALSO JUMP ON THEIR HEADS TO STUN THEM FOR A MOMENT.
+
+GETTING POWER-UPS WILL MAKE THE FIREBALL SOON INCREASE TO A BOUNCING FIREBALL, WHICH WILL DEAL MORE DAMAGE TO ENEMIES. TREASURE CHESTS CAN BE BUSTED OPEN, ALLOWING TOMMY TO COLLECT COINS. TOMMY'S JOURNEY WILL HAVE HIM EXPLORE RUINS, CLIFFS, STATUES, DUNGEONS, AND FINALLY THE CASTLE. AT THE END OF EACH LEVEL, THERE IS A BOSS THAT MUST BE DEFEATED IN ORDER TO PROCEED TO THE NEXT STAGE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<players>1-2</players>
+		<hash>3C131486</hash>
+		<image>./images/Legend of Hero Tonma (USA).png</image>
+		<thumbnail>./boxart/Legend of Hero Tonma (USA).png</thumbnail>
+		<marquee>./marquee/Legend of Hero Tonma (USA).png</marquee>
+		<video>./snap/Legend of Hero Tonma (USA).mp4</video>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+	</game>
+	<game id="59810" source="ScreenScraper.fr">
+		<path>./Magical Chase (USA).zip</path>
+		<name>Magical Chase</name>
+		<desc>RIPPLE IS A STUDENT OF MAGIC, AND HER TEACHER IS A TERRIFYING WITCH. RIPPLE'S PARTICULARY AFRAID OF HER TEACHER RIGHT NOW, BECAUSE SHE'S JUST BROKEN A PROMISE SHE MADE TO THE WITCH: RIPPLE TOOK A PEEK INSIDE THE FORBIDDEN BOOK SLEEPING DEMONS! NO SOONER HAD SHE OPENED THE COVER THAN OUT JUMPED SIX DEMONS, WHICH RACED AWAY! UNLESS SHE CAN CATCH ALL SIX DEMONS AND GET THEM BACK INSIDE THE BOOK, THE WITCH WILL TURN RIPPLE INTO A FROG FOR BREAKING HER PROMISE! RIPPLE SETS OFF ON HER QUEST WITH HER TWO ELF-STAR FRIENDS, TOPSY AND TURVY. GOOD LUCK, RIPPLE!!</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<players>1</players>
+		<hash>95CD2979</hash>
+		<image>./images/Magical Chase (USA).png</image>
+		<thumbnail>./boxart/Magical Chase (USA).png</thumbnail>
+		<marquee>./marquee/Magical Chase (USA).png</marquee>
+		<video>./snap/Magical Chase (USA).mp4</video>
+		<developer>Quest</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="14554" source="ScreenScraper.fr">
+		<path>./Military Madness (USA).zip</path>
+		<name>Military Madness</name>
+		<desc>MILITARY MADNESS IS A FUTURISTIC TURN-BASED STRATEGY WAR GAME.  THE YEAR IS 2089 AND THE SETTING IS EARTH?S MOON, WHICH YIELDS MANY IMPORTANT RESOURCES.  WHILE THE GOVERNMENTS OF EARTH BICKER OVER THEIR STAKED CLAIMS ON THE MOON, THE EVIL AXIS EMPIRE LAUNCHES A LUNAR MILITARY CAMPAIGN AND TAKES OVER THE MOON, USING ITS FACTORIES TO PRODUCE ADVANCED WEAPONRY, THE MOST DEVASTATING OF WHICH IS THE SAM (SUPREME ATOMIC MISSILE).  AS COMMANDER OF THE ALLIED FORCES, IT IS THE PLAYER?S RESPONSIBILITY TO LEAD WHAT?S LEFT OF THE ALLIED ARMIES IN A DESPERATE OFFENSIVE AGAINST THE AXIS EMPIRE ON THE LUNAR SURFACE BEFORE THEY CAN USE THE SAM TO DESTROY EARTH.
+
+THERE ARE 32 MAPS (2 DIFFERENT CAMPAIGNS WITH 16 MAPS EACH) TO PLAY THROUGH.  IN EACH MAP, THE PLAYER MUST STRATEGICALLY DEFEAT THE OUTNUMBERING AXIS FORCES EITHER BY DESTROYING ALL ENEMY UNITS OR CAPTURING THE ENEMY BASE CAMP.  THERE ARE MANY DIFFERENT UNITS THAT BOTH SIDES UTILIZE - INFANTRY, TANKS, AIRCRAFT, ARTILLERY, AND A FEW OTHERS THAT HAVE SPECIALIZED FUNCTIONS.  GAMEPLAY CONSISTS OF MOVING UNITS INTO POSITIONS THAT WILL GAIN THE BEST ADVANTAGE TO ATTACK THE ENEMY, CAPITALIZING ON MANY FACTORS, WHICH INCLUDE BATTLE EXPERIENCE, TERRAIN, SUPPORT TACTICS, AND - SOMETIMES - PURE LUCK.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-2</players>
+		<hash>93F316F7</hash>
+		<image>./images/Military Madness (USA).png</image>
+		<thumbnail>./boxart/Military Madness (USA).png</thumbnail>
+		<marquee>./marquee/Military Madness (USA).png</marquee>
+		<video>./snap/Military Madness (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="14529" source="ScreenScraper.fr">
+		<path>./Moto Roader (USA).zip</path>
+		<name>Moto Roader</name>
+		<desc>THE ACTION IN THIS RACING GAME IS VIEWED FROM ABOVE AND FEATURES ROTATIONAL CONTROLS. THERE ARE 6 RACETRACKS FEATURED INCLUDING REAL-WORLD ONES SUCH AS LAGUNA SECA. BEFORE EACH RACE YOU CAN BUY A FULL COMPLIMENT OF UPGRADES AND WEAPONS, WITH EACH AREA (ENGINE, HANDLING, TURBO AND SO ON) HAVING SEVERAL VARIABLY-PRICED OPTIONS. THE UNUSUAL THING ABOUT THE RACING SYSTEM IS THAT THE ACTION ALWAYS FOLLOWS THE LEADER. IF YOU SLIP TOO FAR BEHIND, YOUR CAR IS BLOWN UP AND PLACED BACK ONTO THE TRACK FURTHER ON IN ORDER TO KEEP UP (SIMILARLY TO MICRO MACHINES). THIS CAN ONLY HAPPEN A LIMITED NUMBER OF TIMES BEFORE THE GAME IS OVER.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-5</players>
+		<hash>E2B0D544</hash>
+		<image>./images/Moto Roader (USA).png</image>
+		<thumbnail>./boxart/Moto Roader (USA).png</thumbnail>
+		<marquee>./marquee/Moto Roader (USA).png</marquee>
+		<video>./snap/Moto Roader (USA).mp4</video>
+		<developer>NCS Corporation</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+	</game>
+	<game id="14552" source="ScreenScraper.fr">
+		<path>./Neutopia II (USA).zip</path>
+		<name>Neutopia II</name>
+		<desc>SOME YEARS HAVE PASSED SINCE THE BRAVE HERO JAZETA DESTROYED DIRTH, THE EMPEROR OF DARKNESS. PEACE HAS RETURNED TO THE LAND OF NEUTOPIA. BUT THERE ARE STILL MONSTERS ROAMING THE COUNTRYSIDE, AND SOME OF THEM WERE SPOTTED NEAR YURIUS SHRINE. JAZETA WENT THERE TO FIND OUT WHAT EXACTLY HAD HAPPENED. BUT HE DIDN'T RETURN... YOU ARE JAZETA'S SON, AND YOU MUST FIRST OF ALL FIND YOUR MISSING FATHER! CAN IT BE THAT THE SHADOW OF EMPEROR OF DARKNESS THREATENS THE PEACEFUL LAND AGAIN?..
+
+THE SEQUEL TO "NEUTOPIA" IS SIMILAR TO THE PREDECESSOR IN EVERY WAY. NAVIGATING YOUR HERO FROM A TOP-DOWN VIEW, YOU EXPLORE THE VAST COUNTRYSIDE, FIGHTING MONSTERS IN REAL TIME COMBAT. THE GAME IS NOT A TRUE RPG, BUT AN ACTION ADVENTURE: YOU DON'T GAIN ANY EXPERIENCE POINTS FROM COMBAT, ONLY COLLECT MONEY TO BUY SUPPLIES. IN DUNGEONS, YOU MUST USE BOMBS ON WALLS TO REVEAL SECRET PASSAGES, PUSH STONES, AND FIGHT MANY REGULAR ENEMIES AND BOSSES.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>C4ED4307</hash>
+		<image>./images/Neutopia II (USA).png</image>
+		<thumbnail>./boxart/Neutopia II (USA).png</thumbnail>
+		<marquee>./marquee/Neutopia II (USA).png</marquee>
+		<video>./snap/Neutopia II (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="14568" source="ScreenScraper.fr">
+		<path>./Neutopia (USA).zip</path>
+		<name>Neutopia</name>
+		<desc>THE PRINCESS AURORA WAS KIDNAPPED BY THE EVIL DIRTH, AND THE KING SEND A WARRIOR NAMED JAZETA ON A MISSION TO RESCUE HER. IT APPEARS THAT ONCE DIRTH WAY SEALED BY EIGHT WISE MEN WHO USED THE POWER OF EIGHT SACRED MEDALLIONS. PRINCESS AURORA IS THE ONLY ONE WHO KNOWS HOW TO USE THOSE MEDALLIONS, AND THAT IS WHY DIRTH ABDUCTED HER. THE HERO MUST EXPLORE THE LAND, DESCEND TO THE DANGEROUS LABYRINTHS, RETRIEVE THE EIGHT MEDALLIONS, RESCUE THE PRINCESS, AND DEFEAT DIRTH.
+
+VERY SIMILAR TO  ZELDA GAMES, NEUTOPIA ALLOWS THE PLAYER TO FREELY ROAM THE VAST LAND, FIGHTING MANY DIFFERENT MONSTERS IN WILDERNESS AREAS AS WELL AS IN DUNGEONS. DUNGEONS ALSO REQUIRE SOME PUZZLE-SOLVING (PUSHING STONES, BLOWING WALLS WITH BOMBS, ETC.). THE GAME HAS A SLIGHT RPG FLAVOR, ALLOWING THE PLAYER TO POWER-UP BY COLLECTING VARIOUS ITEMS, AND EQUIP DIFFERENT WEAPONS AND ARMOR.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>A9A94E1B</hash>
+		<image>./images/Neutopia (USA).png</image>
+		<thumbnail>./boxart/Neutopia (USA).png</thumbnail>
+		<marquee>./marquee/Neutopia (USA).png</marquee>
+		<video>./snap/Neutopia (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="14555" source="ScreenScraper.fr">
+		<path>./New Adventure Island (USA).zip</path>
+		<name>New Adventure Island</name>
+		<desc>SOMEWHERE ON THE PEACEFUL ADVENTURE ISLAND, MASTER HIGGINS WEDS TINA, THE NEW "MISS ISLAND". EVERYONE WHO WAS INVITED TO THE WEDDING BEGINS TO CELEBRATE WHEN, SUDDENLY, THE EVIL BARON BRONSKY APPEARS AND SNATCHES TINA AWAY, WHILE HIS HENCHMEN TAKE THE SIX CHILDREN AWAY. TO REACH HIS CASTLE AND RESCUE TINA, MASTER HIGGINS MUST FIRST RESCUE THE SIX CHILDREN, EACH OF WHOM IS HIDDEN ON A SEPARATE ISLAND.
+
+NEW ADVENTURE ISLAND IS A ONE-PLAYER ACTION GAME THAT CONSISTS OF SEVEN AREAS, WITH FOUR ROUNDS EACH. IN ORDER TO GET THROUGH THE AREAS, YOU MUST USE YOUR HATCHET TO DESTROY WILDLIFE SUCH AS FROGS, SPIDERS, BIRDS, SNAILS, INSECTS, AND OTHER PESTS, AND WATCH OUT FOR HAZARDS SUCH AS ROCKS, FIRE, WATER, AND PITS. 
+
+AS YOU PROGRESS FURTHER, YOUR VITALITY WILL GET LOW, SO FRUIT MUST BE COLLECTED IN ORDER TO RESTORE IT. ALONG THE WAY, YOU CAN SMASH OPEN EGGS THAT WILL AWARD YOU WITH BETTER WEAPONS THAT INCLUDE BOOMERANGS, ARROWS, AND MAGICAL FIRE. SOME OF THE EGGS WILL ALSO REVEAL A FAIRY, WHICH WILL PROTECT YOU FROM GETTING HIT. IF YOU ARE UNLUCKY ENOUGH TO FIND AN EGGPLANT HIDDEN IN ONE OF THESE EGGS, YOUR VITALITY WILL DRAIN AWAY VERY FAST, AND YOU NEED TO GET FRUIT EVERY FIVE SECONDS IN ORDER TO SURVIVE.
+
+WHEN YOU GET TO THE END OF AN AREA, YOU WILL HAVE TO DEFEAT ONE OF THE HENCHMEN AND RESCUE A CHILD FROM ONE OF THE FOUR CASTLES.
+
+AN UPDATE OF THE ORIGINAL NES GAME.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>756A1802</hash>
+		<image>./images/New Adventure Island (USA).png</image>
+		<thumbnail>./boxart/New Adventure Island (USA).png</thumbnail>
+		<marquee>./marquee/New Adventure Island (USA).png</marquee>
+		<video>./snap/New Adventure Island (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="59816" source="ScreenScraper.fr">
+		<path>./Night Creatures (USA).zip</path>
+		<name>Night Creatures</name>
+		<desc>NIGHT CREATURES FOR THE TURBOGRAFX-16 IS AN ACTION/ADVENTURE SIDE-SCROLLING PLATFORMER.  YOU ARE AN UNFORTUNATE PEON WHO IS BITTEN BY HECATE, A WITCH.  UNLESS YOU KILL HECATE BY SUN-UP YOU WILL FOREVER BE DOOMED TO BE A CREATURE OF THE NIGHT.
+
+THE WORLD OF NIGHT CREATURES CONSISTS OF SEVERAL DIFFERENT SCENES, A TOWN, A GRAVE YARD, A FOREST, AND SO ON. YOU CAN TRAVEL FROM ONE SCENE TO THE NEXT IN A NON-LINEAR FASHION.  YOU HAVE TO DETERMINE THE FASTEST WAY TO FIND THE WEAPONS AND ABILITIES YOU NEED TO BEAT HECATE.  THERE ARE SEVERAL BOSS ENCOUNTERS AS WELL.  AFTER DEFEATING A BOSS, YOU GAIN THE ABILITY TO TRANSFORM INTO AN ANIMAL, SUCH AS A WOLF OR AN OWL.</desc>
+		<rating>0.25</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>C159761B</hash>
+		<image>./images/Night Creatures (USA).png</image>
+		<thumbnail>./boxart/Night Creatures (USA).png</thumbnail>
+		<marquee>./marquee/Night Creatures (USA).png</marquee>
+		<video>./snap/Night Creatures (USA).mp4</video>
+		<developer>Manley and Associates Inc.</developer>
+		<publisher>Nec Interchannel</publisher>
+	</game>
+	<game id="14512" source="ScreenScraper.fr">
+		<path>./Ninja Spirit (USA).zip</path>
+		<name>Ninja Spirit</name>
+		<desc>A NINJA-BASED ACTION GAME THAT HAS THE PLAYER LEADING MOONLIGHT THROUGH NUMEROUS ENEMY-RIDDLED LEVELS ON A QUEST TO EXACT REVENGE AGAINST HIS FATHER'S MURDERER. TO ACCOMPLISH THIS TASK MOONLIGHT IS ARMED WITH A KATANA, SHURIKENS, BOMBS, AND A SICKLE AND CHAIN WEAPON. EACH WEAPON OFFERS ITS OWN ADVANTAGES AND MUST BE USED AT CERTAIN TIMES TO OVERCOME SPECIFIC OBSTACLES OR OPPONENTS. 
+
+THE GAME'S COIN-OP ORIGINS ARE EVIDENT IN THE FACT THAT THAT THE HOME VERSIONS DO NOT HAVE PASSWORDS OR SAVES. TO COMPENSATE FOR THIS, HOWEVER, ADJUSTABLE DIFFICULTY SETTINGS WERE ADDED.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>DE8AF1C1</hash>
+		<image>./images/Ninja Spirit (USA).png</image>
+		<thumbnail>./boxart/Ninja Spirit (USA).png</thumbnail>
+		<marquee>./marquee/Ninja Spirit (USA).png</marquee>
+		<video>./snap/Ninja Spirit (USA).mp4</video>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59817" source="ScreenScraper.fr">
+		<path>./Order of the Griffon (USA).zip</path>
+		<name>Order of the Griffon</name>
+		<desc>THE PEOPLE OF RADLEBB KEEP ARE WORRIED: UNDEAD AND WEREWOLVES HAVE BEEN SEEN IN THE NEARBY FORESTS, AND RUMOR HAS THAT A VAMPIRE HAS TAKEN RESIDENCE AT KORISZEGY KEEP. LORD KORRIGAN HIRES A GROUP OF ADVENTURERS TO DISPEL THE RUMORS. THEY SOON FIND OUT THAT NOT ONLY THE RUMORS ARE TRUE, BUT THAT THERE ARE ALSO OTHER EVIL FORCES AT WORK IN THE AREA.
+
+ORDER OF THE GRIFFON IS A ROLE-PLAYING GAME BASED ON 1ST EDITION DUNGEONS &amp; DRAGONS RULES (MANY WELL-KNOWN MONSTERS, MAGIC ITEMS AND SPELLS ARE PRESENT) AND SET IN THE D&amp;D WORLD OF MYSTARA. IT USES GAMEPLAY CONVENTIONS THAT ARE SOMEWHAT SIMILAR TO THOSE FROM STRATEGIC SIMULATIONS, INC'S GOLD BOX TITLES: WHEN THE PARTY IS IN TOWNS AND DUNGEONS, A FIRST-PERSON VIEW IS USED, WHILE OVERLAND TRAVEL HAPPENS ON A LARGE MAP OF THE AREA. COMBAT WITH MONSTERS IS TURN-BASED AND TAKES PLACE ON A SPECIAL TACTICAL SCREEN.
+
+A PARTY CONSISTS OF FOUR CHARACTERS, WHICH CANNOT BE CREATED BUT MUST BE SELECTED FROM A LIST OF 21 DIFFERENT PREDETERMINED CHARACTERS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>FAE0FC60</hash>
+		<image>./images/Order of the Griffon (USA).png</image>
+		<thumbnail>./boxart/Order of the Griffon (USA).png</thumbnail>
+		<marquee>./marquee/Order of the Griffon (USA).png</marquee>
+		<video>./snap/Order of the Griffon (USA).mp4</video>
+		<developer>Westwood Associates</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+	</game>
+	<game id="78724" source="ScreenScraper.fr">
+		<path>./Ordyne (USA).zip</path>
+		<name>Ordyne</name>
+		<desc>ORDYNE IS A HORIZONTAL SIDE-SCROLLING SHOOT 'EM UP (ALSO CONSIDERED A "CUTE 'EM UP" DUE TO ITS LIGHTER TONE) THAT PUTS PLAYERS IN THE ROLE OF YÛICHIRÔ TOMARI, A GENIUS SCIENTIST, AND SUNDAY CHIN, HIS FAITHFUL ASSISTANT.  THE TWO HEROES MUST RESCUE TOMARI'S FIANCEE KANA AIBARA FROM THE EVIL DR. KUBOTA.
+
+DURING GAMEPLAY, PLAYERS CAN OBTAIN CRYSTALS THAT CAN BE USED TO BUY SPECIAL WEAPONS, EXTRA LIVES, AND OTHER POWER-UPS AT SHOPS LOCATED THROUGHOUT THE LEVELS. THERE ARE ALSO BONUS GAMES THAT ALLOW PLAYERS TO WIN MULTIPLE CRYSTALS OR POINTS BY SHOOTING AT ROTATING TARGETS.
+ 
+ORDYNE IS TWO-PLAYER SIMULTANEOUS.</desc>
+		<rating>0.55</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>E7BF2A74</hash>
+		<image>./images/Ordyne (USA).png</image>
+		<thumbnail>./boxart/Ordyne (USA).png</thumbnail>
+		<marquee>./marquee/Ordyne (USA).png</marquee>
+		<video>./snap/Ordyne (USA).mp4</video>
+		<developer>Namco</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="14495" source="ScreenScraper.fr">
+		<path>./Pac-Land (USA).zip</path>
+		<name>Pac-Land</name>
+		<desc>PAC-LAND IS A SIDE-SCROLLING 1-2 PLAYER GAME WITH A CARTOONY FEEL TO IT. NOW EQUIPPED WITH ARMS, FACE, AND LEGS, PAC MUST GUIDE A FAIRY BACK TO HER HOME IN FAIRY LAND, BUT THIS TASK WILL NOT BE EASY BECAUSE INKY, BLINKY, PINKY, CLYDE, AND SUE WILL PURSUE PAC-MAN AS HE TRAVELS THROUGH PAC-LAND. WHEN HE FINALLY TRANSPORTS THE FAIRY BACK TO HER HOME, PAC IS GIVEN SOME MAGIC SHOES, WHICH WILL HELP HIM GET TO HIS OWN HOME, WHERE HE WILL BE GREETED BY HIS FAMILY: MS. PAC-MAN, BABY PAC-MAN, CHOMP CHOMP, AND SOURPUSS. 
+
+THERE ARE SIXTEEN ROUNDS TO COMPLETE, WITH FOUR TRIPS EACH. DURING EACH ROUND, HE CAN GRAB A POWER PELLET, WHICH CAUSE GHOSTS TO TURN BLUE, ALLOWING PAC-MAN TO EAT THEM FOR POINTS. POINTS ARE ALSO AWARDED BY COLLECTING FRUIT THAT APPEAR, LIKE CHERRIES AND STRAWBERRIES. IN SOME ROUNDS, PAC MUST USE A SPRINGBOARD TO JUMP OVER A LAKE. HE MUST ALSO MAKE IT TO THE END OF EACH ROUND BEFORE TIME RUNS OUT, OTHERWISE A GHOST WILL CHASE HIM.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>D6E30CCD</hash>
+		<image>./images/Pac-Land (USA).png</image>
+		<thumbnail>./boxart/Pac-Land (USA).png</thumbnail>
+		<marquee>./marquee/Pac-Land (USA).png</marquee>
+		<video>./snap/Pac-Land (USA).mp4</video>
+		<developer>Namco</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="78731" source="ScreenScraper.fr">
+		<path>./Parasol Stars - The Story of Bubble Bobble III (USA).zip</path>
+		<name>Parasol Stars : The Story of Bubble Bobble III</name>
+		<desc>THIS SEQUEL TO RAINBOW ISLANDS SEES A RETURN TO THE GAMEPLAY OF BUBBLE BOBBLE, BUT WITH BUB AND BOB IN THEIR NOW-HUMAN FORMS.
+
+THE BOYS MUST CLEAR A SERIES OF SCREENS OF BAD GUYS - WHO TAKE SLIGHTLY MORE ESOTERIC FORMS THAN THE ANGRY CATERPILLARS FROM RAINBOW ISLANDS - AND AGAIN PICK UP A WHOLE BUNCH OF POWER-UPS.
+
+BUT THIS TIME THEY'RE ARMED WITH UMBRELLAS! OH, OKAY THEN, PARASOLS...</desc>
+		<rating>0.75</rating>
+		<releasedate>19910502T000000</releasedate>
+		<players>1-2</players>
+		<hash>E6458212</hash>
+		<image>./images/Parasol Stars - The Story of Bubble Bobble III (USA).png</image>
+		<thumbnail>./boxart/Parasol Stars - The Story of Bubble Bobble III (USA).png</thumbnail>
+		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (USA).png</marquee>
+		<video>./snap/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
+		<developer>Taito Corporation</developer>
+		<publisher>Working Designs</publisher>
+	</game>
+	<game id="14567" source="ScreenScraper.fr">
+		<path>./Power Golf (USA).zip</path>
+		<name>Power Golf</name>
+		<desc>POWER GOLF IS PLAYED PRIMARILY WITH A TOP-DOWN VIEW OF EACH HOLE, AND A 3RD PERSON PERSPECTIVE FOR HITTING THE BALL.  THERE IS ALSO STROKE AND MATCH PLAY, AND A COMPETITION MODE FOR UP TO THREE PLAYERS.
+
+THE OBJECT OF THE GAME IS SIMPLY THAT OF GOLF: TO COMPLETE THE COURSE WITH THE FEWEST SHOTS AND LOWEST SCORE. 
+
+GAME MODES:
+
+STROKE PLAY -- REGULAR MODE WHERE COMPETITION IS BASED ON THE TOTAL STROKES, LOWEST NUMBER OF COURSE, IS THE WINNER. 
+
+MATCH PLAY --  THIS MODE CAN BE AGAINST THE COMPUTER OR ANOTHER PLAYER. PLAYERS COMPETE FOR EACH HOLE, OR, IN CLUB MATCH, FOR EACH OTHER'S CLUBS.
+
+COMPETITION -- THIS IS THE THREE-PLAYER MODE.  THE GAME OPERATES IN THE FORM OF A CONTEST, AND IS RECOMMENDED FOR PLAYERS OF DIFFERING ABILITIES.  DRIVING AND PIN CONTESTS ARE ALSO INCLUDED IN THIS MODE.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-3</players>
+		<hash>ED1D3843</hash>
+		<image>./images/Power Golf (USA).png</image>
+		<thumbnail>./boxart/Power Golf (USA).png</thumbnail>
+		<marquee>./marquee/Power Golf (USA).png</marquee>
+		<video>./snap/Power Golf (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="141201" source="ScreenScraper.fr">
+		<path>./Psychosis (USA).zip</path>
+		<name>Psychosis</name>
+		<desc>THERE IS SOMETHING WRONG WITH YOUR BRAIN. IT IS BEING TAKEN OVER BY THE DEVIL UGAR HIMSELF! YOUR ONLY RECOURSE IS TO FIGHT BACK AGAINST THIS HOSTILE INVASION. THANKFULLY YOUR MIND HAS CREATED THE ULTIMATE WEAPON: A SHIP WITH WHICH YOU CAN NAVIGATE THE FIVE CAUSES (STAGES) AND BLAST BACK THE DEVIL'S EVIL MINIONS. IT IS YOUR ONLY HOPE, YOUR ONE LAST CHANCE TO FREE YOUR MIND FROM THIS EVIL INFLUENCE.
+
+PSYCHOSIS IS A SIDE-SCROLLING SHOOTER WHERE EACH LEVEL IS MEANT TO REPRESENT A DIFFERENT LOCATION WITHIN YOUR MIND. ONE LOOKS LIKE THE SKY, ANOTHER FILLED WITH AQUATIC PLANTS, ONE WITH WHAT RESEMBLE TETRIS BLOCKS. IT IS WITHIN THESE STAGES THAT YOU MUST BLAST EVERYTHING IN SIGHT WHILE COLLECTING POWER UPS TO UPGRADE YOUR WEAPON AND SHIELD. YOU CAN GAIN TWO FLOATING BALLS THAT RESEMBLE MECHANICAL EYES AND CAN BE DIRECTED 360 DEGREES AROUND YOUR SHIP TO EITHER ACT AS A SHIELD OR TO DIRECT YOUR WEAPON. BATTLE YOUR WAY THROUGH EACH STAGE AND DEFEAT THE BOSS AT THE END AND EVENTUALLY YOU'LL DO BATTLE AGAINST THE VERY DEVIL HIMSELF.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>6CC10824</hash>
+		<image>./images/Psychosis (USA).png</image>
+		<thumbnail>./boxart/Psychosis (USA).png</thumbnail>
+		<marquee>./marquee/Psychosis (USA).png</marquee>
+		<video>./snap/Psychosis (USA).mp4</video>
+		<developer>Naxat Soft</developer>
+		<publisher>Nec Interchannel</publisher>
+	</game>
+	<game id="14545" source="ScreenScraper.fr">
+		<path>./Raiden (USA).zip</path>
+		<name>Raiden</name>
+		<desc>IN THE YEAR 2090, EARTH IS INVADED BY EXTRA-TERRESTRIALS. THE WORLD ALLIANCE OF NATIONS HAS DEVELOPED A SUPERSONIC ATTACK FIGHTER, RAIDEN, TO DEFEND THE EARTH. A PILOT MUST TAKE CONTROL OF THE EXPERIMENTAL FIGHTER TO DESTROY THE ALIEN WARSHIPS THAT JUST HAPPEN TO LOOK LIKE ODD VARIATIONS OF TYPICAL MILITARY TANKS AND PLANES WITH GADGETS ATTACHED TO THEM. 
+
+RAIDEN (CALLED RAIDEN TRAD ON THE GENESIS AND SNES) IS AN OVER-HEAD VERTICAL-SCROLLING SHOOTER, BASED ON AN ARCADE GAME OF THE SAME TITLE. IT FEATURES TWO FORMS OF WEAPON UPGRADES AND TWO TYPES OF MISSILES (NORMAL OR HOMING). YOU START THE GAME WITH SEVERAL BOMBS WHICH YOU CAN USE TO DESTROY MOST ENEMIES ON THE SCREEN TO GET YOURSELF OUT OF A JAM. EACH LEVEL ENDS WITH A LARGE BOSS OR BOSSES.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>BC59C31E</hash>
+		<image>./images/Raiden (USA).png</image>
+		<thumbnail>./boxart/Raiden (USA).png</thumbnail>
+		<marquee>./marquee/Raiden (USA).png</marquee>
+		<video>./snap/Raiden (USA).mp4</video>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="14553" source="ScreenScraper.fr">
+		<path>./R-Type (USA).zip</path>
+		<name>R-Type</name>
+		<desc>R-TYPE IS A SIDE SCROLLING SHOOT 'EM UP BEST KNOWN FOR ITS EXTREMELY TOUGH AND STRATEGIC GAMEPLAY.  YOU CONTROL THE R-9 SPACESHIP AS IT LAUNCHES A LAST-DITCH EFFORT TO REPEL THE EVIL BYDO EMPIRE.
+
+THE R-9 COMES EQUIPPED AS STANDARD WITH A SMALL GUN WHICH CAN ONLY TAKE DOWN THE SMALLEST OF ENEMIES WITHOUT FIRING SEVERAL SHOTS. BY HOLDING DOWN THE FIRE BUTTON, IT CAN BE LOADED UP SO AS TO RELEASE A LARGE BURST OF ENERGY, ELIMINATING ALL BUT THE STRONGEST ENEMIES IN ITS PATH. FROM TIME TO TIME, PODS WILL COME FLYING IN YOUR DIRECTION. UPON BEING SHOT, THEY RELEASE AN UPGRADE. THE FIRST ONE WILL INVARIABLY BE THE ONE CALLED "THE FORCE", WHICH IS A WEAPONS POD THAT CLINGS EITHER TO THE FRONT OR THE BACK OF YOUR SHIP, ABSORBING ANY ENEMY BULLETS OR ACTING AS A BUMPER WITH WHICH YOU CAN FLY HEAD-ON INTO THEM. YOU CAN ALSO USE IT AS AN OFFENSIVE WEAPON BY FIRING IT AND PULLING IT BACK IN. MASTERING THE FORCE IS VITAL TO SURVIVING IN R-TYPE, SINCE IT MUST BE USED BOTH AS PROTECTION AGAINST BULLET CLUSTERS, AS A REMOTE CONTROLLED CANNON, AND IN ORDER TO CLEAR THE SCREEN FROM OBSTACLES. OTHER UPGRADES GIVE YOU TARGET-SEEKING MISSILES OR A BIGGER MAIN GUN. DIFFERENT GUN TYPES, DIFFERENTIATED BY THEIR COLOUR, SERVE DIFFERENT PURPOSES. THE BLUE ONE SENDS LASER BEAMS BOUNCING ACROSS THE SCREEN (GOOD FOR TUNNELS), THE RED ONE FIRES STRAIGHT AHEAD, AND THE YELLOW ONE FOLLOWS ANY WALLS IT MAY ENCOUNTER (GOOD FOR ARTILLERY EMPLACEMENTS).
+
+THE STAGES OF R-TYPE ARE MADE IN AN ORGANIC STYLE, CERTAINLY INSPIRED BY H. R. GIGER'S ARTWORK FOR THE ALIEN MOVIES. WHEN IT CAME OUT, IT WAS CONSIDERED TREND-SETTING SINCE IT BROKE OFF FROM THE STEREOTYPICAL SCI-FI MOULD OF OTHER SHOOT'EM'UPS. IN PART, THE LEVELS THEMSELVES ARE YOUR ENEMY, WHICH IS EXEMPLIFIED BY THE FOURTH, WHERE SPIDER-LIKE CREATURES WEAVE WEBS THAT COVER THE SCREEN AND BLOCK YOUR PATH, OR LEVELS WITH INTRICATE TUNNEL SYSTEMS. STILL, THE LEVELS ARE BEST HANDLED WITH A COMBINATION OF STRATEGY AND REFLEXES, WITHOUT THE MEMORISATION THAT IS REQUIRED OF R-TYPE'S CONTEMPORARY RIVAL, GRADIUS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>91CE5156</hash>
+		<image>./images/R-Type (USA).png</image>
+		<thumbnail>./boxart/R-Type (USA).png</thumbnail>
+		<marquee>./marquee/R-Type (USA).png</marquee>
+		<video>./snap/R-Type (USA).mp4</video>
+		<developer>Irem</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+	</game>
+	<game id="14548" source="ScreenScraper.fr">
+		<path>./Samurai-Ghost (USA).zip</path>
+		<name>Samurai-Ghost</name>
+		<desc>SAMURAI GHOST IS THE SEQUEL TO THE JAPAN-ONLY GENPEI TOMA DEN. YOU START THE GAME AS THE UNDEAD RONIN KAGEKIYO, WHO SETS OUT ON A QUEST FOR REVENGE TO DEFEAT THE DEMONS AND MYSTICAL MONSTERS THAT HAUNT THE JAPANESE COUNTRYSIDE.
+
+THE GAME IS AN ACTION SIDE-SCROLLER, IN WHICH YOU CONTROL KAGEKIYO AS HE SCROLLS THROUGH SEVERAL STAGES SLASHING ALL THE ENEMIES THAT CROSS HIS PATH. YOUR GHOSTLY NATURE ALSO GRANTS YOU ENERGY-BASED ATTACKS AND SEVERAL SUPERNATURAL ABILITIES WHICH ARE MOSTLY USED TO TAKE YOU TO SURREAL STAGES IN WHICH YOU CAN LEVITATE AND WALK ON WATER.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>77A924B7</hash>
+		<image>./images/Samurai-Ghost (USA).png</image>
+		<thumbnail>./boxart/Samurai-Ghost (USA).png</thumbnail>
+		<marquee>./marquee/Samurai-Ghost (USA).png</marquee>
+		<video>./snap/Samurai-Ghost (USA).mp4</video>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+	</game>
+	<game id="14601" source="ScreenScraper.fr">
+		<path>./Shockman (USA).zip</path>
+		<name>Shockman</name>
+		<desc>IN THE SEQUEL TO KAIZOU CHOUJIN SHUBIBINMAN ONCE AGAIN THE PLAYER TAKES THE ROLE OF EITHER CYBORG TASUKE OR KYAPIKO (RENAMED ARNOLD AND SONYA FOR THEIR US DEBUT) TO FACE AN ALIEN THREAT TO THE WORLD.
+
+BOTH CYBORGS HAVE TRADED THEIR ENERGY BLADES FOR RANGED ATTACKS, WHICH CHANGE THE PACING OF THE GAME A BIT BUT NEVERTHELESS REMAINS AN ACTION-ORIENTED SIDE-SCROLLING PLATFORMER IN WHICH YOUR OBJECTIVE IS TO CLEAR THE STAGE OF ALL ENEMIES AND BOSSES, WHILE PICKING UP ANY POWER-UPS THAT CAN AID YOU IN YOUR QUEST. THE GAME MAKES A LINEAR PROGRESSION FROM STAGE TO STAGE, LOSING THE WORLD MAP FROM THE ORIGINAL AS WELL AS THE UPGRADE BUYING BETWEEN LEVELS (SINCE "DOC" THE INVENTOR OF BOTH CYBORGS AND PROVIDER OF UPGRADES HAS BEEN ABDUCTED BY THE ALIENS), ALTHOUGH NEW SHOOTER STAGES HAVE BEEN INCLUDED TO SPICE THINGS UP.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1-2</players>
+		<hash>2774462C</hash>
+		<image>./images/Shockman (USA).png</image>
+		<thumbnail>./boxart/Shockman (USA).png</thumbnail>
+		<marquee>./marquee/Shockman (USA).png</marquee>
+		<video>./snap/Shockman (USA).mp4</video>
+		<developer>Winds Co., Ltd.</developer>
+		<publisher>NCS Corporation</publisher>
+	</game>
+	<game id="14591" source="ScreenScraper.fr">
+		<path>./SideArms - Hyper Dyne (USA).zip</path>
+		<name>Side Arms Hyper Dyne</name>
+		<desc>ORIGINATING IN THE ARCADES, SIDE ARMS IS A HORIZONTALLY SCROLLING SHOOT ?EM UP IN WHICH YOU CONTROL LIEUTENANT HENRY (A SECOND PLAYER CAN CONTROL SERGEANT SANDERS IN SOME VERSIONS), ARMED WITH CRUDE WEAPONRY AND PROTECTIVE JUMP-SUITS. THEY MUST SAVE THE EARTH FROM THE MERCENARY INVADERS OF BOZON. YOU MUST FIRST REACH BOZON?S TERRITORIES, THEN WIPE OUT ITS FORCES HIDDEN IN CAVERNS AND LURKING IN UNDERGROUND SEAS, BEFORE DESTROYING THE MAIN INVASION SHIP. LOTS OF EXTRA WEAPONS CAN BE PICKED UP, OFTEN WITH SIMILAR TOKENS TO THOSE IN 1943 AND SOME OTHER CAPCOM TITLES. MOST WEAPONS CAN BE SHOT EITHER TO THE LEFT OR THE RIGHT, GIVING YOU MORE RANGE TO LAUNCH ATTACKS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>D1993C9F</hash>
+		<image>./images/SideArms - Hyper Dyne (USA).png</image>
+		<thumbnail>./boxart/SideArms - Hyper Dyne (USA).png</thumbnail>
+		<marquee>./marquee/SideArms - Hyper Dyne (USA).png</marquee>
+		<video>./snap/SideArms - Hyper Dyne (USA).mp4</video>
+		<developer>Capcom</developer>
+		<publisher>Radiance Software</publisher>
+	</game>
+	<game id="59828" source="ScreenScraper.fr">
+		<path>./Silent Debuggers (USA).zip</path>
+		<name>Silent Debuggers</name>
+		<desc>ARRIVING AT A DESOLATE CARGO STATION SEARCHING FOR TREASURE, A DEBUGGER AND HIS BUDDY LEON ENCOUNTER MONSTERS INSTEAD.
+
+SILENT DEBUGGERS IS AN ACTION GAME WITH A FIRST-PERSON PERSPECTIVE. THE GAME ADVANCES IN REAL-TIME BUT MOVEMENT PROGRESSES IN FIXED STEPS LIKE IN MANY FIRST-PERSON DUNGEON GAMES. ENEMIES ARE TARGETED WITH A CROSSHAIR THAT CAN BE MOVED AROUND THE SCREEN.
+
+FIGHT MONSTERS WITH A VARIETY OF WEAPONS AND PROTECT THE VALUABLE UTILITY ROOMS AROUND THE CENTER OF THE STATION FROM BEING CUT-OFF BY MONSTERS AS YOU ADVANCE THROUGH EACH LEVEL OF THE STATION.  TOOLS PROVIDED BY LEON GIVE THE PLAYER SPECIAL ABILITIES.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>FA7E5D66</hash>
+		<image>./images/Silent Debuggers (USA).png</image>
+		<thumbnail>./boxart/Silent Debuggers (USA).png</thumbnail>
+		<marquee>./marquee/Silent Debuggers (USA).png</marquee>
+		<video>./snap/Silent Debuggers (USA).mp4</video>
+		<developer>Data East</developer>
+		<publisher>Nec Interchannel</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="78766" source="ScreenScraper.fr">
+		<path>./Sinistron (USA).zip</path>
+		<name>Sinistron</name>
+		<desc>SINISTRON IS A SIDE SCROLLING SHOOTER SIMILAR TO R-TYPE, BUT HAS A UNIQUE WEAPONS SYSTEM IN WHICH YOU CAN OPEN AND CLOSE YOUR SHIELDS TO IMPROVE YOUR FIRE POWER AT THE EXPENSE OF MAKING YOUR SHIP VULNERABLE. THERE ARE ALSO SEVERAL DIFFERENT POWERUPS YOU CAN PICK UP SUCH AS MISSILES AND DIFFERENT TYPES OF LASERS.
+
+THE PLOT IN THE GAME IS NOT REAL CLEAR ACCORDING TO THE INSTRUCTION BOOKLET. APPARENTLY SOMETHING CALLED A "SINISTRON" HAS INVADED YOUR QUADRANT OF THE GALAXY AND YOU HAVE TO BLOW IT UP, JUST BECAUSE.
+
+THIS GAME HAS LARGE ENEMY SPRITES AND LARGE BOSS CHARACTERS. THE LEVELS TAKE PLACE MOSTLY IN OUTER SPACE AND ALIEN ENVIRONMENTS. SOME OF THE SPRITES ARE MACROSS-LIKE MECHS.
+
+THE JAPANESE VERSION, "VIOLENT SOLDIER", HAD SLIGHTLY DIFFERENT GRAPHICS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>4F6E2DBD</hash>
+		<image>./images/Sinistron (USA).png</image>
+		<thumbnail>./boxart/Sinistron (USA).png</thumbnail>
+		<marquee>./marquee/Sinistron (USA).png</marquee>
+		<video>./snap/Sinistron (USA).mp4</video>
+		<developer>Information Global Service</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="14565" source="ScreenScraper.fr">
+		<path>./Soldier Blade (USA).zip</path>
+		<name>Soldier Blade</name>
+		<desc>A TOP DOWN SCI-FI SHOOTER IN WHICH YOU TAKE TO THE SKIES OF SEVERAL PLANETS IN AN ADVANCED STARFIGHTER IN ORDER TO ERADICATE AN ALIEN INVASION.
+
+SOLDIER BLADE PUTS YOU IN DIRECT CONTROL OF A STARFIGHTER AS YOU MAKE YOUR WAY THROUGH EACH ENEMY-INFESTED STAGE. YOU ARE NOT ALONE IN THE FIGHT THIS TIME HOWEVER, AS A SMALL MECHA FOLLOWS YOUR FIGHTER AT ALL TIMES, AND PROVIDES COVER AND SUPPORTING FIREPOWER AT REGULAR INTERVALS.
+
+THE GAME ALSO FEATURES A UNIQUE WEAPON SYSTEM WITH THREE CUSTOMIZABLE GUN PODS, IN WHICH YOU CAN MOUNT ANY OF THE SEVERAL TYPES OF WEAPONS AVAILABLE. ADDITIONALLY YOU CAN SACRIFICE EACH OF YOUR PODS TO INCORPORATE "OPTION" SATELLITES, BOMBS AND OTHER SUPER MOVES DEPENDING ON THE POD/WEAPON COMBINATION YOU HAVE EQUIPPED.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>4BB68B13</hash>
+		<image>./images/Soldier Blade (USA).png</image>
+		<thumbnail>./boxart/Soldier Blade (USA).png</thumbnail>
+		<marquee>./marquee/Soldier Blade (USA).png</marquee>
+		<video>./snap/Soldier Blade (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="78768" source="ScreenScraper.fr">
+		<path>./Somer Assault (USA).zip</path>
+		<name>Somer Assault</name>
+		<desc>SOMER ASSAULT IS A DIFFICULT TO DESCRIBE GAME.  IN IT YOU CONTROL A PINK SLINKY CHARACTER WITH GUNS ATTACHED TO IT.  YOU MOVE AROUND MAZES, CLIMBING ON WALLS, ON THE CEILING, THROUGH SHORTCUTS, AND ATTEMPT TO FIND YOU WAY TO THE END.  ALONG THE WAY, YOU HAVE TO SHOOT OUT MANY, MANY ENEMIES.  AND AT THE END, YOU WILL FIND A NASTY BOSS SURPRISE.
+
+THE STORY IS BIZARRE, WHICH FITS THE CONCEPT OF THE GAME.  A SORCERESS HAS PLANS TO RULE THE WORLD.  TO DO SO, SHE HAS SUMMONED 12 BEASTS, EACH BASED ON A SIGN OF THE ZODIAC.  IT UP TO YOU, PINK SLINKY, TO DEFEAT THE 12 ASTROLOGICAL SIGNS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>8FCAF2E9</hash>
+		<image>./images/Somer Assault (USA).png</image>
+		<thumbnail>./boxart/Somer Assault (USA).png</thumbnail>
+		<marquee>./marquee/Somer Assault (USA).png</marquee>
+		<video>./snap/Somer Assault (USA).mp4</video>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+	</game>
+	<game id="78770" source="ScreenScraper.fr">
+		<path>./Sonic Spike - World Championship Beach Volleyball (USA).zip</path>
+		<name>Sonic Spike : World Championship Beach Volleyball</name>
+		<desc>SONIC SPIKE IS A BEACH VOLLEYBALL GAME. THE PLAYER TAKES THE ROLE OF A VOLLEYBALL TEAM WITH TWO ATHLETES (WHICH HAVE DIFFERENT STRENGTHS AND DISADVANTAGES) AND TRIES TO WIN A TOURNAMENT. THE SECOND ATHLETE CAN ALSO BE PLAYED BY A SECOND HUMAN PLAYER. THE CONTROLS OFFER NO SURPRISES: PLAYERS MOVE AN ATHLETE OVER THE FIELD AND USE TWO BUTTONS FOR JUMPING AND HITTING. SINGLE PLAYERS ALSO HAVE TO SWITCH BETWEEN THE TWO ATHLETES.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>F74E5EB3</hash>
+		<image>./images/Sonic Spike - World Championship Beach Volleyball (USA).png</image>
+		<thumbnail>./boxart/Sonic Spike - World Championship Beach Volleyball (USA).png</thumbnail>
+		<marquee>./marquee/Sonic Spike - World Championship Beach Volleyball (USA).png</marquee>
+		<video>./snap/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
+		<developer>Information Global Service</developer>
+		<publisher>Information Global Service</publisher>
+	</game>
+	<game id="14514" source="ScreenScraper.fr">
+		<path>./Space Harrier (USA).zip</path>
+		<name>Space Harrier</name>
+		<desc>RUN? FLY? DODGE THOSE OBSTACLES, BUT RETURN FIRE ON WAVE AFTER WAVE OF ATTACKING ALIENS. ARMED WITH A REALLY BIG GUN, YOU HAVE TO DEFEND YOURSELF AGAINST THE ALIEN HORDES USING YOUR WITS TO NAVIGATE AROUND THE SCREEN. BUT WATCH OUT FOR THOSE END OF LEVEL BOSSES!
+
+ORIGINATING IN THE ARCADES, SPACE HARRIER IS A THIRD-PERSON RAIL SHOOTER WITH PSEUDO-3D GRAPHICS, SET IN THE SAME WORLD AS FANTASY ZONE. THE LONE TITULAR HERO FIGHTS ALIENS WITH A FIREBALL-LAUNCHING CANNON, WHICH CAN ALSO BE USED TO TRANSFORM THE HERO INTO A FLYING ROCKET. THE PROTAGONIST IS CONSTANTLY IN MOTION, BUT THE SPEED OF HIS MOVEMENT CAN BE REGULATED BY THE PLAYER.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>43B05EB8</hash>
+		<image>./images/Space Harrier (USA).png</image>
+		<thumbnail>./boxart/Space Harrier (USA).png</thumbnail>
+		<marquee>./marquee/Space Harrier (USA).png</marquee>
+		<video>./snap/Space Harrier (USA).mp4</video>
+		<developer>AM R&amp;D Dept. #2</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="78775" source="ScreenScraper.fr">
+		<path>./Splatterhouse (USA).zip</path>
+		<name>Splatterhouse</name>
+		<desc>SPLATTERHOUSE IS THE FIRST GAME IN THE SERIES, BUT ONLY THE SECOND GAME TO APPEAR ON A HOME CONSOLE (AFTER SPLATTERHOUSE: WANPAKU GRAFFITI ON THE NES), WHICH WAS LATER CONTINUED ON THE SEGA GENESIS.
+
+RICK AND HIS GIRLFRIEND JENNIFER ENTER WEST MANSION (KNOWN AS SPLATTERHOUSE) TO STUDY DR. WEST'S PARAPSYCHOLOGY TEACHINGS FOR A SCHOOL PROJECT.  AFTER A FLASH OF LIGHTNING AND A SCREAM, JENNIFER IS GONE, AND RICK IS LEFT WEARING THE TERROR MASK, WHICH GIVES THE WEARER GREAT STRENGTH.
+
+RICK MUST SURVIVE SEVEN BLOOD-SOAKED LEVELS FULL OF CORPSES, DEMONS, AND OTHER DISTURBING CREATURES IN THIS ARCADE SIDE-SCROLLING BEAT-EM-UP. SEVERAL WEAPONS ARE AT RICK'S DISPOSAL THROUGHOUT THE HOUSE, SUCH AS A MEAT CLEAVER, A TWO BY FOUR, AND A SHOTGUN. IF RICK WANTS TO FIND JENNIFER ALIVE, HE MUST MOVE QUICKLY THROUGH THE FLOORS OF THE MANSION.... AS A HAPPY REUNION IS NOT ALWAYS GUARANTEED.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>D00CA74F</hash>
+		<image>./images/Splatterhouse (USA).png</image>
+		<thumbnail>./boxart/Splatterhouse (USA).png</thumbnail>
+		<marquee>./marquee/Splatterhouse (USA).png</marquee>
+		<video>./snap/Splatterhouse (USA).mp4</video>
+		<developer>Namco</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+	</game>
+	<game id="14588" source="ScreenScraper.fr">
+		<path>./Super Star Soldier (USA).zip</path>
+		<name>Super Star Soldier</name>
+		<desc>SUPER STAR SOLDIER TAKES PLACE IN THE FAR FUTURE, WHERE YOU ARE THE LAST HOPE FOR PLANET EARTH, WHICH IS BEING ATTACKED BY AN ALIEN RACE.
+
+THE GAME FEATURES TOP-DOWN VIEW WITH VERTICAL SCROLLING LEVELS, SIMILAR TO ITS PREDECESSOR STAR SOLDIER. 
+THE GAME FEATURES THE FOLLOWING GAME PLAY MODES: NORMAL PLAY, SCORE PLAY, 2 MINUTES PLAY AND 5 MINUTES PLAY.
+EACH LEVEL HAS ITS OWN TOUGH BOSS AT THE END.</desc>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>DB29486F</hash>
+		<image>./images/Super Star Soldier (USA).png</image>
+		<thumbnail>./boxart/Super Star Soldier (USA).png</thumbnail>
+		<marquee>./marquee/Super Star Soldier (USA).png</marquee>
+		<video>./snap/Super Star Soldier (USA).mp4</video>
+		<developer>Inter State Software</developer>
+		<publisher>Hudson</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="78780" source="ScreenScraper.fr">
+		<path>./Super Volleyball (USA).zip</path>
+		<name>Super Volleyball</name>
+		<desc>SUPER VOLLEYBALL IS AN INDOOR VOLLEYBALL GAME FOR ONE OR TWO PLAYERS. THE SINGLE PLAYER MODE OFFERS TWO GAME OPTIONS: NORMAL GAME AND WORLD LEAGUE. CHOOSING NORMAL GAME PITS THE PLAYER AGAINST THE COMPUTER IN A SINGLE GAME. CHOOSING WORLD LEAGUE PITS THE PLAYER AGAINST ALL OTHER TEAMS AVAILABLE. A PASSWORD SAVE IS AVAILABLE IN THIS MODE.
+
+THE GAME FEATURES EIGHT NATIONAL TEAMS (USA, USSR, BRAZIL, HOLLAND, FRANCE, ITALY, JAPAN AND CHINA), WITH FICTITIOUSLY NAMED PLAYERS. PLAYERS CAN BE CHANGED DURING GAMEPLAY BY PRESSING C. THERE IS ALSO AN OPTION TO CREATE NEW TEAMS, CHOOSING THE TEAM'S NAME, COLOR, PLAYER'S POSITION AND NAMES.
+
+GAMEPLAY IS VIEWED FROM A SIDE SCROLLING PERSPECTIVE, WITH THE CAMERA FIXED ON THE BALL. A SMALL RADAR ON THE TOP OF THE SCREEN SHOWS THE PLAYERS' POSITIONS OF BOTH TEAMS. PLAYERS CAN, BUMP, SET, SPIKE, DUMP, BLOCK AND DIG. A COLLECTION OF SERVES IS ALSO AVAILABLE: UNDERHAND, OVERHAND AND JUMP SERVE. THERE ARE ALSO OPTIONS FOR THREE BALL SPEEDS, BEGINNING POINTS (FROM 0 TO 10, OUT OF 15) AND HANDICAP.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-2</players>
+		<hash>245040B3</hash>
+		<image>./images/Super Volleyball (USA).png</image>
+		<thumbnail>./boxart/Super Volleyball (USA).png</thumbnail>
+		<marquee>./marquee/Super Volleyball (USA).png</marquee>
+		<video>./snap/Super Volleyball (USA).mp4</video>
+		<developer>Video System Co., Ltd.</developer>
+		<publisher>NEC Corporation</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="59840" source="ScreenScraper.fr">
+		<path>./Takin' It to the Hoop (USA).zip</path>
+		<name>Takin' It to the Hoop</name>
+		<desc>TAKIN' IT TO THE HOOP IS A BASKETBALL GAME WITH COMIC GRAPHICS. THE PLAYER EITHER PARTICIPATES IN A LEAGUE, PLAY-OFFS OR A SINGLE MATCH AND CHOOSES ONE OF EIGHT AMERICAN TEAMS WITH TWELVE ATHLETES. THE TEAM'S PERFORMANCE DURING A MATCH DOES NOT ONLY DEPEND ON THE PLAYER'S ABILITY BUT ALSO ON THE ATHLETHE'S STATISTICS (E.G. AGILITY OR DRIBBLING) AND THEIR ENERGY. ENERGY DECREASES DURING THE COURSE OF A MATCH AND DESCRIBES HOW MUCH POWER AN ATHLETE HAS LEFT. THERE ARE ALSO THREE DIFFERENT DEFENSE TACTICS (ONE-ON-ONE DEFENSE, ZONE DEFENSE OR A MIX BETWEEN THE TWO) WHICH CAN BE SET BEFORE THE MATCH OR DURING INTERCEPTIONS.
+
+DURING THE MATCHES, THE PLAYER CONTROLS THE BALL CARRIER WHEN IN OFFENSE AND MANUALLY SWITCHES BETWEEN ATHLETES WHEN IN DEFENSE. PASSES CAN BE PERFORMED IN A HIGH OR LOW VARIATION. WHILE MOST OF THE MATCH IS SHOWN IN A SLIGHTLY HEIGHTENED SIDE-SCROLLING PERSPECTIVE, THE GAME SWITCHES TO A CLOSE-UP VIEW DURING A PENALTY THROW OR A DUNKING TRY. HERE THE PLAYER NEEDS TO PRESS A BUTTON AT THE CORRECT TIMING FOR A SUCCESSFUL THROW. WHEN A DEFENSE ATHLETE IS NEARBY DURING A DURING MANEUVER, HE HAS THE OPPORTUNITY TO BLOCK THE BALL WHEN THE CORRECT TIMING IS MET.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<hash>E9D51797</hash>
+		<image>./images/Takin' It to the Hoop (USA).png</image>
+		<thumbnail>./boxart/Takin' It to the Hoop (USA).png</thumbnail>
+		<marquee>./marquee/Takin' It to the Hoop (USA).png</marquee>
+		<video>./snap/Takin' It to the Hoop (USA).mp4</video>
+		<developer>Aicom</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="59849" source="ScreenScraper.fr">
+		<path>./TaleSpin (USA).zip</path>
+		<name>TaleSpin</name>
+		<desc>TAKE OFF WITH THOSE HIGH-FLYING DISNEY HEROES, CAPTAIN BALOO AND KIT CLOUDKICKER IN THE ACTION-PACKED ADVENTURE TALESPIN. IMAGINE, YOU'RE AFTER THE LOST TREASURE OF IONIA, AND THE WATUSI WITCH DOCTOR IS AFTER YOU! CAN YOU DEFEAT HIM TO GO ON AND DEFY THE DREADED IRON VULTURE AND MAKE IT TO THE ICE CAVES OF THEMBRIA? ARE YOU BRAVE ENOUGH TO CHALLENGE SHERE KHAN FOR THE TREASURE? FIND OUT BY PLAYING TALESPIN, WITH SEVEN THRILLING LEVELS AND 150 DANGER-FILLED SCREENS!</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1</players>
+		<hash>BAE9CECC</hash>
+		<image>./images/TaleSpin (USA).png</image>
+		<thumbnail>./boxart/TaleSpin (USA).png</thumbnail>
+		<marquee>./marquee/TaleSpin (USA).png</marquee>
+		<video>./snap/TaleSpin (USA).mp4</video>
+		<developer>Interactive Designs</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="14607" source="ScreenScraper.fr">
+		<path>./Legendary Axe II, The (USA).zip</path>
+		<name>The Legendary Axe II</name>
+		<desc>THE AXE IS BACK... WITH TWICE THE FORCE AND TWICE THE FURY OF 1989'S "VIDEOGAME OF THE YEAR"! THIS TIME IT'S BROTHER AGAINST BROTHER LOCKED IN DEADLY COMBAT. YOUR OLDER BROTHER HAS SUMMONED UNSPEAKABLE FORCES OF EVIL TO TAKE CONTROL OF THE KINGDOM. TREACHERY RULES! YOUR ONLY HOPE IS THE LEGENDARY ROYAL SWORD! BUT WILL ITS POWER BE ENOUGH TO OVERCOME THE CLIFFS OF CHAOS? THE SKULL DUNGEONS? AND THE TREACHEROUS CRYPTS OF SLIME? ONLY YOUR COURAGE, YOUR FIGHTING SKILL, AND THE LEGENDARY AXE CAN ANSWER!
+
+THIS GAME HAS YOU FIGHTING MONSTERS THROUGH SEVEN STAGES WITH JUST A SWORD, BUT THREE OTHER WEAPONS CAN BE PICKED UP ALONG THE WAY, AND INCLUDE AXES, CHAIN SPEARS, AND SMART BOMBS. THESE WEAPONS CAN ONLY BE OBTAINED BY COLLECTING THE POWER-UP THAT A DEFEATED ENEMY LEAVES BEHIND. WEAPONS CAN BE SWITCHED ALONG THE WAY. AT THE END OF EACH LEVEL, YOU MUST DEFEAT A HUGE BOSS IN ORDER TO GO TO THE NEXT STAGE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>220EBF91</hash>
+		<image>./images/Legendary Axe II, The (USA).png</image>
+		<thumbnail>./boxart/Legendary Axe II, The (USA).png</thumbnail>
+		<marquee>./marquee/Legendary Axe II, The (USA).png</marquee>
+		<video>./snap/Legendary Axe II, The (USA).mp4</video>
+		<developer>Atlus</developer>
+		<publisher>NEC Technologies, Inc.</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="14550" source="ScreenScraper.fr">
+		<path>./Legendary Axe, The (USA).zip</path>
+		<name>The Legendary Axe</name>
+		<desc>YOU ARE THE MIGHTY WARRIOR GOGAN, WHOSE VILLAGE HAS BEEN REQUIRED  BY THE JAGU TRIBE TO GIVE A HUMAN SACRIFICE EACH YEAR. FLARE, YOUR CHILDHOOD FRIEND, HAS BEEN CHOSEN AS THE SACRIFICE. YOUR TASK IS TO RESCUE FLARE AND DESTROY THE JAGU AND THEIR LEADER. TO HELP YOU COMPLETE YOUR MISSION, YOU ARE GIVEN THE LEGENDARY AXE, WHICH IS SAID TO POSSESS TREMENDOUS POWER THAT IS USABLE ONLY TO ITS WIELDER. 
+
+THERE ARE SIX ZONES IN THE GAME AND HAS GOGAN EXPLORING FORESTS, CAVES, MOUNTAINS, DUNGEONS, AND CASTLES, WHILE DEFEATING ENEMIES THAT GET IN HIS WAY WITH HIS AXE. IDOLS CAN BE BROKEN TO REVEAL POWER-UPS THAT WILL INCREASE THE AXE'S POWER AND SPEED UP ITS SWING. THESE POWER-UPS CAN ALSO AWARD YOU EXTRA LIVES, MORE POINTS, AND THE ABILITY TO ACCESS SECRET AREAS. AT THE END OF EACH ZONE, YOU HAVE TO DEFEAT A BOSS IN ORDER TO PROCEED.</desc>
+		<rating>0.55</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>2D211007</hash>
+		<image>./images/Legendary Axe, The (USA).png</image>
+		<thumbnail>./boxart/Legendary Axe, The (USA).png</thumbnail>
+		<marquee>./marquee/Legendary Axe, The (USA).png</marquee>
+		<video>./snap/Legendary Axe, The (USA).mp4</video>
+		<developer>Marvelous Interactive, Inc.</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+	</game>
+	<game id="14531" source="ScreenScraper.fr">
+		<path>./Tiger Road (USA).zip</path>
+		<name>Tiger Road</name>
+		<desc>THIS ARCADE CONVERSION IS A  BEAT 'EM UP IN WHICH YOU (AS LEE WONG) MUST RESCUE THE VILLAGE CHILDREN FROM THE EVIL RYO KEN OH. MANY LEVELS ARE HORIZONTALLY SCROLLING, ALTHOUGH WITH HIGH LEDGES TO JUMP ONTO AND FOLLOW FOR A SLIGHTLY DIFFERENT PATH. MAGIC URNS CONTAINING IMPROVED WEAPONS APPEAR FREQUENTLY. MOST ENEMIES ARE EASY TO ATTACK AND ONLY NEED ONE HIT TO KILL, ALTHOUGH THEY COME AT YOU IN LARGE HORDES. ONCE YOU GET TO THE INDOOR SECTIONS YOU WILL FIND BIG ENEMIES WITH THE ABILITY TO KILL YOU WITH ONE HIT, IN SECTIONS SET ON MULTIPLE LEVELS COMPLETE WITH STAIRWAYS.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>985D492D</hash>
+		<image>./images/Tiger Road (USA).png</image>
+		<thumbnail>./boxart/Tiger Road (USA).png</thumbnail>
+		<marquee>./marquee/Tiger Road (USA).png</marquee>
+		<video>./snap/Tiger Road (USA).mp4</video>
+		<developer>Go!</developer>
+		<publisher>Capcom</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="78791" source="ScreenScraper.fr">
+		<path>./Time Cruise (USA).zip</path>
+		<name>Time Cruise</name>
+		<desc>TIME CRUISE IS A PINBALL GAME WITH A STORY.  THE STORY HAS A SCIENTIST BY THE NAME OF ERIC WHO ONE DAY HEARS A VOICE CLAIMING TO BE AN EXTRATERRESTRIAL AND THROUGH THIS VOICE LEARNS THE SECRET TO TIME TRAVEL.  AFTER SEVERAL YEARS OF BUILDING HIS CREATION, HE IS FINALLY FINISHED AND CRAWLS IN TO HIS ROUND METAL TIME MACHINE AND IS OFF ON A QUEST TO TRAVEL THROUGH TIME AND MEET HIS EXTRATERRESTRIAL FRIEND.
+
+THE GOAL OF THE GAME, MUCH LIKE MANY OTHERS IN THE GENRE, IS TO REACH AND CERTAIN AMOUNT OF POINTS IN ONE OF SEVERAL DIFFERENT PINBALL TABLES THAT RANGE IN DIFFERENT TIME PERIODS INCLUDING PREHISTORIC TIMES AND UP TO THE FUTURE.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<players>1</players>
+		<hash>02C39660</hash>
+		<image>./images/Time Cruise (USA).png</image>
+		<thumbnail>./boxart/Time Cruise (USA).png</thumbnail>
+		<marquee>./marquee/Time Cruise (USA).png</marquee>
+		<video>./snap/Time Cruise (USA).mp4</video>
+		<developer>FACE</developer>
+		<publisher>NEC Corporation</publisher>
+	</game>
+	<game id="125863" source="ScreenScraper.fr">
+		<path>./Timeball (USA).zip</path>
+		<name>Timeball</name>
+		<desc>THE CONCEPT BEHIND BLODIA IS VERY SIMPLE: 1-YOU HAVE A SCREEN OF PIPE-WORK. 2-THERE IS A BALL TRAVELLING DOWN THE PIPE. 3-IF THE BALL DROPS DOWN A GAP IN THE PIPE YOU HAVE TO START AGAIN. THAT'S IT. SO WHAT THIS ALL AMOUNTS TO IS YOU FRANTICALLY SLIDING THE TILES AROUND BLOCK-PUZZLE STYLE TO KEEP THAT CURSED BALL BEARING ON TRACK. GOD FORBID THAT YOU THINK THE BALL IS MOVING TOO SLOWLY, YOU CAN EVEN PUSH A BUTTON TO SPEED THE DAMN THING UP, BUT YOU HAVE TO WONDER WHY YOU WOULD EVER WANT TO DO THAT.</desc>
+		<rating>0</rating>
+		<releasedate>19900223T000000</releasedate>
+		<players>1-2</players>
+		<hash>5D395019</hash>
+		<image>./images/Timeball (USA).png</image>
+		<thumbnail>./boxart/Timeball (USA).png</thumbnail>
+		<marquee>./marquee/Timeball (USA).png</marquee>
+		<video>./snap/Timeball (USA).mp4</video>
+	</game>
+	<game id="78796" source="ScreenScraper.fr">
+		<path>./Tricky Kick (USA).zip</path>
+		<name>Tricky Kick</name>
+		<desc>TRICKY KICK IS A SLIDING BLOCK PUZZLE GAME FOR THE TURBOGRAFIX-16.
+
+YOU HAVE TO KICK TWO OF THE SAME ITEM TOGETHER, AND THEY DISAPPEAR, UNTIL YOU CLEAR THE BOARD OF PIECES. YOU CAN 
+BUMP ONE ITEM WITH ANOTHER UNLESS THE WAY IS BLOCKED.
+
+THERE ARE ALSO ENEMIES THAT YOU HAVE TO KICK INTO BUMPERS TO DESTROY THEM.
+
+THE GAME HAS A REGULAR MODE AND A SPECIAL MODE WITH 60 PUZZLES EACH.  MANY OF THE PUZZLES ARE QUITE DIFFICULT EVEN IN REGULAR MODE.</desc>
+		<rating>0.45</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>48E6FD34</hash>
+		<image>./images/Tricky Kick (USA).png</image>
+		<thumbnail>./boxart/Tricky Kick (USA).png</thumbnail>
+		<marquee>./marquee/Tricky Kick (USA).png</marquee>
+		<video>./snap/Tricky Kick (USA).mp4</video>
+		<developer>IGS Corp.</developer>
+		<publisher>IGS Corp.</publisher>
+	</game>
+	<game id="14546" source="ScreenScraper.fr">
+		<path>./Turrican (USA).zip</path>
+		<name>Turrican</name>
+		<desc>THREE-HEADED DEMON MORGUL HAS BEEN INFLUENCING PEOPLE'S DREAMS TO CREATE NIGHTMARES, BUT MORE RECENTLY THESE NIGHTMARES HAVE BECOME REAL. ONLY TURRICAN CAN SAVE THEM IN THIS FAST PACED SIDE SCROLLING SHOOT-EM UP. IT FEATURES 5 WORLDS AND 13 LEVELS OF CHALLENGING GAMEPLAY.
+
+GAMEPLAY IS CONCEPTUALLY SIMPLE: JUST JUMP, SHOOT AND EXPLORE. HOWEVER, THIS GAME PUTS A LOT OF EMPHASIS ON FINDING AND USING THE 10 DIFFERENT WEAPONS TURRICAN CAN COLLECT.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910801T000000</releasedate>
+		<players>1</players>
+		<hash>EB045EDF</hash>
+		<image>./images/Turrican (USA).png</image>
+		<thumbnail>./boxart/Turrican (USA).png</thumbnail>
+		<marquee>./marquee/Turrican (USA).png</marquee>
+		<video>./snap/Turrican (USA).mp4</video>
+		<developer>Rainbow Arts Software GmbH</developer>
+		<publisher>Accolade</publisher>
+	</game>
+	<game id="59844" source="ScreenScraper.fr">
+		<path>./TV Sports Basketball (USA).zip</path>
+		<name>TV Sports Basketball</name>
+		<desc>BASKETBALL WAS THE SECOND SPORT TO WHICH CINEMAWARE APPLIED THEIR PHILOSOPHY OF LAVISH PRODUCTION AND ADVANCED CUTSCENES. EXHIBITION AND LEAGUE MATCHES ARE ON OFFER, WITH THE OPPORTUNITY TO RECREATE A FULL LEAGUE SEASON WITH 1 PLAYER ASSIGNED TO EACH OF THE 28 CLUBS. THE GAME USES VARYING CAMERA POSITIONS, WITH TOP-DOWN VIEWS WHEN THE BALL IS CLOSE TO EITHER HOOP, AND A SIDE-VIEW WHEN THE BALL IS MID-COURT - CONTROLS REMAIN UNCHANGED FOR THESE, SO THE SWITCH DOESN'T CAUSE A SUDDEN CHANGE IN PLAYER MOVEMENT.
+
+AS WELL AS PLAYING THE MATCHES YOU HAVE FULL COACHING CONTROL. THIS CAN INVOLVE MAKING SUBSTITUTIONS BUT ALSO ASSIGNING MARKING AND GAME STRATEGIES.</desc>
+		<rating>0.35</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1-5</players>
+		<hash>EA54D653</hash>
+		<image>./images/TV Sports Basketball (USA).png</image>
+		<thumbnail>./boxart/TV Sports Basketball (USA).png</thumbnail>
+		<marquee>./marquee/TV Sports Basketball (USA).png</marquee>
+		<video>./snap/TV Sports Basketball (USA).mp4</video>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="59843" source="ScreenScraper.fr">
+		<path>./TV Sports Football (USA).zip</path>
+		<name>TV Sports Football</name>
+		<desc>BEFORE ELECTRONIC ARTS SOUGHT TO IMITATE TELEVISION COVERAGE OF SPORTS WITH THEIR EA SPORTS TITLES, CINEMAWARE HAD THE SAME IDEA, INITIALLY APPLYING IT TO (AMERICAN) FOOTBALL. CUTSCENES FOLLOW DRAMATIC MOMENTS IN THE MATCH, AND EACH MATCH IS PRECEDED BY A TV-STYLE INTRODUCTION. THE GAME IS PRIMARILY ACTION-BASED, ALTHOUGH YOU ALSO CHOOSE YOUR PLAYS BEFORE EXECUTING THEM. YOU THEN BRING THE PASSES AND RUNS TO LIFE ON THE PITCH ITSELF. YOU CAN PLAY SINGLE MATCHES OR FULL LEAGUES, WITH ANY OF THE NFL TEAMS OF THE TIME.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1-5</players>
+		<hash>5E25B557</hash>
+		<image>./images/TV Sports Football (USA).png</image>
+		<thumbnail>./boxart/TV Sports Football (USA).png</thumbnail>
+		<marquee>./marquee/TV Sports Football (USA).png</marquee>
+		<video>./snap/TV Sports Football (USA).mp4</video>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="59841" source="ScreenScraper.fr">
+		<path>./TV Sports Hockey (USA).zip</path>
+		<name>TV Sports Hockey</name>
+		<desc>CINEMAWARE'S TV SPORTS SERIES GOT AN EXCLUSIVE ENTRY ON THE TURBOGRAFX-16 WITH THIS HOCKEY GAME.
+
+THE GAME OFFERS EXHIBITION MATCHES AND A TOURNAMENT MODE, EIGHT INTERNATIONAL TEAMS (EACH WITH UNIQUE PLAYER STATISTICS), AND SUPPORT FOR UP TWO FIVE PLAYERS VIA THE TURBOTAP.
+
+AFTER A DRAMATIC CLOSE-UP OF THE FACE-OFF, ACTUAL GAME PLAY IS SEEN FROM A TOP-DOWN PERSPECTIVE WITH A VERTICALLY SCROLLING FIELD. EVERY PLAYER (INCLUDING THE GOALIE) CAN BE CONTROLLED. ON OFFENSE, QUICK SHOTS, SLAP SHOTS AND EVEN FAKED SLAP SHOTS ARE POSSIBLE. ON DEFENSE, BODY CHECKING AN OPPOSING PLAYER CAN LEAD TO A SPECIAL FIGHT SEQUENCE.
+
+EXHIBITION GAMES CAN BE PLAYED WITH EITHER FULL OR EASY RULES - EASY MODE HAS LESS PENALTIES AND INFRACTIONS LIKE OFFSIDE. IN TOURNAMENTS, EVERY SCHEDULED GAME CAN EITHER BE PLAYED OR THE RESULTS SIMULATED. TOURNAMENT PROGRESS IS SAVED VIA A PASSWORD. WHEN TWO OR MORE PLAYERS PLAY, THEY CAN BE PUT ON ANY TEAM. THUS TEAMS FEATURING FIVE HUMAN PLAYERS ARE JUST AS POSSIBLE AS MIXED COMPETITIVE MATCHES.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1-5</players>
+		<hash>97FE5BCF</hash>
+		<image>./images/TV Sports Hockey (USA).png</image>
+		<thumbnail>./boxart/TV Sports Hockey (USA).png</thumbnail>
+		<marquee>./marquee/TV Sports Hockey (USA).png</marquee>
+		<video>./snap/TV Sports Hockey (USA).mp4</video>
+		<developer>Cinemaware</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="78800" source="ScreenScraper.fr">
+		<path>./Veigues - Tactical Gladiator (USA).zip</path>
+		<name>Veigues - Tactical Gladiator</name>
+		<desc>FOR 3 YEARS, ALIEN INVADERS HAVE BEEN POUNDING THE EARTH INTO A SMOLDERING RUIN. THERE ISN'T A MAN ALIVE WHO CAN STOP THEM. BUT NOW THERE'S VEIGUES, A DEVASTATING FIGHTING MACHINE! BUILT WITH CAPTURED ENEMY TECHNOLOGY, HE'S OUR LAST DESPERATE HOPE FOR SURVIVAL... AND YOU'RE IN CONTROL! TRASH THE INVADERS WITH THE PLAZMA CANNON! JUST KEEP YOUR FIREPOWER HOT AND FIGHT LIKE THERE'S NO TOMORROW. DESTROY THE ALIENS OR THERE WON'T BE!</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<hash>99D14FB7</hash>
+		<image>./images/Veigues - Tactical Gladiator (USA).png</image>
+		<thumbnail>./boxart/Veigues - Tactical Gladiator (USA).png</thumbnail>
+		<marquee>./marquee/Veigues - Tactical Gladiator (USA).png</marquee>
+		<video>./snap/Veigues - Tactical Gladiator (USA).mp4</video>
+		<developer>Game Arts</developer>
+		<publisher>NEC Corporation</publisher>
+	</game>
+	<game id="14573" source="ScreenScraper.fr">
+		<path>./Victory Run (USA).zip</path>
+		<name>Victory Run</name>
+		<desc>VICTORY RUN IS AN ARCADE RACER BASED ON THE PARIS-DAKAR RALLY. THE GAMEPLAY IS SIMILAR TO OUTRUN, WITH YOUR CAR APPEARING NEAR THE BOTTOM OF THE SCREEN, AND A COURSE MADE OF SCALING SPRITES LAID OUT AHEAD.  
+
+AT THE START OF THE RACE, YOU CHOOSE HOW MANY SPARE ENGINES, TIRES, BRAKES, AND SO ON TO TAKE WITH YOU ON THE RALLY. AS YOU FINISH EACH SEGMENT, YOU HAVE TO DECIDE TO USE THOSE PARTS SO THAT YOU CAN REPAIR YOUR CAR SO YOU CAN COMPLETE THE RACE.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>85CBD045</hash>
+		<image>./images/Victory Run (USA).png</image>
+		<thumbnail>./boxart/Victory Run (USA).png</thumbnail>
+		<marquee>./marquee/Victory Run (USA).png</marquee>
+		<video>./snap/Victory Run (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="14560" source="ScreenScraper.fr">
+		<path>./Vigilante (USA).zip</path>
+		<name>Vigilante</name>
+		<desc>VIGILANTE IS A SIDE-SCROLLING BEAT-EM-UP, BASED ON THE POPULAR COIN-UP. IT FEATURES AN ANONYMOUS TOUGH HERO THAT ROAMS THE STREETS TO BEAT UP THE ROGUES GANG THAT KIDNAPPED HIS GIRLFRIEND MARIA. 
+
+THE GAME OFFERS FIVE DISTINCT LOCATIONS, SUCH AS CITY STREETS AND A JUNKYARD, WITH MANY DIFFERENT THUGS WITH DIFFERENT STRENGTHS. YOU FIGHT WITH YOUR FISTS, FEET AND A CHAIN. EACH LEVEL FEATURES AN END BOSS WHICH REQUIRES A SPECIAL TACTIC IN ORDER TO PROGRESS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1</players>
+		<hash>79D49A0D</hash>
+		<image>./images/Vigilante (USA).png</image>
+		<thumbnail>./boxart/Vigilante (USA).png</thumbnail>
+		<marquee>./marquee/Vigilante (USA).png</marquee>
+		<video>./snap/Vigilante (USA).mp4</video>
+		<developer>NEC Avenue</developer>
+		<publisher>Irem</publisher>
+	</game>
+	<game id="59836" source="ScreenScraper.fr">
+		<path>./World Class Baseball (USA).zip</path>
+		<name>World Class Baseball</name>
+		<desc>WORLD CLASS BASEBALL IS A BASEBALL GAME. THE PLAYER CONTROLS THE PITCHER AND FIELDERS (THROUGH AN AUTOMATIC SYSTEMTHAT, FOLLOWING BASEBALL GAMES' TRADITION, GIVES TO HIM CONTROL ON THE ONE OF THE PLAYERS WHO IS CLOSEST TO THE BALL); NOT THE BATTER. ONE OR</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-2</players>
+		<hash>4186D0C0</hash>
+		<image>./images/World Class Baseball (USA).png</image>
+		<thumbnail>./boxart/World Class Baseball (USA).png</thumbnail>
+		<marquee>./marquee/World Class Baseball (USA).png</marquee>
+		<video>./snap/World Class Baseball (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Nec Interchannel</publisher>
+	</game>
+	<game id="59837" source="ScreenScraper.fr">
+		<path>./World Court Tennis (USA).zip</path>
+		<name>World Court Tennis</name>
+		<desc>WORLD COURT TENNIS IS A TENNIS GAME WITH A TWIST. THE ACTION ITSELF FEATURES NO BIG SURPRISES: THE PLAYERS CONTROL THEIR CHARACTERS OVER THE SCROLLING TENNIS FIELD AND TRY TO COUNTER BALLS FROM THEIR OPPONENTS. IT IS POSSIBLE TO PERFORM TYPICAL TENNIS ACT</desc>
+		<rating>0.65</rating>
+		<releasedate>19890101T000000</releasedate>
+		<players>1-4</players>
+		<hash>A4457DF0</hash>
+		<image>./images/World Court Tennis (USA).png</image>
+		<thumbnail>./boxart/World Court Tennis (USA).png</thumbnail>
+		<marquee>./marquee/World Court Tennis (USA).png</marquee>
+		<video>./snap/World Court Tennis (USA).mp4</video>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game id="78803" source="ScreenScraper.fr">
+		<path>./World Sports Competition (USA).zip</path>
+		<name>World Sports Competition</name>
+		<desc>EVENTS INCLUDE: ARCHERY FIELD - BROAD JUMP, TRIPLE JUMP, HIGH JUMP, DISCUS THROW, HAMMER THROW &amp; JAVELIN THROW ROWING SHOOTING - CLAY PIGEON &amp; PISTOL TARGET SHOOTING. SWIMMING - BACK STROKE, BREAST STR</desc>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<players>1-5</players>
+		<hash>4B93F0AC</hash>
+		<image>./images/World Sports Competition (USA).png</image>
+		<thumbnail>./boxart/World Sports Competition (USA).png</thumbnail>
+		<marquee>./marquee/World Sports Competition (USA).png</marquee>
+		<video>./snap/World Sports Competition (USA).mp4</video>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="59830" source="ScreenScraper.fr">
+		<path>./Yo, Bro (USA).zip</path>
+		<name>Yo, Bro</name>
+		<desc>RATZ ATTACK! RATZ ATTACK! THE CITY OF LOS ANGELES IS BEING INVADED! ONLY LIL BRO', CAMP CALIFORNIA'S RAD SKATEBOARDING DUDE, CAN SAVE IT. THE EVIL RATZ GANG IS UNLEASHING A BARRAGE OF KILLER CREATURES AND DEVICES. FIND INCREDIBLY COOL WEAPONS TO FIGHT BACK. WIPE OUT THEIR EARTHQUAKE MACHINES AND NASTY MAN-EATING PLANTS WITH ROCKETS AND GRENADES. FIGHT OFF WICKED SPACE ALIENS AND LAUNCH YOUR BONUS ATTACKS. IT'LL TAKE EVERYTHING YOU'VE GOT TO SEND THE RATZ PACKING!</desc>
+		<rating>0.3</rating>
+		<releasedate>19910101T000000</releasedate>
+		<players>1-2</players>
+		<hash>3CA7DB48</hash>
+		<image>./images/Yo, Bro (USA).png</image>
+		<thumbnail>./boxart/Yo, Bro (USA).png</thumbnail>
+		<marquee>./marquee/Yo, Bro (USA).png</marquee>
+		<video>./snap/Yo, Bro (USA).mp4</video>
+		<developer>ICOM Simulations</developer>
+		<publisher>NEC</publisher>
+	</game>
+	<game>
+		<path>./Alien Crush (USA).zip</path>
+		<name>Alien Crush</name>
+		<desc>ALIEN CRUSH IS AN ALIEN-THEMED VIDEO PINBALL GAME.  THE GRAPHICS FEATURE STRONG SIMILARITIES TO THE ART FROM THE ALIEN MOVIES, AND EVERYTHING HAS A DARK AND SINISTER LOOK.
+
+THE MAIN TABLE HAS NUMEROUS MOVING TARGETS AND BALL LOCKS AND IS TWO SCREENS HIGH.  THERE ARE AT LEAST THREE BONUS GAMES THAT ARE ACCESSIBLE FROM THE TOP SCREEN.  BONUS GAMES CONSIST OF KNOCKING OUT MOVING TARGETS ON A SEPARATE SINGLE-SCREEN BONUS TABLE.</desc>
+		<image>./images/Alien Crush (USA).png</image>
+		<video>./snap/Alien Crush (USA).mp4</video>
+		<marquee>./marquee/Alien Crush (USA).png</marquee>
+		<thumbnail>./boxart/Alien Crush (USA).png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>NEC Home Electronics (U.S.A.) Inc.</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20190304T023036</lastplayed>
+	</game>
+</gameList>

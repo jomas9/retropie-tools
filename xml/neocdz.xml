@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="38401" source="ScreenScraper.fr">
+		<path>./2020 Super Baseball (World).chd</path>
+		<name>2020 Super Baseball</name>
+		<desc>IN THE YEAR 2020, BASEBALL FINALLY EVOLVED. THERE IS NO LONGER CONVENTIONAL PROFESSIONAL BASEBALL IN 2020. BASEBALL DESIGNED BY THE SUPER BASEBALL ASSOCIATION HAS BEEN VERY POPULAR AND IS THE BEST SPORT.
+
+HOWEVER, THE TRUTH IS THAT THE ASSOCIATION HAS USED A COLOSSAL SUM OF MONEY TO PROMOTE SUPER BASEBALL AS SHOW BUSINESS. THEY HAVE MANIPULATED EACH PLAYER'S ABILITY USING THE CONTROL COMPUTER TO SECRETLY DECIDE VICTORY OR DEFEAT IN EVERY GAME. THE PLAYERS WHO KNEW THIS REMOVED THE CONNECTING PARTS OF THE COMPUTER TO PLAY THEIR OWN GAME OF BASEBALL. FINALLY, A FAIR GAME IS GOING TO BE PLAYED AT CYBER EGG STADIUM.
+
+IN 2020 SUPER BASEBALL IS A FAST-PACED GAME WITH NEW RULES, WHERE YOU CAN SELECT 1 OF 12 INDIVIDUAL MEN, WOMEN, OR ROBOT PLAYERS. DURING PLAY, YOU CAN MAKE YOUR TEAM STRONGER WITH PRIZES EARNED FROM AMAZING CATCHES.</desc>
+		<rating>0</rating>
+		<releasedate>19950225T000000</releasedate>
+		<developer>Pallas</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>AE99E5A1</hash>
+		<image>./images/2020 Super Baseball (World).png</image>
+		<thumbnail>./boxart/2020 Super Baseball (World).png</thumbnail>
+		<marquee>./marquee/2020 Super Baseball (World).png</marquee>
+		<video>./snap/2020 Super Baseball (World).mp4</video>
+	</game>
+	<game id="38341" source="ScreenScraper.fr">
+		<path>./3 Count Bout (World).chd</path>
+		<name>3 Count Bout</name>
+		<desc>3 COUNT BOUT IS A ONE-ON-ONE FIGHTING GAME. CHOOSE FROM TEN WRESTLERS WHO HAVE THEIR OWN POWER ATTACKS. THERE ARE TEN ROUNDS IN THE GAME, AND EACH ONE OF THEM HAS YOU FIGHTING OTHER WRESTLERS THAT ARE MUCH TOUGHER THAN THE PREVIOUS ONES. YOU DEFEAT EACH ONE BY BITING, KICKING, AND PERFORMING OTHER MOVES TO THE POINT WHERE THEIR DAMAGE METER IS EMPTY. BUT JUST BECAUSE IT IS EMPTY DOESN'T MEAN THAT YOU WIN. YOU HAVE TO PIN HIM FOR THE INFAMOUS-THREE COUNT. ALSO FEATURES COMPETITIVE PLAY AND TAG MATCH BATTLES.</desc>
+		<rating>0</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>UPL Co., Ltd</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5F61308E</hash>
+		<image>./images/3 Count Bout (World).png</image>
+		<thumbnail>./boxart/3 Count Bout (World).png</thumbnail>
+		<marquee>./marquee/3 Count Bout (World).png</marquee>
+		<video>./snap/3 Count Bout (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./ADK World (Japan).chd</path>
+		<name>ADK World (Japan)</name>
+		<rating>0</rating>
+		<image>./images/ADK World (Japan).png</image>
+		<thumbnail>./boxart/ADK World (Japan).png</thumbnail>
+		<marquee>./marquee/ADK World (Japan).png</marquee>
+		<video>./snap/ADK World (Japan).mp4</video>
+	</game>
+	<game id="38342" source="ScreenScraper.fr">
+		<path>./Aero Fighters 2 (World).chd</path>
+		<name>Aero Fighters 2</name>
+		<desc>AERO FIGHTERS 2 IS A VERTICALLY-SCROLLING SHOOTER IN THE SAME VEIN AS 1942 AND SIMILAR GAMES. IT SUPPORTS UP TO TWO PLAYERS AND  HAS 8 DIFFERENT AIRCRAFT TO CHOOSE FROM, EACH EQUIPPED WITH UNIQUE PRIMARY AND SECONDARY WEAPONS. POWER-UPS UPGRADE THE LOOK, POWER, SIZE AND SHAPE OF THE SHOTS. BOMBS ACTIVATE A SPECIAL POWER THAT USUALLY WIPES OFF THE ENEMIES ON THE SCREEN. THE GAME HAS A TOTAL OF 10 STAGES (JAPAN, BRAZIL, ATLANTIC, U.S.A., FRANCE, AUSTRALIA, HIMALAYAS, MEXICO, HAWAII AND SPACE), ALL OF THEM WITH A BOSS BATTLE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940929T000000</releasedate>
+		<developer>Video System Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5A8AFB6C</hash>
+		<image>./images/Aero Fighters 2 (World).png</image>
+		<thumbnail>./boxart/Aero Fighters 2 (World).png</thumbnail>
+		<marquee>./marquee/Aero Fighters 2 (World).png</marquee>
+		<video>./snap/Aero Fighters 2 (World).mp4</video>
+	</game>
+	<game id="38343" source="ScreenScraper.fr">
+		<path>./Aero Fighters 3 (World).chd</path>
+		<name>Aero Fighters 3</name>
+		<desc>AERO FIGHTERS 3 IS A VERTICALLY-SCROLLING SHOOTER IN THE SAME VEIN AS 1942 AND SIMILAR GAMES. IT SUPPORTS UP TO TWO PLAYERS AND  HAS 10 DIFFERENT AIRCRAFT TO CHOOSE FROM, EACH EQUIPPED WITH UNIQUE PRIMARY AND SECONDARY WEAPONS. POWER-UPS UPGRADE THE LOOK, POWER, SIZE AND SHAPE OF THE SHOTS. BOMBS ACTIVATE A SPECIAL POWER THAT USUALLY WIPES OFF THE ENEMIES ON THE SCREEN. THE GAME HAS A TOTAL OF 8 STAGES PLACED ON SEVERAL COUNTRIES (JAPAN, GERMANY, LIBYA, EGYPT, PACIFIC, U.S.A., ENGLAND, FRANCE, PANAMA, THAILAND, UKRAINE, ATLANTIC AND SPACE), ALL OF THEM WITH A BOSS BATTLE.</desc>
+		<rating>0</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Video System Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>66453B85</hash>
+		<image>./images/Aero Fighters 3 (World).png</image>
+		<thumbnail>./boxart/Aero Fighters 3 (World).png</thumbnail>
+		<marquee>./marquee/Aero Fighters 3 (World).png</marquee>
+		<video>./snap/Aero Fighters 3 (World).mp4</video>
+	</game>
+	<game id="38344" source="ScreenScraper.fr">
+		<path>./Aggressors of Dark Kombat (World).chd</path>
+		<name>Aggressors of Dark Kombat</name>
+		<desc>AGGRESSORS OF DARK KOMBAT IS ANOTHER ONE-ON-ONE STREET FIGHTING BEAT 'EM UP FROM THE NEO-GEO'S SEEMINGLY ENDLESS LIBRARY OF FIGHTERS.
+
+IT PITS 8 FIGHTERS OF DIFFERENT STYLES AND STRENGTHS AGAINST EACH OTHER IN A TOURNAMENT TO SEE WHO'S THE TOUGHEST MOFO ON THE STREETS OF TOKYO. YOUR OBJECTIVE AS USUAL IS TO DEPLETE YOUR OPPONENT'S HEALTH BAR WITHIN THE TIME LIMIT BY USING YOUR BASIC ATTACKS AND SPECIAL MOVES (TRIGGERED BY SPECIFIC CONTROLLER MOTIONS) WHILE AVOIDING HIS MOVES AND ATTACKS.
+
+UNIQUE TO AGGRESSORS OF DARK KOMBAT IS THE COMBINATION OF TRADITIONAL SIDE-SCROLLING BEAT 'EM UP ELEMENTS, MEANING CHARACTERS CAN FREELY MOVE IN AN ISOMETRIC SPACE INSTEAD OF BEING RESTRICTED TO A SINGLE PLANE OF MOVEMENT. WEAPONS AND THROW-ABLE ITEMS ARE USUALLY THROWN INTO THE ARENA BY THE CROWDS AND YOU CAN PICK THEM UP AND WIELD THEM FOR ADDED DAMAGE. ADDITIONALLY, MATCHES ARE 1-ROUND ONLY AFFAIRS, WITH AN EXTENDED MULTI-LAYERED HEALTH BAR THAT ALLOWS FOR LONGER ROUNDS THAN USUAL.</desc>
+		<rating>0</rating>
+		<releasedate>19950113T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0CC40368</hash>
+		<image>./images/Aggressors of Dark Kombat (World).png</image>
+		<thumbnail>./boxart/Aggressors of Dark Kombat (World).png</thumbnail>
+		<marquee>./marquee/Aggressors of Dark Kombat (World).png</marquee>
+		<video>./snap/Aggressors of Dark Kombat (World).mp4</video>
+	</game>
+	<game id="107063" source="ScreenScraper.fr">
+		<path>./Alpha Mission II (World).chd</path>
+		<name>Alpha Mission II</name>
+		<desc>THE LUNAR NIGHTMARE OF A BLOODY 200-YEAR SPACE WAR WAS THOUGHT TO BE OVER IN THE "ORIGINAL" ALPHA MISSION. BUT NOW WITH THE ADVENT OF MORE TECHNICALLY SOPHISTICATED WEAPONS, THE EVIL "FULVAR" AND HIS "SEVEN STAR ALLIANCE" HAVE RETURNED TO DESTROY ALL PLANETS THAT STAND IN THEIR WAY OF THE ULTIMATE TARGET... EARTH! NOW IN THE YEAR OF 2525! YOUR MISSION AS PILOT OF THE NEW SYD-FX FIGHTER IS TO USE EVERY WEAPON AT YOUR DISPOSAL TO RID THE GALAXY ONCE AND FOR ALL OF THE EVIL THAT NOW DOMINATES AND THREATENS EARTH. SO SUIT UP, HOLD YOUR BREATH, AND STAND READY FOR UNBELIEVABLE GRAPHICS AND STEREO SOUND THAT'LL SUCK YOU INTO THE FAR REACHES OF DEEP, DARK INNER SPACE. BE PREPARED... YOU MAY NEVER COME BACK!</desc>
+		<rating>0</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<hash>D4FC1AF7</hash>
+		<image>./images/Alpha Mission II (World).png</image>
+		<thumbnail>./boxart/Alpha Mission II (World).png</thumbnail>
+		<marquee>./marquee/Alpha Mission II (World).png</marquee>
+		<video>./snap/Alpha Mission II (World).mp4</video>
+	</game>
+	<game id="38346" source="ScreenScraper.fr">
+		<path>./Art of Fighting 2 (World).chd</path>
+		<name>Art of Fighting 2</name>
+		<desc>IN THIS SEQUEL TO THE ORIGINAL ART OF FIGHTING, AND PREQUEL TO THE ORIGINAL FATAL FURY, WE LEARN THAT MR. KARATE, THE FINAL BOSS OF THE ORIGINAL GAME, BEHIND THE MASK, IS REALLY TAKUMA SAKAZAKI, RYO AND YURI'S FATHER, THAT TAKUMA WAS BEING USED BY GEESE HOWARD FOR HIS OWN EVIL INTENTIONS, AND THAT MR. BIG WAS THE ONE WHO HAD ORIGINALLY KIDNAPPED YURI.
+
+MANY OF THE PROBLEMS THAT EXISTED IN THE FIRST GAME HAVE BEEN FIXED IN THIS INSTALLMENT (IT IS EASIER TO EXECUTE SPECIAL MOVES, YOU NO LONGER HAVE ONLY RYO OR ROBERT TO CHOOSE FROM IN 1 PLAYER MODE, ETC.).
+
+THE ENTIRE CAST FROM THE FIRST ART OF FIGHTING IS HERE (WITH THE EXCEPTIONS OF TODO AND MR. KARATE), ALONG WITH A FEW NEW CHARACTERS: TAKUMA SAKAZAKI, RYO AND YURI'S FATHER; YURI SAKAZAKI, TAKUMA'S DAUGHTER AND RYO'S SISTER; EIJI KISARAGI, A SWORN ENEMY OF THE SAKAZAKIS; TEMJIN, A MONGOLIAN TRUCKER; AND A YOUNGER VERSION OF GEESE HOWARD, WHOM YOU FACE AS THE LAST BOSS IF YOU BEAT THE GAME WITHOUT LOSING A ROUND.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>7B17F79B</hash>
+		<image>./images/Art of Fighting 2 (World).png</image>
+		<thumbnail>./boxart/Art of Fighting 2 (World).png</thumbnail>
+		<marquee>./marquee/Art of Fighting 2 (World).png</marquee>
+		<video>./snap/Art of Fighting 2 (World).mp4</video>
+	</game>
+	<game id="38347" source="ScreenScraper.fr">
+		<path>./Art of Fighting 3 - The Path of the Warrior (World).chd</path>
+		<name>Art of Fighting 3: The Path of The Warrior</name>
+		<desc>IN THIS THIRD AND FINAL ENTRY IN THE ART OF FIGHTING SERIES, THE STORY SHIFTS FROM RYO SAKAZAKI TO HIS BEST FRIEND AND RIVAL, ROBERT GARCIA, AS HE VENTURES INTO MEXICO TO TRY AND LOCATE FREIA LAWRENCE, A CHILDHOOD FRIEND, WHO ASKED FOR HIS HELP. HOWEVER, HE LEAVES WITHOUT THE CONSENT OF THE GARCIA FOUNDATION, WHICH SENDS AN AGENT NAMED KARMAN COLE TO GET HIM BACK. BUT NOT EVERYTHING IS AS SIMPLE AS IT LOOKS... BECAUSE ROBERT IS NOT THE ONLY ONE LOOKING FOR FREIA.
+
+ART OF FIGHTING 3: THE PATH OF THE WARRIOR FEATURES TEN PLAYABLE CHARACTERS WITH DIFFERENT FIGHTING STYLES, A COMPLETELY NEW FIGHTING SYSTEM BASED ON JOYSTICK AND BUTTON COMBINATIONS, AND INCREDIBLY DETAILED GRAPHICS AND ANIMATION.</desc>
+		<rating>0</rating>
+		<releasedate>19960914T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5F9D9B2E</hash>
+		<image>./images/Art of Fighting 3 - The Path of the Warrior (World).png</image>
+		<thumbnail>./boxart/Art of Fighting 3 - The Path of the Warrior (World).png</thumbnail>
+		<marquee>./marquee/Art of Fighting 3 - The Path of the Warrior (World).png</marquee>
+		<video>./snap/Art of Fighting 3 - The Path of the Warrior (World).mp4</video>
+	</game>
+	<game id="38345" source="ScreenScraper.fr">
+		<path>./Art of Fighting (World).chd</path>
+		<name>Art of Fighting</name>
+		<desc>YURI SAKAZAKI HAS BEEN KIDNAPPED! HER BIG BROTHER RYO SAKAZAKI AND ROBERT GARCIA, HIS BEST FRIEND, GO SEARCH FOR HER ON THE STREETS OF SOUTH TOWN. AS THEY GO DEEPER AND DEEPER THEY WILL FIND CLUES AS TO WHO ORDERED THE KIDNAPPING, THE SAKAZAKI FAMILY'S RELATION TO THE MOB, AND A PERSON FROM THEIR PAST.
+
+THIS FIGHTING GAME IS A COIN-OP CONVERSION OF THE NEO-GEO HIT OF THE SAME NAME, AND HAS ALL CHARACTERS, STAGES, AND MOVES FEATURED IN THE ARCADE UNIT. UNLIKE THE ORIGINAL ARCADE VERSION, PLAYERS CAN NOW PLAY AS MR. BIG AND THE ELUSIVE MR. KARATE.
+
+THE GAMEPLAY DIFFERS FROM MOST FIGHTING GAMES. IN THIS GAME, YOU HAVE A SPIRIT METER. A SPIRIT METER IS IN THE GAME AND WILL DECREASE AS YOU PERFORM SPECIAL MOVES. IT CAN BE RECHARGED, BUT DOING SO LEAVES YOU OPEN TO ATTACK. WHEN YOUR HEALTH IS ALMOST GONE, YOU CAN PERFORM A SECRET COMBINATION THAT WILL UNLEASH A DEADLY ATTACK ON YOUR OPPONENT - PROVIDED YOU HAVE A FULL SPIRIT METER.</desc>
+		<rating>0.75</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>515F341B</hash>
+		<image>./images/Art of Fighting (World).png</image>
+		<thumbnail>./boxart/Art of Fighting (World).png</thumbnail>
+		<marquee>./marquee/Art of Fighting (World).png</marquee>
+		<video>./snap/Art of Fighting (World).mp4</video>
+	</game>
+	<game id="38348" source="ScreenScraper.fr">
+		<path>./Baseball Stars 2 (World).chd</path>
+		<name>Baseball Stars 2</name>
+		<desc>THIS FOLLOW UP TO BASEBALL STARS PROFESSIONAL FEATURES A FAST-PACED ARCADE STYLE BASEBALL WITH SIX FICTITIOUS TEAMS, EACH WITH THEIR OWN STRENGTHS AND WEAKNESSES.  THERE ARE TWO DIFFICULTIES OF PLAY: BEGINNER, WHICH AUTOMATICALLY FIELDS THE BALL FOR THE PLAYER WHILE EXCITING HAS THE PLAYER DO THE FIELD MANUALLY.  ADDITIONALLY, THERE ARE TWO MAIN MODES OF PLAY WHERE IN THE SINGLE PLAYER MODE THE PLAYER WILL COMPETE IN A FIFTEEN-TEAM TOURNAMENT OR GO HEAD-TO-HEAD AGAINST A FRIEND IN A MULTIPLAYER MODE.
+
+THE STANDARD RULES OF BASEBALL STILL APPLY, BUT IT ADDS POWER-UPS THAT THE PLAYER CAN PICK UP AND USE DURING THE GAME, SUCH AS THE ABILITY FOR THEIR PITCHER TO THROW FASTER OR THEIR BATTER TO HIT BETTER.  THEY CAN ALSO SUBSTITUTE A PLAYER DURING THE GAME, BUT ARE LIMITED TO THREE SUBSTITUTIONS PER GAME. THE GAME IS SHOWN THROUGH 2D GRAPHICS WITH COMIC-STYLE CUTSCENES TO ILLUSTRATE THE ACTION, SUCH AS DRAMATIC CATCHES AND HOME RUNS THAT WILL POP-UP DURING THE GAME.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>A434FDFA</hash>
+		<image>./images/Baseball Stars 2 (World).png</image>
+		<thumbnail>./boxart/Baseball Stars 2 (World).png</thumbnail>
+		<marquee>./marquee/Baseball Stars 2 (World).png</marquee>
+		<video>./snap/Baseball Stars 2 (World).mp4</video>
+	</game>
+	<game id="38349" source="ScreenScraper.fr">
+		<path>./Baseball Stars Professional (World).chd</path>
+		<name>Baseball Stars Professional</name>
+		<desc>O BASEBALL STARS PROFESSIONAL É O SUCESSOR DAS BASEBALL STARS PARA O NINTENDO ENTERTAINMENT SYSTEM E APRESENTA GRÁFICOS EM ESTILO DE BANDA DESENHADA. ESCOLHA ENTRE UMA VARIEDADE DE EQUIPES QUE INCLUEM PLANETAS CELESTES, CORPOS CELESTES, DEMÔNIOS DAS SOMBRAS, CAVALEIROS DA BATALHA, SUPERESTRELAS FABULOSAS E MUITOS OUTROS. EM SEGUIDA, SELECIONE O CAMPO ONDE O JOGO SERÁ REALIZADO: O ESTÁDIO SNK OU A CÚPULA SNK. CADA CAMPO TEM AS MESMAS DIMENSÕES, MAS SUA CAPACIDADE VARIA. O JOGO É JOGADO DA MESMA MANEIRA QUE O BEISEBOL NORMAL. APRESENTA UM VS. MODO EM QUE DOIS JOGADORES PODEM JOGAR UNS CONTRA OS OUTROS</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>DF95ED79</hash>
+		<image>./images/Baseball Stars Professional (World).png</image>
+		<thumbnail>./boxart/Baseball Stars Professional (World).png</thumbnail>
+		<marquee>./marquee/Baseball Stars Professional (World).png</marquee>
+		<video>./snap/Baseball Stars Professional (World).mp4</video>
+	</game>
+	<game id="38350" source="ScreenScraper.fr">
+		<path>./Blue's Journey (World).chd</path>
+		<name>Blue's Journey</name>
+		<desc>IN BLUE'S JOURNEY ON NEO GEO, YOU PLAY A CHARACTER THAT LOOKS LIKE AN INSECT LIVING ON A PLANET PLANT. YOUR LITTLE WORLD IS SHAKEN WHEN A BIG BAD GUY JUST INSTALL ITS TECHNOLOGY IN YOUR SMALL ECOSYSTEM. EVOLVE AS ONE OR TWO PLAYERS ON A SCROLLING SCREEN IN THIS PLATFORM GAME, WHERE EACH LEVEL MUST BE COMPLETED WITHIN A TIME LIMIT. WALK ACROSS FOUR REGIONS TO MEET AND DEFEAT THE FINAL BOSS.</desc>
+		<rating>0.3</rating>
+		<developer>ADK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>1F33F40D</hash>
+		<image>./images/Blue's Journey (World).png</image>
+		<thumbnail>./boxart/Blue's Journey (World).png</thumbnail>
+		<marquee>./marquee/Blue's Journey (World).png</marquee>
+		<video>./snap/Blue's Journey (World).mp4</video>
+	</game>
+	<game id="38351" source="ScreenScraper.fr">
+		<path>./Breakers (World).chd</path>
+		<name>Breakers</name>
+		<desc>IN BREAKERS, CHOOSE ONE OF EIGHT FIGHTERS WHO HAVE THEIR OWN MOVES AND SPECIAL ATTACKS. THERE ARE EIGHT STAGES IN THE GAME, AND EACH STAGE HAS TWO BATTLES. THE OBJECT OF EACH BATTLE IS TO DRAIN YOUR OPPONENT'S ENERGY IN ORDER TO WIN THE BATTLE. IF THERE IS A DRAW, A THIRD BATTLE TAKES PLACE. IF THE TIME LIMIT EXPIRES, THE PLAYER WITH THE LESS ENERGY LOSES THE BATTLE. ONCE YOU HAVE COMPLETED ALL EIGHT STAGES, YOU WILL FACE A OPPONENT THAT IS MUCH TOUGHER THAN PREVIOUS ONES. DIFFERENT ENDINGS AND IN-GAME DIALOG ARE VIEWED DEPENDING ON THE CHARACTER THAT YOU SELECT.</desc>
+		<rating>0</rating>
+		<developer>Visco Corporation</developer>
+		<publisher>Visco Corporation</publisher>
+		<players>1-2</players>
+		<hash>FB256ED4</hash>
+		<image>./images/Breakers (World).png</image>
+		<thumbnail>./boxart/Breakers (World).png</thumbnail>
+		<marquee>./marquee/Breakers (World).png</marquee>
+		<video>./snap/Breakers (World).mp4</video>
+	</game>
+	<game id="38352" source="ScreenScraper.fr">
+		<path>./Burning Fight (World).chd</path>
+		<name>Burning Fight</name>
+		<desc>A FAMÍLIA CASTELLA DA METRO CITY COMEÇOU A ARRUINAR A PACATA CIDADE DE OSAKA COM O VIOLENTO GRUPO JAPONÊS "HEIWA-GUMI". PARA PARAR A LUTA, OS DETETIVES DA POLÍCIA DO METRÔ ENVIARAM DOIS PERSONAGENS PERIGOSOS, DUKE E BILLY, PARA O JAPÃO. COM O APOIO DO FAMOSO DETETIVE JAPONÊS RYU, ELES DECIDIRAM INVADIR A FORTALEZA DO INIMIGO. VIOLÊNCIA IMPIEDOSA NAS LUZES DE NEON DE OSAKA. HAVERÁ UM FIM PARA ESTA GUERRA?NNNNBURNING FIGHT É UM JOGO DE LUTA DE RUA LATERAL SEMELHANTE AO FINAL FIGHT. COMO DUKE, BILLY OU RYU, VOCÊ DEVE LUTAR EM VÁRIOS LOCAIS EM OSAKA. NO INÍCIO DO JOGO, VOCÊ SÓ PODE USAR SEUS PUNHOS PARA LIDAR COM GANGUES, MAS QUEBRANDO COISAS COMO CABINES TELEFÔNICAS E PLACAS DE RUA AO LONGO DO CAMINHO, VOCÊ PODE OBTER NOVAS ARMAS E MAIS SAÚDE. NO FINAL DE CADA LOCAL, VOCÊ TERÁ QUE DERROTAR UM CHEFE PARA CONTINUAR A MISSÃO.</desc>
+		<rating>0.85</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>A4CE7925</hash>
+		<image>./images/Burning Fight (World).png</image>
+		<thumbnail>./boxart/Burning Fight (World).png</thumbnail>
+		<marquee>./marquee/Burning Fight (World).png</marquee>
+		<video>./snap/Burning Fight (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="38353" source="ScreenScraper.fr">
+		<path>./Puzzle Bobble (World).chd</path>
+		<name>Bust-A-Move</name>
+		<desc>THE CLASSIC GAME BUBBLE BOBBLE IS THE ANCESTOR OF PUZZLE BOBBLE. YOUR AIM IN EACH STAGE IS TO BREAK ALL THE BUBBLES, BY BREAKING 3 OR MORE OF THE SAME COLOR.  THE GAME CONTAINS A TWO-PLAYER MODE WHERE EACH PLAYER TRIES TO BREAK ALL BUBBLES FIRST.</desc>
+		<rating>0.85</rating>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<players>1-2</players>
+		<hash>42BB23E7</hash>
+		<image>./images/Puzzle Bobble (World).png</image>
+		<thumbnail>./boxart/Puzzle Bobble (World).png</thumbnail>
+		<marquee>./marquee/Puzzle Bobble (World).png</marquee>
+		<video>./snap/Puzzle Bobble (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="143259" source="ScreenScraper.fr">
+		<path>./Crossed Swords II (World).chd</path>
+		<name>Crossed Swords 2</name>
+		<desc>CROSSED SWORDS II IS A "HACK 'N SLASH" ACTION GAME RELEASED IN 1995 BY ADK EXCLUSIVELY FOR THE NEO GEO CD. IT IS THE SEQUEL TO 1991'S CROSSED SWORDS. 
+
+CROSSED SWORDS II FEATURES THE SAME GAMEPLAY FROM ITS PREDECESSOR (CROSSED SWORDS ON NEO GEO MVS AND AES). THE PLAYER IS GIVEN A FIRST-PERSON VIEW WITH A THIRD-PERSON SILHOUETTE/WIRE-FRAME VIEW OF THE CHARACTER SIMILAR TO THE PUNCH-OUT!! ARCADE GAME. NEW TO THIS SEQUEL IS THE ADDITION OF A NEW BUTTON FOR JUMPING AND DASHING, GIVING THE PLAYER MORE MANEUVERABILITY AND ALLOWING HIM TO DODGE INCOMING ATTACKS. BY PRESSING THE ATTACK BUTTON AFTER DASHING THE PLAYER WILL MAKE A HORIZONTAL SLASH WHICH STUNS ENEMIES BRIEFLY, AND BY PRESSING THE ATTACK BUTTON AFTER JUMPING THE PLAYER WILL MAKE A POWERFUL DOWNWARD SLASH.
+
+THE PLAYER CAN NOW CHOOSE BETWEEN THREE CHARACTERS: THE KNIGHT, WHO IS POWERFUL BUT SLOW, THE DANCER, WHO IS FAST BUT WEAK, AND THE NINJA, WHO HAS BALANCED STATS. AFTER CHOOSING THE CHARACTER, THE PLAYER MUST CHOOSE BETWEEN TWO GAME MODES: "NAUSIZZ COUNTERATTACK" IS THE MAIN STORY MODE, WHILE "KARIVIDU ARENA" IS A SURVIVAL MODE WHERE THE PLAYER FIGHTS VARIOUS ENEMIES CONSECUTIVELY. 
+
+THE STORY: DECADES HAVE PASSED SINCE THE MESSENGER OF DARKNESS NAUSIZZ WAS DEFEATED AND PEACE RESTORED TO THE KINGDOM OF BELKANA. THIS PEACE WOULDN'T LAST FOREVER, THOUGH, AS NAUSIZZ'S DEMONIC CASTLE HAS ARISEN FROM THE DEPTHS OF HELL AND HIS HORDES OF DEMONS ONCE AGAIN THREATEN THE PEACEFUL KINGDOM WITH CHAOS AND DESTRUCTION. THREE BRAVE WARRIORS THEN JOIN TOGETHER TO PUT AND END TO NAUSIZZ'S REIGN OF TERROR.</desc>
+		<rating>0</rating>
+		<hash>92CFE21F</hash>
+		<image>./images/Crossed Swords II (World).png</image>
+		<thumbnail>./boxart/Crossed Swords II (World).png</thumbnail>
+		<marquee>./marquee/Crossed Swords II (World).png</marquee>
+		<video>./snap/Crossed Swords II (World).mp4</video>
+	</game>
+	<game id="38354" source="ScreenScraper.fr">
+		<path>./Crossed Swords (World).chd</path>
+		<name>Crossed Swords</name>
+		<desc>AS A KNIGHT, YOU MUST TRAVEL THE COUNTRYSIDE FIGHTING MONSTERS AND BANDITS USING YOUR SWORD AND SHIELD. WHEN YOU ENTER COMBAT THE VIEW CHANGES TO A PSEUDO 1ST-PERSON PERSPECTIVE WHERE THE BODY OF YOUR KNIGHT IS OUTLINED SO THAT YOU CAN SEE THE CREATURES THAT YOU ARE FIGHTING. WHEN ENEMIES HAVE BEEN DEFEATED, THEY DROP MONEY AND POWER-UPS. THERE ARE SEVEN CHAPTERS IN THE GAME, AND EACH CHAPTER (EXCEPT ONE) STARTS WITH YOU ENTERING A MERCHANT'S SHOP AND BUYING WEAPONS USING THE MONEY THAT YOU HAVE COLLECTED SO FAR. THERE ARE ALSO ALTERNATE PATHS WHICH TAKE YOU TO DIFFERENT PARTS OF THE GAME. AT THE START OF THE GAME, YOU MAY CHOOSE A CHAPTER (FROM ONE TO THREE ONLY) YOU WANT TO START AT.</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>2998DFA7</hash>
+		<image>./images/Crossed Swords (World).png</image>
+		<thumbnail>./boxart/Crossed Swords (World).png</thumbnail>
+		<marquee>./marquee/Crossed Swords (World).png</marquee>
+		<video>./snap/Crossed Swords (World).mp4</video>
+	</game>
+	<game id="38355" source="ScreenScraper.fr">
+		<path>./Cyber-Lip (World).chd</path>
+		<name>Cyber-Lip</name>
+		<desc>CYBER-LIP IS A 1-2 PLAYER SIDE-SCROLLING GAME WHERE YOU MUST FIGHT YOUR WAY THROUGH SEVERAL AREAS, AND DEFEAT A BOSS AT THE END OF EACH ONE. ALONG THE WAY, YOU CAN PICK UP A VARIETY OF WEAPONS ALONG THE WAY, AND USE THEM AGAINST THE INVADERS. BY DESTROYING CERTAIN ENEMIES, YOU RECEIVE A "CORE BOT", WHICH IS A RING THAT SURROUNDS YOU, AND WHEN THIS TOUCHES THE INVADERS, THEY ARE DESTROYED. TIME IS AGAINST YOU. WHEN IT EXPIRES, YOU LOSE A LIFE. BETWEEN MOST LEVELS, YOU ENTER AN ELEVATOR THAT ALLOWS YOU TO GO IN WHATEVER DIRECTION THAT YOU PLEASE: UP OR DOWN. IF YOU WAIT TO LONG TO MAKE A SELECTION, YOU ARE AUTOMATICALLY PLACED IN THE "DANGER" MISSION.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>E0EC849E</hash>
+		<image>./images/Cyber-Lip (World).png</image>
+		<thumbnail>./boxart/Cyber-Lip (World).png</thumbnail>
+		<marquee>./marquee/Cyber-Lip (World).png</marquee>
+		<video>./snap/Cyber-Lip (World).mp4</video>
+	</game>
+	<game id="38356" source="ScreenScraper.fr">
+		<path>./Double Dragon (World).chd</path>
+		<name>Double Dragon</name>
+		<desc>RELEASED AROUND THE SAME TIME AS THE FILM OF THE SAME NAME AND LOOSELY BASED ON ITS STORY, THIS INSTALLMENT IN THE DOUBLE DRAGON SERIES ALSO MOVES AWAY FROM THE TRADITIONAL ROAM-THE-STREETS-FIGHTING TO A PURE ONE-ON-ONE FIGHTER. THERE ARE TEN CHARACTERS TO CHOOSE FROM, INCLUDING BILLY AND JIMMY AND THE GAME HAS COLORFUL INTERACTIVE BACKGROUNDS, SCREEN ZOOMING, OVER-THE-TOP SPECIAL MOVES AND WITH THE INCLUSION OF DOUBLE JUMPS, COMBOS, CHARGES FOR THE LOSING PLAYER AND COUNTER HITS, THERE IS PLENTY OF ROOM FOR ADVANCED FIGHTING STRATEGIES.</desc>
+		<rating>0</rating>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>ECC92F06</hash>
+		<image>./images/Double Dragon (World).png</image>
+		<thumbnail>./boxart/Double Dragon (World).png</thumbnail>
+		<marquee>./marquee/Double Dragon (World).png</marquee>
+		<video>./snap/Double Dragon (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Fatal Fury - The Battle of Fury (World).chd</path>
+		<name>Fatal Fury - The Battle of Fury (World)</name>
+		<rating>0</rating>
+		<image>./images/Fatal Fury - The Battle of Fury (World).png</image>
+		<thumbnail>./boxart/Fatal Fury - The Battle of Fury (World).png</thumbnail>
+		<marquee>./marquee/Fatal Fury - The Battle of Fury (World).png</marquee>
+		<video>./snap/Fatal Fury - The Battle of Fury (World).mp4</video>
+	</game>
+	<game id="38358" source="ScreenScraper.fr">
+		<path>./Fatal Fury 2 (World).chd</path>
+		<name>Fatal Fury 2</name>
+		<desc>AGAIN, THE LONE WOLVES RETURN!
+
+GEESE HOWARD MAY HAVE BEEN DEFEATED, BUT THAT DOESN'T MEAN ALL IS PEACEFUL. A NEW OPPONENT, WOLFGANG KRAUSER, HAS COME FORTH TO BEGIN A NEW FATAL FURY TOURNAMENT. THE LONE WOLVES RETURN, WITH NEW FACES AMONGST THEM. ONLY ONE CAN BE DECLARED THE WINNER THOUGH.</desc>
+		<rating>0.85</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>FC6F8DBE</hash>
+		<image>./images/Fatal Fury 2 (World).png</image>
+		<thumbnail>./boxart/Fatal Fury 2 (World).png</thumbnail>
+		<marquee>./marquee/Fatal Fury 2 (World).png</marquee>
+		<video>./snap/Fatal Fury 2 (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="38359" source="ScreenScraper.fr">
+		<path>./Fatal Fury 3 - Road to the Final Victory (World).chd</path>
+		<name>Fatal Fury 3</name>
+		<desc>AN ADAPTATION OF THE NEO-GEO FIGHTING GAME.  2-D SCROLLING ONE-ON-ONE FIGHTER WITH PSEUDO-3D ASPECTS (THAT ALLOWS FOR PLAYERS TO "ESCAPE" HOLDS, THROWS, AND OTHER ATTACKS.)  PART OF THE INCESTUOUSLY-POPULAR SNK FIGHTING GAME PANTHEON...</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>EED6ADDD</hash>
+		<image>./images/Fatal Fury 3 - Road to the Final Victory (World).png</image>
+		<thumbnail>./boxart/Fatal Fury 3 - Road to the Final Victory (World).png</thumbnail>
+		<marquee>./marquee/Fatal Fury 3 - Road to the Final Victory (World).png</marquee>
+		<video>./snap/Fatal Fury 3 - Road to the Final Victory (World).mp4</video>
+	</game>
+	<game id="38360" source="ScreenScraper.fr">
+		<path>./Fatal Fury Special (World).chd</path>
+		<name>Fatal Fury Special</name>
+		<desc>FATAL FURY SPECIAL IS AN IMPROVED VERSION OF SNK'S 2D ONE-ON-ONE FIGHTER FATAL FURY 2. IT'S A CONVERSION OF THE 1993 ARCADE GAME OF THE SAME NAME. THE OBJECTIVE IS STILL TO WIN THE TOURNAMENT BY DEFEATING ALL OTHER FIGHTERS INCLUDING END BOSS WOLFGANG KRAUSER. A NEW COUNT DOWN MODE (DEFEAT AS MANY OPPONENTS AS POSSIBLE IN 3 MINUTES). EXTRA COLOR SCHEMES FOR EVERY CHARACTER. NEW AND IMPROVED BACKGROUND GRAPHICS. DOLBY SURROUND SOUND SUPPORT. FATAL FURY SPECIAL STILL FEATURES THE SERIES' TRADEMARK PSEUDO-3D MOVEMENT ALONG TWO PLANES.</desc>
+		<rating>0.85</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>186EA728</hash>
+		<image>./images/Fatal Fury Special (World).png</image>
+		<thumbnail>./boxart/Fatal Fury Special (World).png</thumbnail>
+		<marquee>./marquee/Fatal Fury Special (World).png</marquee>
+		<video>./snap/Fatal Fury Special (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="143260" source="ScreenScraper.fr">
+		<path>./Football Frenzy (World).chd</path>
+		<name>Football Frenzy</name>
+		<desc>UNE SIMULATION DE FOOTBALL AMÉRICAIN MÉLANGEANT DES STRATÉGIES COMPLEXES ET UN JEU PHYSIQUE INTENSE. LE BUT DU JEU EST DE MARQUER DES POINTS EN PORTANT LE BALLON OVALE JUSQU'À LA ZONE DE BUT DE L'ÉQUIPE ADVERSE AU BOUT DU TERRAIN. POUR AVANCER, LE JOUEUR PEUT PORTER LE BALLON EN SLALOMANT ENTRE LES DÉFENSEURS OU LE LANCER À UN COÉQUIPIER.</desc>
+		<rating>0</rating>
+		<hash>9315849D</hash>
+		<image>./images/Football Frenzy (World).png</image>
+		<thumbnail>./boxart/Football Frenzy (World).png</thumbnail>
+		<marquee>./marquee/Football Frenzy (World).png</marquee>
+		<video>./snap/Football Frenzy (World).mp4</video>
+	</game>
+	<game id="38363" source="ScreenScraper.fr">
+		<path>./Galaxy Fight - Universal Warriors (World).chd</path>
+		<name>Galaxy Fight: Universal Warriors</name>
+		<desc>AS THE MILLENNIUM NEARS IN THE FAR FUTURE, A BEING OF ULTIMATE POWER NAMED FELDEN WILL MAKE HIS APPEARANCE IN THE GALAXY. IT IS UNKNOWN WHETHER HE COMES TO DESTROY ALL LIVING BEINGS OR USE HIS POWERS FOR GOOD, BUT WHATEVER THE REASON A GROUP OF SKILLED FIGHTERS FROM ALL CORNERS OF THE UNIVERSE HAVE DECIDED TO BEAT EACH OTHER UP IN ORDER TO FACE OFF AGAINST HIM AND CLAIM HIS POWER.
+
+ENTER GALAXY FIGHT, A ONE-ON-ONE 2D FIGHTER SET IN THE FAR FUTURE AND FEATURING SCI-FI CHARACTERS AND SETTINGS. IN THE GAME ITSELF, YOU HAVE TO SELECT FROM 8 FIGHTERS, EACH WITH HIS UNIQUE MOVESET AND STATS, AND THEN ATTEMPT TO DEFEAT THE OTHER CHARACTER IN 2 OUT OF 3 MATCHES USING YOUR SPECIAL MOVES AND ATTACKS WHILE AVOIDING YOUR OPPONENT'S STRIKES.
+
+FEATURES SINGLE PLAYER AND 2-PLAYER VS. GAME MODES, SECRET BOSSES AND BONUS ROUNDS.</desc>
+		<rating>0</rating>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<players>1-2</players>
+		<hash>3DE89F66</hash>
+		<image>./images/Galaxy Fight - Universal Warriors (World).png</image>
+		<thumbnail>./boxart/Galaxy Fight - Universal Warriors (World).png</thumbnail>
+		<marquee>./marquee/Galaxy Fight - Universal Warriors (World).png</marquee>
+		<video>./snap/Galaxy Fight - Universal Warriors (World).mp4</video>
+	</game>
+	<game id="38364" source="ScreenScraper.fr">
+		<path>./Ghost Pilots (World).chd</path>
+		<name>Ghost Pilots</name>
+		<desc>GHOST PILOTS IS AN OVERHEAD MILITARY PLANE SHOOTER, IN WHICH YOU MUST SHOOT DOWN FIGHTER JETS BY EITHER USING BULLETS OR BOMBS. ONCE YOU HAVE KILLED ENOUGH FIGHTER JETS, YOU WILL HAVE TO DEFEAT A BOSS FIGHTER JET IN ORDER TO CONTINUE. AFTER SOME STAGES, YOU MUST SELECT A ROUTE TO CONTINUE YOUR JOURNEY ON. POWER-UPS CAN BE COLLECTED THAT WILL INCREASE YOUR FIREPOWER, AND STARS CAN BE OBTAINED FOR EXTRA POINTS.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>D8ED8D94</hash>
+		<image>./images/Ghost Pilots (World).png</image>
+		<thumbnail>./boxart/Ghost Pilots (World).png</thumbnail>
+		<marquee>./marquee/Ghost Pilots (World).png</marquee>
+		<video>./snap/Ghost Pilots (World).mp4</video>
+	</game>
+	<game id="143257" source="ScreenScraper.fr">
+		<path>./Ironclad (World).chd</path>
+		<name>Ironclad</name>
+		<desc>EN 1920, UN PETIT ROYAUME DU NOM DE CHOPPU PROSPÈRE AU BORD DE LA MER NOIRE GRÂCE À LA CULTURE D'OLIVIERS. LE PAYS VOISIN EST LA RÉPUBLIQUE DU MASQUE DE FER, AVEC À SA TÊTE UN CERTAIN JACOB, AVIDE DE CONQUÊTES. JACOB NE TARDE PAS À ENVAHIR ET CONQUÉRIR CHOPPU AU TERME D'UNE VICTOIRE ÉCRASANTE, LA RÉPUBLIQUE DU MASQUE DE FER AYANT UNE AVANCE MILITAIRE ET SCIENTIFIQUE CONSIDÉRABLE. LE ROYAUME DE CHOPPU SE FAIT PILLER, LES OLIVERAIES SONT DÉTRUITES ET LES USINES D'HUILE SONT DÉTOURNÉES POUR FABRIQUER DES ARMES. CETTE PETITE CONTRÉE JADIS PAISIBLE EST DEVENUE UN AMONCÈLEMENT DE DÉCOMBRES, EAUX USÉES ET AUTRES FUMÉES. INSULTÉ, BLESSÉ, LE PEUPLE DE CHOPPU PRÉPARE SA RIPOSTE AVEC UN MODÈLE D'AVION INÉDIT, UTILISANT UN ROBOT AUTONOME. À VOUS D'AFFRONTER L'ARMÉE DE LA RÉPUBLIQUE DU MASQUE DE FER ET DE DÉTRUIRE LA MACHINE PERSONNELLE DE JACOB, UN ROBOT GÉANT : KAMIJYÔ, LE "FINAL COMMANDER".</desc>
+		<rating>0</rating>
+		<hash>00ACEC4A</hash>
+		<image>./images/Ironclad (World).png</image>
+		<thumbnail>./boxart/Ironclad (World).png</thumbnail>
+		<marquee>./marquee/Ironclad (World).png</marquee>
+		<video>./snap/Ironclad (World).mp4</video>
+	</game>
+	<game id="38365" source="ScreenScraper.fr">
+		<path>./Kabuki Klash (World).chd</path>
+		<name>Kabuki Klash</name>
+		<desc>"KABUKI KLASH" IS A 2D FIGHTING GAME THAT FEATURES CHARACTERS FROM THE FAMOUS JAPANESE ROLE-PLAYING SERIES  TENGAI MAKYOU, ALSO KNOWN AS FAR EAST OF EDEN. THE HEROES OF THE THREE FIRST TENGAI MAKYOU GAMES MUST PARTICIPATE IN A TOURNAMENT AND FIND OUT WHO IS THE MOST SKILLFUL FIGHTER IN THE MAGICAL LAND OF JIPANG (WHICH IS VERY SIMILAR TO THE MEDIEVAL JAPAN). THE CHARACTERS INCLUDE WELL-KNOWN FAR EAST OF EDEN HEROES SUCH AS ZIRIA, MANJIMARU, KABUKI, OROCHIMARU, AND OTHERS - A TOTAL OF EIGHT PLAYABLE CHARACTERS. DURING THE FIGHTS, YOU CAN EITHER PUNCH, KICK, OR USE SPECIAL ATTACKS, THAT REQUIRE A PRECISE USAGE OF BUTTONS AND ALSO DEPLETE YOUR MAGIC GAUGE. THERE ARE RANDOM ITEMS (SUCH AS HEALING POTIONS) THROWN ON THE BATTLE FIELD WHILE YOU ARE FIGHTING, WHICH YOU CAN PICK UP.</desc>
+		<rating>0.55</rating>
+		<developer>Red Company Corporation</developer>
+		<publisher>Hudson</publisher>
+		<players>1-2</players>
+		<hash>2539F807</hash>
+		<image>./images/Kabuki Klash (World).png</image>
+		<thumbnail>./boxart/Kabuki Klash (World).png</thumbnail>
+		<marquee>./marquee/Kabuki Klash (World).png</marquee>
+		<video>./snap/Kabuki Klash (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Karnov's Revenge (World).chd</path>
+		<name>Karnov's Revenge (World)</name>
+		<rating>0</rating>
+		<image>./images/Karnov's Revenge (World).png</image>
+		<thumbnail>./boxart/Karnov's Revenge (World).png</thumbnail>
+		<marquee>./marquee/Karnov's Revenge (World).png</marquee>
+		<video>./snap/Karnov's Revenge (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./King of Fighters '98, The - The Slugfest (World).chd</path>
+		<name>King of Fighters '98, The - The Slugfest (World)</name>
+		<rating>0</rating>
+		<image>./images/King of Fighters '98, The - The Slugfest (World).png</image>
+		<thumbnail>./boxart/King of Fighters '98, The - The Slugfest (World).png</thumbnail>
+		<marquee>./marquee/King of Fighters '98, The - The Slugfest (World).png</marquee>
+		<video>./snap/King of Fighters '98, The - The Slugfest (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./King of Fighters '99, The - Millennium Battle (World).chd</path>
+		<name>King of Fighters '99, The - Millennium Battle (World)</name>
+		<rating>0</rating>
+		<image>./images/King of Fighters '99, The - Millennium Battle (World).png</image>
+		<thumbnail>./boxart/King of Fighters '99, The - Millennium Battle (World).png</thumbnail>
+		<marquee>./marquee/King of Fighters '99, The - Millennium Battle (World).png</marquee>
+		<video>./snap/King of Fighters '99, The - Millennium Battle (World).mp4</video>
+	</game>
+	<game id="38372" source="ScreenScraper.fr">
+		<path>./King of the Monsters 2 - The Next Thing (World).chd</path>
+		<name>King of the Monsters 2: The Next Thing</name>
+		<desc>THE OBJECT OF KING OF THE MONSTERS 2 IS SIMILAR TO ITS PREDECESSOR. CHOOSE FROM THREE MONSTERS WHICH INCLUDE A LARGE LIZARD, A LARGE ROBOTIC APE, AND A HUGE MUTANT HUMAN. THEN WALK THROUGH EACH CITY, MAKING SURE TO DESTROY EVERYTHING IN SITE, INCLUDING PLANES, BUILDINGS, AND OTHER CREATURES. WHEN SMASHED, SOME BUILDINGS REVEAL POWER-UPS THAT MAKE YOUR CHARACTER MORE POWERFUL. AT THE END OF EACH CITY, YOU GO HEAD-TO-HEAD WITH THE BOSS CREATURE. THERE ARE SMALL STAGES IN BETWEEN WHERE YOU FIGHT A SECOND MONSTER FOR BONUS POINTS, OR YOU FALL FROM THE SKY AND LAND UNDERWATER WHERE YOU TRY TO COLLECT POINTS AND POWER-UPS WHILE FALLING.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B3389386</hash>
+		<image>./images/King of the Monsters 2 - The Next Thing (World).png</image>
+		<thumbnail>./boxart/King of the Monsters 2 - The Next Thing (World).png</thumbnail>
+		<marquee>./marquee/King of the Monsters 2 - The Next Thing (World).png</marquee>
+		<video>./snap/King of the Monsters 2 - The Next Thing (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Last Blade 2, The (World).chd</path>
+		<name>Last Blade 2, The (World)</name>
+		<rating>0</rating>
+		<image>./images/Last Blade 2, The (World).png</image>
+		<thumbnail>./boxart/Last Blade 2, The (World).png</thumbnail>
+		<marquee>./marquee/Last Blade 2, The (World).png</marquee>
+		<video>./snap/Last Blade 2, The (World).mp4</video>
+	</game>
+	<game id="38375" source="ScreenScraper.fr">
+		<path>./Last Hope (World).chd</path>
+		<name>Last Hope</name>
+		<desc>PILOT YOUR Z-42 WARPSTAR STARFIGHT AS EARTH'S LAST LINE OF DEFENSE AGAINST THE ADVANCE OF THE EVIL EMPIRE. LAST HOPE - A SELF-DESCRIBED "TACTICAL SHOOTER" PLAYS MUCH LIKE A  TOUGHER VERSION OF A CLASSIC GAME R-TYPE. THE GAME, HOWEVER, ADDS A MINOR INNOVATION TO THE TRIED AND TRUE FORMULA BY ALLOWING THE PLAYER TO ROTATE THE PROTECTION POD 360° AROUND THE SHIP.
+THE GAME FEATURES SIX DISTINCT STAGES AND FOUR WEAPONS.</desc>
+		<rating>0</rating>
+		<developer>NG:Dev.Team</developer>
+		<publisher>NG:Dev.Team</publisher>
+		<players>1</players>
+		<hash>F7897BC0</hash>
+		<image>./images/Last Hope (World).png</image>
+		<thumbnail>./boxart/Last Hope (World).png</thumbnail>
+		<marquee>./marquee/Last Hope (World).png</marquee>
+		<video>./snap/Last Hope (World).mp4</video>
+	</game>
+	<game id="38376" source="ScreenScraper.fr">
+		<path>./Last Resort (World).chd</path>
+		<name>Last Resort</name>
+		<desc>LAST RESORT IS A 1-2 PLAYER HORIZONTAL SHOOTER GAME WHERE YOU PILOT A SPACECRAFT ACROSS HORIZONTALLY SCROLLING CITYSCAPES AND WASTELANDS, WHILE DESTROYING HORDES OF ENEMY SPACECRAFT, EITHER METALLIC OR ORGANIC, INCLUDING HUGE MID- AND END-LEVEL GUARDIANS. GETTING POWER-UP PODS PROVIDE THE CRAFT WITH A MOVABLE DRONE WHICH CAN BE CHARGED UP AND FIRED OR LOCKED INTO POSITION AND USED AS AN EXTRA GUN OR 'BATTERING RAM'/SHIELD. A CLONE OF R-TYPE (BOTH ONE AND TWO), BUT WITH MUCH IMPROVED GRAPHICS AND SOUND</desc>
+		<rating>0.8</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>16D9B9F9</hash>
+		<image>./images/Last Resort (World).png</image>
+		<thumbnail>./boxart/Last Resort (World).png</thumbnail>
+		<marquee>./marquee/Last Resort (World).png</marquee>
+		<video>./snap/Last Resort (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="143266" source="ScreenScraper.fr">
+		<path>./League Bowling (World).chd</path>
+		<name>League Bowling</name>
+		<desc>IL EST POSSIBLE DE FAIRE UNE PARTIE COMPRENANT DE UN À QUATRE JOUEURS. SI CE NOMBRE VOUS SEMBLE RESTREINT, ON PEUT LE PORTER À HUIT ! CELA EST RENDU POSSIBLE PAR L'OPPORTUNITÉ D'UTILISER LE CÂBLE DE LIAISON DÉJÀ RENCONTRÉ DANS RIDING HERO. MÊME SI LA MISE EN PLACE EST DES PLUS FASTIDIEUSES (DEUX TÉLÉVISEURS, DEUX CONSOLES ET DEUX EXEMPLAIRES DU JEU), L'INITIATIVE RESTE FORT SYMPATHIQUE.
+
+IL Y A TROIS MODES DE JEU.
+	
+- REGULATION : IL S'AGIT D'UNE PARTIE CLASSIQUE AVEC 10 TOURS DE UN OU DEUX LANCERS, SAUF POUR LE DERNIER, POUVANT EN AVOIR TROIS.
+- FLASH : ASSEZ ORIGINAL, IL PERMET DE MARQUER UNE GÉNÉREUSE RATION DE POINTS SUPPLÉMENTAIRES, ENTRE 100 ET 300 POUR UN STRIKE ET 50 ET 200 POUR UN SPARE. UN CURSEUR ÉCLAIRE ATERNATIVEMENT DIFFÉRENTES CASES ET S'ARRÊTE AU MOMENT PRÉCIS OÙ LES QUILLES SONT PERCUTÉES. CELA APPORTE DONC UNE PETITE DIMENSION TACTIQUE.
+- STRIKE 90 : LES RÈGLES SONT SIMILAIRES AU REGULATION, À CECI PRÈS QUE LES STRIKES ET LES SPARES RAPPORTENT RESPECTIVEMENT DES BONUS DE 90 ET 60 POINTS.</desc>
+		<rating>0</rating>
+		<hash>87AAF3F0</hash>
+		<image>./images/League Bowling (World).png</image>
+		<thumbnail>./boxart/League Bowling (World).png</thumbnail>
+		<marquee>./marquee/League Bowling (World).png</marquee>
+		<video>./snap/League Bowling (World).mp4</video>
+	</game>
+	<game id="38377" source="ScreenScraper.fr">
+		<path>./Magical Drop 2 (World).chd</path>
+		<name>Magical Drop II</name>
+		<desc>IN MAGICAL DROP II, YOU CONTROL A CLOWN THAT CAN GRAB AND THROW BALLOONS. YOU HAVE TO MATCH THREE BALLOONS OF THE SAME COLOUR OR MORE VERTICALLY TO POP THEM AND CLEAR THE SCREEN. YOU CAN HOLD MULTIPLE BALLOONS OF THE SAME COLOUR AT ONCE AND CAUSE CONSECUTIVE COLLISIONS. THERE ARE SPECIAL BALLOONS THAT CANNOT BE REMOVED THAT EASILY AND POWER-UPS THAT CLEAR ENTIRE ROWS OR PROVIDE ADDITIONAL HELP.
+
+DEPENDING OF THE ORIGINATING COUNTRY, THERE ARE DIFFERENT GAME MODES:
+
+1. SURVIVAL: PLAY AS LONG AS YOU CAN - AN ENDLESS FLOW OF BALLOONS APPEARS AT A RAPIDLY INCREASING SPEED WHILE YOU MOVE UP LEVELS.
+
+2. PUZZLE: YOU HAVE A LIMITED TIME TO CLEAR A FIXED SET OF BALLOONS BEFORE TIME RUNS OUT.
+
+3. VS MODE: FIGHT THE CPU OR A FELLOW PLAYER IN A DIRECT SPLIT-SCREEN DUEL. EACH CHARACTER HAS SPECIFIC ITEM BALLOONS DURING GAMEPLAY.</desc>
+		<rating>0</rating>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<players>1-2</players>
+		<hash>3F434EAF</hash>
+		<image>./images/Magical Drop 2 (World).png</image>
+		<thumbnail>./boxart/Magical Drop 2 (World).png</thumbnail>
+		<marquee>./marquee/Magical Drop 2 (World).png</marquee>
+		<video>./snap/Magical Drop 2 (World).mp4</video>
+	</game>
+	<game id="38378" source="ScreenScraper.fr">
+		<path>./Magician Lord (World).chd</path>
+		<name>Magician Lord</name>
+		<desc>MAGICIAN LORD PUTS YOU IN CHARGE OF ELTA, A WIZARD WHO HAS THE TASK OF COLLECTING EIGHT BOOKS OF WISDOM FROM THE CLUTCHES OF AZ ATORSE, THE GOD OF DESTRUCTION. BY COLLECTING THE RIGHT POWER-UPS ALONG THE WAY, YOU CAN TRANSFORM INTO DIFFERENT CHARACTERS, INCLUDING THE RAJIN, SAMURAI, WATERMAN, SHINOBI, POSEIDON, AND DRAGON WARRIOR. EACH CHARACTER HAS DIFFERENT ABILITIES. THERE ARE EIGHT AREAS IN THE GAME, AND EACH STAGE ENDS WITH YOU TRYING TO DEFEAT BOTH A GUARDIAN AND THE END-OF-AREA BOSS (WHICH ARE BASICALLY ATORSE'S INCARNATIONS). ONE OF THE FIRST GAMES THAT DEMONSTRATED THE GRAPHICAL ABILITIES OF THE NEO-GEO.</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>5FEAC62C</hash>
+		<image>./images/Magician Lord (World).png</image>
+		<thumbnail>./boxart/Magician Lord (World).png</thumbnail>
+		<marquee>./marquee/Magician Lord (World).png</marquee>
+		<video>./snap/Magician Lord (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Metal Slug 2 (World).chd</path>
+		<name>Metal Slug 2 (World)</name>
+		<rating>0</rating>
+		<image>./images/Metal Slug 2 (World).png</image>
+		<thumbnail>./boxart/Metal Slug 2 (World).png</thumbnail>
+		<marquee>./marquee/Metal Slug 2 (World).png</marquee>
+		<video>./snap/Metal Slug 2 (World).mp4</video>
+	</game>
+	<game id="107062" source="ScreenScraper.fr">
+		<path>./Metal Slug (World).chd</path>
+		<name>Metal Slug</name>
+		<desc>PLAYERS CONTROL MARCO AND TARMA, BOTH MEMBERS OF THE SPECIAL-OPS FORCE TEAM PEREGRINE FALCON (COMMONLY KNOWN AS TEAM PF), AND BATTLE THEIR WAY THROUGH STAGE AFTER STAGE OF INTENSE ACTION. THE GOAL IS TO TRY TO OVERTHROW GENERAL MORDEN AND WIN BACK THE STOLEN WEAPON, THE METAL SLUG. PLAYERS MUST BLAST THROUGH WAVES OF ENEMIES AND MACHINES (WHILE ALSO JUMPING OVER ANY OBSTACLES IN THE WAY) TO ADVANCE THROUGH THE STAGES. IT'S NOT AS HOPELESS AS IT MIGHT SOUND, THOUGH - WEAPONS SUCH AS HEAVY MACHINE GUNS, SHOTGUNS, ROCKET LAUNCHERS AND FLAMETHROWERS, AS WELL AS THE METAL SLUG ITSELF (WHICH APPEARS FREQUENTLY IN THE GAME), WILL MAKE THE BATTLE EASIER.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<hash>36A980EF</hash>
+		<image>./images/Metal Slug (World).png</image>
+		<thumbnail>./boxart/Metal Slug (World).png</thumbnail>
+		<marquee>./marquee/Metal Slug (World).png</marquee>
+		<video>./snap/Metal Slug (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="38380" source="ScreenScraper.fr">
+		<path>./Mutation Nation (World).chd</path>
+		<name>Mutation Nation</name>
+		<desc>THE SLUM... AN AREA OF TOWN COMPLETELY FORGOTTEN. NO ONE COULD IMAGINE THE CRUELNESS SUFFERED BY INNOCENT PEOPLE WHO WERE TRANSFORMED INTO HORRIBLE MUTANT CREATURES BY GENETIC EXPERIMENTS. THEY HOVERED EVERYWHERE AND COMPLETELY TOOK CONTROL OF THE TOWN.
+
+MUTATION NATION IS A 1-2 PLAYER ACTION GAME WHERE YOU MUST CONTROL YOUR HERO AND BEAT UP ANY MUTANT THAT GETS IN YOUR WAY, BY EITHER USING YOUR FISTS OR ONE OF FOUR SPECIAL ATTACKS. A BOSS AT THE END OF EACH AREA NEEDS TO BE DEFEATED IF YOU WANT TO PROCEED FURTHER THROUGH THE GAME.</desc>
+		<rating>0</rating>
+		<releasedate>19950225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B6EA6E56</hash>
+		<image>./images/Mutation Nation (World).png</image>
+		<thumbnail>./boxart/Mutation Nation (World).png</thumbnail>
+		<marquee>./marquee/Mutation Nation (World).png</marquee>
+		<video>./snap/Mutation Nation (World).mp4</video>
+	</game>
+	<game id="38381" source="ScreenScraper.fr">
+		<path>./NAM-1975 (World).chd</path>
+		<name>NAM-1975</name>
+		<desc>AS A SOLDIER, YOU AND/OR A FRIEND MUST TRAVEL THROUGH VIETNAM TO STOP THE SCIENTIST AND HIS WORLD DESTROYING LASER MACHINE. IN THE GAME, YOU MUST SHOOT ENEMY SOLDIERS, TANKS, HELICOPTERS, JEEPS, AND MORE BY AIMING THE MACHINE GUN CURSOR AND SHOOTING AT THEM. WITHIN EACH LOCATION, YOU CAN PICK UP MORE POWERFUL WEAPONS SUCH AS MACHINE GUNS AND FLAME THROWERS, BUT THESE HAVE A LIMITED SUPPLY OF AMMUNITION. PRESSING DOWN ON THE JOYSTICK WHILE RUNNING AT THE SAME TIME WILL CAUSE YOUR CHARACTER TO PERFORM A SOMERSAULT AND BE INVINCIBLE FOR A SECOND. AT THE END OF EVERY LOCATION, YOU WILL NEED TO DEFEAT A SERIES OF BOSSES, WHICH ARE NOT THE SAME EVERY PLAY. CUT-SCENES ARE VIEWED IN BETWEEN LOCATIONS, AND CONTAIN DRAMATIC DIGITIZED DIALOGUE.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>657B153A</hash>
+		<image>./images/NAM-1975 (World).png</image>
+		<thumbnail>./boxart/NAM-1975 (World).png</thumbnail>
+		<marquee>./marquee/NAM-1975 (World).png</marquee>
+		<video>./snap/NAM-1975 (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Neo DriftOut (World).chd</path>
+		<name>Neo DriftOut (World)</name>
+		<rating>0</rating>
+		<image>./images/Neo DriftOut (World).png</image>
+		<thumbnail>./boxart/Neo DriftOut (World).png</thumbnail>
+		<marquee>./marquee/Neo DriftOut (World).png</marquee>
+		<video>./snap/Neo DriftOut (World).mp4</video>
+	</game>
+	<game id="143256" source="ScreenScraper.fr">
+		<path>./Neo Turf Masters (World).chd</path>
+		<name>Neo Turf Masters</name>
+		<desc>CE JEU VOUS PROPOSERA DIFFÉRENTS MODES DE JEU, AFIN DE DÉCOUVRIR 4 PARCOURS DE 18 TROUS CHACUN À DEUX OU SEUL. JE NE PEUX QUE VOUS CONSEILLER LE MODE 2 JOUEURS, QUI EST NETTEMENT PLUS PLAISANT ET OCCASIONNERA UNE COMPÉTITION TERRIBLE ! VOYONS UN PEU LE DÉROULEMENT DU MODE SOLO, LE MODE À 2 N'ÉTANT QU'UNE SIMPLE EXTENSION DE CELUI-CI. 
+
+.:FAIRWAY !
+VOUS AUREZ LE CHOIX ENTRE 6 GOLFEURS DIFFÉRENTS AU DÉPART DU JEU. J'INSISTE SUR LEUR DIFFÉRENCE, CAR LEURS CARACTÉRISTIQUES TECHNIQUES SONT COMPLÈTEMENT DIFFÉRENTES D'UN JOUEUR À UN AUTRE. UN TEL SERA PERFORMANT POUR TIRER FORT, UN AUTRE SERA UN VRAI PROFESSIONNEL DU PUT (TIR EFFECTUÉ SUR LE GREEN, LA ZONE ENTOURANT LE TROU SIGNALÉ PAR UN DRAPEAU)... ET LA JAUGE DE PUT EST GRADUÉE DE FAÇON PLUS OU MOINS FINE, CE QUI VOUS EMPÊCHE D'ÊTRE AUSSI PRÉCIS QUE VOUS LE SOUHAITERIEZ DANS VOTRE TIR. LE DRIVE (CAPACITÉ À TIRER LOIN) EST AUSSI IMPORTANT, CAR IL VOUS PERMET DE VOUS RAPPROCHER AU PLUS PRÈS DU TROU PLUS RAPIDEMENT, PAR CONTRE CECI EST À DOUBLE TRANCHANT CAR IL FAUT ÊTRE PRÉCIS UNE FOIS SUR LE GREEN. 
+
+PERSONNELEMENT, JE VOUS RECOMMANDE LE JOUEUR ALLEMAND, QUI EST TRÈS POLYVALENT ET POSSÈDE UN EXCELLENT DRIVE. EN REVANCHE, POUR LES DÉBUTANTS, ÉVITEZ ABSOLUMENT LE BRÉSILIEN : CELUI-CI POSSÈDE LE PLUS FORT DRIVE DU JEU, MAIS SE RÉVÈLE INCAPABLE DE PUTTER CORRECTEMENT, CAR SA JAUGE DE PUT EST DRAMATIQUEMENT INADAPTÉE À CE GENRE D'EXERCICE ! 
+
+UNE FOIS LE JOUEUR CHOISI, VOUS DEVREZ CHOISIR LE PARCOURS DE VOTRE CHOIX. CHACUN COMPORTE 18 TROUS, ET EST DE DIFFICULTÉ CROISSANTE. TRÈS SIMPLES ET DE LONGUEUR RAISONNABLE AU DÉBUT, ILS PEUVENT ATTEINDRE PLUS DE 600 MÈTRES ET COMPORTER DES BUNKERS (ZONES CIRCULAIRES DU TERRAIN REMPLIES DE SABLE) ET DES POINTS D'EAU À TOUS LES COINS POUR LES DERNIERS !
+
+
+MAINTENANT, QUELQUES POINTS DE RÈGLES POUR BIEN COMPRENDRE LE JEU... 
+
+- DANS CE JEU COMME AU GOLF EN GÉNÉRAL, IL EST NÉCESSAIRE D'AMENER LA BALLE DANS LE TROU EN UN MINIMUM DE COUPS PRÈS DU TROU GRÂCE À UN BON DRIVE. POUR CELA, VOUS DEVREZ CHOISIR VOTRE CLUB AVANT DE TIRER. PAR DÉFAUT, LE CLUB LE PLUS ADAPTÉ EST PROPOSÉ. MAIS VOUS POUVEZ ESSAYER D'UTILISER UN CLUB AYANT UN DRIVE PLUS ÉLEVÉ, MAIS LA JAUGE DE TIR SERA PLUS RESTREINTE, ET VOTRE TIR AURA PLUS DE CHANCES D'ÉCHOUER. ENFIN, UNE FOIS SUR LE GREEN (ZONE D'HERBRE TRÈS RASE ENTOURANT LE TROU), IL EST NÉCESSAIRE D'ÊTRE PRÉCIS POUR TERMINER LE PARCOURS. 
+
+- CHAQUE TERRAIN POSSÈDE UN PAR, QUI EST LE NOMBRE MOYEN DE COUPS RÉALISÉS POUR FINIR CE PARCOURS. CETTE VALEUR OSCILLE GÉNÉRALEMENT ENTRE 3 ET 5 COUPS. SI VOUS FAITES UN PAR, C'EST DONC UN EXPLOIT TOUT RELATIF. A PAR-1, VOUS RÉALISEREZ UN BIRDIE, À PAR-2 UN EAGLE, ET ENFIN À PAR-3 UN ALBATROSS. CE DERNIER EST TRÈS RARE À RÉALISER. LE PLUS BEAU COUP RESTE SANS CONTESTE LE HOLE-IN-ONE, OU ENCORE TROU-EN-UN, C'EST-À-DIRE QUE VOUS METTEZ LA BALLE DANS LE TROU DU PREMIER COUP. CECI EST BIEN ENTENDU RARISSIME...ENFIN, CITONS LES BOGEY ET DOUBLE BOGEY, RESPECTIVEMENT PAR +1 ET PAR +2. AU-DELÀ DE PAR +3, VOUS SEREZ AUTOMATIQUEMENT RECALÉ DU TERRAIN ! 
+
+- CHAQUE COUP EN-DEHORS DES ZONES DE JEU VOUS OCCASIONNERA UNE PÉNALITÉ DE +1, IL EST DONC RECOMMANDÉ D'ÊTRE TRÈS PRUDENT ! CE COUP EST ANNONCÉ COMME O.B, OU OUT OF BOUNDS (HORS DES LIMITES). DÉFINISSONS D'AILLEURS LES ZONES DE JEU : LE FAIRWAY REPRÉSENTE L'HERBE RASE DU TERRAIN, CENTRALE ET FACILE À JOUER. EN REVANCHE, LE RUGH ET LE HEAVY ROUGH SONT RESPECTIVEMENT L'HERBE ET L'HERBE DENSE, ET IL EST TRÈS DIFFICILE D'EN SORTIR, TOUT COMME D'UN BUNKER D'AILLEURS. 
+
+.:LE GAMEPLAY
+
+MAINTENANT QUE VOUS ÊTES INCOLLABLES SUR LES RÈGLES, ÉTUDIONS UN PEU COMMENT SE JOUE CETTE PETITE MERVEILLE. HÉ BIEN, LE PLUS SIMPLEMENT DU MONDE ! VOUS DISPOSEZ D'UNE JAUGE PERMETTANT DE RÉGLER LA PUISSANCE DE VOTRE DRIVE, IL VOUS SUFFIT POUR CELA D'APPUYER AU BON MOMENT QUAND LA JAUGE MONTE ET DESCEND ALTERNATIVEMENT. UNE FOIS LE DRIVE RÉGLÉ, VOUS DEVREZ DÉTERMINER LA HAUTEUR DE VOTRE TIR. CECI EST CRUCIAL EN CAS DE VENT ! VOUS AUREZ TOUT INTÉRÊT À CE QUE VOTRE BALLE AIT UNE TRAJECTOIRE QUASI-RECTILIGNE SI VOUS AVEZ LE VENT DE FACE, ALORS QUE SI LE VENT VOUS EST FAVORABLE ET QUE VOUS ÊTES LOIN DU GREEN, TIREZ EN CLOCHE POUR VOUS FAIRE PORTER PAR LE VENT... 
+
+VOUS POURREZ ÉGALEMENT METTRE DE L'EFFET DANS VOTRE TIR, AVEC LES BOUTONS B ET C DE LA MANETTE. CES EFFETS PORTENT LE NOM DE SLICE ET HOOK SELON QU'ILS ENTRAINENT LA BALLE PLUTOT À GAUCHE OU PLUTOT À DROITE. METTRE DE L'EFFET PEUT SE RÉVÉLER UTILE SI VOUS VOUS TROUVEZ JUSTE SOUS UN ARBRE ET QUE VOUS VOULEZ ÉVITER QUE VOTRE BALLE NE PARTE S'Y ACCROCHER À PEINE PARTIE, CE QUI PEUT MALHEURESEMENT ARRIVER ET LA FREINERA NOTABLEMENT... 
+
+
+ENFIN, QUAND VOUS ÊTES SUR LE GREEN, RIEN DE PLUS SIMPLE ! LA PUISSANCE DU TIR À FOURNIR EST INDIQUÉE SUR LA JAUGE, À VOUS D'APPUYER AU BON MOMENT, CE QUI EST PLUS OU MOINS FACILE SUIVANT LE JOUEUR QUE VOUS AUREZ CHOISI (HÉ OUI JE VOUS AVAIS PRÉVENU !). IL EST ÉGALEMENT NÉCESSAIRE DE TENIR COMPTE DE LA PENTE, INDIQUÉ PAR L'ONGLET NOMMÉ GRAIN, IL FAUT DONC TIRER PLUS À DROITE OU PLUS À GAUCHE POUR CONTRE-BALANCER L'EFFET DE LA PENTE. N'HÉSITEZ PAS AUSSI À TIRER UN PEU PLUS FORT QUE RECOMMANDÉ SI LA PENTE JOUE CONTRE VOUS !</desc>
+		<rating>0</rating>
+		<hash>638FF665</hash>
+		<image>./images/Neo Turf Masters (World).png</image>
+		<thumbnail>./boxart/Neo Turf Masters (World).png</thumbnail>
+		<marquee>./marquee/Neo Turf Masters (World).png</marquee>
+		<video>./snap/Neo Turf Masters (World).mp4</video>
+	</game>
+	<game id="38383" source="ScreenScraper.fr">
+		<path>./Ninja Combat (World).chd</path>
+		<name>Ninja Combat</name>
+		<desc>NINJA COMBAT PUTS YOU IN THE MIDDLE OF, YOU GUESSED IT, A NINJA INVASION! THE KAGE ICHIZOKU CLAN HAS CAUSED A GIANT TOWER TO APPEAR IN THE MIDDLE OF THE CITY, AND IT'S UP TO OUR HEROES JOE (PLAYER ONE) AND HAYABUSA (PLAYER TWO) TO TAKE THEM DOWN. BOTH CHARACTERS CAN ATTACK INCOMING ENEMIES BY USING SHURIKEN (THROWING STARS) WHICH CAN BE UPGRADED AND THEY CAN ALSO UNLEASH A FAIRLY STRONG SPECIAL ATTACK WHICH DESTROYS MANY ENEMIES ON THE SCREEN, OR DOES HEAVY DAMAGE TO THE BOSSES, BUT IT TAKES AWAY A QUARTER OF YOUR LIFE.</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<players>1-2</players>
+		<hash>22A7140F</hash>
+		<image>./images/Ninja Combat (World).png</image>
+		<thumbnail>./boxart/Ninja Combat (World).png</thumbnail>
+		<marquee>./marquee/Ninja Combat (World).png</marquee>
+		<video>./snap/Ninja Combat (World).mp4</video>
+	</game>
+	<game id="38384" source="ScreenScraper.fr">
+		<path>./Ninja Commando (World).chd</path>
+		<name>Ninja Commando</name>
+		<desc>A MARS CORPORATION CAUSOU UM PROBLEMA NO TEMPO CONTÍNUO, E CABE AOS COMANDOS NINJA IR ATRÁS DE SPIDER, LÍDER DO MC, E PARAR O SEU TRABALHO MALIGNO.NNNNCOMO UM DOS TRÊS COMANDOS NINJA, VOCÊ DEVE LUTAR CONTRA SEUS OPONENTES EM DIFERENTES PERÍODOS DE TEMPO, COMO A ERA PRIMITIVA, A ERA EGÍPCIA E A ERA DA GUERRA CIVIL JAPONESA. CADA UM DOS NINJA COMMANDOS TEM SEU PRÓPRIO ESTILO ESPECÍFICO DE ATAQUE E UM SUPER PODER ESPECIAL DE "TRUQUE NINJA". CAIXAS E OUTRAS UNIDADES DE ARMAZENAMENTO PODEM SER QUEBRADAS PARA REVELAR POWER-UPS QUE ATUALIZAM SUAS ARMAS. OS CHEFES SÃO FIGURAS HISTÓRICAS SUPERPODEROSAS E INCLUEM UM DINOSSAURO, UM SAMURAI MEDIEVAL, UM FARAÓ EGÍPCIO, ETC. CUT-SCENES OCORREM ENTRE OS DIFERENTES PERÍODOS DE TEMPO.</desc>
+		<rating>0</rating>
+		<releasedate>19941031T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>5A9D779A</hash>
+		<image>./images/Ninja Commando (World).png</image>
+		<thumbnail>./boxart/Ninja Commando (World).png</thumbnail>
+		<marquee>./marquee/Ninja Commando (World).png</marquee>
+		<video>./snap/Ninja Commando (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Ninja Master's - Haou Ninpou-Chou (World).chd</path>
+		<name>Ninja Master's - Haou Ninpou-Chou (World)</name>
+		<rating>0</rating>
+		<image>./images/Ninja Master's - Haou Ninpou-Chou (World).png</image>
+		<thumbnail>./boxart/Ninja Master's - Haou Ninpou-Chou (World).png</thumbnail>
+		<marquee>./marquee/Ninja Master's - Haou Ninpou-Chou (World).png</marquee>
+		<video>./snap/Ninja Master's - Haou Ninpou-Chou (World).mp4</video>
+	</game>
+	<game id="143270" source="ScreenScraper.fr">
+		<path>./Zintrick (World).chd</path>
+		<name>Oshidashi Zintrick</name>
+		<desc>YET ANOTHER PUZZLE GAME ON NEO-GEO! EVERY FOUR YEARS TO ASGARD, THE "TOURNAMENT ZINTRICK" OCCURS. DURING THE COMPETITION, PARTICIPANTS FROM AROUND THE WORLD COME TO COMPETE FOR THE HONOR, GLORY AND WEALTH.</desc>
+		<rating>0</rating>
+		<releasedate>19960622T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>F6A0A755</hash>
+		<image>./images/Zintrick (World).png</image>
+		<thumbnail>./boxart/Zintrick (World).png</thumbnail>
+		<marquee>./marquee/Zintrick (World).png</marquee>
+		<video>./snap/Zintrick (World).mp4</video>
+	</game>
+	<game id="143271" source="ScreenScraper.fr">
+		<path>./OverTop (World).chd</path>
+		<name>Over Top</name>
+		<desc>A L'INSTAR DE STRIKERS 1945 PLUS, OVER TOP SE PAYE LE LUXE D'AVOIR UNE INTRODUCTION EN IMAGES DE SYNTHÈSE ANIMÉES, CHOSE ASSEZ RARE SUR NEO GEO POUR ÊTRE SOULIGNÉE. LE SOUCIS, C'EST QUE CETTE 3D N'EST PAS DU MEILLEUR GOÛT ET QUE LE RÉSULTAT LAISSE FRANCHEMENT À DÉSIRER. 
+
+ET QUAND ON COMMENCE UNE PARTIE, ON SE REND COMPTE QUE LE DESIGN DES VOITURES EST ÉGALEMENT AVEC CE RENDU 3D PAS VRAIMENT BRILLANT (BIEN QU'ASSEZ DÉTAILLÉ). HEUREUSEMENT, LES DÉCORS, VARIÉS ET ASSEZ FINS, SONT LÀ POUR RELEVER LE NIVEAU. ON TROUVE AINSI HUIT VÉHICULES QUI PROPOSENT CHACUN UNE CONDUITE TRÈS DIFFÉRENTE. IL FAUT DIRE QU'ENTRE FERRARI ET UN BON VIEUX CAMION, IL Y A QUELQUES DIFFÉRENCES... 
+
+LE PRINCIPE DE JEU RESTE TOTALEMENT IDENTIQUE À CELUI DE TRASH RALLY : EN 3D ISOMÉTRIQUE, VOUS PILOTEZ UNE BAGNOLE ET DEVEZ AVANCER LE PLUS LOIN POSSIBLE AVANT QUE LE COMPTEUR NE SE SOIT TOTALEMENT ÉGRAINÉ. 
+
+SAUF QUE CETTE FOIS, CE NE SONT PAS DES CIRCUITS MAIS UNE ROUTE QUI VA VOUS FAIRE VOUS BALADER DANS LA MONTAGE, DANS LE DÉSERT, ETC. DU COUP, APPRENDRE LES TRACÉS PAR COEUR N'EST ABSOLUMENT PAS NÉCESSAIRE, MAIS ON Y PERD CE CÔTÉ APPRENTISSAGE QUI REND TRASH RALLY SI ADDICTIF. CETTE ENVIE DE RECOMMENCER SE VOIT TRÈS AMOINDRIE PUISQUE DANS OVER TOP, LORSQUE LE COMPTEUR TOMBE À ZÉRO, VOUS DEVEZ RECOMMENCER L'ENSEMBLE DU PÉRIPLE. UNE CARTE VOUS ANNONCE ÉGALEMENT JUSQU'OÙ VOUS ÊTES ARRIVÉ, À L'IMAGE D'UN OUTRUN.</desc>
+		<rating>0</rating>
+		<hash>C5076F57</hash>
+		<image>./images/OverTop (World).png</image>
+		<thumbnail>./boxart/OverTop (World).png</thumbnail>
+		<marquee>./marquee/OverTop (World).png</marquee>
+		<video>./snap/OverTop (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Pleasuregoal - 5 on 5 Mini Soccer (World).chd</path>
+		<name>Pleasuregoal - 5 on 5 Mini Soccer (World)</name>
+		<rating>0</rating>
+		<image>./images/Pleasuregoal - 5 on 5 Mini Soccer (World).png</image>
+		<thumbnail>./boxart/Pleasuregoal - 5 on 5 Mini Soccer (World).png</thumbnail>
+		<marquee>./marquee/Pleasuregoal - 5 on 5 Mini Soccer (World).png</marquee>
+		<video>./snap/Pleasuregoal - 5 on 5 Mini Soccer (World).mp4</video>
+	</game>
+	<game id="107066" source="ScreenScraper.fr">
+		<path>./Power Spikes II (World).chd</path>
+		<name>Power Spikes 2</name>
+		<desc>POWER SPIKES II IS A 2D SIDE-VIEW VOLLEYBALL GAME THAT PRESENTS PLAYERS WITH THREE DIFFERENT LEAGUES. PLAYERS CAN COMPETE IN EITHER THE MEN'S LEAGUE OR WOMEN'S LEAGUE USING STANDARD VOLLEYBALL RULES, OR IN A CYBER LEAGUE USING CYBERNETICALLY ENHANCED PLAYERS. THE RULES ARE THE SAME FOR ALL THREE LEAGUES.</desc>
+		<rating>0</rating>
+		<developer>Video System Co.</developer>
+		<publisher>SNK</publisher>
+		<hash>F80BEB6E</hash>
+		<image>./images/Power Spikes II (World).png</image>
+		<thumbnail>./boxart/Power Spikes II (World).png</thumbnail>
+		<marquee>./marquee/Power Spikes II (World).png</marquee>
+		<video>./snap/Power Spikes II (World).mp4</video>
+	</game>
+	<game id="38386" source="ScreenScraper.fr">
+		<path>./Pulstar (World).chd</path>
+		<name>Pulstar</name>
+		<desc>AN ALIEN THREAT LOOMS OVER THE GALAXY AND ONLY YOU AND YOUR TRUSTY STAR FIGHTER CAN DEFEAT THEM.
+
+PULSTAR IS A 2D SIDE-SCROLLING SHOOTER IN WHICH YOU CONTROL YOUR SHIP AS IT MAKES ITS WAY PAST STAGES FILLED WITH WAVES AFTER WAVES OF ENEMIES BENT ON YOUR DESTRUCTION. YOU CAN UPGRADE YOUR MAIN WEAPONS BY COLLECTING POWER-UPS AND CHARGING UP ENERGY ALLOWS YOU TO RELEASE CHARGED ATTACKS AT THE COST OF POWER-UP CONSUMPTION. ADDITIONALLY YOUR SHIP COMES WITH AN EVER-PRESCENT "OPTION" GUN POD THAT FLOATS AROUND YOUR SHIP AND WHICH CAN BE POSITIONED IN SEVERAL CONFIGURATIONS TO HELP PROTECT THE SHIP OR INCREASE ITS FIREPOWER.
+
+WHILE COMPLETELY 2D, THE GAME USES PRE-RENDERED 3D SPRITES AND INCLUDES FULLY ANIMATED CUTSCENES BETWEEN EACH LEVEL. ALSO FEATURES SUPPORT FOR TWO-PLAYER GAMEPLAY.</desc>
+		<rating>0.75</rating>
+		<developer>Aicom Corporation</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<image>./images/Pulstar (World).png</image>
+		<thumbnail>./boxart/Pulstar (World).png</thumbnail>
+		<marquee>./marquee/Pulstar (World).png</marquee>
+		<video>./snap/Pulstar (World).mp4</video>
+	</game>
+	<game id="143265" source="ScreenScraper.fr">
+		<path>./Puzzled (World).chd</path>
+		<name>Puzzled</name>
+		<desc>THIS GAME IS A CROSSOVER BETWEEN TETRIS AND BREAKOUT (OR ARKANOID) IN THAT YOUR BALLOON IS TRAPPED AT THE BOTTOM OF THE PUZZLE, AND YOU HAVE TO BREAK THE LINES DOWN FAR ENOUGH TO GIVE IT A CLEAR FLIGHT PATH TO THE TOP. OPEN UP A SPACE, AND YOUR BALLOON (SHARK-SHAPED IF YOU'RE THE BOY) FLOATS TO THE TOP, AND IT'S ON TO THE NEXT FLOOR IN THE TOWER. SOUND EASY? IT IS... AT FIRST. THE TOWER IS DIVIDED INTO MULTIPLE FLOORS, WITH 10 STAGES (PUZZLES) PER FLOOR. THERE ARE OVER 50 PUZZLES HERE AND THE ACTION GETS PRETTY FURIOUS.</desc>
+		<rating>0</rating>
+		<hash>45A6A694</hash>
+		<image>./images/Puzzled (World).png</image>
+		<thumbnail>./boxart/Puzzled (World).png</thumbnail>
+		<marquee>./marquee/Puzzled (World).png</marquee>
+		<video>./snap/Puzzled (World).mp4</video>
+	</game>
+	<game id="143268" source="ScreenScraper.fr">
+		<path>./Ragnagard (World).chd</path>
+		<name>Ragnagard</name>
+		<desc>ESTE É UM JOGO DE LUTA ORIGINALMENTE CRIADO EM 3D, E SPRITES 2D TRANSPOSTOS (CONHECIDOS COMO COMPUTER GRAPHICS, OU CG), COMO DONKEY KONG COUNTRY OU PULSTAR. HISTÓRIA: É UM MUNDO OCUPADO PELOS DEUSES, O MUNDO EM QUE REINA O DEUS DO ARCO DE ORION. ELE DECIDIU OFERECER SUA SUCESSÃO EM UM TORNEIO EM OITO DEUSES. O VENCEDOR TERÁ ACESSO AO TRONO DO DEUS DO ARCO DE ORION. UMA LUTA ENTRE OS DEUSES ESTÁ PRESTES A COMEÇAR.</desc>
+		<rating>0</rating>
+		<hash>6BEF0A1A</hash>
+		<image>./images/Ragnagard (World).png</image>
+		<thumbnail>./boxart/Ragnagard (World).png</thumbnail>
+		<marquee>./marquee/Ragnagard (World).png</marquee>
+		<video>./snap/Ragnagard (World).mp4</video>
+	</game>
+	<game id="38388" source="ScreenScraper.fr">
+		<path>./Real Bout Fatal Fury 2 - The Newcomers (World).chd</path>
+		<name>Real Bout Fatal Fury 2: The Newcomers</name>
+		<desc>SNK'S FATAL FURY FIGHTING SERIES REACHES ITS 7TH EPISODE BRINGING A LOT OF "INNOVATIONS" AND SOME SIGNIFICANT CHANGES, STARTING FROM CHARACTERS: ALL THE 20 FIGHTERS FROM PREVIOUS GAME RETURN WITH NEW ARTWORKS AND BATTLE STAGES COMPLETELY REDRAWN, AS WELL AS SOME REMODELED (OR NEW) MOVES.
+
+THE TRADITIONAL FIGHTING SYSTEM COMES WITH SENSIBLE MODIFICATIONS, LIKE THE REMOVAL OF BOTH "RANK SYSTEM" (SSS, SS, S, AAA ETC.) AND GROUND BREAKABLE OBJECTS. THE MATCH SYSTEM USING 2 BATTLE PLANS (FOREGROUND/BACKGROUND) REMAINS SEMI-INTACT, BECAUSE NOW SOME BATTLE FIELDS (LIKE CHENG SINZAN'S STAGE) USES A SINGLE PLANE, FORCING THE PLAYERS TO USE ONLY THE BASIC DEFENSE TO AVOID ATTACKS.
+
+BUT THE MAIN ADDITION OF THIS TITLE (AND THE REASON FOR SUBTITLE "THE NEWCOMERS") ARE 2 NEW CHARACTERS ENTERING FOR FATAL FURY'S MAIN CAST: RICK STROWD, A MYSTERIOUS FIGHTER WITH A PARTICULAR FIGHTING STYLE AND LI XIANGFEI, A YOUNG FEMALE CHINESE MARTIAL ARTS FIGHTER.</desc>
+		<rating>0.65</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>2F83BD90</hash>
+		<image>./images/Real Bout Fatal Fury 2 - The Newcomers (World).png</image>
+		<thumbnail>./boxart/Real Bout Fatal Fury 2 - The Newcomers (World).png</thumbnail>
+		<marquee>./marquee/Real Bout Fatal Fury 2 - The Newcomers (World).png</marquee>
+		<video>./snap/Real Bout Fatal Fury 2 - The Newcomers (World).mp4</video>
+	</game>
+	<game id="38389" source="ScreenScraper.fr">
+		<path>./Real Bout Fatal Fury Special (World).chd</path>
+		<name>Real Bout Fatal Fury Special</name>
+		<desc>IT WAS THE SEQUEL OF REAL BOUT FATAL FURY, WITH WHICH SIXTH DELIVERY OF THE SERIES WAS ARRIVED AT HIS, IN THIS WE HAD 20 CHARACTERS (TERRY BOGARD, ANDY BOGARD, JOE HIGASHI, MAI SHIRANUI, TUNG FU RUE, CHENG CHINZAN, LAURENCE BLOOD, WOLFGANG KRAUSER, DUCK KING, KIM KAPHWAN, BLUE MARY, HON-FU, BOB WILSON, MOCHIZUKI SOKAKU, FRANCO BASH, RYUJI YAMAZAKI, JIN CHONSHU, JIN CHONREI, BILLY KANE AND GEESE HOWARD) AND THEIR ASPECTS ARE 100% REMODELED.
+ALSO, THE GAME MAINTAINS THE CAPACITY TO DESTROY SOME THINGS OF THE FIGHT ZONE.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>0CA1D0A9</hash>
+		<image>./images/Real Bout Fatal Fury Special (World).png</image>
+		<thumbnail>./boxart/Real Bout Fatal Fury Special (World).png</thumbnail>
+		<marquee>./marquee/Real Bout Fatal Fury Special (World).png</marquee>
+		<video>./snap/Real Bout Fatal Fury Special (World).mp4</video>
+	</game>
+	<game id="38387" source="ScreenScraper.fr">
+		<path>./Real Bout Fatal Fury (World).chd</path>
+		<name>Real Bout Fatal Fury</name>
+		<desc>THE FOURTH TITLE OF FIGHTING FATAL FURY SERIES. NOW, YOU CAN DESTROY FIGHT SCENE OBJECTS AND THE "FATAL FURY 2" FIGHTERS ARE BACK FORMING THIS LIST: TERRY BOGARD, ANDY BOGARD, JOE HIGASHI, FRANCO BASH, MAI SHIRANUI, BOB WILSON, GEESE HOWARD, BILLY KANE, HON-FU, RYUJI YAMAZAKI, SOKAKU MOCHIZUKI, BLUE MARY, KIM KAPHWAN, JIN CHONREI, JIN CHONSHU AND DUCK KING.</desc>
+		<rating>0.7</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>125D06B9</hash>
+		<image>./images/Real Bout Fatal Fury (World).png</image>
+		<thumbnail>./boxart/Real Bout Fatal Fury (World).png</thumbnail>
+		<marquee>./marquee/Real Bout Fatal Fury (World).png</marquee>
+		<video>./snap/Real Bout Fatal Fury (World).mp4</video>
+	</game>
+	<game id="38390" source="ScreenScraper.fr">
+		<path>./Riding Hero (World).chd</path>
+		<name>Riding Hero</name>
+		<desc>RIDING HERO IS A MOTORCYCLE RACING GAME WITH THREE MODES OF PLAY: W.G.P. MODE, R.P.G. (STORY) MODE, AND MULTI-PLAY MODE.
+
+IN W.G.P MODE, YOU PICK YOUR BIKE THAT YOU WANT TO USE, AND THEN RACE UP TO TEN WORLD CIRCUITS, INCLUDING FRANCE, GERMANY, ITALY, U.S.A, SPAIN, SWEDEN, AND MORE. YOU RACE AGAINST THE TOP RIDERS. TRY TO AIM FOR THE TOP.
+
+R.P.G. MODE IS INTERACTIVE. YOU TRAVEL BETWEEN LOCATIONS, AND EXPLORE THEM, AND SPEAK TO ANY PEOPLE HERE. YOU START WITH NO BIKE, SO YOU MUST GO TO THE BIKE SHOP AND PURCHASE ONE. THEN WITH SOME HELP WITH THE OWNER, YOU CAN RACE AGAINST UP TO SIX OPPONENTS. THE MORE RACES YOU WIN, THE MORE MONEY YOU EARN. KEEP WINNING AND YOU WILL BE ABLE TO RACE THE SUZUKI 8-HOUR. DURING THIS MODE, A TIMER WILL COUNT DOWN. IF THIS EXPIRES, YOU MUST INSERT A COIN IN ORDER TO CONTINUE.
+
+MULTI-PLAY MODE LETS YOU "LINK" CABINETS TOGETHER SO THAT TWO PLAYERS CAN RACE EACH OTHER SIDE-BY-SIDE.</desc>
+		<rating>0.25</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>846240FE</hash>
+		<image>./images/Riding Hero (World).png</image>
+		<thumbnail>./boxart/Riding Hero (World).png</thumbnail>
+		<marquee>./marquee/Riding Hero (World).png</marquee>
+		<video>./snap/Riding Hero (World).mp4</video>
+	</game>
+	<game id="38391" source="ScreenScraper.fr">
+		<path>./Robo Army (World).chd</path>
+		<name>Robo Army</name>
+		<desc>A MAD SCIENTIST DECIDES TO CREATE AN ARMY OF ROBOTS TO DESTROY THE CITY, CAPTURE ALL THE CITIZENS, AND USE THEIR BRAINS FOR MORE ROBOTS TO TAKE OVER THE WORLD. YOU CONTROL ONE OF TWO ROBOTS WHO USE ITS FISTS AND SPECIAL ATTACKS TO TAKE ON THE ARMY THROUGHOUT A JUNGLE STAGE AND VARIOUS BUILDINGS IN THE DESTROYED CITY. ROBOTS AND ROBOT DOGS SOMETIMES LEAVE ARMS OR METAL BARS THAT CAN BE USED AS WEAPONS. AT THE END OF EACH AREA, YOU NEED TO DEFEAT A BOSS IN ORDER TO PROCEED TO THE NEXT AREA.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>603D4441</hash>
+		<image>./images/Robo Army (World).png</image>
+		<thumbnail>./boxart/Robo Army (World).png</thumbnail>
+		<marquee>./marquee/Robo Army (World).png</marquee>
+		<video>./snap/Robo Army (World).mp4</video>
+	</game>
+	<game id="38393" source="ScreenScraper.fr">
+		<path>./Samurai Shodown II (World).chd</path>
+		<name>Samurai Shodown II</name>
+		<desc>ONE OF SNK'S LEGENDARY FIGHTING GAME SERIES HAS MADE A RETURN! IN SAMURAI SHODOWN II, YOU CAN TAKE ON ONE OF THE ROLES OF 15 WARRIORS AS YOU FIGHT YOUR WAY THROUGH THE LAND TO DEFEAT THE EVIL MIZUKI! SLASH, KICK, AND SLICE YOUR OPPONENTS IN HALF...DO WHATEVER IT TAKES...LIVE BY THE SWORD, AND DIE BY ITS BLADE.</desc>
+		<rating>0.7</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>8B3A9FA5</hash>
+		<image>./images/Samurai Shodown II (World).png</image>
+		<thumbnail>./boxart/Samurai Shodown II (World).png</thumbnail>
+		<marquee>./marquee/Samurai Shodown II (World).png</marquee>
+		<video>./snap/Samurai Shodown II (World).mp4</video>
+	</game>
+	<game id="38394" source="ScreenScraper.fr">
+		<path>./Samurai Shodown III (World).chd</path>
+		<name>Samurai Shodown III: Blades of Blood</name>
+		<desc>THE 12 SAMURAI (AND NINJA) ELITE ARE BACK, THIS TIME TO ANSWER THE THREAT OF THE DEMON ZANKURO, MINAZUKI. THE POSSESSED SWORDSMAN HAS BRUTALLY SLAUGHTERED INNOCENTS IN HIS PATH, YET COULD NOT RAISE HIS BLADE TO THE CRIES OF AN INNOCENT BABY. VOWING NEVER TO SPILL INNOCENT BLOOD AGAIN, HE TARGETS THOSE WHO LIVE BY THE WAY OF THE SWORD...BUT NOW THE HUNTER BECOMES THE HUNTED. THE THIRD SERIES OF SAMURAI SHODOWN INTRODUCES 2 DIFFERENT TECHNIQUES FOR EACH CHARACTER. THE "SLASH" TECHNIQUES ARE THE ORIGINAL MOVES OF THE MOST OF THE CHARACTERS WHEREAS THE "BUST" TECHNIQUES MAYBE THE "DARKER" VERSION OF EACH CHARACTER.</desc>
+		<rating>0.75</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<image>./images/Samurai Shodown III (World).png</image>
+		<thumbnail>./boxart/Samurai Shodown III (World).png</thumbnail>
+		<marquee>./marquee/Samurai Shodown III (World).png</marquee>
+		<video>./snap/Samurai Shodown III (World).mp4</video>
+	</game>
+	<game id="38395" source="ScreenScraper.fr">
+		<path>./Samurai Shodown IV - Amakusa's Revenge (World).chd</path>
+		<name>Samurai Shodown IV: Amakusa's Revenge</name>
+		<desc>BRINGING A NEW BREATH TO SNK'S SWORDSMAN FIGHTING SERIES, THIS 4TH INSTALLMENT MARKS THE RETURN OF 3 CLASSIC CHARACTERS (YAGYU JUBEI, CHARLOTTE AND TAM TAM, NOW WITH UPDATED STUFF), INTRODUCES 2 NEWCOMERS FOR THE PANTHEON (THE BROTHERS SOGETSU KAZAMA AND KAZUKI KAZAMA) AND BRINGS SOME NEW BACKGROUNDS.
+
+IN SPITE OF THESE LITTLE IMPROVEMENTS, THE GAME PRESERVED (AND IMPROVED A LOT) MANY ELEMENTS THAT DID THE PREVIOUS ONE (SAMURAI SHODOWN III: BLADES OF BLOOD) A QUITE POPULAR TITLE, LIKE THE DODGE MOVE AND THE CHANCE TO CHOOSE BETWEEN TWO VERSIONS OF THE FIGHTER: THE STANDARD ONE AND AN ALTERNATIVE DARK-STYLED ONE (SLASH AND BUST, RESPECTIVELY).
+
+WITH THE INTENTION TO PROVIDE MORE ACTION IN THE BATTLES, THE "NO CONTEST" MOVES WERE INTRODUCED: WORKING IN SIMILAR WAY (AND UNDER CERTAIN CONDITIONS) TO THE MANY GAMES OF MORTAL KOMBAT SERIES, YOUR FIGHTER WILL EXECUTE AN ULTIMATE-SLAUGHTER MOVE IN A STUNNED OPPONENT.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>28985C4D</hash>
+		<image>./images/Samurai Shodown IV - Amakusa's Revenge (World).png</image>
+		<thumbnail>./boxart/Samurai Shodown IV - Amakusa's Revenge (World).png</thumbnail>
+		<marquee>./marquee/Samurai Shodown IV - Amakusa's Revenge (World).png</marquee>
+		<video>./snap/Samurai Shodown IV - Amakusa's Revenge (World).mp4</video>
+	</game>
+	<game id="38392" source="ScreenScraper.fr">
+		<path>./Samurai Shodown (World).chd</path>
+		<name>Samurai Shodown</name>
+		<desc>IN EARLY JAPAN, A MAN NAMED SHIRO TOKISADA AMAKUSA PREACHES A HERETIC RELIGION. LITTLE DOES ANYONE KNOW THAT AMAKUSA IS REALLY A SERVANT OF THE EVIL AMBROSIA, WHO TOOK OVER AMAKUSA'S BODY. AMBROSIA WISHES TO SHROUD THE WORLD IN DARKNESS.
+NOW, CHOOSE BETWEEN 12 WARRIORS (AND 3 BONUS CHARACTERS) TO FIGHT FOR THE HONOR OF DESTROYING AMAKUSA, AND FULFILLING A MISSION.</desc>
+		<rating>0.7</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>024C12F9</hash>
+		<image>./images/Samurai Shodown (World).png</image>
+		<thumbnail>./boxart/Samurai Shodown (World).png</thumbnail>
+		<marquee>./marquee/Samurai Shodown (World).png</marquee>
+		<video>./snap/Samurai Shodown (World).mp4</video>
+	</game>
+	<game id="38396" source="ScreenScraper.fr">
+		<path>./Savage Reign (World).chd</path>
+		<name>Savage Reign</name>
+		<desc>O MALÉVOLO REI LEÃO COROOU-SE COMO O MESTRE DE FUUN-KEN, UM NOVO ESTILO DE ARTES MARCIAIS QUE INCLUI ARMAS DE ARREMESSO ALÉM DO COMBATE CORPO-A-CORPO. ISSO NÃO COMBINA COM O RESTO DOS LUTADORES DO FUUN-KEN EM TODO O MUNDO, ENTÃO TODOS ELES DECIDEM SE SUPERAR EM LUTAS CLÁSSICAS DE 2 ROUNDS PARA DECIDIR QUEM VAI DERROTAR O PRÓPRIO KING LION.NNNNSAVAGE REIGN É UM LUTADOR 2D ONE-ON-ONE NO QUAL VOCÊ SELECIONA SEU PERSONAGEM E TENTA DERROTAR TODOS OS ADVERSÁRIOS USANDO SEUS ATAQUES BÁSICOS E MOVIMENTOS ESPECIAIS. O JOGO APRESENTA 2 PLANOS HORIZONTAIS DIFERENTES PARA OS QUAIS OS PERSONAGENS PODEM PULAR LIVREMENTE PARA EVITAR ATAQUES À LA FATAL FURY. VOCÊ NÃO PODE ESCAPAR COMPLETAMENTE, NO ENTANTO, COMO TODOS OS PERSONAGENS TÊM UMA ARMA DE ARREMESSO, ELES PODEM USAR DE MANEIRAS DIFERENTES PARA ALCANÇAR UM AO OUTRO, NÃO IMPORTA ONDE ELES ESTEJAM.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>CD3D7801</hash>
+		<image>./images/Savage Reign (World).png</image>
+		<thumbnail>./boxart/Savage Reign (World).png</thumbnail>
+		<marquee>./marquee/Savage Reign (World).png</marquee>
+		<video>./snap/Savage Reign (World).mp4</video>
+	</game>
+	<game id="38398" source="ScreenScraper.fr">
+		<path>./Sengoku 2 (World).chd</path>
+		<name>Sengoku 2</name>
+		<desc>A SEQUEL TO SENGOKU, SENGOKU 2 ONCE AGAIN CASTS YOU AS TWO STREET FIGHTING HEROES CAUGHT IN THE MIDST OF A SUPERNATURAL ATTACK BY THE UNDEAD FORCES OF THE EVIL NOBUNAGA FROM THE JAPANESE SENGOKU PERIOD, ALTHOUGH THIS TIME THE GAME WARPS YOU THROUGH SEVERAL TIME PERIODS AND LOCATIONS TO FIGHT EVIL, FROM FEUDAL JAPAN TO WWII EUROPE.
+
+AS IN THE ORIGINAL, THE GAME PLAYS AS A STANDARD 2D SIDE-SCROLLING BEAT 'EM UP, IN WHICH YOU HAVE TO PROCEED THROUGH EACH STAGE KILLING ALL ENEMIES THAT CROSS YOUR PATH AND DEFEATING THE STAGE BOSS TO PROCEED. NEW FOR THE SEQUEL IS THE INCLUSION OF SWORDS AS YOUR DEFAULT WEAPONS, WHICH NOW FEATURE BOTH HIGH AND LOW ATTACKS, AS WELL AS A BLOCK MOVE THAT ALLOWS YOU TO PARRY ENEMY ATTACKS. COLLECTING ORBS GIVES YOU WEAPON UPGRADES AND ENERGY ATTACKS, AS WELL AS THE ABILITY TO MORPH INTO ANY OF THE THREE SPIRITS RELEASED IN THE ORIGINAL WHICH GIVE YOU A NEW ARSENAL OF MOVES AND POWERS.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>1A6A83BA</hash>
+		<image>./images/Sengoku 2 (World).png</image>
+		<thumbnail>./boxart/Sengoku 2 (World).png</thumbnail>
+		<marquee>./marquee/Sengoku 2 (World).png</marquee>
+		<video>./snap/Sengoku 2 (World).mp4</video>
+	</game>
+	<game id="38397" source="ScreenScraper.fr">
+		<path>./Sengoku (World).chd</path>
+		<name>Sengoku</name>
+		<desc>A 2D SIDE-SCROLLING BEAT 'EM UP, SENGOKU CASTS YOU AND A FRIEND AS TWO RENEGADE FIGHTERS OUT TO BEAT THE CRAP OUT OF THE MANY ASSORTED GANGS THAT THREATEN THE POST-APOCALYPTIC CITIES OF THE FUTURE. UNFORTUNATELY FOR THEM THEY ALSO GET CAUGHT IN A TIME-WARPING SCHEME CAUSED BY THE EVIL NOBUNAGA WHO ATTEMPTS TO INVADE THE TIME PERIOD WITH MYTHICAL WARRIORS AND EVIL CREATURES FROM THE JAPANESE SENGOKU PERIOD.
+
+THE GAME THUS TAKES YOU FROM THE CITY TO A SPIRIT-REALM FROM TIME TO TIME, IN WHICH YOU MUST FIGHT ALL SORTS OF JAPANESE MYTHICAL FIGURES, AND RELEASE THREE HAUNTED SPIRITS THAT CAN AID YOU IN YOUR BATTLE. COLLECTING ORBS FROM DEFEATED ENEMIES ALLOWS YOU HEAL UP, GAIN WEAPONS AND EVEN ENERGY ATTACKS AND ALSO SUMMON THE WARRIOR FORMS OF THE SPIRITS YOU RELEASED, WHICH CHANGE YOUR CHARACTER'S FORM AND GIVE YOU A NEW COLLECTION OF ATTACKS AND POWERS.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>6AD423D4</hash>
+		<image>./images/Sengoku (World).png</image>
+		<thumbnail>./boxart/Sengoku (World).png</thumbnail>
+		<marquee>./marquee/Sengoku (World).png</marquee>
+		<video>./snap/Sengoku (World).mp4</video>
+	</game>
+	<game id="107065" source="ScreenScraper.fr">
+		<path>./Soccer Brawl (World).chd</path>
+		<name>Soccer Brawl</name>
+		<desc>THE CYBERNETIC PLAYERS USE SPECIAL KICK SHOTS AND BUILT-IN ARM PHASERS TO DESTROY OTHER PLAYERS. MAKE SURE YOUR POWER METER IS FULL WHEN EXERCISING THESE BRUTAL TACTICS. BOTH STADIUMS, WHICH ARE MAGNETICALLY ENCLOSED, ENABLE YOU TO KICK OR PASS... OFF THE WALL! THERE ARE NO FOULS IN THIS LEAGUE, SO WATCH YOUR BACK OR YOU'LL GET PULVERIZED BY THE OPPOSING TEAM! YOU'LL FIND HERE THE MOST ADVANCED SPORT IN THE WORLD OF SOCCER... SOCCER BRAWL!</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<hash>8D378042</hash>
+		<image>./images/Soccer Brawl (World).png</image>
+		<thumbnail>./boxart/Soccer Brawl (World).png</thumbnail>
+		<marquee>./marquee/Soccer Brawl (World).png</marquee>
+		<video>./snap/Soccer Brawl (World).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).chd</path>
+		<name>Stakes Winner - GI Kanzen Seiha Heno Machi (Japan)</name>
+		<rating>0</rating>
+		<image>./images/Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).png</image>
+		<thumbnail>./boxart/Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).png</thumbnail>
+		<marquee>./marquee/Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).png</marquee>
+		<video>./snap/Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).mp4</video>
+	</game>
+	<game id="38400" source="ScreenScraper.fr">
+		<path>./Street Hoop (World).chd</path>
+		<name>Street Hoop</name>
+		<desc>STREET HOOP IS A 3-ON-3 STREET BASKETBALL GAME. ONE OR TWO PLAYERS CAN CHOOSE AMONG 10 TEAMS: FRANCE, SPAIN, U.S.A., ITALY, GERMANY, TAIWAN, UNITED KINGDOM, CHINA, JAPAN AND SOUTH KOREA (IN THE EUROPEAN AND JAPANESE VERSIONS. THE U.S.A. VERSION FEATURES LOCAL CITIES). THE TEAMS ARE RATED IN 1 TO 9 POINTS ON FOUR ATTRIBUTES (DUNK, 3 POINT, SPEED AND DEFENSE). EACH GAME LASTS TWO HALVES OF 2 MINUTES EACH. THE GAME ENDS IF THE PLAYER LOSES THE FIRST HALF, NEEDING TO SPEND A CONTINUE TO PLAY THE SECOND HALF.</desc>
+		<rating>0</rating>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>429752E8</hash>
+		<image>./images/Street Hoop (World).png</image>
+		<thumbnail>./boxart/Street Hoop (World).png</thumbnail>
+		<marquee>./marquee/Street Hoop (World).png</marquee>
+		<video>./snap/Street Hoop (World).mp4</video>
+	</game>
+	<game id="143274" source="ScreenScraper.fr">
+		<path>./Super Sidekicks 2 (World).chd</path>
+		<name>Super Sidekicks 2 - The World Championship</name>
+		<desc>THIS IS A SOCCER GAME ON NEO-GEO. WHEN YOU START THE GAME, YOU GO INTO A "REGIONAL QUALIFYING ROUND FINAL" AGAINST ANOTHER TEAM FROM YOUR REGION. AFTER BEATING IT, YOUR TEAM GOES INTO THE WORLD (CUP) TOURNAMENT, IN WHICH YOU ARE GROUPED WITH THREE OTHER COUNTRIES IN A ROUND-ROBIN. AFTER WINNING AGAINST ALL OF THEM, YOU GO INTO AN ELIMINATION TOURNAMENT: THE QUARTERFINALS, SEMIFINALS, AND THE FINAL FOR THE WORLD CUP. THIS TYPE OF TOURNAMENT THUS IS MORE REMINISCENT OF THE REAL-LIFE WORLD CUP. IF A MATCH ENDS IN A DRAW, YOU ALSO HAVE THE OPTION OF REPLAYING A FULL GAME, GO TO THE PENALTY KICK TIEBREAKER, OR PLAY A SUDDEN DEATH GAME.</desc>
+		<rating>0</rating>
+		<image>./images/Super Sidekicks 2 (World).png</image>
+		<thumbnail>./boxart/Super Sidekicks 2 (World).png</thumbnail>
+		<marquee>./marquee/Super Sidekicks 2 (World).png</marquee>
+		<video>./snap/Super Sidekicks 2 (World).mp4</video>
+	</game>
+	<game id="143275" source="ScreenScraper.fr">
+		<path>./Super Sidekicks 3 - The Next Glory (World).chd</path>
+		<name>Super Sidekicks 3 - The Next Glory</name>
+		<desc>CARREGADO COM EMOÇÃO DE CLASSE MUNDIAL! POSSUI 6 MODOS DE COMPETIÇÃO COMO A COPA DO MUNDO PARA 64 EQUIPES MUNDIAIS. UTILIZA A ANIMAÇÃO DE TRAÇOS DIGITALIZADOS E IMAGENS ANGULARES DE CÂMERA 3D PARA UMA EXPLOSÃO GRÁFICA DE AÇÃO REALISTA E DINÂMICA. COM 8 MODOS DE JOGO DIFERENTES, INCLUINDO OPÇÕES COMO SPEED E STAMINA, VOCÊ PODE MISTURAR E COMBINAR 512 DIFERENTES CONFIGURAÇÕES DE EQUIPE. OS ACIDENTES ATRAPALHAM OU AUMENTAM A CAPACIDADE DE UM TIME EM UMA JOGABILIDADE FRENTE-A-FRENTE PARA A MELHOR EXPERIÊNCIA DE FUTEBOL SUPER-REAL!</desc>
+		<rating>0</rating>
+		<hash>D0141202</hash>
+		<image>./images/Super Sidekicks 3 - The Next Glory (World).png</image>
+		<thumbnail>./boxart/Super Sidekicks 3 - The Next Glory (World).png</thumbnail>
+		<marquee>./marquee/Super Sidekicks 3 - The Next Glory (World).png</marquee>
+		<video>./snap/Super Sidekicks 3 - The Next Glory (World).mp4</video>
+	</game>
+	<game id="143273" source="ScreenScraper.fr">
+		<path>./Super Sidekicks (World).chd</path>
+		<name>Super Sidekicks</name>
+		<desc>EXPERIENCE THE ROAR OF THE CROWD AND THE THRILLS OF THE STADIUM. SNK'S LIVE-ACTION SOCCER GAME IS HERE! ALONG WITH YOUR ACE STRIKER AND HIS ARRAY OF SLIDING, OVERHEAD, AND DIVING SHOTS, LEAD YOUR TEAM TO VICTORY AND SEIZE THE PRIZED SNK CUP. WATCH PLAYERS PERFORM MIRACULOUS OVERHEAD AND DIVING SHOTS, DAZZLE YOUR OPPONENT WITH GRAVITY-DEFYING DRIBBLING. AVOID SLIDING DEFENSE PLAYERS AND BONE-CRUSHING BLOCKS. BE OVERWHELMED WITH IN-YOUR-FACE ACTION SO REAL, YOU'LL BE WASHING THE GRASS STAINS OFF YOUR CLOTHING WHEN YOU'RE FINISHED!</desc>
+		<rating>0</rating>
+		<hash>1AD26DCA</hash>
+		<image>./images/Super Sidekicks (World).png</image>
+		<thumbnail>./boxart/Super Sidekicks (World).png</thumbnail>
+		<marquee>./marquee/Super Sidekicks (World).png</marquee>
+		<video>./snap/Super Sidekicks (World).mp4</video>
+	</game>
+	<game id="38366" source="ScreenScraper.fr">
+		<path>./King of Fighters '94, The (World).chd</path>
+		<name>The King of Fighters '94</name>
+		<desc>THIS IS THE FIRST GAME OF THE SERIES THAT CONQUERED LEGIONS OF FIGHTER FANS FROM ALL OVER THE WORLD. THE KING OF FIGHTERS '94 JOINS TOGETHER FIGHTERS FROM OTHER SNK CORPORATION FRANCHISES: ART OF FIGHTING (RYO SAKAZAKI, ROBERT GARCIA, TAKUMA SAKAZAKI, YURI SAKAZAKI, KING), FATAL FURY (TERRY BOGARD, ANDY BOGARD, JOE HIGASHI, MAI SHIRANUI, KIM KAPHWAN) AND IKARI WARRIORS (RALF JONES, CLARK STEEL, HEIDERN), AS WELL AS TOTALLY NEW FIGHTERS SUCH AS KYO KUSANAGI, BENIMARU NIKAIDO, AND GORO DAIMON (FROM THE JAPANESE TEAM).
+
+THE KING OF FIGHTERS '94 IS NOTABLE IN THAT IT IS ONE OF THE FIRST KNOWN FIGHTING GAMES THAT PITS A TEAM OF FIGHTERS AGAINST EACH OTHER IN SINGLE COMBAT. EACH TEAM CONSISTS OF THREE FIGHTERS FOR EACH PLAYER, THE WINNER BEING THE PLAYER WHO IS ABLE TO ELIMINATE THE OTHER TEAM FIRST. EACH ACTIVE CHARACTER CAN CHARGE UP "ART OF FIGHTING" STYLE IN ORDER TO GAIN ACCESS TO "DESPERATION MOVES", OR "DMS" (MOVES WHICH OPERATE VERY MUCH LIKE STREET FIGHTER'S SUPER COMBOS). PLAYING AGAINST THE COMPUTER, THE PLAYER MUST DEFEAT ALL 8 TEAMS IN THE GAME IN ORDER TO REACH THE FINAL BOSS, RUGAL BERNSTEIN.</desc>
+		<rating>0.7</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>3D9D1FD2</hash>
+		<image>./images/King of Fighters '94, The (World).png</image>
+		<thumbnail>./boxart/King of Fighters '94, The (World).png</thumbnail>
+		<marquee>./marquee/King of Fighters '94, The (World).png</marquee>
+		<video>./snap/King of Fighters '94, The (World).mp4</video>
+	</game>
+	<game id="38367" source="ScreenScraper.fr">
+		<path>./King of Fighters '95, The (World).chd</path>
+		<name>The King of Fighters '95</name>
+		<desc>THE FIRST SEQUEL IN THE KING OF FIGHTERS SERIES PICKS UP A YEAR AFTER THE END OF THE FIRST TOURNAMENT. ONCE AGAIN, FIGHTERS FROM ALL OVER THE WORLD RECEIVE A MYSTERIOUS INVITATION TO A TEAM-BASED FIGHTING TOURNAMENT. AND JUST LIKE LAST YEAR, IT APPEARS THAT THE NOTORIOUS CRIMINAL RUGAL BERNSTEIN IS BEHIND IT, APPARENTLY RETURNING FROM THE DEAD TO RAISE HAVOK ONCE AGAIN...
+
+THE KING OF FIGHTERS '95 INTRODUCES KYO KUSANAGI'S RIVAL IORI YAGAMI, AND FIRMLY PLACES KYO AS THE MAIN CHARACTER FOR THE REST OF THE SERIES. THE GAMEPLAY OF THE KING OF FIGHTERS '95 IS ESSENTIALLY UNCHANGED FROM THE PREVIOUS TITLE, THOUGH IT DOES INTRODUCE THE "TEAM EDIT" CONCEPT WHICH WOULD REMAIN AS A STANDARD FEATURE OF THE SERIES. USING THE "TEAM EDIT" FEATURE, IT IS POSSIBLE TO CREATE A TOTALLY CUSTOMIZED TEAM USING ANY OF THE AVAILABLE FIGHTERS, OR USE ONE OF THE DEFAULT TEAMS IF YOU WISH.</desc>
+		<rating>0.75</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>2BB75686</hash>
+		<image>./images/King of Fighters '95, The (World).png</image>
+		<thumbnail>./boxart/King of Fighters '95, The (World).png</thumbnail>
+		<marquee>./marquee/King of Fighters '95, The (World).png</marquee>
+		<video>./snap/King of Fighters '95, The (World).mp4</video>
+	</game>
+	<game id="38368" source="ScreenScraper.fr">
+		<path>./King of Fighters '96, The (World).chd</path>
+		<name>The King of Fighters '96</name>
+		<desc>"VIOLENT FIGHTING TO COME AGAIN!"
+
+SNK'S FLAGSHIP SERIES RETURNS FOR ANOTHER YEAR. MANY OF THE CHANGES IN THIS YEAR'S KOF RELEASE COME IN THE FORM OF IMPROVED GRAPHICS, SOUND EFFECTS, MUSIC AND TOTALLY REDONE CHARACTER SPRITES. THE GAMEPLAY OF THE SYSTEM HAS BEEN ALTERED WITH THE ADDITION OF "RUSH" MULTI-HIT COMBOS AND NEW MOVES FOR PRACTICALLY EVERY CHARACTER. THE STORYLINE OF THE SERIES RECEIVES HEAVY FOCUS IN THIS RELEASE WITH THE OROCHI SAGA SWINGING INTO HIGH-GEAR.
+
+THE KING OF FIGHTERS '96 HAS 27 REGULAR CHARACTERS PLUS 2 BOSS CHARACTERS (WHO CAN BE UNLOCKED WITH THE USE OF A CODE). NEWCOMERS TO THE TOURNAMENT INCLUDE MR. BIG FROM THE ART OF FIGHTING SERIES, THE BOSSES FROM FATAL FURY (WOLFGANG KRAUSER AND GEESE HOWARD), AND COMPLETELY ORIGINAL CHARACTERS LIKE LEONA HEIDERN, MATURE AND VICE. OTHER FEATURES CARRIED OVER FROM THE PREVIOUS YEAR INCLUDE THE ABILITY TO CHOOSE BETWEEN THE DEFAULT "TEAM FIGHTING" MODE OR THE TRADITIONAL "SINGLE FIGHTER" STYLE OF GAMEPLAY, PLUS THE "VERSUS" AND "SURVIVAL" GAMEPLAY MODES.</desc>
+		<rating>0.7</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>72B4A146</hash>
+		<image>./images/King of Fighters '96, The (World).png</image>
+		<thumbnail>./boxart/King of Fighters '96, The (World).png</thumbnail>
+		<marquee>./marquee/King of Fighters '96, The (World).png</marquee>
+		<video>./snap/King of Fighters '96, The (World).mp4</video>
+	</game>
+	<game id="38369" source="ScreenScraper.fr">
+		<path>./King of Fighters '97, The (World).chd</path>
+		<name>The King of Fighters '97</name>
+		<desc>ANOTHER YEAR, ANOTHER KOF. ADDITIONS THIS YEAR COME IN THE FORM OF SLIGHTLY IMPROVED GRAPHICS AND SOUNDS, NEW MOVES AND A NEW GAME MODE. GAMEPLAY IS MUCH MORE PLOT-DRIVEN, AS YOU HAVE MIDDLE-BOSSES THAT CAN CHANGE DEPENDING ON WHAT TEAM YOU SELECT. IN ADDITION, THERE ARE SEVERAL SPECIAL ENDINGS WHICH ARE ONLY SHOWN WHEN CERTAIN "EDIT TEAM" COMBINATIONS ARE SELECTED.
+
+AS OF THE KING OF FIGHTERS '97, YOU CAN PLAY IN EITHER THE EXTRA OR ADVANCED GAME MODES. EXTRA MODE IS THE TYPICAL AOF/KOF SCHEME, IN WHICH YOUR POWER GAUGE FILLS UP AS YOU DEFEND YOURSELF OR CHARGE YOURSELF UP. THE NEW ADVANCED MODE, ON THE OTHER HAND, ONLY ALLOWS YOU TO CHARGE YOUR GAUGE AS YOU PERFORM SPECIAL MOVES AND ATTACKS, SIMILAR TO THE STREET FIGHTER SERIES. EXTRA ALLOWS ONE TO SIDESTEP ATTACKS WHILE ADVANCED ALLOWS THE CHARACTER TO ROLL PAST AND DODGE ATTACKS; ADVANCED ALSO ALLOW A CHARACTER TO PERFORM A POTENT "SUPER DESPERATION MOVE" (OR SDM) AT ANY TIME PROVIDED THE CHARACTER HAS AT LEAST TWO FULL BARS OF CHARGED ENERGY STORED. IN CONTRAST, SDMS CAN ONLY BE PERFORMED IN EXTRA WHEN A CHARACTER HAS LESS THAN A QUARTER OF THEIR HEALTH LEFT.
+
+NEW CHARACTERS INCLUDE THE NEW FACE TEAM, THE FATAL FURY OUTLAW TEAM (FEATURING THE KOF DEBUT OF "BLUE" MARY RYAN AND RYUJI YAMAZAKI, AND THE RETURN OF BILLY KANE), AND KYO'S PUPIL SHINGO YABUKI. IN TOTAL, THE KING OF FIGHTERS '97 SPORTS 29 SEPARATE CHARACTERS (WITHOUT COUNTING THE SIX OROCHI-RELATED BOSS CHARACTERS, WHICH ARE ALL ACCESSIBLE VIA A SECRET CODE).</desc>
+		<rating>0.8</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>864F4427</hash>
+		<image>./images/King of Fighters '97, The (World).png</image>
+		<thumbnail>./boxart/King of Fighters '97, The (World).png</thumbnail>
+		<marquee>./marquee/King of Fighters '97, The (World).png</marquee>
+		<video>./snap/King of Fighters '97, The (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="38374" source="ScreenScraper.fr">
+		<path>./Last Blade, The (World).chd</path>
+		<name>The Last Blade</name>
+		<desc>CHOOSE ONE OF SEVERAL CHARACTERS TO PLAY WITH, EACH WITH THEIR OWN UNIQUE MOVES AND SPECIAL ATTACKS. EACH STAGE IN THE GAME HAS TWO BATTLES, WHERE THE OBJECT OF EACH IS TO DRAIN YOUR OPPONENT'S ENERGY IN ORDER TO COMPLETE THE BATTLE, AND YOU WILL COMPLETE THE STAGE IF YOU DO THIS TWICE. IF THERE IS A DRAW, THEN A THIRD BATTLE IS THEN PLAYED. THERE IS A TIME LIMIT, AND WHEN THIS EXPIRES, THE PLAYER WITH THE MOST ENERGY WINS THE BATTLE.</desc>
+		<rating>0.6</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>8A298A92</hash>
+		<image>./images/Last Blade, The (World).png</image>
+		<thumbnail>./boxart/Last Blade, The (World).png</thumbnail>
+		<marquee>./marquee/Last Blade, The (World).png</marquee>
+		<video>./snap/Last Blade, The (World).mp4</video>
+	</game>
+	<game id="38402" source="ScreenScraper.fr">
+		<path>./Super Spy, The (World).chd</path>
+		<name>The Super Spy</name>
+		<desc>ROY HEART HAS BEEN ASKED BY THE CIA TO WIPE OUT TERRORISTS WHO HAVE TAKEN OVER A LARGE SKYSCRAPER OF A MAJOR AUTO-MAKER IN JAPAN. 
+USING YOUR FISTS, KNIFE, OR GUN, YOU MUST USE THE ELEVATORS TO TRAVEL BETWEEN FLOORS AND WIPE OUT TERRORISTS THAT TRY TO BRING YOU DOWN. EACH WEAPON HAS ITS DISADVANTAGES. THE GUN, FOR EXAMPLE, WILL ONLY HAVE SO MANY BULLETS PER LIFE, AND THE KNIFE WILL DECREASE IN STRENGTH WITH EVERY USE. DURING YOUR MISSION, YOU WILL ALSO EARN EXPERIENCE POINTS, AND MEET AND FREE HOSTAGES ALONG THE WAY. THESE HOSTAGES WILL HEAL YOU, FIX YOUR KNIFE, AND GIVE YOU A MACHINE GUN. SOME FLOORS END WITH YOU DEFEATING A BOSS, WHILE OTHERS END AT ELEVATORS. YOUR MUST REACH THE TOP OF THE BUILDING WHERE YOU WILL CONFRONT THE LEADER.</desc>
+		<rating>0</rating>
+		<developer>SNK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1-2</players>
+		<hash>6FF5099E</hash>
+		<image>./images/Super Spy, The (World).png</image>
+		<thumbnail>./boxart/Super Spy, The (World).png</thumbnail>
+		<marquee>./marquee/Super Spy, The (World).png</marquee>
+		<video>./snap/Super Spy, The (World).mp4</video>
+	</game>
+	<game id="38403" source="ScreenScraper.fr">
+		<path>./Rally Chase (World).chd</path>
+		<name>Thrash Rally</name>
+		<desc>THRASH RALLY É UM JOGO DE CORRIDA ACELERADO, SEMELHANTE AO NEO DRIFT OUT E OVERTOP, MAS USANDO UMA VISÃO DE CIMA PARA BAIXO. VOCÊ PODE PARTICIPAR DE UM CAMPEONATO MUNDIAL OU FAZER UM RALI COMPLETO NO PARIS DAKAR.NNUSANDO CONTROLES BÁSICOS: ACELERAR COM TRANSMISSÃO AUTOMÁTICA, FREIO E UMA COMBINAÇÃO DE AMBOS PARA PODER DRIFT, VOCÊ TEM QUE SEGUIR UM CAMINHO DEFINIDO DE CURSOS. NO CAMPEONATO MUNDIAL, CADA LOCAL CONSISTE EM DIFERENTES ETAPAS QUE PRECISAM SER CONCLUÍDAS EM UMA ÚNICA CORRIDA. HÁ UM LIMITE DE TEMPO ESTRITO E VOCÊ RECEBE UM BÔNUS DE TEMPO AO TERMINAR UMA SEÇÃO. O MODO DAKAR É UMA LONGA PISTA SEM PARAGENS. O CAMPEONATO USA CARROS REGULARES, MAS NA CORRIDA DE DAKAR VOCÊ TAMBÉM PODE ESCOLHER UM BUGGY DE AREIA, UMA MOTO OFF-ROAD OU UM CAMINHÃO.NNNNUM RANKING GLOBAL É MANTIDO DURANTE AS CORRIDAS, MAS É BASEADO NO SEU TEMPO, NÃO NO NÚMERO DE CARROS QUE VOCÊ PASSA DURANTE A CORRIDA. ALÉM DE SEUS OPONENTES, VOCÊ TAMBÉM ENCONTRARÁ ÁGUA, ANIMAIS, COLINAS, PONTES, ARBUSTOS E DIFERENTES OBSTÁCULOS EM SEU CAMINHO.</desc>
+		<rating>0.6</rating>
+		<developer>ADK</developer>
+		<publisher>SNK Corporation of America</publisher>
+		<players>1</players>
+		<image>./images/Rally Chase (World).png</image>
+		<thumbnail>./boxart/Rally Chase (World).png</thumbnail>
+		<marquee>./marquee/Rally Chase (World).png</marquee>
+		<video>./snap/Rally Chase (World).mp4</video>
+	</game>
+	<game id="38404" source="ScreenScraper.fr">
+		<path>./Top Hunter - Roddy &amp; Cathy (World).chd</path>
+		<name>Top Hunter: Roddy &amp; Cathy</name>
+		<desc>AS EITHER RODDY OR CATHY, MAKE YOUR WAY THROUGH FOUR LOCATIONS THAT INCLUDE FOREST, ICE, WIND, AND FIRE, AND DESTROY THE TWO BOSSES IN THESE LOCATIONS. BOTH RODDY AND CATHY HAVE RETRACTABLE ARMS WHICH CAN BE USED TO GRAB ENEMIES OR OTHER GAMEPLAY ELEMENTS. THEY CAN THEN BE THROWN AT OTHERS TO DESTROY THEM. BOTH PLAYERS AND ENEMIES CAN INTERACT WITH THE SCENERY. FOR EXAMPLE, WALLS CAN BE PUSHED OVER ENEMIES TO KILL THEM, AND SWITCHES CAN BE FLIPPED TO REVEAL SPECIAL BONUSES.THROUGHOUT EACH LOCATION, YOU CAN PULL ON RINGS THAT WILL REVEAL SPECIAL BONUSES SUCH AS EXTRA TIME. THERE ARE TWO DIFFERENT PLANES WHICH THE PLAYERS CAN CHANGE BETWEEN BY PRESSING A BUTTON.</desc>
+		<rating>0.95</rating>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>FE860E32</hash>
+		<image>./images/Top Hunter - Roddy &amp; Cathy (World).png</image>
+		<thumbnail>./boxart/Top Hunter - Roddy &amp; Cathy (World).png</thumbnail>
+		<marquee>./marquee/Top Hunter - Roddy &amp; Cathy (World).png</marquee>
+		<video>./snap/Top Hunter - Roddy &amp; Cathy (World).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="107067" source="ScreenScraper.fr">
+		<path>./Top Player's Golf (World).chd</path>
+		<name>Top Player's Golf</name>
+		<desc>CHOOSE YOUR COURSE, MODE OF PLAY, AND CHOOSE FROM ONE OF FOUR GOLFERS. YOU PLAY THROUGH 18 HOLES OF GOLF AND TRY TO HAVE THE LOWEST SCORE UNDER PAR.</desc>
+		<rating>0</rating>
+		<releasedate>19900525T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<hash>4E85FEC6</hash>
+		<image>./images/Top Player's Golf (World).png</image>
+		<thumbnail>./boxart/Top Player's Golf (World).png</thumbnail>
+		<marquee>./marquee/Top Player's Golf (World).png</marquee>
+		<video>./snap/Top Player's Golf (World).mp4</video>
+	</game>
+	<game id="38405" source="ScreenScraper.fr">
+		<path>./Twinkle Star Sprites (World).chd</path>
+		<name>Twinkle Star Sprites</name>
+		<desc>A UNIQUE COMBINATION OF VERTICALLY-SCROLLING SHOOTERS AND COMPETITIVE PUZZLE GAMES, TWINKLE STAR SPRITES TELLS THE STORY OF THE APPRENTICE WITCH RAN, WHO SEARCHES FOR THE FABLED TWINKLE STAR THAT IS SAID TO GRANT ANY WISH TO THE ONE THAT FINDS IT. UNFORTUNATELY SHE IS NOT THE ONLY ONE SEEKING THE STAR, AND THUS MUST FIGHT HER WAY AND DEFEAT ALL THE OTHER CHARACTERS THAT SEEK THE STAR IN SHOOTER DUELS. THE GAME PLAYS MOSTLY AS A VERTICALLY-SCROLLING SHOOTER, WITH YOU CONTROLLING YOUR AVATAR AND ATTEMPTING TO SHOOT AND AVOID THE INCOMING ENEMIES. THE DIFFERENCE IN THIS GAME IS THAT EACH PLAYER HAS HIS OWN PLAY AREA, A LA PUYO PUYO, AND THE ENEMIES CAUSE SPLASH DAMAGE AROUND THEMSELVES WHEN SHOT. THUS CHAINING THE DESTRUCTION OF SEVERAL ENEMIES CREATES A COMBO THAT PERFORMS AN ATTACK MOVE ON YOUR OPPONENT. THESE MOVES CAN RANGE FROM TARGETED FIREBALLS, TO SPECIAL MOVES UNIQUE TO EACH CHARACTER, TO THE SUMMONING OF SPECIAL "BOSS" CHARACTERS THAT THE OTHER PLAYER MUST DESTROY BEFORE CONTINUING.</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>D64F6603</hash>
+		<image>./images/Twinkle Star Sprites (World).png</image>
+		<thumbnail>./boxart/Twinkle Star Sprites (World).png</thumbnail>
+		<marquee>./marquee/Twinkle Star Sprites (World).png</marquee>
+		<video>./snap/Twinkle Star Sprites (World).mp4</video>
+	</game>
+	<game id="38406" source="ScreenScraper.fr">
+		<path>./Viewpoint (World).chd</path>
+		<name>Viewpoint</name>
+		<desc>VIEWPOINT IS A TOP-DOWN ORTHOGRAPHIC PERSPECTIVE GAME IN THE TRADITION OF ZAXXON. THE PLAYSTATION AND SATURN VERSIONS FEATURE 3D RENDERED GRAPHICS WITH TEXTURE MAPS, UNLIKE THE OTHER VERSIONS WHICH PRIMARILY FEATURE SHADED POLYGONS.
+
+ONE OR TWO PLAYERS (IN HOT-SEAT OR COOPERATIVE MODE) CONTROL A SPACESHIP EQUIPPED WITH A LASER CANNON WHICH CAN BE CHARGED (BY HOLDING THE SHOOTING BUTTON DOWN) FOR A STRONGER BLAST. BESIDES THE MAIN WEAPON, THREE SPECIAL WEAPONS ARE AVAILABLE: A WALL OF FIRE WHICH WIPES THE SCREEN UP IN A WAVE, A NOVA-LIKE BLAST AND A CIRCLE OF SPHERICAL-GREEN HOMING MISSILES.</desc>
+		<rating>0</rating>
+		<developer>Sammy Corporation</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B6787516</hash>
+		<image>./images/Viewpoint (World).png</image>
+		<thumbnail>./boxart/Viewpoint (World).png</thumbnail>
+		<marquee>./marquee/Viewpoint (World).png</marquee>
+		<video>./snap/Viewpoint (World).mp4</video>
+	</game>
+	<game id="38407" source="ScreenScraper.fr">
+		<path>./Voltage Fighter Gowcaizer (World).chd</path>
+		<name>Voltage Fighter Gowcaizer</name>
+		<desc>EM 1999, UM FORTE TERREMOTO ATINGIU TÓQUIO, MATANDO QUASE TODA A POPULAÇÃO E OBRIGANDO O GOVERNO A TRANSFERIR SUA CAPITAL PARA UMA ILHA ARTIFICIAL NA COSTA DO JAPÃO, ONDE DURANTE ANOS VIVERAM EM PAZ. NO ENTANTO, NO ANO DE 2017, A VIOLÊNCIA COMEÇA A IRROMPER ENTRE OS CIDADÃOS POR COINCIDÊNCIA QUANDO UM NOVO DIRETOR CHEGA AO INSTITUTO NACIONAL BELNAR, A MAIOR UNIVERSIDADE DA ILHA. POR VOLTA DESSA ÉPOCA UM ALUNO TAMBÉM CHEGA COM O NOME DE ISATO KAIZA, QUE É SECRETAMENTE O HERÓI DO JOGO GOWCAIZER. ELE CHEGA COM UMA PEDRA QUE PODE MANIFESTAR ENERGIA QUE LHE PERMITE TRANSFORMAR. COM ESTA PEDRA, ELE DEVE DESCOBRIR A ORIGEM DO MAL E TRAZER A PAZ DE VOLTA AO JAPÃO.NNNNO PRINCIPAL ASPECTO DA JOGABILIDADE É UM JOGO DE LUTA EM 2D NO QUAL A SNK É MAIS CONHECIDA. O JOGADOR PODE ESCOLHER ENTRE 10 PERSONAGENS DIFERENTES, CADA UM COM SEUS PRÓPRIOS MOVIMENTOS E HABILIDADES. UMA CARACTERÍSTICA QUE ESTE JOGO TEM EM RELAÇÃO A OUTROS JOGOS DO GÊNERO É A HABILIDADE DE ADICIONAR HABILIDADES ESPECIAIS DE INIMIGOS DERROTADOS AO SEU PRÓPRIO REPERTÓRIO, PORÉM ELES SÓ PODEM FAZER UM MOVIMENTO DE CADA VEZ E SE ESCOLHEREM MUDAR UM MOVIMENTO, O ANTERIOR É PERDIDO PARA O RESTO DO JOGO. ALÉM DISSO, QUANDO O JOGADOR DERROTAR SUA IMAGEM NO ESPELHO, O MOVIMENTO SERÁ AMPLIFICADO. O JOGADOR ENFRENTARÁ CADA ADVERSÁRIO DUAS VEZES EM UM ESTILO DE TORNEIO ANTES DE CHEGAR AO CHEFE FINAL NO FINAL DO JOGO.</desc>
+		<rating>0</rating>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>FC9BA025</hash>
+		<image>./images/Voltage Fighter Gowcaizer (World).png</image>
+		<thumbnail>./boxart/Voltage Fighter Gowcaizer (World).png</thumbnail>
+		<marquee>./marquee/Voltage Fighter Gowcaizer (World).png</marquee>
+		<video>./snap/Voltage Fighter Gowcaizer (World).mp4</video>
+	</game>
+	<game id="38408" source="ScreenScraper.fr">
+		<path>./Windjammers (World).chd</path>
+		<name>Windjammers</name>
+		<desc>WINDJAMMERS IS BASED ON A REAL-LIFE SPORT KNOWN AS SAUCER TENNIS OR FRISBEE TENNIS. YOU AND AN OPPONENT FACE OFF IN AN ARENA WITH A LOW NET IN THE MIDDLE. POINTS ARE SCORED BY THROWING A DISC INTO THE GOALS BEHIND A PLAYER OR WHENEVER YOUR OPPONENT IS NOT ABLE TO CATCH THE DISC IN TIME. THERE ARE TWO MOVES: A REGULAR THROW AND A LOB. BY USING QUARTER-CIRCLE MOVEMENT, YOU CAN ALSO ADD EFFECT TO THE THROW. TO CATCH DIFFICULT DISCS, YOU CAN SLIDE TO MOVE MORE QUICKLY.
+
+THERE ARE SIX CHARACTERS TO CHOOSE FROM, WITH SPECIFIC ABILITIES AND THEIR OWN COURT FIT FOR THEIR SKILLS. A SINGLE GAME CONSISTS OF SHORT SETS OF THIRTY SECONDS. THE GAME IS WON AFTER TWO WINNING SETS OR SUDDEN DEATH AFTER TWO DRAWS.
+
+FOR THE FUTURISTIC TOUCH, SIGNATURE MOVES ARE ADDED. TO CHARGE THESE SPECIAL MOVES, YOU NEED TO BLOCK, TOSS OR LOB THE DISC AND THEN CHARGE WHILE THE DISC IS IN THE AIR. THESE MOVES CAN BE COUNTERED AND SOMETIMES THEY KNOCK AN OPPONENT INTO THE GOAL.
+
+TWO MINI-GAMES ARE INCLUDED IN-BETWEEN LEVELS: PLAY FETCH WITH A DOG AND FLYING DISC BOWLING.</desc>
+		<rating>0.6</rating>
+		<releasedate>19950120T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>DF2D936A</hash>
+		<image>./images/Windjammers (World).png</image>
+		<thumbnail>./boxart/Windjammers (World).png</thumbnail>
+		<marquee>./marquee/Windjammers (World).png</marquee>
+		<video>./snap/Windjammers (World).mp4</video>
+	</game>
+	<game id="38411" source="ScreenScraper.fr">
+		<path>./World Heroes 2 Jet (World).chd</path>
+		<name>World Heroes 2 JET</name>
+		<desc>WORLD HEROES 2 JET IS THE THIRD GAME IN THE WORLD HEROES SERIES. A THIRD TOURNAMENT FEATURING WARRIORS FROM ALL OVER THE WORLD (AND DIFFERENT PERIODS IN TIME) HAS BEGUN, AND IT'S UP TO YOU TO FIGHT TO THE FINISH TO FIND OUT WHO IS ORGANIZING IT. THE GAME IS AN UPGRADE / FINE-TUNING OF WORLD HEROES 2.</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>AD43E1DA</hash>
+		<image>./images/World Heroes 2 Jet (World).png</image>
+		<thumbnail>./boxart/World Heroes 2 Jet (World).png</thumbnail>
+		<marquee>./marquee/World Heroes 2 Jet (World).png</marquee>
+		<video>./snap/World Heroes 2 Jet (World).mp4</video>
+		<genre>Ação</genre>
+	</game>
+	<game id="38410" source="ScreenScraper.fr">
+		<path>./World Heroes 2 (World).chd</path>
+		<name>World Heroes 2</name>
+		<desc>THE TIME TRAVELING TOURNAMENT FIGHTERS ARE BACK! THE ORIGINAL EIGHT CHARACTERS FROM THE POPULAR ARCADE HIT RETURN, ALONG WITH SIX NEW CHARACTERS HAND-PICKED FROM SEVERAL DIFFERENT ERAS AND LOCATIONS ALL THROUGH TIME. BUT A NEW BOSS AWAITS THE VICTOR... WHO OR WHAT IS BEHIND THIS NEW TOURNAMENT? YOU'LL HAVE TO GET TO HIM TO FIND OUT!
+
+THIS SEQUEL FEATURES ALL-NEW STAGES AND MUSIC, AND IMPROVED ANIMATION AND GRAPHICS. YOU CAN NOW REFLECT PROJECTILE MOVES AT YOUR OPPONENT, AND REVERSE NORMAL THROWS IF YOUR TIMING IS RIGHT! THE ORIGINAL GAME'S DEATH MATCH MODE IS ALSO BACK, BUT WITH A NEW FEATURE - THE LIFE BAR WILL INCREASE OR DECREASE AS YOU INFLICT OR RECEIVE DAMAGE. GET YOUR SIDE'S LIFE BAR TO 100% AND YOUR ENEMY WILL LOSE.</desc>
+		<rating>0.75</rating>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<players>1-2</players>
+		<hash>B6E5B536</hash>
+		<image>./images/World Heroes 2 (World).png</image>
+		<thumbnail>./boxart/World Heroes 2 (World).png</thumbnail>
+		<marquee>./marquee/World Heroes 2 (World).png</marquee>
+		<video>./snap/World Heroes 2 (World).mp4</video>
+	</game>
+	<game id="38412" source="ScreenScraper.fr">
+		<path>./World Heroes Perfect (World).chd</path>
+		<name>World Heroes Perfect</name>
+		<desc>IN THE FINAL ENTRY IN THE WORLD HEROES SAGA, ALL SIXTEEN FIGHTERS FROM PREVIOUS GAMES RETURN FOR ANOTHER TOURNAMENT. NEW FEATURES INCLUDE:
+
+1. AN ALL-NEW ATTACK MODE WHERE YOU USE ALL FOUR BUTTONS TO ATTACK AN ENEMY.
+2. A POWER BAR WHICH GRANTS YOU SPECIAL ABILITIES DEPENDING ON THE CHARACTER.
+3. ALL-NEW STAGES AND MUSIC SET ACROSS DIFFERENT LOCATIONS IN EARTH'S PAST AND FUTURE.
+4. THREE SECRET CHARACTERS TO CHOOSE FROM, INCLUDING A CHARACTER NEW TO THE SERIES</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<players>1-2</players>
+		<hash>B352EFB0</hash>
+		<image>./images/World Heroes Perfect (World).png</image>
+		<thumbnail>./boxart/World Heroes Perfect (World).png</thumbnail>
+		<marquee>./marquee/World Heroes Perfect (World).png</marquee>
+		<video>./snap/World Heroes Perfect (World).mp4</video>
+	</game>
+	<game id="38409" source="ScreenScraper.fr">
+		<path>./World Heroes (World).chd</path>
+		<name>World Heroes</name>
+		<desc>AN ALIEN ENTITY KNOWN AS GEEGUS THREATENS THE EARTH IN THE YEAR 3091.  AS ALL OF EARTH'S FORCES HAVE BEEN DEFEATED, A SCIENTIST USES HIS RECENTLY-BUILT TIME MACHINE TO FIND THE GREATEST FIGHTERS OF DIFFERENT ERAS TO COMPETE AGAINST GEEGUS.
+
+FEATURING A CAST OF CHARACTERS RANGING FROM NINJAS TO A CYBERNETIC SUPERSOLDIER, YOU'LL FIGHT YOUR WAY THROUGH STANDARD-FARE ONE-ON-ONE MATCHES OR TAKE ON AN OPPONENT IN A DEATHMATCH, WHERE SPIKED WALLS AND LANDMINES ADD TO THE DANGER.</desc>
+		<rating>0</rating>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<players>1-2</players>
+		<hash>2E9AE7AB</hash>
+		<image>./images/World Heroes (World).png</image>
+		<thumbnail>./boxart/World Heroes (World).png</thumbnail>
+		<marquee>./marquee/World Heroes (World).png</marquee>
+		<video>./snap/World Heroes (World).mp4</video>
+	</game>
+</gameList>

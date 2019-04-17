@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="14215" source="ScreenScraper.fr">
+		<path>./A.P.B. - All Points Bulletin (USA, Europe).zip</path>
+		<name>APB</name>
+		<desc>YOU ARE POLICE OFFICER BOB, WHOSE AIM IS TO APPREHEND A CERTAIN QUOTA OF CRIMINALS (LITTERBUGS, SPEEDERS AND THE LIKE) EACH DAY. THIS IS DONE BY CHASING THEM AND SOUNDING YOUR SIREN AT THEM - IN SOME CASES THEY WILL NEED RAMMING OFF THE ROAD.  THERE ARE ALSO HARDENED CRIMINALS TO CATCH - IF YOU CAN GET ONE OF THESE TO CONFESS, YOUR DAY'S WORK IS CONSIDERED DONE.
+
+THE GAME'S ACTION IS PRESENTED WITH AN OVERHEAD VIEW OF YOUR SQUAD CAR. CAR UPGRADES ARE AVAILABLE, TO BE BROUGHT FROM YOUR REWARD MONEY. YOU EARN DEMERITS BY CRASHING, WRONGLY ARRESTING INNOCENTS, OR FAILING TO MEET YOUR QUOTA. TOO MANY DEMERITS AND IT IS GAME OVER.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>QuickSilver</publisher>
+		<players>1</players>
+		<hash>68A0ACAB</hash>
+		<image>./images/A.P.B. - All Points Bulletin (USA, Europe).png</image>
+		<thumbnail>./boxart/A.P.B. - All Points Bulletin (USA, Europe).png</thumbnail>
+		<marquee>./marquee/A.P.B. - All Points Bulletin (USA, Europe).png</marquee>
+		<video>./snap/A.P.B. - All Points Bulletin (USA, Europe).mp4</video>
+	</game>
+	<game id="14243" source="ScreenScraper.fr">
+		<path>./Awesome Golf (USA, Europe).zip</path>
+		<name>Awesome Golf</name>
+		<desc>AWESOME GOLF IS AS THE NAME SUGGESTS, A GOLF SIMULATOR. THERE ARE 3 COURSES TO PLAY ONE IN THE U.K ONE IN THE U.S AND THE THIRD ONE IN JAPAN. THE GAMEPLAY INVOLVES YOU LINING UP YOUR SHOT VIA AN OVERHEAD VIEW WHICH WHEN SET UP SWITCHES TO A THIRD PERSON VIEW. WHILST IN THIS VIEW YOU NEED TO SWING THE CLUB AND STOP IT AT THE DESIRED POWER AND THEN STOP IT ON THE CORRECT SYMBOL TO GET THE PERFECT HIT. IF YOU DON'T GET IT RIGHT YOU WILL EITHER MISS THE BALL OR HIT THE EARTH. THERE ARE 14 CLUBS AT YOUR DISPOSAL, 8 IRONS, 3 WOODS 2 WEDGES AND A PUTTER WHICH ARE SELECTED BY MOVING THE HAND CURSOR OVER YOU GOLF BAG AND SELECTING THE DESIRED CLUB.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>2B90E818</hash>
+		<image>./images/Awesome Golf (USA, Europe).png</image>
+		<thumbnail>./boxart/Awesome Golf (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Awesome Golf (USA, Europe).png</marquee>
+		<video>./snap/Awesome Golf (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14254" source="ScreenScraper.fr">
+		<path>./Baseball Heroes (USA, Europe).zip</path>
+		<name>Baseball Heroes</name>
+		<desc>HIT, RUN, DIVE, JUMP, CATCH AND THROW. PITCH FOR THE STRIKEOUT RECORD AND SWING FOR THE FENCES! PLAY BASEBALL AGAINST THE LYNX OR TAKE ON A FRIEND. FOUR DIFFERENT GAMES WITH SUPER GRAPHICS!</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>0424B7F5</hash>
+		<image>./images/Baseball Heroes (USA, Europe).png</image>
+		<thumbnail>./boxart/Baseball Heroes (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Baseball Heroes (USA, Europe).png</marquee>
+		<video>./snap/Baseball Heroes (USA, Europe).mp4</video>
+	</game>
+	<game id="14253" source="ScreenScraper.fr">
+		<path>./Basketbrawl (USA, Europe).zip</path>
+		<name>Basketbrawl</name>
+		<desc>IN A DESPERATE ATTEMPT TO STOP INNER-CITY GANG WARS, THE CITY LEADERS ORGANIZED A BASKETBALL LEAGUE.  THE LEAGUE IS SCHEDULED TO PLAY ON THREE COURTS: A STREET, A JUNKYARD, AND A ROOFTOP.  THE MAYOR FIGURED THAT A FRIENDLY GAME OF HOOPS WOULD BE A MUCH MORE PEACEFUL WAY TO SETTLE DISPUTES. HE WAS WRONG.
+
+YOU CAN CHOOSE 1-ON-1 OR 2-ON-2 GAME MODES. THERE ARE SIX CHARACTERS TO CHOOSE FROM (TEN IN ATARI LYNX VERSION); EACH WITH THEIR OWN HEALTH, SPEED, AND POWER ATTRIBUTES. EACH PLAYER WITHOUT THE BALL CAN JUMP TO BLOCK A SHOT OR PUNCH THERE OPPONENT TO GET THE BALL. THERE'S ALSO AN OPTION TO PERFORM A POWER THROW ON AN OPPOSING PLAYER. PLAYERS WITH THE BALL CAN SHOOT OR PASS. POWER UPS APPEAR ON THE COURT AT RANDOM INSTANCES. THESE POWER UP ONE ATTRIBUTE FOR THE PLAYER. FOR EXAMPLE, THE LIGHTNING POWER UP INCREASES THE PLAYER'S SPEED. 
+
+THE REFEREE DOES NOT CALL FOULS, BUT DOES HURL KNIVES AT THE PLAYERS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>A41B3D47</hash>
+		<image>./images/Basketbrawl (USA, Europe).png</image>
+		<thumbnail>./boxart/Basketbrawl (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Basketbrawl (USA, Europe).png</marquee>
+		<video>./snap/Basketbrawl (USA, Europe).mp4</video>
+	</game>
+	<game id="14212" source="ScreenScraper.fr">
+		<path>./Batman Returns (USA, Europe).zip</path>
+		<name>Batman Returns</name>
+		<desc>ATARI THEMSELVES ADAPTED THE 1992 SUPERHERO SEQUEL BATMAN RETURNS FOR THEIR LYNX HANDHELD AS A SIDE-SCROLLING BEAT'EM'UP.
+
+BATMAN MUST MOVE THROUGH FOUR LEVELS ON HIS QUEST TO STOP THE PENGUIN AND CATWOMAN. ENEMIES TRYING TO STOP HIM INCLUDE CIRCUS CLOWNS ON THE STREETS, POLICEMEN (WHOM CATWOMAN PUT ON HIS TRAIL) ON THE ROOFS OF GOTHAM CITY, AND PENGUIN COMMANDOS IN THE SEWERS AND THE PENGUIN'S LAIR.
+BATMAN CAN BEAT THEM UP WITH HIS FISTS OR DESTROY THEM USING BATARANGS AND ACID VIALS (WHICH MUST BE COLLECTED FIRST). SEVERAL OF THE LEVELS END IN BOSS ENCOUNTERS WITH THE TWO MAIN VILLAINS, WHILE IN THE LAST LEVEL, BATMAN MUST ALSO SAVE INDUSTRIALIST MAX SHRECK FROM THE PENGUIN'S WRATH BEFORE FINISHING HIM OFF.</desc>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>68CD6DCB</hash>
+		<image>./images/Batman Returns (USA, Europe).png</image>
+		<thumbnail>./boxart/Batman Returns (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Batman Returns (USA, Europe).png</marquee>
+		<video>./snap/Batman Returns (USA, Europe).mp4</video>
+	</game>
+	<game id="14268" source="ScreenScraper.fr">
+		<path>./Battle Wheels (USA, Europe).zip</path>
+		<name>Battle Wheels</name>
+		<desc>IN THE YEAR 2019, HUMANKIND TURNED TO MORE AND MORE DANGEROUS GAMES FOR ITS ENTERTAINMENT. FIGHT IN HIGH-TECH CARS ARMED WITH MISSILES, MACHINE GUNS, FLAME-THROWERS, AND MORE THROUGH DEAD CITIES AND DESERT WASTELANDS; A SIXTEEN ARENA BATTLE ROYAL! FIGHT AS A TEAM OR GO SOLO! CUSTOM BUILD YOUR CAR FROM THE GROUND UP OR BUY ONE FROM THE BODYSHOP. YOU CAN EVEN GO IN ON FOOT! FAST PACED 3-D SIX PLAYER ACTION LIKE YOU'VE NEVER SEEN BEFORE!
+
+WELCOME TO THE WORLD OF BATTLEWHEELS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Beyond Games</publisher>
+		<players>1-6</players>
+		<hash>FD5AE3DB</hash>
+		<image>./images/Battle Wheels (USA, Europe).png</image>
+		<thumbnail>./boxart/Battle Wheels (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Battle Wheels (USA, Europe).png</marquee>
+		<video>./snap/Battle Wheels (USA, Europe).mp4</video>
+	</game>
+	<game id="14255" source="ScreenScraper.fr">
+		<path>./Battlezone 2000 (USA, Europe).zip</path>
+		<name>BattleZone 2000</name>
+		<desc>IN THIS GAME YOU PLAY THE ROLE OF A TANK COMMANDER WHO IS FIGHTING IN A FUTURE WAR IN THE 21ST CENTURY. THE GAME IS AN UPDATE ON THE CLASSIC ARCADE GAME BATTLEZONE AND STAYS TRUE TO THE ORIGINAL IN TERMS OF GAMEPLAY. THE GAMEPLAY INVOLVES YOU DRIVING ROUND A LANDSCAPE DESTROYING ENEMY TANKS AND U.F.O.S  WHILST TRYING NOT TO RUN OUT OF FUEL AND ALSO NOT GETTING DESTROYED YOURSELF THOUGH LUCKILY THERE ARE FUEL PICK-UPS AND POWER-UPS TO COLLECT. YOU CAN ALSO USE THE CREDITS EARNED FOR COMPLETING MISSIONS TO UPGRADE YOUR TANK. THERE ARE ALSO A FEW DIFFERENT TANKS TO CHOOSE FROM INCLUDING THE RHINO WHICH IS HEAVILY ARMOURED BUT RUNS OUT OF FUEL FASTER THAN THE OTHER TANKS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>414BDA9A</hash>
+		<image>./images/Battlezone 2000 (USA, Europe).png</image>
+		<thumbnail>./boxart/Battlezone 2000 (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Battlezone 2000 (USA, Europe).png</marquee>
+		<video>./snap/Battlezone 2000 (USA, Europe).mp4</video>
+	</game>
+	<game id="14248" source="ScreenScraper.fr">
+		<path>./Bill &amp; Ted's Excellent Adventure (USA, Europe).zip</path>
+		<name>Bill &amp; Ted's Excellent Adventure</name>
+		<desc>THE LYNX TITLE BASED ON THE KEANU REEVES/ALEX WINTER FILM FRANCHISE ACTUALLY TAKES PLACE AFTER THE SECOND FILM, BILL AND TED'S BOGUS JOURNEY. OUT FOR REVENGE AFTER BEING HUMILIATED BY THE HIGH-SCHOOL DUO, DEATH KIDNAPS THEIR "MEDIEVAL BABE" GIRLFRIENDS FROM THE FIRST FILM, AND DRAGS THEM THROUGHOUT HISTORY.  LUCKILY, THE GIRLS ARE ABLE TO LEAVE BEHIND PAGES OF THE BAND'S LATEST SONG AS A TRAIL FOR BILL AND TED TO FOLLOW.
+
+PLAYING AS EITHER BILL OR TED (WITH A FRIEND ABLE TO TAKE CONTROL OF THE OTHER CHARACTER OVER COMLYNX), THE PLAYER MUST SEARCH HISTORICAL PERIODS IN AN OVERHEAD PERSPECTIVE AND COLLECT ENOUGH MUSICAL NOTES TO OPEN TRAVEL TO A NEW AREA. ALONG THE WAY, THEY CAN ENCOUNTER HISTORICAL FIGURES WHO WILL OFFER ASSISTANCE IN RETURN FOR A FAVOR.  BAD GUYS DO POPULATE THE LEVELS, BUT CAN BE PACIFIED WITH A RIPPIN' GUITAR SOLO.  IF BILL OR TED ARE DEFEATED, THEY SIMPLY REAPPEAR BACK AT THE LAST CHECKPOINT.
+
+OTHER ITEMS CAN BE FOUND AND COLLECTED IN AN INVENTORY. THE LYNX TITLE MAKES USE OF THE SERIES' INTERESTING TAKE ON THE TIME CONTINUUM, ALLOWING THE PLAYER TO LEAVE ITEMS FOR THEMSELVES IN THE PAST TO COLLECT AND USE IN THE FUTURE.  LIKEWISE, IF THE PLAYER HAPPENS UPON A SUDDEN FORTUITOUS ITEM THAT "THEY" LEFT, THEY MUST REMEMBER TO GO AND LEAVE THE ITEM IN THE PAST THEMSELVES TO AVOID CREATING A TIME PARADOX. THIS QUIRKY VIEW OF TIME FORMS THE BASIS OF MANY OF THE GAME'S PUZZLES.
+
+A PASSWORD SYSTEM IS CONSTANTLY UPDATED (VIEWABLE AT THE PAUSE SCREEN) TO SAVE THE PLAYER'S PROGRESS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>C91AFF8A</hash>
+		<image>./images/Bill &amp; Ted's Excellent Adventure (USA, Europe).png</image>
+		<thumbnail>./boxart/Bill &amp; Ted's Excellent Adventure (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Bill &amp; Ted's Excellent Adventure (USA, Europe).png</marquee>
+		<video>./snap/Bill &amp; Ted's Excellent Adventure (USA, Europe).mp4</video>
+	</game>
+	<game id="14232" source="ScreenScraper.fr">
+		<path>./Block Out (USA, Europe).zip</path>
+		<name>Block Out</name>
+		<desc>BLOCK OUT IS A TETRIS VARIANT WITH AN ADDED TWIST: IT'S IN 3D. THE PLAYER CAN ROTATE THE BLOCKS IN 3D IN ORDER TO FIT THEM INTO THE PIT THEY ARE BEING GUIDED INTO. ADVANCED USERS CAN PLAY THIS GAME WITH ODD THREE-DIMENSIONAL PIECES, OR CHANGE THE SIZE OF THE PIT, FOR DEPTH OF BETWEEN 6 AND 18 PILES, AND WIDTH AND LENGTH OF BETWEEN 3 AND 7.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>LDW Inc.</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>C96E5BC6</hash>
+		<image>./images/Block Out (USA, Europe).png</image>
+		<thumbnail>./boxart/Block Out (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Block Out (USA, Europe).png</marquee>
+		<video>./snap/Block Out (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14213" source="ScreenScraper.fr">
+		<path>./Blue Lightning (USA, Europe).zip</path>
+		<name>Blue Lightning</name>
+		<desc>THE INSANELY EVIL GENERAL DRAKO IS SPREADING HIS OWN SPECIAL BLEND OF SPITE AND CHAOS AROUND THE GLOBE.  YOU ARE A TOP FIGHTER PILOT FOR THE UN'S BLUE LIGHTNING SQUAD.  YOU HAVE TO TRAVEL FROM CONTINENT TO CONTINENT, AND END DRAKO'S PLANS AT EACH STOP USING YOUR AWESOME FLIGHT SKILLS.
+
+BLUE LIGHTNING IS A 3D FLIGHT GAME FEATURING 7 REAL-LIFE FIGHTER JETS.  THERE ARE SEVERAL TYPES OF MISSIONS, INCLUDING DOGFIGHTS, GROUND TARGETS, AND ESCORTS. YOUR ARSENAL CONSISTS OF VARIOUS CANNONS, MISSILES, AND SPECIAL BOMBS.  THE GAME CAN BE PLAYED EITHER FROM A BEHIND-THE-PLANE PERSPECTIVE, OR AN IN-COCKPIT PERSPECTIVE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>35AF173C</hash>
+		<image>./images/Blue Lightning (USA, Europe).png</image>
+		<thumbnail>./boxart/Blue Lightning (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Blue Lightning (USA, Europe).png</marquee>
+		<video>./snap/Blue Lightning (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14233" source="ScreenScraper.fr">
+		<path>./Bubble Trouble (USA, Europe).zip</path>
+		<name>Bubble Trouble</name>
+		<desc>YOU ARE TRAVIS, A SCIENTIST DOING EXPERIMENTS WITH DENSE MATTER FOR THE CREATION OF ARTIFICIAL BLACK HOLES FOR INTERSTELLAR TRAVEL. WHILE TESTING A PIECE OF EQUIPMENT, YOU ARE TRANSPORTED INTO A BUBBLE WORLD. FORTUNATELY, A FRIENDLY DENIZEN DECIDES TO HELP YOU. YOU MUST LOCATE THE CORRECT TYPE OF RADIOACTIVE PARTICLES TO MOVE FROM WORLD TO WORLD AND FINALLY HOME, BEFORE THE HOSTILE DENIZENS OF THESE WORLDS BURST YOUR BUBBLE.
+
+YOU MOVE YOUR BUBBLE BY PUSHING IN THE DESIRED DIRECTION. BE ADVISED THAT YOU DO NOT STOP EASILY AND CAN BOUNCE OUT OF CONTROL IF YOU ARE NOT CAREFUL. PUSHING THE A BUTTON FIRES A BUBBLE SHOT THAT WILL RICOCHET AROUND. YOU CAN USE THIS ACTION TO BOUNCE SHOTS AT ENEMIES THAT ARE AROUND A CORNER. PRESSING B DROPS A BUBBLE BOMB STRAIGHT DOWN. PRESSING OPTION 1 SWITCHES OPTIONS ON THE SCREEN, INCLUDING THE SUICIDAL "BURST!!!", THAT ARE THEN ACTIVATED BY PRESSING OPTION 2. THE ONE YOU WILL USE MOST IS "USE SCANNER". THIS WILL BRING UP THE SCANNER THAT LOOKS LIKE A RADAR SCREEN AND WILL SHOW YOU THE APPROXIMATE LOCATION OF YOUR NEEDED PARTICLES. ONCE YOU LOCATE AND GATHER ALL THE PARTICLES NEEDED IN THE LEVEL, YOU MOVE ON TO THE NEXT LEVEL. AFTER YOU FINISH FIVE LEVELS, YOU WIN THE GAME.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Lore Design Limited</developer>
+		<publisher>Telegames</publisher>
+		<players>1</players>
+		<hash>96DF6FA0</hash>
+		<image>./images/Bubble Trouble (USA, Europe).png</image>
+		<thumbnail>./boxart/Bubble Trouble (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Bubble Trouble (USA, Europe).png</marquee>
+		<video>./snap/Bubble Trouble (USA, Europe).mp4</video>
+	</game>
+	<game id="14218" source="ScreenScraper.fr">
+		<path>./California Games (USA, Europe).zip</path>
+		<name>California Games</name>
+		<desc>CALIFORNIA GAMES WAS THE ORIGINAL "EXTREME GAMES"  WHAT TODAY'S GENERATION MIGHT CALL "X-GAMES IN THE SUN".  PLAYERS CAN SELECT SPONSORS (ABSENT IN SOME VERSIONS) AND COMPETE IN EVENTS SUCH AS SKATEBOARDING, FOOTBAG, SURFING, ROLLER SKATING, FLYING DISC (FRISBEE) AND BMX.  THE SURFING EVENT IS RANKED BY JUDGES, WHICH GIVE A SCORE TO HELP THE PLAYERS IMPROVE THEIR ROUTINE.
+
+THE ATARI VERSIONS (2600 AND LYNX) OF THE GAME OMIT THE FLYING DISC AND ROLLER SKATING EVENTS, WHILE THE GENESIS VERSION OMITS ONLY THE FLYING DISC EVENT.</desc>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>2918EA2E</hash>
+		<image>./images/California Games (USA, Europe).png</image>
+		<thumbnail>./boxart/California Games (USA, Europe).png</thumbnail>
+		<marquee>./marquee/California Games (USA, Europe).png</marquee>
+		<video>./snap/California Games (USA, Europe).mp4</video>
+	</game>
+	<game id="14238" source="ScreenScraper.fr">
+		<path>./Checkered Flag (USA, Europe).zip</path>
+		<name>Checkered Flag</name>
+		<desc>CHECKERED FLAG FOR THE JAGUAR IS A 3D F1-STYLE RACING GAME. THE RACING GAME STAPLES ARE HERE: SINGLE RACE, PRACTICE, AND TOURNAMENT. YOU CAN CHOOSE TO SET UP A VARIETY OF OPTIONS FOR EACH RACE, ALSO.  YOU CAN CHOOSE VARIOUS WEATHER CONDITIONS.  OR, YOU CAN SET UP YOUR CAR TO CHANGE IT'S HANDLING CHARACTERISTICS.  THERE ARE 10 DIFFERENT TRACKS ON WHICH TO RACE, EACH WITH A DIFFERENT THEME.  SOME TAKE PLACE ON SUNNY BEACHES, OTHERS TAKE PLACE IN THE ARCTIC.</desc>
+		<rating>1</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-6</players>
+		<hash>6687F846</hash>
+		<image>./images/Checkered Flag (USA, Europe).png</image>
+		<thumbnail>./boxart/Checkered Flag (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Checkered Flag (USA, Europe).png</marquee>
+		<video>./snap/Checkered Flag (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14222" source="ScreenScraper.fr">
+		<path>./Chip's Challenge (USA, Europe).zip</path>
+		<name>Chip's Challenge</name>
+		<desc>NERDY CHIP DESPERATELY WANTS TO JOIN THE "BIT BUSTERS" COMPUTER CLUB, LED BY MELINDA THE MENTAL MARVEL.  HOWEVER, BEFORE SHE'LL LET HIM IN, HE MUST PROVE HIS INTELLIGENCE BY PASSING THE INITIATION TEST.  149 INCREASINGLY DIFFICULT LEVELS, INCLUDING A FEW HIDDEN ONES, AWAIT CHIP IN THIS TILE-BASED PUZZLE GAME.  USE TOOLS SUCH AS KEYS, AND SPECIAL SHOES TO BYPASS OBSTACLES.  MANIPULATE SWITCHES TO AND USE DIRT BLOCKS TO BUILD BRIDGES ACROSS WATERWAYS.  AVOID ENEMY CREATURES, GRAB ALL THE COMPUTER CHIPS IN THE LEVEL, AND HURRY TO THE EXIT: ON TOP OF EVERYTHING ELSE, THERE'S A TIME LIMIT!</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>F45F784A</hash>
+		<image>./images/Chip's Challenge (USA, Europe).png</image>
+		<thumbnail>./boxart/Chip's Challenge (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Chip's Challenge (USA, Europe).png</marquee>
+		<video>./snap/Chip's Challenge (USA, Europe).mp4</video>
+	</game>
+	<game id="14267" source="ScreenScraper.fr">
+		<path>./Crystal Mines II (USA, Europe).zip</path>
+		<name>Crystal Mines II : Buried Treasure</name>
+		<desc>GREAT TREASURE STILL LIES DEEP IN THE ABANDONED CRYSTAL MINES. BUT OVER THE YEARS, UNDERGROUND DEMONS HAVE MADE THEM DEADLY. GUIDE YOUR ROBOT THROUGH THE MINES, DESTROYING DEMONS AND GATHERING GREAT WEALTH. OR FAIL, AND BECOME HISTORY.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Songbird Productions</developer>
+		<publisher>Color Dreams</publisher>
+		<players>1</players>
+		<hash>58FF6DB3</hash>
+		<image>./images/Crystal Mines II (USA, Europe).png</image>
+		<thumbnail>./boxart/Crystal Mines II (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Crystal Mines II (USA, Europe).png</marquee>
+		<video>./snap/Crystal Mines II (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14211" source="ScreenScraper.fr">
+		<path>./Desert Strike - Return to the Gulf (USA, Europe).zip</path>
+		<name>Desert Strike : Return to the Gulf</name>
+		<desc>THE FIRST GAME IN THE STRIKE SERIES. A YEAR AFTER THE GULF WAR, A SELF-STYLED GENERAL NAMED KILBABA (MUABABA IN THE GBA VERSION) TAKES OVER AN ARAB EMIRATE AND THREATENS TO START WORLD WAR III AGAINST HIS WESTERN ENEMY, THE UNITED STATES. THE WHOLE WORLD HOLDS ITS BREATH AS THE PRESIDENT HAS CHOSEN YOU TO DESTROY KILBABA AND HIS TERRORIST ARMY BEFORE HE LAUNCHES A NUCLEAR ATTACK ON THE WORLD!
+
+YOU MUST FLY A SPECIALLY DESIGNED AH-64A APACHE ON A SERIES OF MISSIONS TO RESCUE MISSING-IN-ACTION CHARACTERS, DESTROY POWER PLANTS, BLOW APART SCUD MISSILES, ETC. TO TAKE OUT THE ENEMY DEFENSE WHILE TRYING TO FIND OUT KILBABA'S PLANS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Teque Software</publisher>
+		<players>1</players>
+		<hash>2EAAE973</hash>
+		<image>./images/Desert Strike - Return to the Gulf (USA, Europe).png</image>
+		<thumbnail>./boxart/Desert Strike - Return to the Gulf (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Desert Strike - Return to the Gulf (USA, Europe).png</marquee>
+		<video>./snap/Desert Strike - Return to the Gulf (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14270" source="ScreenScraper.fr">
+		<path>./Dinolympics (USA, Europe).zip</path>
+		<name>Dinolympics</name>
+		<desc>COME BACK TO THE DAWN OF HISTORY IN THIS COMBINATION OF PUZZLING PROBLEMS, AWESOME ADVENTURES, AND MIND-BENDING MAZES. THE SURVIVAL OF YOUR RACE IS AT STAKE!</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>0ED9EB06</hash>
+		<image>./images/Dinolympics (USA, Europe).png</image>
+		<thumbnail>./boxart/Dinolympics (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Dinolympics (USA, Europe).png</marquee>
+		<video>./snap/Dinolympics (USA, Europe).mp4</video>
+	</game>
+	<game id="14234" source="ScreenScraper.fr">
+		<path>./Dirty Larry - Renegade Cop (USA, Europe).zip</path>
+		<name>Dirty Larry : Renegade Cop</name>
+		<desc>HE'S THE BADDEST OF THE GOOD GUYS. HE'S DIRTY LARRY - RENEGADE COP. MR. BIG'S GANG IS DETERMINED TO END HIS CAREER FOR GOOD--IF HIS OWN CAPTAIN DOESN'T DO IT FIRST! SO TAKE TO THE STREETS IN A HURRY. IT'S TIME FOR A LITTLE HOUSE CLEANING!</desc>
+		<rating>0.5</rating>
+		<releasedate>19911230T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>C6017733</hash>
+		<image>./images/Dirty Larry - Renegade Cop (USA, Europe).png</image>
+		<thumbnail>./boxart/Dirty Larry - Renegade Cop (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Dirty Larry - Renegade Cop (USA, Europe).png</marquee>
+		<video>./snap/Dirty Larry - Renegade Cop (USA, Europe).mp4</video>
+	</game>
+	<game id="14210" source="ScreenScraper.fr">
+		<path>./Double Dragon (USA, Europe).zip</path>
+		<name>Double Dragon</name>
+		<desc>SET IN A POST-APOCALYPTIC NEW YORK, DOUBLE DRAGON IS THE STORY OF BILLY AND JIMMY LEE, TWIN BROTHERS TRAINED IN THE FIGHTING STYLE OF SOU-SETSU-KEN. TOGETHER, THEY MANAGE A SMALL MARTIAL ARTS TRAINING SCHOOL, TEACHING THEIR STUDENTS IN SELF-DEFENSE. ONE DAY, BILLY'S GIRLFRIEND, MARIAN, IS KIDNAPPED OFF THE STREET BY THE "BLACK WARRIORS", A SAVAGE STREET GANG LED BY A MAN NAMED WILLY. THE BLACK WARRIORS DEMAND THE LEE BROTHERS DISCLOSE THEIR MARTIAL ARTS SECRETS IN EXCHANGE FOR MARIAN'S FREEDOM. THE LEE BROTHERS SET OUT ON A RESCUE MISSION TO CRUSH THE BLACK WARRIORS AND SAVE MARIAN.
+
+USING WHATEVER TECHNIQUES THEY HAVE AT THEIR DISPOSAL, FROM THE BASIC PUNCHES AND KICKS TO THE INVULNERABLE ELBOW STRIKE, AS WELL ANY WEAPON THAT COMES INTO THEIR HANDS, THE LEE BROTHERS MUST PURSUE THE GANG THROUGH THE CITY SLUM, INDUSTRIAL AREA AND THE FOREST BEFORE REACHING THEIR HIDEOUT TO CONFRONT THE BIG BOSS, WILLY.</desc>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Telegames</publisher>
+		<players>1-2</players>
+		<hash>BCB2E75A</hash>
+		<image>./images/Double Dragon (USA, Europe).png</image>
+		<thumbnail>./boxart/Double Dragon (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Double Dragon (USA, Europe).png</marquee>
+		<video>./snap/Double Dragon (USA, Europe).mp4</video>
+	</game>
+	<game id="14244" source="ScreenScraper.fr">
+		<path>./Dracula the Undead (USA, Europe).zip</path>
+		<name>Dracula the Undead</name>
+		<desc>IN THIS GAME YOU PLAY THE ROLE OF JONATHAN HARKER, AN ESTATE AGENT WHO HAS VISITED DRACULA'S CASTLE TO CONDUCT SOME BUSINESS. THE GAMEPLAY IS A POINT AND CLICK STYLE ADVENTURE EXCEPT IT HAS BEEN TWEAKED TO ACCOMMODATE THE LYNX CONTROLS. TO INTERACT WITH AN OBJECT YOU MOVE JONATHAN NEXT TO THE OBJECT WITH THE D-PAD AND THEN ITS NAME WILL POP UP IN THE INTERACTION BAR. YOU THEN NEED TO SELECT AN ACTION SUCH AS OPEN, CLOSE EXAMINE E.T.C.. THE MAIN IDEA OF THE GAME IS TO EXPLORE DRACULA'S CASTLE WHILE HE IS AWAY AND TRY TO GATHER INFORMATION THAT WILL PROVE HE IS A VERY SERIOUS THREAT TO THE MORTAL WORLD. THERE ARE ALSO OTHER CHARACTER IN THE GAME TO INTERACT WITH AND BRAM STOKER (THE WRITER OF DRACULA WHICH THIS GAME IS BASED ON) IS IN THE GAME IN DIGITAL FORM TO NARRATE THE STORY.</desc>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>0F4B4071</hash>
+		<image>./images/Dracula the Undead (USA, Europe).png</image>
+		<thumbnail>./boxart/Dracula the Undead (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Dracula the Undead (USA, Europe).png</marquee>
+		<video>./snap/Dracula the Undead (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14269" source="ScreenScraper.fr">
+		<path>./Electrocop (USA, Europe).zip</path>
+		<name>Electrocop</name>
+		<desc>TODAY, IF A DAUGHTER OF THE PRESIDENT GOES MISSING, I WOULD LOOK IN THE NEAREST BAR. HOWEVER, IN THE NEAR FUTURE, THE EXPLANATION IS THAT SHE'S BEEN KIDNAPPED BY A CRIMINAL BRAIN ROBOT, AND HELD IN A BOOBY-TRAPPED LAIR. AS THE ADVANCED HYBRID ELECTROCOP, YOUR TASK IS TO RESCUE HER WITHIN AN HOUR.
+
+GAMEPLAY INVOLVES WORKING YOUR WAY THROUGH THE COMPLEX WAREHOUSE MAZE, UNLOCKING CODED DOOR ALONG THE WAY. EXTRA WEAPONS CAN BE COLLECTED TO HELP DEALING WITH THE DRONES. THERE ARE ALSO COMPUTER TERMINALS TO BUY NEW WEAPONS - THESE ALSO HAVE SIMPLE SUBGAMES BUILT IN. WHAT MAKES THE GAME UNIQUE, AND INTENDED AS A SHOWPIECE FOR THE LYNX HARDWARE, IS THAT FULL 3D IS USED, SO THAT THE CHARACTER WALKS IN AND OUT OF THE SCREEN AS WELL AS ACROSS IT.</desc>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>765D742D</hash>
+		<image>./images/Electrocop (USA, Europe).png</image>
+		<thumbnail>./boxart/Electrocop (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Electrocop (USA, Europe).png</marquee>
+		<video>./snap/Electrocop (USA, Europe).mp4</video>
+	</game>
+	<game id="14272" source="ScreenScraper.fr">
+		<path>./European Soccer Challenge (USA, Europe).zip</path>
+		<name>European Soccer Challenge</name>
+		<desc>EUROPEAN SOCCER CHALLENGE GIVES YOU ALL THE EXCITEMENT AND TENSION OF THE EUROPEAN CHALLENGE CUP IN THIS ACTION PACKED VERSION OF THE WORLD'S MOST POPULAR GAME FEATURING OVER 170 TEAMS FROM 32 COUNTRIES. HAS YOUR TEAM GOT WHAT IT TAKES?</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<players>1-2</players>
+		<hash>D714546D</hash>
+		<image>./images/European Soccer Challenge (USA, Europe).png</image>
+		<thumbnail>./boxart/European Soccer Challenge (USA, Europe).png</thumbnail>
+		<marquee>./marquee/European Soccer Challenge (USA, Europe).png</marquee>
+		<video>./snap/European Soccer Challenge (USA, Europe).mp4</video>
+	</game>
+	<game id="14273" source="ScreenScraper.fr">
+		<path>./Fat Bobby (USA, Europe).zip</path>
+		<name>Fat Bobby</name>
+		<desc>FAT BOBBY, THE LEAD GUITAR PLAYER, HAS NNHAD HIS MUSICAL GROUP KIDNAPPED BY THE NNEVIL DR. MEPHISTO. NNNNYOU GUIDE BOBBY THRU A MULTITUDE OF NNLEVELS IN THIS CLASSIC PLATFORM HOPPER. NNNNCOLLECT NOTES AND HINTS, AS YOU NNENCOUNTER THE HENCHMEN OF DR. NNMEPHISTO. NNNNTHAT GUITAR CAN "STRUM" MORE THAN JUST NNNOTES!</desc>
+		<rating>0.5</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<players>1</players>
+		<hash>E2F4DA44</hash>
+		<image>./images/Fat Bobby (USA, Europe).png</image>
+		<thumbnail>./boxart/Fat Bobby (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Fat Bobby (USA, Europe).png</marquee>
+		<video>./snap/Fat Bobby (USA, Europe).mp4</video>
+	</game>
+	<game id="14256" source="ScreenScraper.fr">
+		<path>./Fidelity Ultimate Chess Challenge, The (USA, Europe).zip</path>
+		<name>Fidelity Ultimate Chess Challenge</name>
+		<desc>ON YOUR OWN AGAINST THE FIDELITY ULTIMATE CHESS CHALLENGE - THE WORLD'S MOST POWERFUL HAND-HELD CHESS GAME - OR AGAINST A FRIEND, THE STUNNING 3D GRAPHICS AND ADVANCED TECHNOLOGY OF THIS LATEST GAME FROM TELEGAMES HAS TO BE PLAYED TO BE BELIEVED.
+THE FIDELITY ULTIMATE CHESS CHALLENGE USES THE MOST POWERFUL CHESS PLAYING TECHNOLOGY FROM THE LABORATORIES OF FIDELITY - THE PREMIER MANUFACTURERS OF DEDICATED CHESS COMPUTERS ARE DEVELOPERS OF THE WORLD'S ONLY USCF CERTIFIED MASTER RATED (2325) CHESS PROGRAM.
+SWITCH FROM 3D TO OVERHEAD VIEW FOR THE FINAL ATTACK - OR USE ONE OF THE MANY OPTIONS AVAILABLE TO REVIEW THE GAME TO DATE.
+FULL ON-SCREEN STATISTICS GIVING SCORE, TIMES, MOVES ETC. AND MANY OTHER FEATURES ON THIS THE WORLD'S FASTEST COLOR HAND-HELD CHESS GAME.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<hash>96643BAA</hash>
+		<image>./images/Fidelity Ultimate Chess Challenge, The (USA, Europe).png</image>
+		<thumbnail>./boxart/Fidelity Ultimate Chess Challenge, The (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Fidelity Ultimate Chess Challenge, The (USA, Europe).png</marquee>
+		<video>./snap/Fidelity Ultimate Chess Challenge, The (USA, Europe).mp4</video>
+	</game>
+	<game id="14257" source="ScreenScraper.fr">
+		<path>./Gates of Zendocon, The (USA, Europe).zip</path>
+		<name>Gates of Zendocon</name>
+		<desc>THE EVIL SPIDER ZENDOCON HAS TRAPPED YOU IN ITS WEB OF UNIVERSES.  YOUR MISSION IS TO DEFEAT ZENDOCON'S DROIDS AND BRAVE THE 51 UNIVERSES TO FIGHT ZENDOCON ITSELF TO THE DEATH!
+
+GATES OF ZENDOCON IS A SIDE-SCROLLING SHOOTER VERY SIMILAR TO THE ORIGINAL ARCADE SHOOTER OF THIS TYPE, SCRAMBLE.  UNLIKE SCRAMBLE, THERE ARE 51 GAME AREAS IN TOTAL, BUT THE PLAYER FIGHTS THROUGH A SUBSET OF THEM THROUGH BRANCHES, CHOOSING THE NEXT AREA TO VISIT.  
+
+SOME ALIENS WILL JOIN YOU WHEN SHOT (POWER-UPS).  ALIEN BASES IN EACH AREA ALLOW YOU TO REPAIR YOUR WEAPONS AND SHIELD, BUT LANDING AT THE WRONG TIME WILL CAUSE YOUR SHIP TO EXPLODE AND LOSE ALL POWER-UPS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>D852DBA7</hash>
+		<image>./images/Gates of Zendocon, The (USA, Europe).png</image>
+		<thumbnail>./boxart/Gates of Zendocon, The (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Gates of Zendocon, The (USA, Europe).png</marquee>
+		<video>./snap/Gates of Zendocon, The (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14227" source="ScreenScraper.fr">
+		<path>./Gauntlet - The Third Encounter (USA, Europe).zip</path>
+		<name>Gauntlet : The Third Encounter</name>
+		<desc>GAUNTLET: THE THIRD ENCOUNTER IS AN ARCADE-STYLE ACTION GAME BY ATARI, THAT WAS RELEASED ON THE ATARI LYNX HANDHELD IN 1990. THE GAME CAN BE PLAYED BY ONE TO FOUR PLAYERS SIMULTANEOUSLY. IT INTRODUCED NEW CHARACTER CLASSES LIKE ?NERD? OR ?PUNKROCKER? AND WAS ONE OF A FEW GAMES THAT USED THE ?VERTICAL MODE? OF THE ATARI LYNX, ANOTHER BEING THE PORT OF KLAX. THE STORY: A CRYSTAL FALLS FROM THE SKY AND LANDS IN A CASTLE, AND IT MUST BE RETRIEVED FROM WITHIN ITS 40 MAZES TYPE AREA. A YEAR LATER U.S. GOLD AND TENGEN WOULD RELEASE ANOTHER COMPLETELY DIFFERENT GAME CALLED GAUNTLET III: THE FINAL QUEST.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>8E0908E5</hash>
+		<image>./images/Gauntlet - The Third Encounter (USA, Europe).png</image>
+		<thumbnail>./boxart/Gauntlet - The Third Encounter (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Gauntlet - The Third Encounter (USA, Europe).png</marquee>
+		<video>./snap/Gauntlet - The Third Encounter (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14274" source="ScreenScraper.fr">
+		<path>./Gordo 106 - The Mutated Lab Monkey (USA, Europe).zip</path>
+		<name>Gordo 106</name>
+		<desc>YOU ARE A MONKEY NAMED GORDO, RESIDENT OF N. HUMAN LABS CAGE 106, A LABORATORY EXPERIMENTING WITH ANIMALS.  ONE DAY GORDO ACCIDENTALLY INGESTS A NUCLEAR SPIKED BANANA, CAUSING HIS BRAIN TO BECOME LARGER AND BECOME MORE HUMAN AND THOUGHT AND FIGURES OUT WHAT IS GOING ON.  HE GETS LOOSE AND IS NOW ON A MISSION TO FREE HIS ANIMAL FRIENDS AND ESCAPE THE EVIL CLUTCHES OF THE N. HUMAN LABORATORY.
+
+BANANA'S ARE YOUR ONLY HEALTH PICK UP AND YOU USE APPLES TO FIGHT OFF ENEMIES.  GORDO IS VERY AGILE AND CAN SWING FROM CHAINS THAT HANG FROM THE CEILING TO AVOID THE MANY PITS THAT LITTER THE FLOOR.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>0671ACEA</hash>
+		<image>./images/Gordo 106 - The Mutated Lab Monkey (USA, Europe).png</image>
+		<thumbnail>./boxart/Gordo 106 - The Mutated Lab Monkey (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Gordo 106 - The Mutated Lab Monkey (USA, Europe).png</marquee>
+		<video>./snap/Gordo 106 - The Mutated Lab Monkey (USA, Europe).mp4</video>
+	</game>
+	<game id="14275" source="ScreenScraper.fr">
+		<path>./Hard Drivin' (USA, Europe).zip</path>
+		<name>Hard Drivin'</name>
+		<desc>HARD DRIVIN' IS A 3D ARCADE HIT FROM ATARI GAMES. YOU ARE IN CONTROL OF A HIGH-PERFORMANCE SPORTS CAR. YOUR OBJECTIVE IS TO RACE AROUND THE COURSE AS FAST AS POSSIBLE AND HIT AS MANY CHECKPOINTS AS POSSIBLE. IF YOU HIT A CHECKPOINT YOU GAIN EXTRA TIME TO GO FARTHER. YOU WILL SEE TRAFFIC ON THE ROAD BOTH IN YOUR DIRECTION AND COMING DOWN THE OPPOSITE DIRECTION, SO BE CAREFUL WHEN YOU PASS... 
+
+THE COURSE HAS TWO SECTIONS: SPEED TRACK, AND STUNT TRACK. SPEED TRACK IS LONGER, BUT YOU CAN USUALLY ACHIEVE HIGHER SPEEDS. STUNT TRACK REQUIRES YOU TO PERFORM SEVERAL STUNTS SUCH AS JUMPING BRIDGES, DRIVING THROUGH A LOOP, AND SO ON. 
+
+CRASHING THE CAR HAS NO SERIOUS CONSEQUENCES AND INDEED SHOWS A REPLAY OF YOUR CRASH FROM A CINEMATIC ANGLE. ADMIRE YOUR CRASH HEAD-ON INTO THE CEMENT TRUCK, OR CLIPPING THE MINIVAN, OR FLYING OFF THE BRIDGE IN THE WRONG ANGLE... YOU LOSE SEVERAL SECONDS AS YOUR CAR IS "RESET" AND YOU GET UP TO SPEED AGAIN. 
+
+THE HOME CONVERSIONS RETAIN MOST OF THE THEN-ADVANCED 3D GRAPHICS BUT LACK THE FORCE-FEEDBACK THAT WAS IN THE ARCADE VERSION.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>9ADD0861</hash>
+		<image>./images/Hard Drivin' (USA, Europe).png</image>
+		<thumbnail>./boxart/Hard Drivin' (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Hard Drivin' (USA, Europe).png</marquee>
+		<video>./snap/Hard Drivin' (USA, Europe).mp4</video>
+	</game>
+	<game id="14258" source="ScreenScraper.fr">
+		<path>./Hockey (USA, Europe).zip</path>
+		<name>Hockey</name>
+		<desc>THIS GAME, AS THE NAME SUGGESTS, IS A HOCKEY SIMULATION WHICH IS VERY SIMILAR TO MARIO LEMIEUX HOCKEY. THERE ARE 22 TEAMS TO CHOOSE FROM WHICH ARE BASED ON THE NHL 91 LINE UP THOUGH THEY CAN BE CHANGED IF THE PLAYER WISHES. YOU CONTROL 1 PLAYER AT A TIME AND THE CPU CONTROLS THE REST OF YOUR TEAM THOUGH YOU CAN SWITCH TO A DIFFERENT PLAYER AT ANY TIME IF THE NEED ARISES. THERE IS ALSO A FIGHT PENALTY SYSTEM WHERE YOU HAVE TO CONTINUALLY PUNCH THE AN OPPONENT IN ORDER TO PROCEED. THE GAME IS VIEWED FROM AN ISOMETRIC PERSPECTIVE AS IF YOU WERE SAT IN ONE OF THE CROWD SEATS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>0904A4D9</hash>
+		<image>./images/Hockey (USA, Europe).png</image>
+		<thumbnail>./boxart/Hockey (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Hockey (USA, Europe).png</marquee>
+		<video>./snap/Hockey (USA, Europe).mp4</video>
+	</game>
+	<game id="14276" source="ScreenScraper.fr">
+		<path>./Hydra (USA, Europe).zip</path>
+		<name>Hydra</name>
+		<desc>IF BEING THE BEST SPEEDBOAT RACER IN THE WORLD WERE ALL THERE WAS TO LIFE, YOU'D LIVE ON EASY STREET.  BUT WHEN THE GOVERNMENT OF HYDRA HAS ASKED FOR YOUR HELP IN DEFEATING HYDRA'S ENEMIES BY COURIERING PARTS TO A SECRET WEAPON, AND THOSE ENEMIES KNOW YOU'RE COMING... WELL THEN, LIFE GETS INTERESTING.
+
+RACE DOWN NARROW SWAMP LANES TO DELIVER PARTS OF A SECRET WEAPON TO BASES AT THE FINISH OF EACH SECTION.  ENEMIES WILL BE SHOOTING AT YOU, BUT YOU CAN SHOOT BACK WITH UZI CANNONS AND NUKES.  COLLECT CRYSTALS ALONG THE WAY TO BOOST YOUR SPEED OR SHIELDS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>8980A322</hash>
+		<image>./images/Hydra (USA, Europe).png</image>
+		<thumbnail>./boxart/Hydra (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Hydra (USA, Europe).png</marquee>
+		<video>./snap/Hydra (USA, Europe).mp4</video>
+	</game>
+	<game id="14245" source="ScreenScraper.fr">
+		<path>./Ishido - The Way of Stones (USA, Europe).zip</path>
+		<name>Ishido : The Way of Stones</name>
+		<desc>APRESENTANDO ISHIDO, O ANTIGO E INTRINCADO GAME OF THE STONES. VOCÊ DEVE COLOCAR PEDRAS NO TABULEIRO DO JOGO, COMBINANDO CORES E PADRÕES DE ACORDO COM REGRAS SECULARES. ISSO EXIGE GRANDE HABILIDADE E CONCENTRAÇÃO - MAS SE VOCÊ PODE DESBLOQUEAR O SEGREDO DO ORACLE, SUA SABEDORIA IRÁ AJUDÁ-LO!</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Software Resources International</developer>
+		<publisher>Publishing International</publisher>
+		<players>1</players>
+		<hash>7C58AEA4</hash>
+		<image>./images/Ishido - The Way of Stones (USA, Europe).png</image>
+		<thumbnail>./boxart/Ishido - The Way of Stones (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Ishido - The Way of Stones (USA, Europe).png</marquee>
+		<video>./snap/Ishido - The Way of Stones (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58775" source="ScreenScraper.fr">
+		<path>./Jimmy Connors' Tennis (USA, Europe).zip</path>
+		<name>Jimmy Connors' Tennis</name>
+		<desc>JIMMY CONNORS' TENNIS IS A SPORTS GAME, PUBLISHED BY ATARI, WHICH WAS RELEASED IN 1993.</desc>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>FDD6536D</hash>
+		<image>./images/Jimmy Connors' Tennis (USA, Europe).png</image>
+		<thumbnail>./boxart/Jimmy Connors' Tennis (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Jimmy Connors' Tennis (USA, Europe).png</marquee>
+		<video>./snap/Jimmy Connors' Tennis (USA, Europe).mp4</video>
+	</game>
+	<game id="14240" source="ScreenScraper.fr">
+		<path>./Joust (USA, Europe).zip</path>
+		<name>Joust</name>
+		<desc>IN JOUST, PLAYERS TAKE CONTROL OF A KNIGHT WITH A LANCE WHO RIDES THEIR FLYING OSTRICH (OR STORK, FOR PLAYER 2) TO DO BATTLE AGAINST COMPUTER-CONTROLLED EVIL KNIGHTS WHO RIDE ATOP VULTURES.
+
+PLAYERS MUST FLAP THEIR STEED'S WINGS TO HIT THE ENEMY FROM A HIGHER JOUSTING POINT TO DESTROY THE VULTURE AND ITS RIDER. ONCE THE ENEMY HAS BEEN HIT, AN EGG FALLS TO ONE OF THE PLATFORMS BELOW. THE HEROIC KNIGHTS MUST DESTROY THE EGGS BEFORE THEY HATCH AND RELEASE NEW AND INCREASINGLY MORE DIFFICULT KNIGHTS. THE THREE STRENGTHS OF ENEMY KNIGHTS ARE BOUNDER (RED KNIGHT), HUNTER (WHITE KNIGHT), AND SHADOW LORD (BLUE KNIGHT). THESE ENEMY KNIGHTS ARE NOT THE ONLY CHALLENGE TO BE FOUND IN THE GAME. PLAYERS MUST ALSO CONTEND WITH CRUMBLING PLATFORMS, LAVA TROLLS WHO ATTEMPT TO PULL KNIGHTS INTO THE FIRE, AND THE DREADED "UNBEATABLE"(?) PTERODACTYL.
+
+THE GAME WAS NOVEL FOR ITS TIME FOR BEING ONE OF THE FEW TWO-PLAYER SIMULTANEOUS GAMES IN THE ARCADE.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Shadowsoft</developer>
+		<publisher>Williams Electronics</publisher>
+		<players>1-2</players>
+		<hash>9F7662C2</hash>
+		<image>./images/Joust (USA, Europe).png</image>
+		<thumbnail>./boxart/Joust (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Joust (USA, Europe).png</marquee>
+		<video>./snap/Joust (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14249" source="ScreenScraper.fr">
+		<path>./Klax (USA, Europe).zip</path>
+		<name>Klax</name>
+		<desc>AN ACTION/PUZZLE GAME, THE OBJECT IS TO CATCH ASSORTED COLOR FALLING TILES AND CREATE ROWS, COLUMNS, OR DIAGONALS OF A SINGLE COLOR. EACH LEVEL REQUIRES A DIFFERENT PATTERN TO BE MADE, AND THE TILES FALL FASTER, MORE AT A TIME, AND IN AN INCREASING NUMBER OF COLORS AS THE GAME PROGRESSES.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>EC53A878</hash>
+		<image>./images/Klax (USA, Europe).png</image>
+		<thumbnail>./boxart/Klax (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Klax (USA, Europe).png</marquee>
+		<video>./snap/Klax (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14230" source="ScreenScraper.fr">
+		<path>./Krazy Ace - Miniature Golf (USA, Europe).zip</path>
+		<name>Krazy Ace Miniature Golf</name>
+		<desc>KRAZY ACE MINIATURE GOLF IS A MINIATURE GOLF GAME FOR ONE TO FOUR PLAYERS. YOU MUST HIT THE GOLF BALL INTO THE HOLE IN THE FEWEST SHOTS WHILE AVOIDING OBSTACLES AND TRAPS. TRY TO GET A BETTER SCORE THAN YOUR OPPONENT(S) OR AT LEAST GET WITHIN THE NUMBER OF SHOTS PER HOLE (PAR).</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<players>1-4</players>
+		<hash>96C5D9B9</hash>
+		<image>./images/Krazy Ace - Miniature Golf (USA, Europe).png</image>
+		<thumbnail>./boxart/Krazy Ace - Miniature Golf (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Krazy Ace - Miniature Golf (USA, Europe).png</marquee>
+		<video>./snap/Krazy Ace - Miniature Golf (USA, Europe).mp4</video>
+	</game>
+	<game id="14250" source="ScreenScraper.fr">
+		<path>./Kung Food (USA, Europe).zip</path>
+		<name>Kung Food</name>
+		<desc>THE ULTIMATE FOOD FIGHT!  MUTANT MUNCHIES FROM YOUR FREEZER INVADE YOUR KITCHEN, YOUR LIFE AND YOUR WORLD.  SPEED AND YOUR MARTIAL ARTS SKILLS ARE REQUIRED TO OVERCOME THE VICIOUS VEGGIES!</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>3529D2D7</hash>
+		<image>./images/Kung Food (USA, Europe).png</image>
+		<thumbnail>./boxart/Kung Food (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Kung Food (USA, Europe).png</marquee>
+		<video>./snap/Kung Food (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14208" source="ScreenScraper.fr">
+		<path>./Lemmings (USA, Europe).zip</path>
+		<name>Lemmings</name>
+		<desc>YOUR TASK IS TO RESCUE THE LEMMINGS ACROSS 120 LEVELS OF FAST-PACED PUZZLING. THESE CREATURES SIMPLY WALK BLINDLY THROUGH THE WORLD IN THE HOPE OF REACHING SAFETY AT THE END OF THE LEVEL - UNFORTUNATELY THESE LEVELS INCLUDE STEEP DROPS, GAPS IN THE GROUND, BARRIERS AND RIVERS AMONGST OTHER HAZARDS.
+
+YOU ARE IN CONTROL NOT OF ANY INDIVIDUAL LEMMING, BUT OF A CROSS-HAIR, WHICH CAN BE MOVED OVER ANY OF THE LEMMINGS. ALONG THE BOTTOM ARE A SELECTION OF FUNCTIONS WHICH CAN BE ASSIGNED TO A LEMMING, INCLUDING CLIMBING, FLOATING AND BASHING. YOU MUST CLICK TO SELECT THE APPROPRIATE FUNCTION, THEN CLICK ON THE LEMMING TO ACTIVATE IT. EACH LEVEL HAS A DIFFERENT RANGE OF SKILLS ON OFFER, A DIFFERENT AMOUNT OF LEMMINGS, AND A DIFFERENT PERCENTAGE TARGET IN ORDER TO PROGRESS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<players>1</players>
+		<hash>A77B6B64</hash>
+		<image>./images/Lemmings (USA, Europe).png</image>
+		<thumbnail>./boxart/Lemmings (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Lemmings (USA, Europe).png</marquee>
+		<video>./snap/Lemmings (USA, Europe).mp4</video>
+	</game>
+	<game id="58776" source="ScreenScraper.fr">
+		<path>./Lexis (USA, Europe).zip</path>
+		<name>Lexis</name>
+		<desc>THIS IS MUCH LIKE THE GAME TETRIS BUT INSTEAD OF FALLING BLOCKS, YOU HAVE TO MAKE WORDS OUT OF FALLING LETTERS. SOME WORDS WILL GIVE YOU CHEATS OR UNLOCK A BONUS GAME. KEEP GOING UNTIL THE LETTERS REACH THE TOP OF THE SCREEN, AT WHICH POINT THE GAME IS OVER. WORDS CAN BE FORMED HORIZONTALLY, VERTICALLY, FORWARDS OR BACKWARDS.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Shadowsoft</developer>
+		<publisher>Songbird Productions</publisher>
+		<players>1</players>
+		<hash>57BD4B4C</hash>
+		<image>./images/Lexis (USA, Europe).png</image>
+		<thumbnail>./boxart/Lexis (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Lexis (USA, Europe).png</marquee>
+		<video>./snap/Lexis (USA, Europe).mp4</video>
+	</game>
+	<game id="14251" source="ScreenScraper.fr">
+		<path>./Lynx Casino (USA, Europe).zip</path>
+		<name>Lynx Casino</name>
+		<desc>THIS GAME IS A COLLECTION OF CASINO GAMES WHICH ARE ACCESSED BY MOVING THE PLAYER AROUND THE CASINO AND SELECTING THE PREFERRED GAME TABLE OR MACHINE TO PLAY THAT GAME. YOU START OFF WITH $1,000 TO GAMBLE WITH THOUGH YOU CAN GET TWO LOANS OF $500 IF NEEDED FROM THE DEALERS. ONCE ALL YOUR MONEY HAS BEEN GAMBLED AWAY IT IS GAME OVER.
+
+THE 5 GAMES AVAILABLE ARE:
+
+1. BLACKJACK
+2. CRAPS
+3. ROULETTE
+4. SLOT MACHINES (FRUIT MACHINES)
+5. VIDEO POKER</desc>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>5539BAF4</hash>
+		<image>./images/Lynx Casino (USA, Europe).png</image>
+		<thumbnail>./boxart/Lynx Casino (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Lynx Casino (USA, Europe).png</marquee>
+		<video>./snap/Lynx Casino (USA, Europe).mp4</video>
+	</game>
+	<game id="14229" source="ScreenScraper.fr">
+		<path>./Malibu Bikini Volleyball (USA, Europe).zip</path>
+		<name>Malibu Bikini Volleyball</name>
+		<desc>WELCOME TO MALIBU: VOLLEYBALL CAPITAL OF THE WORLD. THIS IS WHERE THE BEST COME TO PLAY--AND SHOW OFF THEIR TANS. IF YOU WANT IN, SIGN UP. BUT KEEP YOUR EYES ON THE BALL...THERE'LL BE PLENTY OF TIME FOR BIKINI-WATCHING AFTER THE MATCH!</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>ABA3E776</hash>
+		<image>./images/Malibu Bikini Volleyball (USA, Europe).png</image>
+		<thumbnail>./boxart/Malibu Bikini Volleyball (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Malibu Bikini Volleyball (USA, Europe).png</marquee>
+		<video>./snap/Malibu Bikini Volleyball (USA, Europe).mp4</video>
+	</game>
+	<game id="14223" source="ScreenScraper.fr">
+		<path>./Ms. Pac-Man (USA, Europe).zip</path>
+		<name>Ms. Pac-Man</name>
+		<desc>IN 1982, A SEQUEL TO THE  INCREDIBLY POPULAR PAC-MAN WAS INTRODUCED IN THE FORM OF HIS GIRLFRIEND, MS. PAC-MAN.  THIS SEQUEL CONTINUED ON THE "EAT THE DOTS/AVOID THE GHOSTS" GAMEPLAY OF THE ORIGINAL GAME, BUT ADDED NEW FEATURES TO KEEP THE TITLE FRESH.
+
+LIKE HER BOYFRIEND, MS. PAC-MAN ATTEMPTS TO CLEAR FOUR VARIOUS AND CHALLENGING MAZES FILLED WITH DOTS AND EVER-MOVING BOUNCING FRUIT  WHILE AVOIDING INKY, BLINKY, PINKY AND SUE, EACH WITH THEIR OWN PERSONALITIES AND TACTICS.  ONE TOUCH FROM ANY OF THESE GHOSTS MEANS A LOSS OF LIFE FOR MS. PAC-MAN.
+
+MS. PAC-MAN CAN TURN THE TABLES ON HER PURSUERS BY EATING ONE OF THE FOUR ENERGIZERS LOCATED WITHIN THE MAZE. DURING THIS TIME, THE GHOSTS TURN BLUE, AND MS. PAC-MAN CAN EAT THEM FOR BONUS POINTS (RANGING FROM 200, 400, 800 AND 1600, PROGRESSIVELY). THE ENERGIZER POWER ONLY LASTS FOR A LIMITED AMOUNT OF TIME, AS THE GHOST'S EYES FLOAT BACK TO THEIR CENTER BOX, AND REGENERATE TO CHASE AFTER MS. PAC-MAN AGAIN.
+
+SURVIVE A FEW ROUNDS OF GAMEPLAY, AND THE PLAYER WILL BE TREATED TO HUMOROUS INTERMISSIONS SHOWING THE GROWING ROMANTIC RELATIONSHIP BETWEEN PAC-MAN AND MS. PAC-MAN, LEADING ALL THE WAY UP TO THE ARRIVAL OF "JUNIOR".</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Namco</publisher>
+		<players>1</players>
+		<hash>FD071DD6</hash>
+		<image>./images/Ms. Pac-Man (USA, Europe).png</image>
+		<thumbnail>./boxart/Ms. Pac-Man (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Ms. Pac-Man (USA, Europe).png</marquee>
+		<video>./snap/Ms. Pac-Man (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14246" source="ScreenScraper.fr">
+		<path>./NFL Football (USA, Europe).zip</path>
+		<name>NFL Football</name>
+		<desc>NFL FOOTBALL IS AN OFFICIALLY LICENSED NFL AMERICAL FOOTBALL GAME. THE GAME IS PLAYED BY HOLDING THE LYNX VERTICALLY AND SPORTS ZOOMING AND SCALING GRAPHICAL FEATURES, WITH AN OVERHEAD, TOP-DOWN VIEW. GAMES LAST FOR FOUR 15-MINUTE QUARTERS AND IT CONTAINS CIRCA 25 OFFENSIVE PLAYS. PASSING IS DONE BY HOLDING DOWN THE B BUTTON AND THEN MOVING A CROSS-HAIR TO AN OPEN RECEIVER, AND THEN RELEASING THE BUTTON TO THROW. STRATEGIES CAN BE CHANGED IN REAL-TIME. TWO PLAYERS CAN COMPETE HEAD-TO-HEAD WITH THE COMLYNX CABLE.</desc>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>C398359E</hash>
+		<image>./images/NFL Football (USA, Europe).png</image>
+		<thumbnail>./boxart/NFL Football (USA, Europe).png</thumbnail>
+		<marquee>./marquee/NFL Football (USA, Europe).png</marquee>
+		<video>./snap/NFL Football (USA, Europe).mp4</video>
+	</game>
+	<game id="14221" source="ScreenScraper.fr">
+		<path>./Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).zip</path>
+		<name>Ninja Gaiden III : The Ancient Ship of Doom</name>
+		<desc>IMMERSE YOURSELF IN ACTION-ACKED NINJA ADVENTURE AS YOU HELP RYU THROUGH HIS GREATEST CHALLENGE. BATTLE THE HIDEOUS ANCIENT FORCES OF DARKNESS TO SAVE MANKIND, WITH THE EPIC ADVENTURE UNFOLDING AS YOU COMPLETE EACH LEVEL.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<players>1</players>
+		<hash>CD2FFBCC</hash>
+		<image>./images/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).png</image>
+		<thumbnail>./boxart/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).png</marquee>
+		<video>./snap/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14224" source="ScreenScraper.fr">
+		<path>./Ninja Gaiden (USA, Europe).zip</path>
+		<name>Ninja Gaiden</name>
+		<desc>NINJA GAIDEN BEGINS WITH A CINEMATIC ANIMATION IN WHICH 2 NINJAS DUEL TO THE DEATH; ONE GOES DOWN. IT IS REVEALED THAT THE DOOMED NINJA IS THE FATHER OF RYU HAYABUSA. WHEN RYU LEARNS OF THIS, HE EMBARKS ON A QUEST TO FIND OUT WHO KILLED HIS FATHER AND WHY. THIS QUEST TAKES HIM TO AMERICA TO FIND AN ARCHAEOLOGIST WITH WHOM RYU'S FATHER WAS WORKING. FROM THERE, RYU BECOMES EMBROILED IN AN EVIL, SUPERNATURAL CONSPIRACY INVOLVING A VILLAIN NAMED JAQUIO WHO HAS PLANS TO USE AN ANCIENT CASTLE AND SOME RELICS TO UNLEASH A TERRIFYING EVIL UPON THE WORLD.
+
+NINJA GAIDEN IS A SIDE SCROLLING GAME WHERE RYU THE NINJA CAN RUN, JUMP, AND SLASH WITH HIS NINJA SWORD. HE CAN ALSO ATTACH TO ANY VERTICAL SURFACE. POWERUPS ARE LITTERED THROUGHOUT THE LANDSCAPE THAT ALLOW RYU TO TOSS FIREBALLS AND NINJA STARS, AND PERFORM OTHER FEATS.
+
+RYU WILL BATTLE THROUGH URBAN CITY SETTINGS, FORESTS, JUNGLES, SNOW COVERED CASTLES, UNDERGROUND RAILROADS, AND ANCIENT CASTLES. A MAJOR FEATURE IN NINJA GAIDEN ARE THE CINEMATIC SCENES -- SOMETIMES FULLSCREEN -- THROUGH WHICH THE STORYLINE UNFOLDS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>5ADF25F0</hash>
+		<image>./images/Ninja Gaiden (USA, Europe).png</image>
+		<thumbnail>./boxart/Ninja Gaiden (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Ninja Gaiden (USA, Europe).png</marquee>
+		<video>./snap/Ninja Gaiden (USA, Europe).mp4</video>
+	</game>
+	<game id="14220" source="ScreenScraper.fr">
+		<path>./Pac-Land (USA, Europe).zip</path>
+		<name>Pac-Land</name>
+		<desc>PAC-LAND IS A SIDE-SCROLLING 1-2 PLAYER GAME WITH A CARTOONY FEEL TO IT. NOW EQUIPPED WITH ARMS, FACE, AND LEGS, PAC MUST GUIDE A FAIRY BACK TO HER HOME IN FAIRY LAND, BUT THIS TASK WILL NOT BE EASY BECAUSE INKY, BLINKY, PINKY, CLYDE, AND SUE WILL PURSUE PAC-MAN AS HE TRAVELS THROUGH PAC-LAND. WHEN HE FINALLY TRANSPORTS THE FAIRY BACK TO HER HOME, PAC IS GIVEN SOME MAGIC SHOES, WHICH WILL HELP HIM GET TO HIS OWN HOME, WHERE HE WILL BE GREETED BY HIS FAMILY: MS. PAC-MAN, BABY PAC-MAN, CHOMP CHOMP, AND SOURPUSS. 
+
+THERE ARE SIXTEEN ROUNDS TO COMPLETE, WITH FOUR TRIPS EACH. DURING EACH ROUND, HE CAN GRAB A POWER PELLET, WHICH CAUSE GHOSTS TO TURN BLUE, ALLOWING PAC-MAN TO EAT THEM FOR POINTS. POINTS ARE ALSO AWARDED BY COLLECTING FRUIT THAT APPEAR, LIKE CHERRIES AND STRAWBERRIES. IN SOME ROUNDS, PAC MUST USE A SPRINGBOARD TO JUMP OVER A LAKE. HE MUST ALSO MAKE IT TO THE END OF EACH ROUND BEFORE TIME RUNS OUT, OTHERWISE A GHOST WILL CHASE HIM.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>5B57126A</hash>
+		<image>./images/Pac-Land (USA, Europe).png</image>
+		<thumbnail>./boxart/Pac-Land (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Pac-Land (USA, Europe).png</marquee>
+		<video>./snap/Pac-Land (USA, Europe).mp4</video>
+	</game>
+	<game id="14214" source="ScreenScraper.fr">
+		<path>./Paperboy (USA, Europe).zip</path>
+		<name>Paperboy</name>
+		<desc>BASED ON THE ARCADE GAME, THE OBJECT OF PAPERBOY IS TO DELIVER PAPERS TO YOUR CUSTOMERS WHILE INFLICTING AS MUCH DAMAGE AS POSSIBLE TO THE HOUSES OF YOUR NON-CUSTOMERS. TO MAKE THINGS MORE DIFFICULT, NUMEROUS OBSTACLES GET IN YOUR WAY INCLUDING CONSTRUCTION WORKERS, ROGUE TIRES, SKATEBOARDERS, DOGS AND CATS, CARS, AND EVEN THE OCCASIONAL TORNADO.</desc>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>D6A4C70B</hash>
+		<image>./images/Paperboy (USA, Europe).png</image>
+		<thumbnail>./boxart/Paperboy (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Paperboy (USA, Europe).png</marquee>
+		<video>./snap/Paperboy (USA, Europe).mp4</video>
+	</game>
+	<game id="14277" source="ScreenScraper.fr">
+		<path>./Pinball Jam (USA, Europe).zip</path>
+		<name>Pinball Jam</name>
+		<desc>PINBALL JAM IS A LYNX CONVERSION OF TWO PINBALL TABLES:  "ELVIRA AND THE PARTY MONSTERS" (MIDWAY, 1989), AND "POLICE FORCE" (WILLIAMS, 1989).  BOTH FEATURE AUTHENTIC TABLE LAYOUTS, TARGETS, AND BONUSES; THE CONVERSION OF ELVIRA AND THE PARTY MONSTERS ALSO FEATURES DIGITZED SOUND EFFECTS, INCLUDING THE VOICE OF CASSANDRA PETERSON (ELVIRA).
+
+EACH TABLE SCROLLS UP AND DOWN DURING GAMEPLAY (AS OPPOSED TO JUST "SNAPPING" TO A NEW AREA AS THE BALL REACHES IT).</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>8863C28D</hash>
+		<image>./images/Pinball Jam (USA, Europe).png</image>
+		<thumbnail>./boxart/Pinball Jam (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Pinball Jam (USA, Europe).png</marquee>
+		<video>./snap/Pinball Jam (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14219" source="ScreenScraper.fr">
+		<path>./Pit Fighter - The Ultimate Competition (USA, Europe).zip</path>
+		<name>Pit-Fighter</name>
+		<desc>PIT-FIGHTER IS A 3RD-PERSON FIGHT GAME THAT FEATURES DIGITIZED GRAPHICS OF REAL FIGHTERS AND ZOOMING EFFECTS.  PLAYERS SELECT ONE OF THREE FIGHTERS (BUZZ, TY OR KATO) TO TAKE ON ANYONE WHO DARES. AT THE CONCLUSION OF A MATCH, PLAYERS ARE INDIVIDUALLY AWARDED A KNOCKOUT BONUS, BRUTALITY BONUS, AND A FIGHT PURSE. EVERY THIRD MATCH IS A GRUDGE MATCH WHERE PLAYERS TEST THE SKILLS OF EACH OTHER. THE LAST MAN STANDING IS THE WINNER OF THIS THREE-KNOCKDOWN MATCH. PLAYERS FIGHT THEIR WAY TO THE ELIMINATION MATCH TO DECIDE WHO WINS THE OPPORTUNITY TO DETHRONE THE CHAMPION, THE MASKED WARRIOR.</desc>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>CBAF54F3</hash>
+		<image>./images/Pit Fighter - The Ultimate Competition (USA, Europe).png</image>
+		<thumbnail>./boxart/Pit Fighter - The Ultimate Competition (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Pit Fighter - The Ultimate Competition (USA, Europe).png</marquee>
+		<video>./snap/Pit Fighter - The Ultimate Competition (USA, Europe).mp4</video>
+	</game>
+	<game id="14252" source="ScreenScraper.fr">
+		<path>./Power Factor (USA, Europe).zip</path>
+		<name>Power Factor</name>
+		<desc>POWER FACTOR IS AN ACTION-PLATFORMER STARRING THE SINGLE CAMPILY-NAMED HERO, REDD ACE, FIGHTING ALIEN CREATURES KNOWN AS THE CEEGARIANS FROM THE CEEG DIMENSION.  OF COURSE, ALIENS BEING PLAYED OUT, THE CEEGARIANS ARE ACTUALLY REFERRED TO AS "TRANSDIMENSIONAL INTRUDERS," AND THE CEEGARIAN CREATURES THE PLAYER FACES OFF AGAINST ARE REFERRED TO AS EVIL INVADING "SINLENDO TECHMODS."  
+
+THE PRIMARY GOAL OF THE GAME IS TO WORK THROUGH STAGES AND BOSSES ESSENTIALLY TO BUILD A BOMB TO DESTROY THE CEEGARIANS. PERTAINING TO THE BOMB, THERE ARE SIX COMPONENTS.  THE ENTIRE GAME TAKES PLACE WITHIN, AS THE BOX REFERS TO IT, "OUR DIMENSION'S REACTOR."  AS SUCH, THE ENVIRONMENTS OF THE GAME ARE AIMED TO LOOK LIKE THE INSIDE OF A MACHINE.  TO FURTHER CONVOLUTE THE STORYLINE, THE INSTRUCTION MANUAL ACTUALLY REFERS TO THE GAME ITSELF AS A VIRTUAL REALITY SIMULATION THE PLAYER IS EXPERIENCING IN THE FUTURE, BASED ON THE EXPLOITS OF REDD ACE, AND YOURE MEANDERING THROUGH THIS SIMULATOR ON THE FAMOUS ATARIAN LEISURE MOON.  
+
+STAGES ARE FAIRLY SMALL, BUT DESIGNED LIKE A MAZE À LA METROID.  HOWEVER, UNLIKE METROID, COMPLETED AREAS CANNOT BE REVISITED.  EACH STAGE ENDS WITH A BOSS BATTLE SHOWCASING ENEMY CHARACTERS THAT ARE OFTEN TWO SCREENS HIGH.
+
+REDD ACE IS ARMED WITH A MULTI-USE WEAPON KNOWN AS THE "TMAT MOW."  TMAT MOW IS INTENDED TO BE SHORT FOR TRANSMAT MULTI-ORDINANCE WEAPON.  FOUR DIFFERENT WEAPONS MAY BE ACQUIRED AND USED FOR BOTH THE A AND B BUTTONS, WITH EIGHT TOTAL WEAPONS IN THE GAME, AND ONE GUN AS A STANDARD.  OTHER WEAPONS INCLUDE LASERS, A FLAME THROWER, MISSILES, BOMBS, AND THE LIKE.  WEAPONS MUST BE PICKED UP THROUGH PLAYING THE STAGES AND COLLECTING VARIOUS WEAPON ICONS.  ONCE THE AMMUNITION IS USED, THE WEAPON IS GONE AND MUST BE RECOLLECTED.  AS SUCH, WEAPON PICK-UPS MUST BE USED SPARINGLY, ESPECIALLY SINCE MOST CONTAIN VERY SMALL NUMBERS OF AMMUNITION, OFTEN AS LOW AS TWO SHOTS.  CHOOSING WEAPONS IS AWKWARDLY ASSIGNED TO THE DIRECTIONAL-PAD, WHICH IS ALSO WHERE CHARACTER MOVEMENT IS ASSIGNED.  TAPPING THE D-PAD ALLOWS THE PLAYER TO SELECT DIFFERENT WEAPONS, WHILE HOLDING IT DOWN MOVES REDD.
+
+CONTROLLING REDD ACE IS SOMEWHAT DIFFERENT FROM A TYPICAL PLATFORMER OF THE ERA. THERE IS NO JUMP BUTTON, AS BOTH THE A AND B BUTTONS HAVE WEAPONS ASSIGNED TO THEM.  INSTEAD, OUR HERO IS ALSO ARMED WITH A LEVITATION PACK ON HIS BACK, WHICH ALLOWS FLIGHT.  TAPPING "UP" ON THE D-PAD ALLOWS REDD TO JUMP, WHILE HOLDING "UP" ACTIVATES THE LEVITATOR AND ALLOWS REDD TO FLY.  ASIDE FROM A HEALTH BAR, THERE IS ALSO A FUEL BAR SHOWING THAT FLIGHT ISN'T A LUXURY TO BE WASTED.  WHEN CROUCHING, REDD AUTOMATICALLY AIMS UPWARDS AT A 45-DEGREE ANGLE, RATHER THAN STRAIGHT AHEAD.
+
+PRESSING THE "OPTION 2" BUTTON ALLOWS THE PLAYER TO SEE A MENU WITH INFORMATION ABOUT THE BOMB PIECES THE PLAYER IS COLLECTING, AS WELL AS DETAILS ON THE VARIOUS WEAPONS.  IF THE PLAYER IS STANDING IN FRONT OF A COMPUTER MONITOR WHEN OPTION 2 IS PRESSED, THE MENU SHOWS A MAP OF THE CURRENT AREA, AND INFORMATION ON ENEMY CHARACTERS.
+
+THE PLAYER STARTS WITH THREE LIVES, AND THERE ARE NO CONTINUES.  THERE ARE, HOWEVER, THREE DIFFICULTY MODES--EASY, NORMAL, AND HARDWHICH MAY BE SELECTED PRIOR TO GAMEPLAY.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hand Made Software, Ltd</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>5DB41679</hash>
+		<image>./images/Power Factor (USA, Europe).png</image>
+		<thumbnail>./boxart/Power Factor (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Power Factor (USA, Europe).png</marquee>
+		<video>./snap/Power Factor (USA, Europe).mp4</video>
+	</game>
+	<game id="14260" source="ScreenScraper.fr">
+		<path>./Qix (USA, Europe).zip</path>
+		<name>Qix</name>
+		<desc>IN THIS GAME, YOU GUIDE A MARKER WHICH MUST DRAW RECTANGLES AND OTHER WEIRD OBJECTS IN ORDER TO CLAIM YOUR TERRITORY, AND YOU CAN EITHER DRAW THESE RECTANGLES FAST OR SLOW. DRAWING THE RECTANGLES USING THE "SLOW" METHOD AWARDS YOU THE MOST POINTS. ONCE A RECTANGLE HAS BEEN MADE, IT WILL BE COLORED IN TO SHOW THAT YOU HAVE CLAIMED YOUR TERRITORY. WHILE DRAWING THE RECTANGLES, YOU NEED TO WATCH OUT FOR QIX (PRONOUNCED "KICKS"), A SERIES OF COLORED LINES THAT CRAWL THE SCREEN. IN ADDITION TO QIX, YOU ALSO NEED TO AVOID THE SPARKS WHO TRAVEL AROUND THE BORDER, AS WELL AS ANY LINES THAT YOU HAVE MADE, AS WELL AS THE FUSE, WHO TRAVELS ALONG THE LINE THAT YOU ARE DRAWING. ONCE YOU HAVE CLAIMED ENOUGH TERRITORY, YOU PROCEED TO THE NEXT LEVEL.</desc>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Taito</publisher>
+		<players>1-2</players>
+		<hash>5651E1A8</hash>
+		<image>./images/Qix (USA, Europe).png</image>
+		<thumbnail>./boxart/Qix (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Qix (USA, Europe).png</marquee>
+		<video>./snap/Qix (USA, Europe).mp4</video>
+	</game>
+	<game id="14231" source="ScreenScraper.fr">
+		<path>./Raiden (USA) (v3.0).zip</path>
+		<name>Raiden</name>
+		<desc>IN THE YEAR 2090, EARTH IS INVADED BY EXTRA-TERRESTRIALS. THE WORLD ALLIANCE OF NATIONS HAS DEVELOPED A SUPERSONIC ATTACK FIGHTER, RAIDEN, TO DEFEND THE EARTH. A PILOT MUST TAKE CONTROL OF THE EXPERIMENTAL FIGHTER TO DESTROY THE ALIEN WARSHIPS THAT JUST HAPPEN TO LOOK LIKE ODD VARIATIONS OF TYPICAL MILITARY TANKS AND PLANES WITH GADGETS ATTACHED TO THEM. 
+
+RAIDEN (CALLED RAIDEN TRAD ON THE GENESIS AND SNES) IS AN OVER-HEAD VERTICAL-SCROLLING SHOOTER, BASED ON AN ARCADE GAME OF THE SAME TITLE. IT FEATURES TWO FORMS OF WEAPON UPGRADES AND TWO TYPES OF MISSILES (NORMAL OR HOMING). YOU START THE GAME WITH SEVERAL BOMBS WHICH YOU CAN USE TO DESTROY MOST ENEMIES ON THE SCREEN TO GET YOURSELF OUT OF A JAM. EACH LEVEL ENDS WITH A LARGE BOSS OR BOSSES.</desc>
+		<rating>0.45</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Fabtek</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>2702BA4F</hash>
+		<image>./images/Raiden (USA) (v3.0).png</image>
+		<thumbnail>./boxart/Raiden (USA) (v3.0).png</thumbnail>
+		<marquee>./marquee/Raiden (USA) (v3.0).png</marquee>
+		<video>./snap/Raiden (USA) (v3.0).mp4</video>
+	</game>
+	<game id="14235" source="ScreenScraper.fr">
+		<path>./Rampage (USA, Europe).zip</path>
+		<name>Rampage</name>
+		<desc>GEORGE, LIZZY AND RALPH WERE JUST ORDINARY AMERICANS, UNTIL AN EXPERIMENT WENT WRONG, TURNING THEM INTO A GORILLA, LIZARD AND WEREWOLF RESPECTIVELY. FOLLOWING THIS, THE THREE OF THEM PLAN TO GO ROUND DESTROYING BUILDINGS, AND UP TO 3 HUMAN PLAYERS CAN JOIN IN.
+
+SMASHING AT THE EDGES OF THE BUILDINGS FOR LONG ENOUGH WILL MAKE THEM COLLAPSE. THE POLICE AND MILITARY ARE AFTER YOU, AND WILL SHOOT AT YOU, SO TRY TO DESTROY THEM (FAILING THAT, YOU CAN AVOID THE BULLETS). YOU WILL NEED TO EAT REGULARLY, WITH THINGS LIKE PLANTS ON OFFER, TO AVOID SHRINKING BACK TO BEING HUMAN</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Midway</publisher>
+		<players>1</players>
+		<hash>490033C9</hash>
+		<image>./images/Rampage (USA, Europe).png</image>
+		<thumbnail>./boxart/Rampage (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Rampage (USA, Europe).png</marquee>
+		<video>./snap/Rampage (USA, Europe).mp4</video>
+	</game>
+	<game id="14266" source="ScreenScraper.fr">
+		<path>./Rampart (USA, Europe).zip</path>
+		<name>Rampart</name>
+		<desc>TETRIS MEETS SHOOT-'EM-UP, RAMPART WAS ORIGINALLY A ONE OR TWO-PLAYER ARCADE GAME COMBINING STRATEGY AND ARTILLERY ACTION. BUILD YOUR CASTLE FROM TETRIS-STYLE PIECES, PLACE YOUR CANNONS, BOMBARD THE ENEMY, TRY TO REPAIR, DO IT ALL OVER AGAIN. LATER ARCADE REVISIONS INCORPORATED 3-PLAYER,  AND THE PC CONVERSION DOES AS WELL, MAKING IT A FAITHFUL, ENTERTAINING CLASSIC FOR MULTIPLE PLAYERS ON THE SAME PC.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Tengen Inc.</publisher>
+		<players>1-2</players>
+		<hash>ADAB7883</hash>
+		<image>./images/Rampart (USA, Europe).png</image>
+		<thumbnail>./boxart/Rampart (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Rampart (USA, Europe).png</marquee>
+		<video>./snap/Rampart (USA, Europe).mp4</video>
+	</game>
+	<game id="14259" source="ScreenScraper.fr">
+		<path>./RoadBlasters (USA, Europe).zip</path>
+		<name>RoadBlasters</name>
+		<desc>ROADBLASTERS IS A FUTURISTIC RACING ACTION GAME. THE GOAL IS TO REACH THE FINISH LINE IN ONE PIECE THROUGHOUT EACH OF 50 LEVELS. NUMEROUS ENEMIES ARE OUT ON THE ROAD TO TRY AND STOP YOU, INCLUDING ARMORED CARS, MOTORCYCLES, CANONS ON THE SIDE OF THE ROAD, LANDMINES, AND MORE. 
+
+YOUR VEHICLE IS EQUIPPED WITH A MACHINE GUN TO HELP YOU OUT, AND OCCASIONALLY A WEAPONS PLANE WILL FLY IN AND DROP ADDITIONAL POWER UPS THAT CAN BE COLLECTED. SOME OF THESE ARE THE U.Z. CANON, CRUISE MISSILES, AND SPEED BOOST. YOUR CAR HAS A VERY LIMITED AMOUNT OF FUEL, HOWEVER MORE CAN BE PICKED UP ALONG THE WAY BY CROSSING THE HALFWAY POINT OF A LEVEL, OR BY COLLECTING THE RED AND GREEN FUEL SPHERES THAT APPEAR IN THE ROAD OR AFTER DESTROYING CERTAIN ENEMIES.  ON MANY LEVELS COLLECTING FUEL IS CRITICAL OTHERWISE YOU WON'T BE ABLE TO REACH THE FINISH LINE.</desc>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>47F69051</hash>
+		<image>./images/RoadBlasters (USA, Europe).png</image>
+		<thumbnail>./boxart/RoadBlasters (USA, Europe).png</thumbnail>
+		<marquee>./marquee/RoadBlasters (USA, Europe).png</marquee>
+		<video>./snap/RoadBlasters (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14278" source="ScreenScraper.fr">
+		<path>./Robo-Squash (USA, Europe).zip</path>
+		<name>Robo-Squash</name>
+		<desc>EXPERIENCE THE ULTIMATE ZERO-G FUTURESPORT.
+
+TAKE THE CHALLENGE OF MULTI-DIMENSIONAL COMPETITION. CONTROL AND AIM YOUR RACQUET TO DEFLECT THE BALL AS IT COMES AT YOU. HIT EXPLODING BRICKS AND SPECIAL ITEMS FOR POWER UPS. MISS THE BALL AND YOU'LL BE SPLATTERED!
+
+YOU AND A FRIEND CAN "LYNX UP" FOR AN AWESOME TWO PLAYER CHALLENGE.
+
+- TWO PLAYER "COMLYNX" CAPABILITY!</desc>
+		<rating>0.3</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>AEED3E7E</hash>
+		<image>./images/Robo-Squash (USA, Europe).png</image>
+		<thumbnail>./boxart/Robo-Squash (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Robo-Squash (USA, Europe).png</marquee>
+		<video>./snap/Robo-Squash (USA, Europe).mp4</video>
+	</game>
+	<game id="14247" source="ScreenScraper.fr">
+		<path>./Robotron 2084 (USA, Europe).zip</path>
+		<name>Robotron : 2084</name>
+		<desc>IN 2084, MAN CREATES A SPECIES OF SUPER-ADVANCED CYBORGS KNOWN AS ROBOTRONS. RECOGNIZING THE IMPERFECT NATURE OF THEIR CREATORS, THE ROBOTRONS CONCLUDE THAT THE INEFFICIENT HUMAN RACE MUST BE EXTERMINATED. ONLY YOU AND A SINGLE FAMILY OF CLONES REMAIN. IF MANKIND IS TO SURVIVE, YOU MUST DESTROY THE GRUNTS, BRAINS, ENFORCERS, AND TANKS - BUT AVOID THE INDESTRUCTIBLE HULKS AT ALL COST. CAN YOU WITHSTAND WAVE AFTER WAVE OF ANDROID INVASION... BEFORE IT'S TOO LATE?</desc>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Shadowsoft</developer>
+		<publisher>Williams Electronics</publisher>
+		<players>1</players>
+		<hash>28C789C8</hash>
+		<image>./images/Robotron 2084 (USA, Europe).png</image>
+		<thumbnail>./boxart/Robotron 2084 (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Robotron 2084 (USA, Europe).png</marquee>
+		<video>./snap/Robotron 2084 (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14225" source="ScreenScraper.fr">
+		<path>./Rygar - Legendary Warrior (USA, Europe).zip</path>
+		<name>Rygar</name>
+		<desc>AN EVIL BEING KNOWN AS LIGAR IS ABOUT TO CONQUER THE LAND OF ARGOOL. SUCH IS HIS POWER THAT NO LIVING CREATURE DARES TO CROSS PATHS WITH HIM. BUT THE LEGENDARY WARRIOR RYGAR RISES FROM HIS GRAVE TO RESTORE PEACE AND JUSTICE. ARMED WITH HIS FAMED WEAPON DISKARMOR, RYGAR BEGINS TO TRAVERSE THE VAST LANDS THAT LEAD TO THE LAIR OF THE DEMON, AS HIS MINIONS ARE TRYING IN VAIN TO STOP HIM...
+
+ORIGINALLY RELEASED ON THE ARCADES, RYGAR IS A SIDE-SCROLLING ACTION GAME. THE PLAYER CONTROLS THE TITULAR HERO, ADVANCING THROUGH STAGES POPULATED BY HOSTILE CREATURES. BESIDE THE DISKARMOR, A WEAPON THAT LOOKS LIKE A SHIELD WITH A CHAIN ATTACHED TO IT, THE HERO CAN USE A VARIETY OF OTHER WEAPONS, INCLUDING PROJECTILES THAT CAN BE FIRED IN FOUR DIRECTIONS. VARIOUS "POWERS" ARE SCATTERED THROUGH THE LEVELS AND CAN BE COLLECTED. THE EFFECTS OF THESE POWERS INCLUDE INCREASING THE FIRE POWER OF THE EQUIPPED WEAPON, ADDING TIME TO THE CLOCK, TEMPORARY INVISIBILITY, EXTRA POINTS, ETC.</desc>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>1DFCA564</hash>
+		<image>./images/Rygar - Legendary Warrior (USA, Europe).png</image>
+		<thumbnail>./boxart/Rygar - Legendary Warrior (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Rygar - Legendary Warrior (USA, Europe).png</marquee>
+		<video>./snap/Rygar - Legendary Warrior (USA, Europe).mp4</video>
+	</game>
+	<game id="14236" source="ScreenScraper.fr">
+		<path>./S.T.U.N. Runner (USA, Europe).zip</path>
+		<name>S.T.U.N. Runner</name>
+		<desc>BASED ON THE 1989 ATARI GAMES (NOT TO BE CONFUSED WITH ATARI CORPORATION, PRODUCERS OF THE LYNX) COIN-OP BY ED ROTBERG.  IT'S 2492 AND YOU MUST PILOT YOUR SUB-TERRANEAN UNDERGROUND NETWORK (S.T.U.N.) CRAFT AT SPEEDS OVER 900 MILES PER HOUR THROUGH A SERIES OF COURSES TO RETAIN YOUR TITLE AS S.T.U.N. RUNNER, COMPLETING EACH COURSE BEFORE TIME RUNS OUT.
+
+THERE ARE ALSO ENEMIES ON EACH COURSE, SUCH AS CYCLES, INDESTRUCTIBLE ARMORED DRONES, AND FLYING BIRD-LIKE CRAFT.  SHOOT OR AVOID THEM.  IF YOU HIT THEM, YOU LOSE ONE OF YOUR SHIELDS (YOUR CRAFT HAS SIX TOTAL) AND ARE SLOWED DOWN TEMPORARILY.  THE MORE SHIELDS YOU HAVE AT THE FINISH LINE, THE MORE BONUS POINTS YOU GET.  GETTING HIT WITH NO SHIELDS DOES NOT KILL YOU, HOWEVER.  THERE ARE NO LIVES IN THIS GAME.  THE ONLY WAY TO LOSE IS TO FAIL TO CROSS THE FINISH LINE.
+
+ALONG THE WAY YOU'LL ENCOUNTER BOOST PADS THAT TEMPORARILY SPEED YOU UP TO INCREDIBLE SPEEDS AND MAKE YOU INDESTRUCTIBLE.  BY RUNNING OVER ENOUGH GREEN STARS ON EACH COURSE, YOU CAN ALSO EARN SHOCKWAVES, WHICH DESTROY ALL ENEMIES IN YOUR PATH.
+
+NOTE THAT THERE IS NO ACCELERATOR IN THIS GAME.  YOUR CRAFT ALWAYS GOES FULL SPEED, UNLESS YOU HIT SOMETHING.  THEN YOU WILL SLOW DOWN, BUT QUICKLY ACCELERATE BACK TO FULL SPEED.  OTHER THAN THAT, YOU CANNOT SLOW DOWN AND THE ONLY WAY TO SPEED UP IS TO RUN OVER A BOOST PAD.  YOUR ONLY CONTROLS ARE STEERING LEFT AND RIGHT AND AIMING THE GUN ON TOP OF YOUR CRAFT UP AND DOWN.</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>4B3BF84F</hash>
+		<image>./images/S.T.U.N. Runner (USA, Europe).png</image>
+		<thumbnail>./boxart/S.T.U.N. Runner (USA, Europe).png</thumbnail>
+		<marquee>./marquee/S.T.U.N. Runner (USA, Europe).png</marquee>
+		<video>./snap/S.T.U.N. Runner (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14228" source="ScreenScraper.fr">
+		<path>./Scrapyard Dog (USA, Europe).zip</path>
+		<name>Scrapyard Dog</name>
+		<desc>IN SCRAPYARD DOG YOU PLAY THE ROLE OF LOUIE, THE JUNKYARD GUY, WHO'S COMPANION SCRAPS HAS BEEN DOGNAPPED BY THE DASTARDLY MR. BIG. LOUIE HAS BOMBS AND CANS AT HIS DISPOSAL TO USE AGAINST THE ENEMIES, WHICH INCLUDE GANGSTERS, RATS, AND MICE. HE CAN ALSO USE SHIELDS TO PROTECT HIMSELF ON ROUTE TO THE SIXTEEN CHECKPOINTS IN THE GAME. LOUIE MUST REACH EACH CHECKPOINT IN A CERTAIN AMOUNT OF TIME IN ORDER TO SAVE SCRAPS.</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>CSD</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>CA0D1BDA</hash>
+		<image>./images/Scrapyard Dog (USA, Europe).png</image>
+		<thumbnail>./boxart/Scrapyard Dog (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Scrapyard Dog (USA, Europe).png</marquee>
+		<video>./snap/Scrapyard Dog (USA, Europe).mp4</video>
+	</game>
+	<game id="14226" source="ScreenScraper.fr">
+		<path>./Shadow of the Beast (USA, Europe).zip</path>
+		<name>Shadow of the Beast</name>
+		<desc>WHILE VERY YOUNG, AARBRON WAS KIDNAPPED AND ENSLAVED BY THE PRIESTS OF THE BEAST LORD. HE GREW UP ON DRUGS MADE TO DESTROY HIS OWN WILL AND TURN HIM INTO THE BEAST MESSENGER, A POWERFUL CREATURE SERVING MALETOTH, THE BEAST LORD HIMSELF. HE DID HIS JOB, UNTIL ONE DAY HE NOTICED A MAN ABOUT TO BE SACRIFICED IN A RITUAL, HIS FACE TRIGGERING ANCIENT MEMORIES... AND AS THE SACRIFICIAL KNIFE DESCENDED INTO THE MAN'S BODY, AARBRON RECOGNIZES THE FACE. OF HIS FATHER.
+AS HIS FATHER DIES IN THE ALTAR, MEMORIES OF HIS CHILDHOOD AND TORMENTED PAST AT THE HANDS OF THE BEAST LORD EMERGED, AND AS FEELINGS OF HATE OVER HIS CAPTORS TOOK OVER HIM, HE SWORE REVENGE AND FLED THE TEMPLE, KNOWING THE ROAD TO AVENGE HIS FATHER AND REDEMPTION WOULD BE HARD.
+
+SHADOW OF THE BEAST, ONE OF PSYGNOSIS MOST POPULAR TITLES DURING THE 16-BIT COMPUTER ERA IS A SIDE-SCROLLING PLATFORMER BEST KNOWN FOR THE USE OF PARALLAX SCROLLING ALONG LUSH GRAPHICS, A MUSICAL SCORE  BY DAVID WHITTAKER, A ICONIC COVER BY ROGER DEAN AND WHAT MANY CONSIDER TO BE UNFORGIVING GAMEPLAY, BALANCING BETWEEN THE "VERY CHALLENGING" AND THE "IMPOSSIBLE". THE PLAYER HAS TO NAVIGATE THROUGH SEVERAL AREAS FILLED WITH ENEMIES AND TRAPS, COLLECTING KEYS AND ACTIVATING TRIGGERS THAN OPEN NEW AREAS OR GIVE AARBRON THE MEANS TO OVERCOME A SUB-BOSS. THE NUMBER OF MOVES THE PLAYER HAS AT DISPOSAL IS LIMITED: DUCK, JUMP AND ONLY TWO ATTACKS: PUNCH AND A FLYING KICK. WHILE MOST ENEMIES DIE WITH JUST ONE HIT, THE PLAYER MUST TIME EACH ATTACK ACCURATELY. HOWEVER, THERE ARE ALSO TRAPS OF OBJECTS THAT CANNOT BE DESTROYED, AND THESE REQUIRE THE PLAYER TO JUMP, DUCK OR MOVE ACCORDING THE SEQUENCE. THE PLAYER HAS ONLY ONE LIFE WITH 12 HIT POINTS THAT CAN BE REPLENISHED BY COLLECTING SOME OBJECTS HIDDEN IN THE LEVEL (LIKE AN OFF-ROUTE LOCATION OR A UNDER A MEGALITH), WHICH ALSO CONTRIBUTES TO THE DIFFICULTY LEVEL.</desc>
+		<rating>0.3</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Reflections Interactive Limited</developer>
+		<publisher>Psygnosis</publisher>
+		<players>1</players>
+		<hash>D43A8430</hash>
+		<image>./images/Shadow of the Beast (USA, Europe).png</image>
+		<thumbnail>./boxart/Shadow of the Beast (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Shadow of the Beast (USA, Europe).png</marquee>
+		<video>./snap/Shadow of the Beast (USA, Europe).mp4</video>
+	</game>
+	<game id="14261" source="ScreenScraper.fr">
+		<path>./Shanghai (USA, Europe).zip</path>
+		<name>Shanghai</name>
+		<desc>SHANGHAI IS A TILE-BASED GAME BASED ON THE ANCIENT CHINESE GAME OF MAH-JONG - THIS WAS THE FIRST OF MANY COMPUTER VERSIONS.
+
+THE GAMEPLAY INVOLVES 144 TILES, EACH DEPICTING DIFFERENT IMAGES, WHICH HAVE TO BE REMOVED BY MATCHING THEM INTO PAIRS. THE TILES ARE ARRANGED IN A GRIDDED PATTERN, WHICH IS HIGHER NEAR THE CENTRE. A TILE CAN ONLY BE REMOVED IF IT HAS NO TILE NEXT TO IT ON AT LEAST ONE SIDE.
+
+THIS COMPUTER IMPLEMENTATION CAN GENERATE A RANDOM BOARD LAYOUT TO TAKE ON, AS WELL AS FEATURING 5 PRESET CHALLENGES, SOME OF WHICH HAVE TIME LIMITS OF 5 OR 10 MINUTES, AS WELL AS A MULTIPLAYER MODE.</desc>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>78BA01FD</hash>
+		<image>./images/Shanghai (USA, Europe).png</image>
+		<thumbnail>./boxart/Shanghai (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Shanghai (USA, Europe).png</marquee>
+		<video>./snap/Shanghai (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14262" source="ScreenScraper.fr">
+		<path>./Steel Talons (USA, Europe).zip</path>
+		<name>Steel Talons</name>
+		<desc>STEEL TALONS BROUGHT REALISM-ORIENTED HELICOPTER COMBAT TO THE ARCADES, AND LATER TO HOME SYSTEMS. THE ACTION IS VIEWED FROM BEHIND YOUR HELICOPTER, WITH THE 3D POLYGON WORLD ROTATING AROUND YOU, TAKING IN MOUNTAINS, RIVERS AND DESERTS. 
+
+THERE ARE 12 MISSIONS IN TOTAL, EACH OF WHICH REQUIRES YOU TO DESTROY TARGETS IN A SET TIME LIMIT. THERE ARE ALSO TRAINING AND HEAD-TO-HEAD (AGAINST A CPU-CONTROLLED DRONE) MODES. 
+
+YOU HAVE A LIMITED NUMBER OF AUTOMATICALLY-TARGETING MISSILES AS WELL AS A CANNON. A TRACKING MAP TELLS YOU WHERE YOU ARE ON THE LEVEL, AND WHERE THE ENEMIES ARE.CONTACT WITH THE GROUND, MOUNTAINS OR OTHER VEHICLES WILL DAMAGE OR DESTROY YOUR HELICOPTER.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>AB814832</hash>
+		<image>./images/Steel Talons (USA, Europe).png</image>
+		<thumbnail>./boxart/Steel Talons (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Steel Talons (USA, Europe).png</marquee>
+		<video>./snap/Steel Talons (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14279" source="ScreenScraper.fr">
+		<path>./Super Asteroids, Missile Command (USA, Europe).zip</path>
+		<name>Super Asteroids &amp; Missile Command</name>
+		<desc>TWO CLASSIC ATARI ARCADE GAMES WERE UPDATED FOR THIS COMPILATION. THIS LYNX VERSION OF ASTEROIDS AND MISSILE COMMAND CONTAINS SOME ENHANCED FEATURES TO JUSTIFY THE "SUPER" IN THE TITLE.
+
+SUPER ASTEROIDS HAS ALL NEW GRAPHICS TO REPLACE THE VECTOR OUTLINES OF THE ORIGINAL. YOUR SHIP HAS A SHIELD THAT CAN ABSORB SEVERAL COLLISIONS BEFORE IT BLOWS UP. THERE ARE ALSO POWER UPS TO INCREASE YOUR FIREPOWER.
+
+SUPER MISSILE COMMAND ALSO HAS ALL NEW GRAPHICS. BETWEEN ROUNDS, YOU CAN TRADE CREDITS EARNED DURING GAMEPLAY TO PURCHASE SPECIAL WEAPONS THAT WILL HELP YOU LATER IN THE GAME.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>7D8A25D1</hash>
+		<image>./images/Super Asteroids, Missile Command (USA, Europe).png</image>
+		<thumbnail>./boxart/Super Asteroids, Missile Command (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Super Asteroids, Missile Command (USA, Europe).png</marquee>
+		<video>./snap/Super Asteroids, Missile Command (USA, Europe).mp4</video>
+	</game>
+	<game id="14217" source="ScreenScraper.fr">
+		<path>./Super Off-Road (USA, Europe).zip</path>
+		<name>Super Off Road</name>
+		<desc>PILE INTO THE PICKUP AND HEAD FOR THE STADIUM, IT'S TIME FOR SOME MUD-
+STOMPIN' ACTION WITH SUPER OFF-ROAD.  IN THIS LYNX VERSION OF THE TRADEWEST
+ARCADE GAME, FOUR RACERS DRIVE MONSTER TRUCKS AROUND A VARIETY OF DIRT TRACKS.
+PLAYERS MUST DEAL WITH RAMPS, HILLS, VALLEYS, AND MORE AS THEY RACE FOR THE
+FINISH, WHILE TRYING TO PICK UP EXTRA MONEY AND NITRO BOOSTS ALONG THE WAY.
+THEN THEY TAKE THOSE WINNINGS TO THE SHOP TO BUY BETTER EQUIPMENT BEFORE THE
+NEXT RACE BEGINS.  UP TO FOUR LYNXES CAN BE CONNECTED FOR MULTI-PLAYER
+COMPETITION.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Telegames</developer>
+		<publisher>Telegames</publisher>
+		<players>1-4</players>
+		<hash>C51B7A2F</hash>
+		<image>./images/Super Off-Road (USA, Europe).png</image>
+		<thumbnail>./boxart/Super Off-Road (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Super Off-Road (USA, Europe).png</marquee>
+		<video>./snap/Super Off-Road (USA, Europe).mp4</video>
+	</game>
+	<game id="14280" source="ScreenScraper.fr">
+		<path>./Super Skweek (USA, Europe).zip</path>
+		<name>Super Skweek</name>
+		<desc>SUPER SKWEEK IS A GAME INSPIRED BY THE WIDE SUCCESS OF CHIP'S CHALLENGE, AND SHARE SOME ELEMENTS OF THAT PUZZLER WHILE COMBINING OTHER ELEMENTS FROM GAMES SUCH AS PENGO.
+
+IN SUPER SKWEEK, YOU PLAY THE TITLE CHARACTER WHO MUST WALK AROUND AND EITHER PAINT ALL THE TILES OF THE GAME BOARD PINK, COMPLETE A SPECIFIC MISSION, OR BOTH.  SOME TILES REACT IN VARIOUS WAYS WHEN YOU WALK ON THEM, LIKE EXPLODING.  
+
+UNLIKE CHIP'S CHALLENGE, THE GAME PLAYS IN REALTIME AND YOU CAN PICK UP AND USE WEAPONS TO KEEP AWAY CERTAIN MONSTERS AS YOU PAINT THE TILES.  THERE IS ALSO A SHOP YOU CAN ENTER TO PURCHASE ITEMS.  FINALLY, LEVELS HAVE A TIME LIMIT FOR COMPLETION.</desc>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Loriciels</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>11B712F6</hash>
+		<image>./images/Super Skweek (USA, Europe).png</image>
+		<thumbnail>./boxart/Super Skweek (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Super Skweek (USA, Europe).png</marquee>
+		<video>./snap/Super Skweek (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="14281" source="ScreenScraper.fr">
+		<path>./Switchblade II (USA, Europe).zip</path>
+		<name>SwitchBlade II</name>
+		<desc>AS HIRO, YOU MUST ONCE AGAIN DEFEAT THE NINJA LORD HAVOK.  USING NINJA THROWING STARS AND OTHER WEAPONS, YOU MUST DEFEAT THE MINIONS OF HAVOK TO REACH HIM.
+
+SWITCHBLADE II IS A SIDE-SCROLLING PLATFORM ACTION GAME.  ONE KEY ASPECT OF THE GAME IS OBTAINING COINS FROM DEFEATED ENEMIES, WHICH CAN BE TRADED AT SHOPS FOR EXTRA LIVES, ENERGY, AND WEAPONS.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin</publisher>
+		<players>1</players>
+		<hash>63144491</hash>
+		<image>./images/Switchblade II (USA, Europe).png</image>
+		<thumbnail>./boxart/Switchblade II (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Switchblade II (USA, Europe).png</marquee>
+		<video>./snap/Switchblade II (USA, Europe).mp4</video>
+	</game>
+	<game id="14241" source="ScreenScraper.fr">
+		<path>./Todd's Adventures in Slime World (USA, Europe).zip</path>
+		<name>Todd's Adventures in Slime World</name>
+		<desc>WHILE FLYING YOUR SPACESHIP, YOU CRASH LAND ON A PLANET COVERED ENTIRELY IN SLIME.  YOU AND A FRIEND EXPLORE THE LABYRINTHINE PLANET OF SLIME, ARMED WITH A WATER PISTOL AND ALL MANNER OF GADGETS YOU FIND ALONG THE WAY IN AN EFFORT TO FIND YOUR WAY BACK OUT.  THE GAME WORLD IS A GIANT MAZE WITH QUIRKY HIDDEN AREAS AND PLENTY OF ORIGINAL LAYOUT IDEAS.  DEPENDING ON THE GAME MODE, YOU ARE EITHER COOPERATING OR COMPETING WITH YOUR "FRIEND" TO FIND AND GET TO AN EXIT FIRST.  DUE TO THE MASSIVE SIZES OF THE SLIME WORLDS (ABOUT 6 ENTRIES TO CHOOSE FROM), GAMES OFTEN TAKE SEVERAL HOURS TO COMPLETE.
+
+THE BASIS OF THE GAME IS EXPLORATION, WITH VARYING GAME MODES FURTHER FOCUSING ON COMPETITION, PUZZLE SOLVING, SPEED, EXPLORATION, OR COOPERATION.</desc>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1-8</players>
+		<hash>39BF3C25</hash>
+		<image>./images/Todd's Adventures in Slime World (USA, Europe).png</image>
+		<thumbnail>./boxart/Todd's Adventures in Slime World (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Todd's Adventures in Slime World (USA, Europe).png</marquee>
+		<video>./snap/Todd's Adventures in Slime World (USA, Europe).mp4</video>
+	</game>
+	<game id="14209" source="ScreenScraper.fr">
+		<path>./Toki (USA, Europe).zip</path>
+		<name>Toki</name>
+		<desc>THE HERO OF THE GAME IS A YOUNG JUNGLE-MAN NAMED TOKI. ONE DAY THE EVIL WIZARD DR. STARK KIDNAPS HIS GIRLFRIEND WANDA. WHEN TOKI TRIES TO SAVE HER, HE IS TURNED INTO A MONKEY! NOW TOKI HAS TO FIND DR. STARK IN HIS PALACE, TO RESCUE WANDA, AND TO BECOME A HUMAN BEING AGAIN!
+
+IT IS A PLATFORM GAME WITH A LOT OF VARIOUS LEVELS: JUNGLE, UNDERWATER, VOLCANIC CAVES, ON THE ICE... TOKI'S ONLY WEAPONS ARE SPITTING ON THE ENEMIES OR JUMPING ON THEM AND CRASHING THEM. THERE ARE MANY POSSIBILITIES TO UPGRADE HIS SPITTING "WEAPON";  FOR EXAMPLE, IF HE FINDS AN UPGRADE, HE CAN SPIT FIREBALLS. 
+
+THIS GAME IS PORTED FROM AN OLDER ARCADE VERSION.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tad Corporation</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>52B94A6C</hash>
+		<image>./images/Toki (USA, Europe).png</image>
+		<thumbnail>./boxart/Toki (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Toki (USA, Europe).png</marquee>
+		<video>./snap/Toki (USA, Europe).mp4</video>
+	</game>
+	<game id="14282" source="ScreenScraper.fr">
+		<path>./Tournament Cyberball (USA, Europe).zip</path>
+		<name>Tournament Cyberball 2072</name>
+		<desc>JOURNEY INTO THE FUTURE OF FOOTBALL WITH THIS CULT, ARCADE CLASSIC. ENJOY ROBOTIC ACTION AGAINST THE COMPUTER OR COMLYNX? UP TO FOUR PLAYERS AND PLAY HEAD-TO-HEAD WITH YOUR FRIENDS. EARN MONEY FOR COMPLETED PLAYS WHICH CAN BE USED TO POWER-UP YOUR TEAM, REPLACE BROKEN PLAYERS, AND UPGRADE TO BIGGER AND MORE ADVANCED PLAYERS. AWESOME FOOTBALL ACTION!</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>70D0C9BF</hash>
+		<image>./images/Tournament Cyberball (USA, Europe).png</image>
+		<thumbnail>./boxart/Tournament Cyberball (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Tournament Cyberball (USA, Europe).png</marquee>
+		<video>./snap/Tournament Cyberball (USA, Europe).mp4</video>
+	</game>
+	<game id="14263" source="ScreenScraper.fr">
+		<path>./Turbo Sub (USA, Europe).zip</path>
+		<name>Turbo Sub</name>
+		<desc>TURBO SUB RELEASED IN 1985 AS AN ARCADE SHOOTER GAME BY ENTERTAINMENT SCIENCES. THEN LATER IN 1991 FOR THE ATARI LYNX. THE ARCADE VERSION WAS A ONE PLAYER GAME SET IN THE FUTURE WHERE YOU CONTROL A SUBMERSIBLE SHIP AGAINST A HORDE OF ALIENS. THE ATARI LYNX VERSION IS THE SAME BUT CAN BE PLAYED WITH TWO PLAYERS AND TELLS US THE STORY IS SET IN THE 28TH CENTURY ON EARTH. THE PLANET HAS BEEN INVADED AND THE GOAL OF THE GAME IS THAT THE PLAYER MUST DESTROY ALL THE ALIENS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>5247B5F3</hash>
+		<image>./images/Turbo Sub (USA, Europe).png</image>
+		<thumbnail>./boxart/Turbo Sub (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Turbo Sub (USA, Europe).png</marquee>
+		<video>./snap/Turbo Sub (USA, Europe).mp4</video>
+	</game>
+	<game id="14237" source="ScreenScraper.fr">
+		<path>./Viking Child (USA, Europe).zip</path>
+		<name>Viking Child</name>
+		<desc>MAINLY TITLED PROPHECY I - THE VIKING CHILD IS A GAME CREATED BY IMAGITEC DESIGN LIMITED ON AMIGA, ATARI ST, ATARI LYNX, GAME BOY, GAME GEAR AND THE PC.
+
+THIS VIDEO GAME WAS BASED ON A VIKING CHILD CALLED BRIAN WHO MUST ENTER THE HALLS OF VALHALLA AND DO BATTLE AGAINST AN EVIL GOD LOKI AND HIS MINIONS.
+
+THE GAME CLOSELY RESEMBLED SEGA'S WONDER BOY IN MONSTER LAND, AS CERTAIN ELEMENTS LIKE COLLECTING HIDDEN GOLD, UPGRADING THE CHARACTER'S WEAPONS AND VISITING SHOPS WERE PRACTICALLY IDENTICAL, DESPITE THE DIFFERENCE IN RELEASE TIMES.
+
+PROGRAMMING OF THE LEAD VERSION (ATARI ST VERSION) WAS DONE BY MARK FISHER (A.K.A. FISH, MR FISH) ORIGINAL GRAPHICS WERE CREATED BY ANTHONY ROSBOTTOM (A.K.A. BLIZ, BLIZZARD) MUSIC WAS WRITTEN BY BARRY LEITCH &amp; IAN HOWE</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<hash>45969EB0</hash>
+		<image>./images/Viking Child (USA, Europe).png</image>
+		<thumbnail>./boxart/Viking Child (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Viking Child (USA, Europe).png</marquee>
+		<video>./snap/Viking Child (USA, Europe).mp4</video>
+	</game>
+	<game id="14264" source="ScreenScraper.fr">
+		<path>./Warbirds (USA, Europe).zip</path>
+		<name>Warbirds</name>
+		<desc>A COMBAT FLIGHT ACTION/SIMULATION WITH COLORFUL GRAPHICS AND PRETTY STRAIGHT-FORWARD GAMEPLAY.
+
+STEP INSIDE THE COCKPIT OF A WORLD WAR I PLANE, WHEN THERE WERE NO SOPHISTICATED WEAPONRY, AND TRY TO GUN DOWN THE ENEMY. SIMPLE AS THAT.
+
+THE GRAPHICS WERE FAUX-3D, AS THE PLANES WERE 2D SPRITES (NATURAL, CONSIDERING THE RELEASE DATE), BUT THE SKY SEEMED VERY VAST AND YOU COULD FLY AROUND FREELY.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>A6AE2301</hash>
+		<image>./images/Warbirds (USA, Europe).png</image>
+		<thumbnail>./boxart/Warbirds (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Warbirds (USA, Europe).png</marquee>
+		<video>./snap/Warbirds (USA, Europe).mp4</video>
+	</game>
+	<game id="14265" source="ScreenScraper.fr">
+		<path>./World Class Soccer (USA, Europe).zip</path>
+		<name>World Class Soccer</name>
+		<desc>"WORLD CLASS SOCCER" IS A SOCCER VIDEO GAME, C"OMPUTER GAMING WORLD" CRITICIZED THE GAME FOR ONLY DISPLAYING ABOUT 10% OF THE FIELD AT A TIME WITHOUT A "RADAR" SCREEN TO SHOW THE REST, BUT LIKED THE ANIMATION. THE MAGAZINE CONCLUDED THAT "WORLD CLASS SOCCER SHOULD PROVE AN INFORMATIVE AND REASONABLY ENTERTAINING WAY TO PREPARE FOR THE EVENT".</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>9D929F2C</hash>
+		<image>./images/World Class Soccer (USA, Europe).png</image>
+		<thumbnail>./boxart/World Class Soccer (USA, Europe).png</thumbnail>
+		<marquee>./marquee/World Class Soccer (USA, Europe).png</marquee>
+		<video>./snap/World Class Soccer (USA, Europe).mp4</video>
+	</game>
+	<game id="14216" source="ScreenScraper.fr">
+		<path>./Xenophobe (USA, Europe).zip</path>
+		<name>Xenophobe</name>
+		<desc>XENOS.  THE VERY NAME STRIKES FEAR INTO EVERY COLONIST'S HEART.  A DISTRESS CALL IS RECEIVED FROM SPACE STATIONS ORBITING YOUR HOMEWORLD, THEN SILENCE.  A SINGLE SHIP ESCAPES, PILOTED BY A BATTERED MAN WHO TELLS THE TALE OF PODS THAT HATCH INTO ACID-SPITTING XENOS.
+
+A SMALL BAND OF ENGINEERS HAS BEEN DISPATCHED TO COMBAT THE XENO THREAT BEFORE IT TAKES OVER ALL THE SPACE STATIONS AND, EVENTUALLY, YOUR HOMEWORLD.  ASSEMBLE YOUR BAND OF ENGINEERS AND FIGHT THE XENOS ON EACH STATION, STRIVING TO EITHER CLEAR IT OR ABANDON IT.  YOU START OUT WITH A STANDARD ISSUE LASER, BUT CAN PICK UP ADDITIONA WEAPONS AS YOU FIND THEM, INCLUDING PHASERS, LIGHTNING RIFLES, POOFER GUNS, AND BOMBS.
+
+XENOPHOBE WAS ORIGINALLY AN ARCADE COIN-OP BY BALLY/MIDWAY, RELEASED IN 1987.  GAMEPLAY PREMISE AND SETTING IS HEAVILY INSPIRED/INFLUENCED BY THE MOVIE ALIENS.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>922A9DD0</hash>
+		<image>./images/Xenophobe (USA, Europe).png</image>
+		<thumbnail>./boxart/Xenophobe (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Xenophobe (USA, Europe).png</marquee>
+		<video>./snap/Xenophobe (USA, Europe).mp4</video>
+	</game>
+	<game id="14283" source="ScreenScraper.fr">
+		<path>./Xybots (USA, Europe).zip</path>
+		<name>Xybots</name>
+		<desc>XYBOTS IS EITHER AN UNUSUALLY SIMPLE COMPUTER GAME OR AN UNUSUALLY COMPLEX COIN-OP SHOOT 'EM UP, DEPENDING ON YOUR POINT OF VIEW. WITH EITHER ONE OR TWO PLAYERS, YOU MUST MOVE THROUGH A SERIES OF GAUNTLET-STYLE UNDERGROUND MAZES, KILLING THE BAD GUYS AND COLLECTING HEALTH AND OTHER BONUSES FROM FLYING SAUCERS (UNDERGROUND? SLIGHT LOGIC GAP THERE, METHINKS).IT'S DESIGNED TO BE PLAYED CO-OPERATIVELY, ALTHOUGH BULLETS FROM ONE PLAYER CAN HARM THE OTHER.
+
+THE XYBOTS ARE OUT TO STOP YOU, OF COURSE, AND MANY HAVE ADVANCED ATTACK PATTERNS AS WELL AS BULLETS TO FIRE AT YOU. BEING ABLE TO VIEW ROUND CORNERS IS USEFUL, ALLOWING YOU TO PLAN A STRATEGY - OFTEN IT'S GOOD TO SEND ONE PLAYER FORWARD AND LET THE OTHER PLAY THE WAITING GAME, AS IN GAUNTLET.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-2</players>
+		<hash>CAC9A246</hash>
+		<image>./images/Xybots (USA, Europe).png</image>
+		<thumbnail>./boxart/Xybots (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Xybots (USA, Europe).png</marquee>
+		<video>./snap/Xybots (USA, Europe).mp4</video>
+	</game>
+	<game id="14242" source="ScreenScraper.fr">
+		<path>./Zarlor Mercenary (USA, Europe).zip</path>
+		<name>Zarlor Mercenary</name>
+		<desc>WANTED: HOT GUN FOR HIRE. TRAVEL TO SEVERAL EXOTIC AND DANGEROUS PLACES. DISCOVER SEVERAL EXOTIC AND DANGEROUS ALIENS AND KILL THEM. KILL LOTS. FOR CASH. BUY MORE WEAPONS AND KILL AGAIN. BRING UP TO 3 FRIENDS ALONG AND KILL EVEN MORE.</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1-4</players>
+		<hash>35BC4FF9</hash>
+		<image>./images/Zarlor Mercenary (USA, Europe).png</image>
+		<thumbnail>./boxart/Zarlor Mercenary (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Zarlor Mercenary (USA, Europe).png</marquee>
+		<video>./snap/Zarlor Mercenary (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+</gameList>

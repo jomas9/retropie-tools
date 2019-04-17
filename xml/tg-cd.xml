@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="102826" source="ScreenScraper.fr">
+		<path>./4 in 1 Super CD (USA).chd</path>
+		<name>4 In 1 Super Cd</name>
+		<desc>THIS COMPILATION DISC WAS PACKED IN WITH THE TURBODUO IN NORTH AMERICA, GIVING BUYERS EASY ACCESS TO BONK'S ADVENTURE, BONK'S REVENGE, BOMBERMAN, AND GATE OF THUNDER.DESPITE APPEARING TO CONTAIN ONLY THREE GAMES, BOMBERMAN CAN BE ACCESSED BY PRESSING UP, RIGHT, DOWN, LEFT, II AT THE GAME SELECT MENU.</desc>
+		<rating>0</rating>
+		<hash>05DDD1D1</hash>
+		<image>./images/4 in 1 Super CD (USA).png</image>
+		<thumbnail>./boxart/4 in 1 Super CD (USA).png</thumbnail>
+		<marquee>./marquee/4 in 1 Super CD (USA).png</marquee>
+		<video>./snap/4 in 1 Super CD (USA).mp4</video>
+	</game>
+	<game id="14538" source="ScreenScraper.fr">
+		<path>./Beyond Shadowgate (USA).chd</path>
+		<name>Beyond Shadowgate</name>
+		<desc>BEYOND SHADOWGATE IS A TURBOGRAFX CD SEQUEL TO THE 1987 MAC AND MACVENTURE SHADOWGATE. UNLIKE ITS PREDECESSOR, BEYOND SHADOWGATE IS A CLASSICAL POINT-AND-CLICK ADVENTURE VIEWED FROM A PLATFORM PERSPECTIVE. THE PLAYER CONTROLS PRINCE ERIK, THE DESCENDANT OF THE HERO FROM THE FIRST GAME, LORD JAIR. WHEN PRINCE ERIK RETURNS TO HIS HOME COUNTRY, HE FINDS OUT ABOUT HIS FATHER'S MURDER. THE PRINCE IS FRAMED BY THE MINISTER OF THE LATE KING, WHO IMPRISONS HIM WHERE THE ADVENTURE STARTS.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<hash>7B579055</hash>
+		<image>./images/Beyond Shadowgate (USA).png</image>
+		<thumbnail>./boxart/Beyond Shadowgate (USA).png</thumbnail>
+		<marquee>./marquee/Beyond Shadowgate (USA).png</marquee>
+		<video>./snap/Beyond Shadowgate (USA).mp4</video>
+		<developer>Turbo Technologies</developer>
+		<publisher>Icom</publisher>
+		<players>1</players>
+	</game>
+	<game id="103576" source="ScreenScraper.fr">
+		<path>./Camp California (USA).chd</path>
+		<name>Camp California</name>
+		<desc>EARLY CD-ROM PLATFOMER FEATURING REAL BEACH BOYS MUSIC FOR THE TURBOGRAFX-CD. IT IS A PARTIAL FOLLOW UP/SPIN-OFF OF YO' BRO, THE SKATEBOARDING TG16 GAME WHICH ALSO USED LICENSED BEACH BOYS MUSIC.</desc>
+		<rating>0</rating>
+		<hash>8355AA35</hash>
+		<image>./images/Camp California (USA).png</image>
+		<thumbnail>./boxart/Camp California (USA).png</thumbnail>
+		<marquee>./marquee/Camp California (USA).png</marquee>
+		<video>./snap/Camp California (USA).mp4</video>
+	</game>
+	<game id="103577" source="ScreenScraper.fr">
+		<path>./Cosmic Fantasy 2 (USA).chd</path>
+		<name>Cosmic Fantasy 2</name>
+		<desc>THE GAMEPLAY IS DUNGEON CRAWLING, WITH AN OVERHEAD VIEWPOINT AND TURN-BASED BATTLES. THE ONE DISTINGUISHING FEATURE IS IN THE PREDICTABILITY OF THE BATTLES: ALL OF THE ENEMIES, EVEN THE BOSSES, ARE UNABLE TO USE SPELLS, ITEMS, OR SPECIAL MOVES OF ANY SORT, AND ARE RESTRICTED TO PERFORMING A NORMAL ATTACK EACH TURN. FURTHERMORE, NEITHER ENEMIES NOR PLAYER CHARACTERS CAN MISS WITH ATTACKS, AND THERE ARE NO CRITICAL HITS ASIDE FROM CERTAIN WEAPONS WHICH UNLEASH SPELL ATTACKS ON RANDOM TURNS. THIS LEAVES THE ENEMIES' CHOICE OF TARGET FOR EACH OF THEIR ATTACKS AS THE ONE ELEMENT OF UNCERTAINTY IN BATTLES.</desc>
+		<rating>0</rating>
+		<releasedate>19910405T000000</releasedate>
+		<hash>F6D5B66C</hash>
+		<image>./images/Cosmic Fantasy 2 (USA).png</image>
+		<thumbnail>./boxart/Cosmic Fantasy 2 (USA).png</thumbnail>
+		<marquee>./marquee/Cosmic Fantasy 2 (USA).png</marquee>
+		<video>./snap/Cosmic Fantasy 2 (USA).mp4</video>
+		<developer>Nippon Telenet</developer>
+		<players>1</players>
+	</game>
+	<game id="103578" source="ScreenScraper.fr">
+		<path>./Cotton - Fantastic Night Dreams (USA).chd</path>
+		<name>Cotton - Fantastic Night Dreams</name>
+		<desc>COTTON: FANTASTIC NIGHT DREAMS PLAYS IN A SIMILAR WAY TO OTHER SCROLLING SHOOTER VIDEO GAMES SUCH AS R-TYPE. WHAT DISTINGUISHES COTTON: FANTASTIC NIGHT DREAMS FROM OTHER GAMES OF A SIMILAR ILK IS ITS BRIGHT COLOURFUL GRAPHICS AND ITS LEAD CHARACTER, COTTON. THE GAME ALSO TAKES PLACE IN A FANTASY DREAM-LIKE WORLD INSTEAD OF SPACE LIKE MANY OTHER SHOOTING GAMES. THE GAME CAN BE COMPARED TO OTHER FANTASY SHOOT 'EM UP GAMES LIKE PARODIUS. IT BEARS MOST SIMILARITIES IN STYLE TO THE CHARIOT GAME ON THREE WONDERS.
+
+THE PLAYER CONTROLS COTTON, A YOUNG WITCH ON A BROOMSTICK. THE PLAYER MUST BLAST VARIOUS MONSTERS AND AVOID BEING SHOT. THE PLAYER CAN COLLECT POWER-UPS TO ENHANCE THEIR WEAPONRY AND UNLEASH A MORE POWERFUL ATTACK ON THE ENEMY. THE PLAYER HAS LIVES REPRESENTED BY AN ARROW. THE PLAYER HAS THREE LIVES AND IS ONLY ALLOWED ONE HIT PER LIFE.</desc>
+		<rating>0</rating>
+		<releasedate>19930212T000000</releasedate>
+		<hash>919BF36A</hash>
+		<image>./images/Cotton - Fantastic Night Dreams (USA).png</image>
+		<thumbnail>./boxart/Cotton - Fantastic Night Dreams (USA).png</thumbnail>
+		<marquee>./marquee/Cotton - Fantastic Night Dreams (USA).png</marquee>
+		<video>./snap/Cotton - Fantastic Night Dreams (USA).mp4</video>
+		<developer>Success Corporation</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+	</game>
+	<game id="14533" source="ScreenScraper.fr">
+		<path>./Dragon Slayer - The Legend of Heroes (USA).chd</path>
+		<name>Dragon Slayer : The Legend of Heroes</name>
+		<desc>DRAGON SLAYER: THE LEGEND OF HEROES IS A RPG FOR PC ENGINE. YOU PLAY AS PRINCE SELIOS/LOGAN. DURING A TEST INTENDED TO MAKE YOU A WARRIOR, THE KINGDOM OF YOUR FATHER IS ATTACKED BY SAVAGE MONSTERS. BETRAYED ON ALL SIDES BY YOUR FORMER ALLIES, YOU MUST RECRUIT COMPANIONS TO LIBERATE YOUR COUNTRY.</desc>
+		<rating>0</rating>
+		<releasedate>19921201T000000</releasedate>
+		<hash>87BC34BF</hash>
+		<image>./images/Dragon Slayer - The Legend of Heroes (USA).png</image>
+		<thumbnail>./boxart/Dragon Slayer - The Legend of Heroes (USA).png</thumbnail>
+		<marquee>./marquee/Dragon Slayer - The Legend of Heroes (USA).png</marquee>
+		<video>./snap/Dragon Slayer - The Legend of Heroes (USA).mp4</video>
+		<developer>Falcom</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+	</game>
+	<game id="103580" source="ScreenScraper.fr">
+		<path>./Dungeon Explorer II (USA).chd</path>
+		<name>Dungeon Explorer II</name>
+		<desc>THIS CD SEQUEL TO DUNGEON EXPLORER PLAYS EXACTLY THE SAME AS THE FIRST GAME. YOU CHOSE YOUR CHARACTER FROM A VARIETY OF FANTASY STEREOTYPES AND SET FORTH IN A GAUNTLET-ESQUE ADVENTURE. THE CD FORMAT ALLOWS A GREATER QUANTITY AND VARIETY OF LEVELS TO COMPLIMENT THE STORYLINE, WITH NEW AREAS AND CHARACTERS BECOMING OPEN TO YOU AS YOU PROGRESS.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930326T000000</releasedate>
+		<hash>8A5184A1</hash>
+		<image>./images/Dungeon Explorer II (USA).png</image>
+		<thumbnail>./boxart/Dungeon Explorer II (USA).png</thumbnail>
+		<marquee>./marquee/Dungeon Explorer II (USA).png</marquee>
+		<video>./snap/Dungeon Explorer II (USA).mp4</video>
+		<developer>Atlus</developer>
+		<publisher>Hudson Soft</publisher>
+		<players>5</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="103579" source="ScreenScraper.fr">
+		<path>./Dungeon Master - Theron's Quest (USA).chd</path>
+		<name>Dungeon Master - Theron's Quest</name>
+		<desc>TERRIFYINGLY BRUTAL BEASTS! MONSTROUS MAZES! TREACHEROUS PITS OF EVIL! THE ADVENTURE OF A LIFETIME IS HERE....THERON'S QUEST!!
+
+THE MONASTERY AT YA-BRODIN HAS FALLEN TO THE CULT OF DEATHS AND THE BROTHERHOOD OF ENLIGHTENMENT, THE TRUE KEEPERS OF MAGIC, HAVE BEEN SLAUGHTERED. THE SEVEN GREAT TREASURES NOW LIE IN THE HANDS OF FOUL BEINGS WHO WILL STOP AT NOTHING TO HOLD ONTO THEIR MASSIVE POWERS. BUT THERON, WITH A COURAGE BEYOND BELIEF, HAS DECIDED TO SEEK OUT THE CULT OF DEATHS AND WIN BACK THE TREASURES. IF HE SUCCEEDS, HE WILL BECOME A HIGH LORD. IF NOT, THE LAND WILL SEE ETERNAL DARKNESS.</desc>
+		<rating>0</rating>
+		<hash>CC939D72</hash>
+		<image>./images/Dungeon Master - Theron's Quest (USA).png</image>
+		<thumbnail>./boxart/Dungeon Master - Theron's Quest (USA).png</thumbnail>
+		<marquee>./marquee/Dungeon Master - Theron's Quest (USA).png</marquee>
+		<video>./snap/Dungeon Master - Theron's Quest (USA).mp4</video>
+	</game>
+	<game id="103563" source="ScreenScraper.fr">
+		<path>./Exile 2 - Wicked Phenomenon (USA).chd</path>
+		<name>Exile 2 - Janen no Jishou</name>
+		<desc>THE WORLD OF CHALTAR IS AT STAKE AND SADLER RETURNS AS THE MAIN PROTAGONIST AND TITULAR CHARACTER OF THE SERIES. NEARLY, AS HIS FIRST TASK IS TO LOOK FOR HIS FRIENDS IN THE NEARBY TOWNS. UNLIKE THE PREVIOUS EPISODES OF THE SERIES, SADLER IS HERE ONE OF SEVERAL POSSIBLE PLAYABLE CHARACTERS - THE CUTE BUT LETHAL RUMI, THE STRONG KINDI AND THE MYSTIC FAKHYLE FOLLOW OUR HERO IN HIS QUEST AND CAN BE CONTROLLED. THE GAME FOLLOWS THE SAME FORMULA LAID OUT BY ITS PREDECESSORS AND ALTERNATES BETWEEN FIGHTING AND EXPLORING. THE FIRST PART GETS SADLER TO WALK AROUND TOWNS, TALK TO VILLAGERS OR PURCHASE NEW EQUIPMENT. THE FIGHTING PHASES ARE CLASSIC HACK-AND-SLASH ACTION SCENES SET IN COUNTLESS HOSTILE LOCATIONS - THERE THE PLAYER FIGHT ENEMIES, BOSSES AND EARN PRECIOUS EXPERIENCE POINTS AND GOLD COINS.</desc>
+		<rating>0</rating>
+		<releasedate>19920922T000000</releasedate>
+		<hash>4CC23F46</hash>
+		<image>./images/Exile 2 - Wicked Phenomenon (USA).png</image>
+		<thumbnail>./boxart/Exile 2 - Wicked Phenomenon (USA).png</thumbnail>
+		<marquee>./marquee/Exile 2 - Wicked Phenomenon (USA).png</marquee>
+		<video>./snap/Exile 2 - Wicked Phenomenon (USA).mp4</video>
+	</game>
+	<game id="14564" source="ScreenScraper.fr">
+		<path>./Exile (USA).chd</path>
+		<name>Exile</name>
+		<desc>EXILE CONCERNS THE DESERT ADVENTURES OF SADLER, THE GREAT HERO WHOSE REVOLT YEARS BEFORE LED TO THE DOWNFALL OF A POWERFUL EMPIRE. RECENTLY, HOWEVER, PEACE WAS BROKEN IN SADLER'S HOME COUNTRY, AS THE RIVAL LUCIEL EMPIRE HAS BEEN LAUNCHING ATTACKS ON THE VILLAGE OF DUNES. EXILE IS A HYBRID ACTION/ROLE-PLAYING GAME. TRAVEL AND EXPLORATION OCCURS IN THE TRADITIONAL OVERHEAD VIEW OF RPGS, WHILE THE BATTLES AND DUNGEONS ARE SIDE-SCROLLING MAZES, SIMILAR TO WANDERERS FROM YS. CHARACTERS GAIN EXPERIENCE AND LEVELS, BUY EQUIPMENT, AND USE MAGIC.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<hash>E85BC823</hash>
+		<image>./images/Exile (USA).png</image>
+		<thumbnail>./boxart/Exile (USA).png</thumbnail>
+		<marquee>./marquee/Exile (USA).png</marquee>
+		<video>./snap/Exile (USA).mp4</video>
+		<developer>Working Designs</developer>
+		<publisher>Telenet</publisher>
+	</game>
+	<game id="103574" source="ScreenScraper.fr">
+		<path>./Fantasy Star Soldier (USA).chd</path>
+		<name>Fantasy Star Soldier</name>
+		<desc>MOVE FAST AND BLAST! IT'S A NONSTOP EXPLOSION OF FIRE POWER AND YOU'RE STREAKING THROUGH SPACE, RIGHT IN THE MIDDLE OF IT! THE BRAINS CULT YOU ONCE DEFEATED IS BACK, BADDER THAN EVER. BUT YOUR FINGER'S ON THE TRIGGER OF AN INCREDIBLE NEW TECHNO-ATTACK! SCORCH THE SCORPION WITH A NUCLEAR A STING. FIRE YOUR HEAT-SEEKING SIDEWINDERS. THEN POWER-UP TO LAUNCH YOUR DOOMSDAY SUPER BOMB! BLOW THOSE BRAINS OUT AND SAVE THE GALAXY. THEN CHALLENGE YOUR FRIENDS WITH A SPECIAL COMPETITION TIME MODE TO PROVE WHO THE SUPER STAR REALLY IS!</desc>
+		<rating>0</rating>
+		<releasedate>19920424T000000</releasedate>
+		<hash>A20379F6</hash>
+		<image>./images/Fantasy Star Soldier (USA).png</image>
+		<thumbnail>./boxart/Fantasy Star Soldier (USA).png</thumbnail>
+		<marquee>./marquee/Fantasy Star Soldier (USA).png</marquee>
+		<video>./snap/Fantasy Star Soldier (USA).mp4</video>
+		<developer>Inter State</developer>
+		<publisher>Hudson Soft / Konami</publisher>
+		<players>1</players>
+	</game>
+	<game id="14485" source="ScreenScraper.fr">
+		<path>./Fighting Street (USA).chd</path>
+		<name>Fighting Street</name>
+		<desc>DEEP INSIDE YOU THERE LURKS A WARRIOR. LET HIM LOOSE! AND TEST HIM AGAINST THE MARTIAL ARTS CHAMPIONS OF 5 NATIONS. GRIT YOUR TEETH, PUMP UP AND TAKE AFTER RETSU AND GEKI FROM JAPAN. MOST WORTHY OPPONENTS! BUT WATCH OUT FOR THE BADDEST - ADON AND SAGAT, A COUPLE OF THAI'S. MIKE AND JOE (USA), BIRDI AND EAGLE (UK), LEE AND GEN (CHINA) ALL HAVE THEIR OWN SPECIAL "TRICKS." BE QUICK AND STRONG, OR BE GONE!</desc>
+		<rating>0</rating>
+		<releasedate>19891204T000000</releasedate>
+		<hash>2C6D30FA</hash>
+		<image>./images/Fighting Street (USA).png</image>
+		<thumbnail>./boxart/Fighting Street (USA).png</thumbnail>
+		<marquee>./marquee/Fighting Street (USA).png</marquee>
+		<video>./snap/Fighting Street (USA).mp4</video>
+		<developer>Nec Interchannel</developer>
+		<publisher>Capcom</publisher>
+	</game>
+	<game id="103575" source="ScreenScraper.fr">
+		<path>./Final Zone II (USA).chd</path>
+		<name>Final Zone II</name>
+		<desc>FINAL ZONE II IS A TOP DOWN SHOOTER IN WHICH YOU CONTROLS A SOLDIER ON SOME LEVELS AND VEHICLE ON OTHER LEVELS. AS A SOLDIER YOU DON A "NEW AGE POWER SUIT" AND HAVE A CHOICE OF PLAYING SEVERAL DIFFERENT CHARACTERS, THOUGH IT IS ONLY A ONE PLAYER GAME.
+
+THE OBJECT OF THE GAME IS TO FIGHT AN ENEMY ARMY LED BY "ZOD" WHO IS A MASS MURDERER AND KILLED SOME OF YOUR COMMANDO FRIENDS. THERE ARE VARIOUS ARMAMENTS AND SHIELDS THAT YOU CAN PICK UP ALONG THE WAY. THERE ARE SEVERAL MANGA-STYLE ANIMATION SEQUENCES IN THE GAME.
+
+THIS IS THE SEQUEL TO A MEGA DRIVE GAME CALLED FINAL ZONE WHICH WAS RELEASED IN 1990 ALSO.</desc>
+		<rating>0</rating>
+		<hash>02BDEBAA</hash>
+		<image>./images/Final Zone II (USA).png</image>
+		<thumbnail>./boxart/Final Zone II (USA).png</thumbnail>
+		<marquee>./marquee/Final Zone II (USA).png</marquee>
+		<video>./snap/Final Zone II (USA).mp4</video>
+	</game>
+	<game id="14578" source="ScreenScraper.fr">
+		<path>./Forgotten Worlds (USA).chd</path>
+		<name>Forgotten Worlds</name>
+		<desc>FORGOTTEN WORLDS SUR TURBOGRAFX EST UN JEU D'ACTION OÙ L'ON INCARNE DEUX HÉROS ANONYMES PARTANT EN CROISADE CONTRE DES ENVAHISSEURS EXTRATERRESTRES. LE JOUEUR PEUT FAIRE VOLER SON AVATAR GRÂCE À UN JETPACK ET AMÉLIORER SON ARSENAL ENTRE LES MISSIONS EN FONCTION DU NOMBRE D'ENNEMIS TUÉS.</desc>
+		<rating>0</rating>
+		<releasedate>19920327T000000</releasedate>
+		<hash>3AA470A8</hash>
+		<image>./images/Forgotten Worlds (USA).png</image>
+		<thumbnail>./boxart/Forgotten Worlds (USA).png</thumbnail>
+		<marquee>./marquee/Forgotten Worlds (USA).png</marquee>
+		<video>./snap/Forgotten Worlds (USA).mp4</video>
+		<developer>U.S. Gold</developer>
+		<publisher>Capcom</publisher>
+	</game>
+	<game id="103561" source="ScreenScraper.fr">
+		<path>./Godzilla (USA).chd</path>
+		<name>Godzilla</name>
+		<desc>THIS INTERPRETATION OF THE FAMOUS GIANT MONSTER FROM THE JAPANESE CINEMATIC INDUSTRY TAKES FORM OF A FIGHTING GAME, ONLY INSTEAD OF THE USUAL BRAVE MARTIAL ARTISTS THE PLAYERS CONTROL HORRIFYING MONSTERS FROM THE TRADITIONAL  TOHO LINEAGE: THE TITULAR BEAST ITSELF, RODAN, ANGUIRUS, GHIDORAH, AND OTHERS. THE GAME HAS TWO MODES: NORMAL AND VS. THE LATTER IS ESSENTIALLY A TWO-PLAYER MODE, WHICH ALLOWS THE PLAYERS TO ENGAGE IN GIANT MONSTER BATTLES IN A VARIETY OF SCENARIOS. MOST OF THE MONSTERS, HOWEVER, ARE LOCKED IN THE VS. MODE BEFORE THE PLAYER HAS COMPLETED THE NORMAL MODE.
+
+THE NORMAL MODE PUTS THE PLAYER IN CONTROL OF GODZILLA, WHO HAS TO GO THROUGH FIVE STAGES BEFORE REACHING THE FINAL BOSS. EACH STAGE HAS TWO BATTLES AGAINST TWO DIFFERENT CREATURES IN TWO DIFFERENT LOCATIONS, FROM WHICH THE PLAYER HAS TO COMPLETE ONLY ONE IN ORDER TO PROCEED TO THE NEXT STAGE. DEPENDING ON THE PLAYER'S PERFORMANCE, POINTS ARE AWARDED; IN ORDER TO BE ABLE TO COMPETE AGAINST DIFFERENT FINAL BOSSES, THE PLAYER HAS TO ACCUMULATE MORE POINTS. IF THE PLAYER ONLY HAS THE MINIMUM REQUIRED POINTS, ONLY ONE FINAL BOSS WILL BE AVAILABLE.
+
+THE COMBAT SYSTEM IS SIMILAR TO OTHER FIGHTING GAMES, WITH VARIOUS COMBINATIONS OF BUTTONS EXECUTING DIFFERENT MOVES. NATURALLY, THE NORMAL "PUNCH-KICK" SCHEME IS MODIFIED TO SUIT THE MONSTERS' SHAPES AND BIOLOGICAL PECULIARITIES. FOR EXAMPLE, MONSTERS WITH TAILS CAN USE TAIL SPIN ATTACKS; FIRE-BREATHING MONSTERS HAVE A RANGE FIRE ATTACK, ETC. MOST OF THE MONSTERS (INCLUDING GODZILLA) HAVE A MOVE WHEN THEY HOLD THE OPPONENT AND SUCK ITS BLOOD.</desc>
+		<rating>0</rating>
+		<image>./images/Godzilla (USA).png</image>
+		<thumbnail>./boxart/Godzilla (USA).png</thumbnail>
+		<marquee>./marquee/Godzilla (USA).png</marquee>
+		<video>./snap/Godzilla (USA).mp4</video>
+	</game>
+	<game id="103581" source="ScreenScraper.fr">
+		<path>./Implode (USA).chd</path>
+		<name>Implode</name>
+		<desc>IMPLODE IS A HOMEBREW PUZZLE GAME. IT PLAYS LIKE A FALLING BLOCK PUZZLE IN ALL RESPECTS, WITH THE EXCEPTION OF THE FACT THAT THE BLOCKS APPEAR FROM BELOW INSTEAD OF FALLING. ALL THE BLOCKS HAVE THE SAME SHAPE AND ARE ONLY DISTINGUISHED BY THEIR COLOR. THE PLAYER MUST SELECTS GROUPS OF THREE OR MORE IDENTICALLY COLORED BLOCKS IN ORDER TO MAKE THEM DISAPPEAR. THE GOAL IS TO NOT LET THE BLOCKS STACK UP AND PASS THE UPPER BORDER OF THE SCREEN. BOMBS WOULD SOMETIMES APPEAR AND CLEAR OUT ADJACENT BLOCKS IF THE PLAYER SELECTS THEM. THE GAME GRADUALLY ADVANCES TO HIGHER DIFFICULTY LEVELS, WITH MORE COLORS AND FASTER SPEED.</desc>
+		<rating>0</rating>
+		<hash>6428631D</hash>
+		<image>./images/Implode (USA).png</image>
+		<thumbnail>./boxart/Implode (USA).png</thumbnail>
+		<marquee>./marquee/Implode (USA).png</marquee>
+		<video>./snap/Implode (USA).mp4</video>
+	</game>
+	<game id="103582" source="ScreenScraper.fr">
+		<path>./It Came From The Desert (USA).chd</path>
+		<name>It Came From The Desert</name>
+		<desc>IT CAME FROM THE DESERT IS A REMAKE OF THE THE ORIGINAL 1989 AMIGA GAME OF THE SAME NAME, BUT WITH A VAST AMOUNT OF CHANGES AND IMPROVEMENTS. THE BASIC SETTING WAS KEPT IDENTICAL. IT IS A MIX OF ACTION AND ADVENTURE ELEMENTS, LARGELY INSPIRED FROM CULT-HORROR B-MOVIES OF THE 50'S AND 60'S, AND THE 1954 FILM THEM IN PARTICULAR. THE PLAYER PLAYS THE PART OF DR. GREG BRADLEY, A GEOLOGIST AND THE NEWEST RESIDENT IN TOWN. EAGER TO SATISFY HIS SCIENTIFIC MIND, BRADLEY SETS OUT TO EXAMINE THE CRASH-SITE OF A MYSTERIOUS METEOR, BUT WHAT HE FINDS IS NOT AT ALL WHAT HE HAD BEEN LOOKING FOR.</desc>
+		<rating>0</rating>
+		<hash>CA1B1A25</hash>
+		<image>./images/It Came From The Desert (USA).png</image>
+		<thumbnail>./boxart/It Came From The Desert (USA).png</thumbnail>
+		<marquee>./marquee/It Came From The Desert (USA).png</marquee>
+		<video>./snap/It Came From The Desert (USA).mp4</video>
+	</game>
+	<game id="103583" source="ScreenScraper.fr">
+		<path>./Jack Nicklaus Turbo Golf (USA).chd</path>
+		<name>Jack Nicklaus' World Tour Golf</name>
+		<desc>JACK NICKLAUS: TURBO GOLF IS A SPORTS GAME, DEVELOPED BY ACCOLADE AND PUBLISHED BY VICTOR INTERACTIVE SOFTWARE, WHICH WAS RELEASED IN 1990.</desc>
+		<rating>0</rating>
+		<hash>10B7B1BB</hash>
+		<image>./images/Jack Nicklaus Turbo Golf (USA).png</image>
+		<thumbnail>./boxart/Jack Nicklaus Turbo Golf (USA).png</thumbnail>
+		<marquee>./marquee/Jack Nicklaus Turbo Golf (USA).png</marquee>
+		<video>./snap/Jack Nicklaus Turbo Golf (USA).mp4</video>
+		<developer>Accolade</developer>
+		<publisher>Victor Interactive Software</publisher>
+	</game>
+	<game id="103585" source="ScreenScraper.fr">
+		<path>./J. B. Harold Murder Club (USA).chd</path>
+		<name>Jb Harold Murder Club</name>
+		<rating>0</rating>
+		<hash>A8B8F3BF</hash>
+		<image>./images/J. B. Harold Murder Club (USA).png</image>
+		<thumbnail>./boxart/J. B. Harold Murder Club (USA).png</thumbnail>
+		<marquee>./marquee/J. B. Harold Murder Club (USA).png</marquee>
+		<video>./snap/J. B. Harold Murder Club (USA).mp4</video>
+	</game>
+	<game id="103584" source="ScreenScraper.fr">
+		<path>./John Madden Duo CD Football (USA).chd</path>
+		<name>John Madden Duo Cd Football</name>
+		<desc>THE FIRST AND ONLY MADDEN GAME TO APPEAR ON THE TURBOGRAFX, IT FEATURES THE STANDARD GAME MODES SUCH AS EXHIBITION AND SEASON AND FEATURES FULL-MOTION VIDEO OF PLAYS, FANS AND MANY OTHER IMPORTANT EVENTS HAPPENING ON AND OFF THE FIELD. IT ALSO FEATURES DIGITIZED VOICES OF THE QUARTERBACKS, REFEREES AND FANS, BUT THE MOST IMPORTANT BEING THE GAMES NAMESAKE, JOHN MADDEN, WHO LENDS HIS VOICE TALENT TO THE GAME.</desc>
+		<rating>0</rating>
+		<releasedate>19930712T000000</releasedate>
+		<image>./images/John Madden Duo CD Football (USA).png</image>
+		<thumbnail>./boxart/John Madden Duo CD Football (USA).png</thumbnail>
+		<marquee>./marquee/John Madden Duo CD Football (USA).png</marquee>
+		<video>./snap/John Madden Duo CD Football (USA).mp4</video>
+	</game>
+	<game id="103565" source="ScreenScraper.fr">
+		<path>./Last Alert (USA).chd</path>
+		<name>Last Alert</name>
+		<desc>PLAYERS PLAY AS GUY KAZAMA AND ARE SENT OUT ON MULTIPLE MISSIONS TO FIGHT THE FORCE PROJECT, AN EVIL TERRORIST ORGANIZATION BENT ON RULING THE WORLD. AS PLAYERS RACK UP KILLS, EXPERIENCE POINTS ARE EARNED THAT INCREASE KAZAMA'S RANK.</desc>
+		<rating>0</rating>
+		<hash>04E858DB</hash>
+		<image>./images/Last Alert (USA).png</image>
+		<thumbnail>./boxart/Last Alert (USA).png</thumbnail>
+		<marquee>./marquee/Last Alert (USA).png</marquee>
+		<video>./snap/Last Alert (USA).mp4</video>
+	</game>
+	<game id="14473" source="ScreenScraper.fr">
+		<path>./Loom (USA).chd</path>
+		<name>Loom</name>
+		<desc>LOOM IS BASED ON A SERIOUS AND COMPLEX FANTASY STORY. WITH ITS EXPERIMENTAL INTERFACE, IT ESCHEWED THE TRADITIONAL PARADIGM OF GRAPHICAL ADVENTURES, WHERE PUZZLES USUALLY INVOLVE INTERACTIONS BETWEEN THE GAME CHARACTER, THE ENVIRONMENT, AND MULTIPLE ITEMS THE CHARACTER CAN TAKE INTO THEIR POSSESSION. NNNNLOOM'S GAMEPLAY CENTERS INSTEAD AROUND MAGICAL FOUR-NOTE TUNES (DRAFTS) THAT THE PROTAGONIST, BOBBIN THREADBARE, CAN PLAY ON HIS DISTAFF. EACH DRAFT IS A SPELL THAT HAS AN EFFECT OF A CERTAIN TYPE, SUCH AS "OPENING" OR "NIGHT VISION". DRAFTS CAN BE LEARNED BY OBSERVING AN OBJECT THAT POSSESS THE QUALITIES OF THE RELEVANT DRAFT; FOR EXAMPLE, EXAMINING A BLADE WHILE IT IS BEING SHARPENED GIVES THE PLAYER THE "SHARPENING" DRAFT.</desc>
+		<rating>0</rating>
+		<releasedate>19921204T000000</releasedate>
+		<hash>6131303E</hash>
+		<image>./images/Loom (USA).png</image>
+		<thumbnail>./boxart/Loom (USA).png</thumbnail>
+		<marquee>./marquee/Loom (USA).png</marquee>
+		<video>./snap/Loom (USA).mp4</video>
+		<developer>Turbo Technologies</developer>
+		<publisher>LucasArts</publisher>
+	</game>
+	<game id="103564" source="ScreenScraper.fr">
+		<path>./Lords of the Rising Sun (USA).chd</path>
+		<name>Lords Of The Rising Sun</name>
+		<desc>COMBATE LA ÉPICA GUERRA GEMPEI DEL ANTIGUO JAPÓN EN UN JUEGO QUE OFRECE UNA MEZCLA ÚNICA DE ESTRATEGIA MILITAR, SECUENCIAS DE ACCIÓN ATRACTIVAS Y JUEGOS DE ROL. EN UNA BÚSQUEDA HEROICA PARA CONVERTIRSE EN SHOGUN Y REDIMIR EL HONOR DE LA FAMILIA, LOS JUGADORES DEBEN COMANDAR VASTOS EJÉRCITOS DE GUERREROS SAMURÁIS, DEFENDERSE CONTRA LOS ASESINOS NINJA, SITIAR LAS PODEROSAS FORTALEZAS, NEGOCIAR ALIANZAS Y ENFRENTAR A LOS ENEMIGOS EN COMBATE PERSONAL.</desc>
+		<rating>0</rating>
+		<hash>AFA01E8D</hash>
+		<image>./images/Lords of the Rising Sun (USA).png</image>
+		<thumbnail>./boxart/Lords of the Rising Sun (USA).png</thumbnail>
+		<marquee>./marquee/Lords of the Rising Sun (USA).png</marquee>
+		<video>./snap/Lords of the Rising Sun (USA).mp4</video>
+	</game>
+	<game id="14547" source="ScreenScraper.fr">
+		<path>./Lords of Thunder (USA).chd</path>
+		<name>Lords of Thunder</name>
+		<desc>LORDS OF THUNDER IS A SHOOT 'EM UP BY HUDSON SOFT AND RED ENTERTAINMENT FOR THE TURBO CD WHICH WAS RELEASED IN 1993. IT IS THE UNOFFICIAL FOLLOW-UP TO GATE OF THUNDER.  THE GAME IS CENTERED AROUND THE WORLD MISTRAL'S CONFRONTATION WITH THE RE-AWAKENED EVIL GOD DEORIC AND HIS DARK GENERALS WHO HAVE TORN THE WORLD ASUNDER. WITH THE ARMOR OF HIS ANCESTOR DRAC, THE LEGENDARY KNIGHT DURAN SETS OFF TO DEFEAT DEORIC'S ARMY IN 7 DIFFERENT STAGES, THE FIRST SIX OF WHICH CAN BE SELECTED IN A MANNER SIMILAR TO THUNDER FORCE III. ONCE THE STAGE IS SELECTED, THE PLAYER SELECTS ONE OF FOUR ARMORS TO USE, AFFECTING HIS SHOTS AND BOMBS.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<hash>1C68C392</hash>
+		<image>./images/Lords of Thunder (USA).png</image>
+		<thumbnail>./boxart/Lords of Thunder (USA).png</thumbnail>
+		<marquee>./marquee/Lords of Thunder (USA).png</marquee>
+		<video>./snap/Lords of Thunder (USA).mp4</video>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+	</game>
+	<game id="103572" source="ScreenScraper.fr">
+		<path>./Magical Dinosaur Tour (USA).chd</path>
+		<name>Magical Dinosaur Tour</name>
+		<desc>YOU'RE EXPLORING A PRIMEVAL FOREST OVER 100 MILLION YEARS AGO. SUDDENLY, THE MIGHTY TYRANNOSAURUS APPEARS! WITH A PUSH OF A BUTTON, YOU BRING HIM TO LIFE! THE MAGIC OF TURBOGRAFX-CD BRINGS THE EXCITING WORLD OF DINOSAURS INTO YOUR HOME. MOVE THROUGH 20 PREHISTORIC PANORAMAS AND WATCH CREATURES SPRING INTO ACTION AS THEY SEARCH FOR FOOD AND STRUGGLE FOR SURVIVAL. SORT THROUGH HUNDREDS OF THE MIGHTY BEASTS AND SEE WHAT MAY HAVE LED TO THEIR ULTIMATE EXTINCTION.</desc>
+		<rating>0</rating>
+		<hash>B4FD7D16</hash>
+		<image>./images/Magical Dinosaur Tour (USA).png</image>
+		<thumbnail>./boxart/Magical Dinosaur Tour (USA).png</thumbnail>
+		<marquee>./marquee/Magical Dinosaur Tour (USA).png</marquee>
+		<video>./snap/Magical Dinosaur Tour (USA).mp4</video>
+	</game>
+	<game id="14475" source="ScreenScraper.fr">
+		<path>./Might and Magic III - Isles of Terra (USA).chd</path>
+		<name>Might and Magic III : Isles of Terra</name>
+		<desc>EMERGING FROM THE DEPTHS OF THE NEBULOUS VOID, THERE CAME FOUR LORDS. TO EACH LORD, A DOMINION: FIRE, WATER, AIR, AND EARTH. BUT EACH LORD LUSTED FOR MORE - TO BE THE ULTIMATE RULER OF THE VOID. THE FOUR LORDS OF THE ELEMENTS DESCENDED INTO A HIDEOUS CONFLICT THAT UNLEASHED A RAGING STORM.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<hash>7074118E</hash>
+		<image>./images/Might and Magic III - Isles of Terra (USA).png</image>
+		<thumbnail>./boxart/Might and Magic III - Isles of Terra (USA).png</thumbnail>
+		<marquee>./marquee/Might and Magic III - Isles of Terra (USA).png</marquee>
+		<video>./snap/Might and Magic III - Isles of Terra (USA).mp4</video>
+		<developer>New World Computing</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="103571" source="ScreenScraper.fr">
+		<path>./Buster Bros. (USA).chd</path>
+		<name>Pomping world</name>
+		<desc>ACTION GAME WHERE YOU TRAVEL THE WORLD, POPPING BUBBLES WITH YOUR HARPOON GUN. BIG BUBBLES SPLIT INTO SMALLER ONES WHEN BURST AND SO CARE MUST BE TAKEN TO DODGE THEM ALL WHILE ELIMINATING THEM COMPLETELY.</desc>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<hash>178F87CF</hash>
+		<image>./images/Buster Bros. (USA).png</image>
+		<thumbnail>./boxart/Buster Bros. (USA).png</thumbnail>
+		<marquee>./marquee/Buster Bros. (USA).png</marquee>
+		<video>./snap/Buster Bros. (USA).mp4</video>
+		<developer>Mitchell</developer>
+		<publisher>Hudson Soft</publisher>
+		<players>1-2</players>
+	</game>
+	<game id="103562" source="ScreenScraper.fr">
+		<path>./Prince of Persia (USA).chd</path>
+		<name>Prince Of Persia</name>
+		<desc>THE GRAND VIZIER JAFFAR HAS THROWN YOU INTO A DARK DUNGEON AND PLANS TO MARRY THE GIRL OF YOUR DREAMS IN AN HOUR. YOU'RE NOT GOING TO LET THAT HAPPEN ARE YOU? TRY TO ESCAPE FROM THE DUNGEON, TAKE OUT JAFFAR'S GUARDS, FIND YOUR WAY THROUGH THE SULTAN'S PALACE AND DEFEAT JAFFAR HIMSELF. NOW GO, YOU'VE GOT 60 MINUTES! PRINCE OF PERSIA IS A 2D PLATFORMER WITH RUN AND JUMP GAMEPLAY. YOUR HERO MUST AVOID DEADLY TRAPS, SOLVE SOME SIMPLE PUZZLES AND ENGAGE IN SWORD FIGHTS WITH THE GUARDS. THE PLAYER HAS AN INFINITE AMOUNT OF LIVES, BUT HAS TO RESTART AT THE BEGINNING OF A LEVEL EACH TIME HE DIES, AND MUST COMPLETE THE GAME WITHIN AN HOUR. AN ESPECIALLY NOTEWORTHY ASPECT OF THE GAME IS THE VERY FLUENT ANIMATION OF YOUR CHARACTER.</desc>
+		<rating>0</rating>
+		<hash>235A2E48</hash>
+		<image>./images/Prince of Persia (USA).png</image>
+		<thumbnail>./boxart/Prince of Persia (USA).png</thumbnail>
+		<marquee>./marquee/Prince of Persia (USA).png</marquee>
+		<video>./snap/Prince of Persia (USA).mp4</video>
+	</game>
+	<game id="106875" source="ScreenScraper.fr">
+		<path>./Riot Zone (USA).chd</path>
+		<name>Riot Zone</name>
+		<desc>RIOT ZONE IS A SIDE-SCROLLING FIGHTING GAME THAT FOLLOWS TWO HEROES AS THEY FIGHT TO TAKE DOWN AN EVIL ORGANIZATION. THE CRIME SYNDICATE DRAGON ZONE HAS KIDNAPPED HAWK'S GIRLFRIEND AND IT'S UP TO HIM AND HIS PARTNER DETECTIVE, TONY, TO GET HER BACK. JOIN THEM AS THEY JUMP "FISTS FIRST" INTO THE GRIM KOWLOON DISTRICT.</desc>
+		<rating>0</rating>
+		<image>./images/Riot Zone (USA).png</image>
+		<thumbnail>./boxart/Riot Zone (USA).png</thumbnail>
+		<marquee>./marquee/Riot Zone (USA).png</marquee>
+		<video>./snap/Riot Zone (USA).mp4</video>
+	</game>
+	<game id="14530" source="ScreenScraper.fr">
+		<path>./Shadow of the Beast (USA).chd</path>
+		<name>Shadow of the Beast</name>
+		<desc>SHADOW OF THE BEAST IS A 2D PLATFORMER GAME, DEVELOPED BY DMA DESIGN AND PUBLISHED BY VICTOR INTERACTIVE SOFTWARE, WHICH WAS RELEASED IN 1992.</desc>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<hash>3E67BAC9</hash>
+		<image>./images/Shadow of the Beast (USA).png</image>
+		<thumbnail>./boxart/Shadow of the Beast (USA).png</thumbnail>
+		<marquee>./marquee/Shadow of the Beast (USA).png</marquee>
+		<video>./snap/Shadow of the Beast (USA).mp4</video>
+		<developer>Reflections Interactive Limited</developer>
+		<publisher>Psygnosis</publisher>
+	</game>
+	<game id="103586" source="ScreenScraper.fr">
+		<path>./Shape Shifter (USA).chd</path>
+		<name>Shape Shifter</name>
+		<desc>IN THE LAND OF KRELLION YOU ARE A CONAN-ESQUE WARRIOR NAMED LYKOS. YOUR WORLD WAS PROTECTED BY A GROUP OF WIZARDS KNOWN AS THE RING OF FIVE. THE DARK ONES HAVE INFILTRATED KRELLION, ENSLAVED THE WIZARDS, AND IT IS UP TO YOU TO?WELL YOU CAN GUESS THE REST.NNNNYOU BEGIN IN THE CITY OF TREYHELM. THIS IS YOUR BASE OF OPERATIONS FOR ADVICE, WEAPONS, HEALING, UPGRADES AND THE ONLY PLACE YOU CAN SAVE YOUR GAME. AT FIRST YOU CAN ONLY KICK, BUT IF YOU RPG A BIT AND EARN THE GOLD, YOU CAN BUY AN AXE, MACE OR BOW. EACH OF THESE CAN THEN BE UPGRADED 3 TIMES. EVENTUALLY YOU CAN ALSO PURCHASE 3 TYPES OF BODY ARMOR.NNNNDELVING DEEPER, EACH TIME YOU SAVE A WIZARD, YOU GAIN THE ABILITY TO CHANGE FORM (HENCE THE NAME SHAPESHIFTER) AND UNLOCK NEW AREAS. ASIDE FROM BEING HUMAN, YOU CAN CHANGE INTO A PANTHER, A PSIONIC SHARK, A MIGHTY GOLEM AND A GOLDEN DRAGON. EACH FORM USES COLLECTED GEMS TO INITIATE, AND THEN A TIMER COUNTS HOW LONG YOU CAN SUSTAIN THE FORM UNTIL MORE GEMS ARE USED.NNNNAN EXTREMELY UNIQUE IDEA THAT REALLY WORKS IS THE ECLIPSE. THERE IS A SMALL SCREEN AT THE TOP SHOWING A LUNAR CYCLE. EACH TIME THE ECLIPSE HAPPENS; LIGHTNING STRIKES AND YOUR HEALTH IS REGENERATED. THIS IS GREAT IF YOU'RE IN A TIGHT SPOT ? JUST HANG OUT AND WAIT FOR THE MOON TO GO ?ROUND AGAIN.NNNNTHE MAP IS SPRAWLING FOR GAMES ON THIS SYSTEM, 16 UNIQUE AREAS IN ALL WITH 12 CHALLENGING BOSSES!</desc>
+		<rating>0</rating>
+		<releasedate>19920929T000000</releasedate>
+		<hash>69421EF0</hash>
+		<image>./images/Shape Shifter (USA).png</image>
+		<thumbnail>./boxart/Shape Shifter (USA).png</thumbnail>
+		<marquee>./marquee/Shape Shifter (USA).png</marquee>
+		<video>./snap/Shape Shifter (USA).mp4</video>
+	</game>
+	<game id="14508" source="ScreenScraper.fr">
+		<path>./Sherlock Holmes Consulting Detective (USA).chd</path>
+		<name>Sherlock Holmes : Consulting Detective : Vol. I</name>
+		<desc>SHERLOCK HOLMES : CONSULTING DETECTIVE : VOL. I SUR TURBOGRAFX EST UN JEU D'AVENTURE TIRÉ DU CÉLÈBRE ROMAN D'ARTHUR CONAN DOYLE. GLISSEZ-VOUS DANS LA PEAU DU DÉTECTIVE LE PLUS CÉLÈBRE DE SCOTLAND YARD ET RÉSOLVEZ 3 AFFAIRES DE MEURTRE À LONDRES. ELÉMENTAIRE ? PAS TANT QUE ÇA.</desc>
+		<rating>0</rating>
+		<releasedate>19910726T000000</releasedate>
+		<image>./images/Sherlock Holmes Consulting Detective (USA).png</image>
+		<thumbnail>./boxart/Sherlock Holmes Consulting Detective (USA).png</thumbnail>
+		<marquee>./marquee/Sherlock Holmes Consulting Detective (USA).png</marquee>
+		<video>./snap/Sherlock Holmes Consulting Detective (USA).mp4</video>
+		<developer>Victor Musical Industries</developer>
+		<publisher>Icom</publisher>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Sherlock Holmes Consulting Detective Vol 2 (USA).chd</path>
+		<name>Sherlock Holmes Consulting Detective Vol 2 (USA)</name>
+		<rating>0</rating>
+		<image>./images/Sherlock Holmes Consulting Detective Vol 2 (USA).png</image>
+		<thumbnail>./boxart/Sherlock Holmes Consulting Detective Vol 2 (USA).png</thumbnail>
+		<marquee>./marquee/Sherlock Holmes Consulting Detective Vol 2 (USA).png</marquee>
+		<video>./snap/Sherlock Holmes Consulting Detective Vol 2 (USA).mp4</video>
+	</game>
+	<game id="14506" source="ScreenScraper.fr">
+		<path>./Sim Earth - The Living Planet (USA).chd</path>
+		<name>Sim Earth : The Living Planet</name>
+		<desc>SIMEARTH: THE LIVING PLANET IS THE SECOND LIFE SIMULATION VIDEO GAME DESIGNED BY WILL WRIGHT, IN WHICH THE PLAYER CONTROLS THE DEVELOPMENT OF A PLANET. THE GAME WAS PUBLISHED IN 1990 BY MAXIS. VERSIONS WERE MADE FOR THE APPLE MACINTOSH, COMMODORE AMIGA, IBM PC, SNES, SEGA MEGA-CD AND TURBOGRAFX-16. IT WAS ALSO SUBSEQUENTLY RE-RELEASED ON THE WII VIRTUAL CONSOLE.[1</desc>
+		<rating>0</rating>
+		<releasedate>19930114T000000</releasedate>
+		<hash>35D773E9</hash>
+		<image>./images/Sim Earth - The Living Planet (USA).png</image>
+		<thumbnail>./boxart/Sim Earth - The Living Planet (USA).png</thumbnail>
+		<marquee>./marquee/Sim Earth - The Living Planet (USA).png</marquee>
+		<video>./snap/Sim Earth - The Living Planet (USA).mp4</video>
+		<developer>Maxis</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="103587" source="ScreenScraper.fr">
+		<path>./Splash Lake (USA).chd</path>
+		<name>Splash Lake</name>
+		<desc>SPLASH LAKE IS AN ACTION-PUZZLE GAME FOR THE TURBOGRAFX-CD AND PC ENGINE CD-ROM. THE PLAYER IS AN OSTRICH NAMED OZZIE AND MUST WALK AROUND A GRID, PECKING AT CERTAIN LYNCHPIN AREAS OF THE GROUND IN ORDER TO COLLAPSE PARTS OF THE LEVEL INTO THE OCEAN. THE GOAL IS TO REMOVE ALL ENEMIES BY DROPPING THE GROUND THEY'RE WALKING ON. IT IS STRUCTURALLY SIMILAR TO DIG DUG 2.
+
+THE GAME HAS A MULTIPLAYER MODE, WHICH ALLOWS TWO PLAYERS TO TRY TO OUTMANEUVER AND OUT-THINK EACH OTHER.</desc>
+		<rating>0</rating>
+		<image>./images/Splash Lake (USA).png</image>
+		<thumbnail>./boxart/Splash Lake (USA).png</thumbnail>
+		<marquee>./marquee/Splash Lake (USA).png</marquee>
+		<video>./snap/Splash Lake (USA).mp4</video>
+	</game>
+	<game id="14518" source="ScreenScraper.fr">
+		<path>./Super Air Zonk (USA).chd</path>
+		<name>Super Air Zonk : Rockabilly Paradise</name>
+		<desc>AFTER THE SUCCESS OF PC DENJIN, OUR HERO LEAPS ONTO CD WITH A WHOLE NEW GAME AND A WHOLE NEW SOUNDTRACK. FLYING OVER THE VARIOUS LANDSCAPES (YOU GET TO CHOOSE WHICH ORDER TO PLAY THE FIRST FOUR LEVELS IN), YOU COME UP AGAINST TIDAL WAVES, GIANT ROBOTS AND A GENERAL ARRAY OF NASTY BUT CUTE BAD GUYS AS YOU WOULD EXPECT. THE PLANTS FROM THE ORIGINAL PC KID GAMES ARE STILL HERE TO PROVIDE SUCH JOYS AS EXTRA FIREPOWER, FOUNTAINS OF SMILEY FACES OR THE TINY-DENJIN WHICH MAKES DODGING BULLETS THAT LITTLE BIT EASIER. ANOTHER HANDY LITTLE TRICK IS THAT YOUR BOOTS ALSO PACK A PUNCH, SO BACKING INTO AN ENEMY IS MORE LIKELY TO DISPOSE OF THEM THAN DO YOU ANY PERMANENT DAMAGE. PART WAY ALONG EACH OF THE LEVELS YOU GET THE CHANCE TO RESCUE A FRIEND WHO THEN JOINS WITH YOU, GIVING YOU A SPECIFIC EXTRA ABILITY. THESE FRIENDS ARE PRE-SET ONE PER LEVEL AND CANNOT BE CHOSEN, AND THEY ALLOW THINGS LIKE RAPID-SUSHI-FIRE AND HANDY REAR SHOTS.</desc>
+		<rating>0</rating>
+		<releasedate>19930730T000000</releasedate>
+		<hash>87672965</hash>
+		<image>./images/Super Air Zonk (USA).png</image>
+		<thumbnail>./boxart/Super Air Zonk (USA).png</thumbnail>
+		<marquee>./marquee/Super Air Zonk (USA).png</marquee>
+		<video>./snap/Super Air Zonk (USA).mp4</video>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Syd Mead's Terra Forming (USA).chd</path>
+		<name>Syd Mead's Terra Forming (USA)</name>
+		<rating>0</rating>
+		<image>./images/Syd Mead's Terra Forming (USA).png</image>
+		<thumbnail>./boxart/Syd Mead's Terra Forming (USA).png</thumbnail>
+		<marquee>./marquee/Syd Mead's Terra Forming (USA).png</marquee>
+		<video>./snap/Syd Mead's Terra Forming (USA).mp4</video>
+	</game>
+	<game id="14582" source="ScreenScraper.fr">
+		<path>./Dynastic Hero, The (USA).chd</path>
+		<name>The Dynastic Hero</name>
+		<desc>THE DYNASTIC HERO IS A SLIGHTLY RE-BRANDED VERSION OF WONDER BOY IN MONSTER WORLD FOR THE TURBO DUO.THE GAME FEATURES PALETTE-SWAPPED VISUALS, NEW INSECT-THEMED GRAPHICS FOR MAIN CHARACTERS (AND INSECTS' NATURAL PREDATORS AS BOSSES), A RED BOOK AUDIO SOUNDTRACK WHICH IS COMPLETELY DIFFERENT FROM THE WONDER BOY ORIGINAL, AND ANIME-STYLE CUTSCENES AT THE INTRO AND ENDING. SHION WAS RENAMED DYNA AND WAS MODELED AFTER A HERCULES BEETLE, AND THE FINAL BOSS WAS CHANGED TO A GIANT LIZARD KING. AN ENGLISH-LANGUAGE VERSION WAS ALSO PRODUCED, BUT BOTH WERE BUILT OFF OF THE JAPANESE VERSION OF WONDER BOY IN MONSTER WORLD. THEY FEATURE THE SAME DIFFICULTY AND MECHANICS AS THE JAPANESE ORIGINAL.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<hash>6732E6D4</hash>
+		<image>./images/Dynastic Hero, The (USA).png</image>
+		<thumbnail>./boxart/Dynastic Hero, The (USA).png</thumbnail>
+		<marquee>./marquee/Dynastic Hero, The (USA).png</marquee>
+		<video>./snap/Dynastic Hero, The (USA).mp4</video>
+		<developer>Westone</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game id="103588" source="ScreenScraper.fr">
+		<path>./Valis II (USA).chd</path>
+		<name>Valis II</name>
+		<desc>MUGEN SENSHI VALIS II (Å¤¢Å¹»Æ¦Å£«Ã´Ã¡ÃªÃ¹Â¡, MUGEN SENSHI VARISU NI), ALSO KNOWN AS VALIS II, IS THE SECOND MAIN GAME FROM THE VALIS SERIES. THE GAME TELLS THE EVENTS THAT HAPPEN AFTER THE FIRST VALIS GAME, REVEALING MORE REASONS ABOUT WHY YUUKO WAS CHOOSEN TO FIGHT FOR THE THREE WORLDS.
+STORY
+SOME TIME AFTER THE DEATH OF ROGLES AND YUUKO RETURNED TO HER HOME IN THE HUMAN WORLD, VANITY IS TORMENTED ONCE AGAIN BY A WAR BETWEEN THE NEW CANDIDATE TO THE DARK WORLD THRONE, MEGAS, ROGLES'S YOUNGER BROTHER; AND THE RESISTANCE FORMED BY THE SURVIVOR SOLDIERS FROM ROGLES'S ARMY. FOR THAT REASON, REIKO (ALREADY DEAD) APPEARS AS AN ILLUSION TO TELL YUUKO TO GO TO THE MENTIONED WORLD AND THEN TO INFORM HER ABOUT MEGAS. AS RESULT OF THE WAR, THE HUMAN WORLD BECOMES ENDANGERED AS YUUKO FIGHTS AGAINST ROGLES GENERALS WHO WANT THE POWER OF THE VALIS SWORD TO END WITH MEGAS'S MENACE. AFTER BEATING THEM, YUUKO GOES TO VALIA'S CASTLE ONLY TO FIGHT MEGAS'S ARMY AND A DEAD VALIA WHO WAS APPARENTLY KILLED BY MEGAS HIMSELF. IN THE MID OF THE DRAMATIC SITUATION, AFTER THIS, THE SERVANTS OF THE CASTLE TELL YUUKO THAT SHE IS ONE OF VALIA'S DAUGHTERS AND THAT HER YOUNGER SISTER, VALNA, LIVED IN THE CASTLE WITH VALIA WHILE YUUKO WAS SEND TO THE HUMAN WORLD. SEEING THE GRAVITY OF THE SITUATION, THEY GIVE YUUKO A NEW SWORD AND ARMOR: THE LEETHUS SWORD AND THE LEETHUS ARMOR. SHE GOES TO MEGAS'S DOMAINS FIGHTING MORE OF HIS GENERALS TO FINALLY INFILTRATE IN HIS TECHNOLOGIC TOWER BASE AND REACHES THE EMPEROR.
+
+AFTER HIS DEFEAT, MEGAS TELLS YUUKO THAT HE, CONTRARY TO ROGLES'S RESISTANCE, WANTED TO DESTROY THE VALIS SWORD BECAUSE HE WAS AFRAID THAT ITS POWER WOULD MAKE HIM FALL LIKE IT DID WITH HIS BROTHER ROGLES. HE STARTS TO RELATE THE STORY OF HOW HE BECAME THE DARK EMPEROR IS. HE WAS GOING TO INHERIT THE DARKWORLD THRONE LONG AGO FROM THE HANDS OF HIS FATHER, KAIZA. BUT ROGLES GOT JEALOUS AND MADE A SCHEME TO KILL MEGAS SO HE COULD BECAME THE DARKWORLD'S NEXT KING. MEGAS SURVIVED BUT HAD TO REPLEACE MANY OF HIS BODY PARTS WITH MACHINERY. LATER HE DISCOVERED THAT THE ONE BEHIND THAT CONSPIRACY WASN'T ROGLES BUT KAIZA HIMSELF WHO, WHEN DISCOVERED BY MEGAS, BANISHED HIM TO A DIMENSIONAL ABYSS FROM WHERE HE REMAINED A LONG TIME GROWING A HATRENESS FOR HIS BROTHER AND HIS FATHER. THAT'S WHY HE WANTED TO FINISH ROGLES ARMY'S REMAINS AND DOMINATE VECANTI.
+
+AFTER MEGAS DIES IN HER HANDS, YUUKO GOES TO VECANTI ONCE AGAIN TO BE SURE THAT HER SISTER IS SAFE AND THEN RETURNS TO THE HUMAN WORLD ONCE AGAIN, NOT BEFORE KNOWING THAT VALNA IS DECIDED TO FIGHT BY HER SIDE FROM THERE ON.</desc>
+		<rating>0</rating>
+		<releasedate>19890623T000000</releasedate>
+		<hash>961E16DF</hash>
+		<image>./images/Valis II (USA).png</image>
+		<thumbnail>./boxart/Valis II (USA).png</thumbnail>
+		<marquee>./marquee/Valis II (USA).png</marquee>
+		<video>./snap/Valis II (USA).mp4</video>
+	</game>
+	<game id="103589" source="ScreenScraper.fr">
+		<path>./Valis III (USA).chd</path>
+		<name>Valis III</name>
+		<desc>MUGEN SENSHI VALIS III (Å¤¢Å¹»Æ¦Å£«Ã´Ã¡ÃªÃ¹''Â¢, MUGEN SENSHI VARISU SURI), ALSO KNOWN AS VALIS III, IS THE THIRD GAME INSTALLMENT OF THE VALIS SERIES. THE GAME SHOWS YUUKO'S NEW ADVENTURE ALONG HER NEW COMPANIONS: VALNA AND CHAM.
+STORY
+LONG TIME PASSED SINCE YUUKO'S LAST BATTLE. YUUKO'S LIFE SEEMS PEACEFUL BUT, MEANWHILE, THE DARK WORLD STARTS TO GET MENACED TO BECOME DISAPPEARED IN THE VOID. SO ITS KING, GLAMES, DECIDES TO TAKE OTHER WORLDS BY FORCE IN ORDER TO KEEP THE INHABITANTS FROM HIS WORLD ALIVE. BUT SOME OF THE DARK WORLD PEOPLE OPPOSE TO THE IDEA OF USING THE FORCE TO TAKE THE WORLDS, SO GLAMES STARTS TO DISPOSE THEM. AS A CONSEQUENCE, A GIRL FROM THE RESISTANCE OF SUCH WORLD, CHAM, DECIDES TO GO TO THE HUMAN WORLD AND SEARCH FOR THE VALIS SWORD TO USE IT AGAINST GLAMES WHO, IN TURN, POSSESES THE COUNTERPART OF THE VALIS SWORD, THE LEETHUS SWORD. AFTER TAKING THE SWORD, CHAM TRIES TO GO BACK TO THE DARK WORLD BUT YUUKO STOPS HER TO FIND OUT WHY SHE WANTS HER SWORD ONLY TO SEE THE GIRL KIDNAPPED BY ONE OF GLAMES'S GENERALS. AFTER YUUKO BEATS HIM, CHAM IS FREED AN TELLS THE VALIS WARRIOR ABOUT THE SITUATION AND THAT VANITY IS BEING INVADED BY GLAMES'S ARMY. WITHOUT WASTING TIME, YUUKO AND CHAM MAKE THEIR WAYS TO THE DREAM WORLD TO SEE IT IN CHAOS DUE TO THE DARK KING'S INTROMISSION AS THEY FIND OUT THAT VALNA HAS BEEN ALSO KIDNAPPED BY OTHER OF THE GENERALS. THE HEROINES MAKE THEIR WAY TO VALNA AND FREED HER. SHE THEN FIGHTS AND BEATS HER CAPTOR, THEN SHE SAYS YUUKO TO GO TO THE TEMPLE WHERE THE WIDSOM MAN, NIZETTI, CAN GIVE HER THE VALIS ARMOR'S ULTIMATE FORM UNLEASHING ALL OF VALIS SWORD'S POWER. MEANWHILE, A STRANGE FIGURE ALLIES WITH GLAMES. THE THREE GIRLS GO THERE PASSING TERRIBLE TESTS AND OBSTACLES FINALLY MEETING WITH NIZETTI WHO WARNS THEM THAT ALTHOUGH HAVING THE SWORD'S FULL POWER, YUUKO MAYBE WON'T WIN AGAINST GLAMES, BUT ASIDE OF ALL NEGATIVE PRONOSTICS, SHE STILL DECIDES TO USE THE POWER. AFTER DOING SO, THEY MAKE THEIR WAY TO THE DARK WORLD TO CONFRONT GLAMES, NOT BEFORE GETTING ONTO THE DEATH WORLD TO FIND AN AWFUL SURPRISE, THE FIGURE THAT ALLIED WITH GLAMES REVEALS ITSELF AS ROGLES, THE ANTAGONIST FROM THE FIRST GAME WHO WAS SUPPOSED TO BE DEAD. HE FIGHTS YUUKO AND GETS DEFFEATED ONCE AGAIN BY HER. THE WAY CONTINUES AS THE PROTAGONIST FIGHT ZALUDE AND ASURA. AFTER HIS DEFEAT, ASURA REPORTS THEM THAT GLAMES ISN'T ON THE DARK WORLD ANYMORE AND THAT HE MADE HIS WAY INTO THE HUMAN WORLD SHOWING THAT HIS GENERALS WERE ONLY MAKING TIME FOR HIM TO APPROACH THERE. YUUKO AND HER ALLIES PART TO THE HUMAN WORLD TO FIND GLAMES'S TOWER, THEY MANAGE TO GET INSIDE AND YUUKO FINALLY FIGHTS HIM. IN THE END, GLAMES EXPRESSES HIS LAST WILL TO HIS OPPONENTS TO MAINTAIN ALIVE THE DARK WORLD'S INHABITANTS AND TO GUARD THE LEETHUS SWORD, HE DIES MINUTES LATER. YUUKO THEN SAYS TO CHAM AND VALNA TO PROTECT THE SURVIVORS AND GOES TO THE SKY WITH THE TWO SWORDS. SHE STAYS THERE GUARDING THE TWO SWORDS...APPARENTLY FOREVER.</desc>
+		<rating>0</rating>
+		<releasedate>19900907T000000</releasedate>
+		<hash>A45BC399</hash>
+		<image>./images/Valis III (USA).png</image>
+		<thumbnail>./boxart/Valis III (USA).png</thumbnail>
+		<marquee>./marquee/Valis III (USA).png</marquee>
+		<video>./snap/Valis III (USA).mp4</video>
+		<developer>Telenet Japan</developer>
+	</game>
+	<game id="107060" source="ScreenScraper.fr">
+		<path>./Vasteel (USA).chd</path>
+		<name>Vasteel</name>
+		<desc>THE EMPEROR IS DEAD. NOW BEGINS THE BLOODIEST CHAPTER IN THE HISTORY OF THE VASTEEL SOLAR SYSTEM! JUMP RIGHT INTO THE ACTION AS YOU CHOOSE TO PLAY AS EITHER FALIAL, THE NEWLY CROWNED EMPEROR, OR HIS BROTHER STEFAN, LEADER OF THE REBEL ARMY. IN ADDITION TO A FIRST-OF-IT'S-KIND ON-LINE GUIDE THAT ACTUALLY SPEAKS TO AID YOU IN YOUR WEAPON'S CHOICE, THERE ARE OVER 70 TYPES OF ARMORED ROBOTS AND TRANSPORTS TO LEAD YOU TO VICTORY. SET UP THE BATTLES ON THE OVERHEAD STRATEGY MAP, THEN GO IN AND DUKE OUT THE ACTUAL FIGHT ARCADE STYLE! VASTEEL ALSO OFFERS THE OPTION OF A 2 PLAYER VS MODE WHERE YOU CAN MATCH WITS AND ARCADE SKILL WITH A FRIEND.</desc>
+		<rating>0</rating>
+		<hash>10CAEB59</hash>
+		<image>./images/Vasteel (USA).png</image>
+		<thumbnail>./boxart/Vasteel (USA).png</thumbnail>
+		<marquee>./marquee/Vasteel (USA).png</marquee>
+		<video>./snap/Vasteel (USA).mp4</video>
+	</game>
+	<game id="14517" source="ScreenScraper.fr">
+		<path>./Wonder Boy III - Monster Lair (USA).chd</path>
+		<name>Wonder Boy III : Monster Lair</name>
+		<desc>FEELING MORE LIKE THE FIRST WONDER BOY THAN THE SECOND, MONSTER LAIR IS A FAST-PACED AUTO SCROLLING PLATFORM GAME. THE LEVELS ARE SPLIT INTO TWO STAGES, THE FIRST BEING A PLATFORM STAGE, THE SECOND A SHOOT 'EM UP STAGE WHICH ENDS IN A BOSS. DURING THE GAME YOUR ENERGY COUNTS DOWN, SO YOU MUST KEEP PICKING UP FRUIT TO REPLENISH YOURSELF. THERE ARE A VARIETY OF WEAPONS TO COLLECT - LASERS, SPREAD SHOTS, SPINNING SHIELDS AND SO ON, BUT THESE ARE ALSO ON A TIMER AND DO NOT LAST LONG, SO WEAPON SWITCHING IS FREQUENT TO AVOID BEING LEFT WITH YOUR BASIC SHORT RANGE SWORD SHOT. THE GAME IS SINGLE OR TWO PLAYER SIMULTANEOUS.</desc>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<hash>5C34EB1D</hash>
+		<image>./images/Wonder Boy III - Monster Lair (USA).png</image>
+		<thumbnail>./boxart/Wonder Boy III - Monster Lair (USA).png</thumbnail>
+		<marquee>./marquee/Wonder Boy III - Monster Lair (USA).png</marquee>
+		<video>./snap/Wonder Boy III - Monster Lair (USA).mp4</video>
+		<developer>Alfa System</developer>
+		<publisher>Hudson Soft</publisher>
+		<players>2</players>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Ys Book I &amp; II - Ancient Ys Vanished (USA).chd</path>
+		<name>Ys Book I &amp; II - Ancient Ys Vanished (USA)</name>
+		<rating>0</rating>
+		<image>./images/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</image>
+		<thumbnail>./boxart/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</thumbnail>
+		<marquee>./marquee/Ys Book I &amp; II - Ancient Ys Vanished (USA).png</marquee>
+		<video>./snap/Ys Book I &amp; II - Ancient Ys Vanished (USA).mp4</video>
+	</game>
+	<game id="14471" source="ScreenScraper.fr">
+		<path>./Ys III - Wanderers from Ys (USA).chd</path>
+		<name>Ys III : Wanderers from Ys</name>
+		<desc>YS III: WANDERERS FROM YS IS A ROLE-PLAYING GAME ON TURBOGRAFX CD. DOGI DECIDES TO RETURN HOME AFTER WORRYING RUMORS RELATED TO HIS VILLAGE. ALWAYS READY TO GO ON AN ADVENTURE, ADOL, HIS FAITHFUL FRIEND, JOINS HIM IN TRYING TO DETERMINE THE CAUSE OF THESE NEW PROBLEMS. THE PLAYER EMBODIES ADOL WHO CAN USE HIS SWORD AND OTHER ITEMS TO GET RID OF HIS MANY ENEMIES.</desc>
+		<rating>0</rating>
+		<releasedate>19910322T000000</releasedate>
+		<hash>F9A08F70</hash>
+		<image>./images/Ys III - Wanderers from Ys (USA).png</image>
+		<thumbnail>./boxart/Ys III - Wanderers from Ys (USA).png</thumbnail>
+		<marquee>./marquee/Ys III - Wanderers from Ys (USA).png</marquee>
+		<video>./snap/Ys III - Wanderers from Ys (USA).mp4</video>
+		<developer>Nihon Falcom</developer>
+		<publisher>Hudson</publisher>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bonk 3 - Bonk's Big Adventure (USA).chd</path>
+		<name>Bonk 3 - Bonk's Big Adventure</name>
+		<desc>BONK IS BACK! AND HE'S BIGGER AND BETTER THAN EVER! USE YOUR HEAD (LITERALLY) TO TRAVERSE 6 WILD LOCATIONS- INCLUDING A FOREST GROVE, AN ANTARTIC ICE PRISON AND MORE! CHOMP ON BLUE MIRACLE CANDY TO GROW TO GIGANTIC PROPORTIONS AND BREAK RIGHT THROUGH LARGE OBSTACLES. CHOMP RED CANDY TO SHRINK TO MICROSCOPIC SIZE AND SLIP RIGHT UNDER NARROW CRACKS TO DISCOVER SECRET ITEMS! CATCH THE MAGIC FLOWER IN EACH STAGE TO BE TRANSPORTED TO A BONUS ROUND- WHERE YOU CAN SCORE MORE POINTS AND EARN BONUS MEN! ON YOUR WAY, YOU WILL DEFEAT MENACING BOSSES THAT INCLUDE ACROBATIC DINOSAUR, A SNEAKY SQUID AND OTHER! ARE YOU READY TO SAVE THE WORLD, LITTLE CAVE DUDE!?</desc>
+		<image>./images/Bonk 3 - Bonk's Big Adventure (USA).png</image>
+		<video>./snap/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<marquee>./marquee/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
+		<thumbnail>./boxart/Bonk 3 - Bonk's Big Adventure (USA).png</thumbnail>
+		<rating>0</rating>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20190304T023049</lastplayed>
+	</game>
+</gameList>

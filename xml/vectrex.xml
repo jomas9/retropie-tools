@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="58812" source="ScreenScraper.fr">
+		<path>./Armor..Attack (World).zip</path>
+		<name>Armor Attack</name>
+		<desc>MANEUVER YOUR JEEP THROUGH THE STREETS AND ALLEYS OF AN OCCUPIED TOWN. HIDE FROM THE ENEMY TANKS BEHIND BUILDINGS AND LAUNCH YOUR OWN SURPRISE ATTACK! IMPROVE YOUR CHANCE OF SURVIVAL BY PLAYING WITH AN ALLEY. BUT BEWARE OF THE DEADLY HELICOPTER FLYING OVERHEAD . . . NO PLACE IS SAFE FROM THIS TREACHEROUS ENEMY.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>B7510971</hash>
+		<image>./images/Armor..Attack (World).png</image>
+		<thumbnail>./boxart/Armor..Attack (World).png</thumbnail>
+		<marquee>./marquee/Armor..Attack (World).png</marquee>
+		<video>./snap/Armor..Attack (World).mp4</video>
+	</game>
+	<game id="58823" source="ScreenScraper.fr">
+		<path>./Bedlam (USA, Europe).zip</path>
+		<name>Bedlam</name>
+		<desc>YOUR HOME GALAXY HAS BEEN INVADED BY ALIEN COLONISTS HOPING TO CLAIM ALL INHABITED WORLDS AS THEIR OWN. UNACCEPTABLE!
+YOU HAVE BEEN GIVEN THE ULTIMATE RESPONSIBILITY OF PROTECTING YOUR GALACTIC NEIGHBORS FROM THE INVADERS. BLASTING THE ALIENS WITH THE AMAZING ANTI-MOLECULAR CANNON TRANSPORTS THEM THOUSANDS OF LIGHT YEARS AWAY WHERE THEY WILL CAUSE NO FURTHER BEDLAM. BUT BEWARE, THE INVADERS WILL BE INCREASINGLY RUTHLESS.
+
+THE FUTURE OF THE GALAXY RESTS ON YOUR SHOULDERS. GOOD LUCK!</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<players>1-2</players>
+		<hash>A2FA649B</hash>
+		<image>./images/Bedlam (USA, Europe).png</image>
+		<thumbnail>./boxart/Bedlam (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Bedlam (USA, Europe).png</marquee>
+		<video>./snap/Bedlam (USA, Europe).mp4</video>
+	</game>
+	<game id="58825" source="ScreenScraper.fr">
+		<path>./Berzerk (World).zip</path>
+		<name>Berzerk</name>
+		<desc>MANEUVER YOUR HUMANOID THROUGH THE ELECTRIFIED MAZES OF ROBOT FILLED ROOMS. YOU MAY KILL THE FIRST GROUP OF ROBOTS BUT INITIAL SUCCESS DOES NOT MEAN SURVIVAL... 
+FUTURE GROUPS BEGIN FIRING AT YOU! ADDED DANGER LURKS WHEN EVIL OTTO ENTERS. HE CAN JUMP THE MAZE WALLS AND SQUASH YOU IF YOU LINGER TOO LONG!</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>EAFE2455</hash>
+		<image>./images/Berzerk (World).png</image>
+		<thumbnail>./boxart/Berzerk (World).png</thumbnail>
+		<marquee>./marquee/Berzerk (World).png</marquee>
+		<video>./snap/Berzerk (World).mp4</video>
+	</game>
+	<game id="58827" source="ScreenScraper.fr">
+		<path>./Blitz! - Action Football (USA, Europe).zip</path>
+		<name>Blitz! Action Football</name>
+		<desc>WILL YOU HAVE A CHAMPIONSHIP SEASON OR JUST BE AN ALSO-RAN?  YOU'RE IN CONTROL AS HEAD COACH OF THIS CHAMPIONSHIP CALIBER SQUAD.  RUN, PASS, PUNT, KICK FIELD GOALS -- ALL THE EXCITEMENT OF A REAL GAME.  PLAY AGAINST THE COMPUTER'S TOUGH DEFENSE OR INVITE A VISITING COACH TO JOIN IN A REAL SHOWDOWN!</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>0F11CE0C</hash>
+		<image>./images/Blitz! - Action Football (USA, Europe).png</image>
+		<thumbnail>./boxart/Blitz! - Action Football (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Blitz! - Action Football (USA, Europe).png</marquee>
+		<video>./snap/Blitz! - Action Football (USA, Europe).mp4</video>
+	</game>
+	<game id="58831" source="ScreenScraper.fr">
+		<path>./Clean Sweep (World).zip</path>
+		<name>Clean Sweep</name>
+		<desc>EVIL BANK ROBBERS HAVE JUST BLOWN YOUR BANK TO SMITHEREENS. AS BANK PRESIDENT, YOU ONLY HAVE A VACUUM AVAILABLE TO RECOVER THE MONEY STREWN AMONG THE RUBBLE, BEFORE THE THIEVES DESTROY YOU! THE THIEVES GET INCREASINGLY ANXIOUS, BUT FOR ADDED CHALLENGE, TURN OFF THE LIGHTS OF THE BANK'S CORRIDORS AND GATHER THE MONEY THROUGH A BLIND MAZE.</desc>
+		<rating>0.55</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>F1B1DE78</hash>
+		<image>./images/Clean Sweep (World).png</image>
+		<thumbnail>./boxart/Clean Sweep (World).png</thumbnail>
+		<marquee>./marquee/Clean Sweep (World).png</marquee>
+		<video>./snap/Clean Sweep (World).mp4</video>
+	</game>
+	<game id="58834" source="ScreenScraper.fr">
+		<path>./Cosmic Chasm (World).zip</path>
+		<name>Cosmic Chasm</name>
+		<desc>CAN YOU SAVE THE GALAXY BY BLOWING UP THE ALIEN-INHABITED PLANET ... AND GET OFF THE PLANET BEFORE YOU EXPLODE TOO? YOU MUST BURROW DEEP INSIDE, FINDING YOUR WAY THROUGH THE UNDERGROUND MAZE WHILE BATTLING THE PLANET PROTECTORS. IF YOU CAN GET TO THE CENTER, PLANT YOUR ONE BOMB AND TRY TO FIND YOUR WAY OUT. IT'S ONLY A MATTER OF SECONDS BEFORE THE PLANET GOES BOOM!</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<players>1-2</players>
+		<hash>6C1AFA52</hash>
+		<image>./images/Cosmic Chasm (World).png</image>
+		<thumbnail>./boxart/Cosmic Chasm (World).png</thumbnail>
+		<marquee>./marquee/Cosmic Chasm (World).png</marquee>
+		<video>./snap/Cosmic Chasm (World).mp4</video>
+	</game>
+	<game id="58844" source="ScreenScraper.fr">
+		<path>./Fortress of Narzod (USA, Europe).zip</path>
+		<name>Fortress of Narzod</name>
+		<desc>A LONG TIME AGO, BEFORE OUR HISTORY BEGAN, WIZARDS - BOTH GOOD AND EVIL - BATTLED FOR SUPREMACY OF THE EARTH. IT WAS A TIME OF MAGIC AND ADVENTURE WHEN ALL MEN POSSESSED SPECIAL POWERS.
+THE MOST EVIL WIZARD, NARZOD, GAINED THE POWER TO ENSLAVE ALL MANKIND. YOU ARE THE ONLY REMAINING HONORABLE WIZARD WITH THE KNOWLEDGE TO HARNESS ALL THE FORCES OF GOOD TO DEFEAT NARZOD AND DESTROY HIS SINISTER FORTRESS. BUT NARZOD HAS PREPARED FOR YOUR APPROACH AND GUARDS HIS REALM WITH DEADLY CREATURES OF DARKNESS, INCLUDING THE MYSTIC HURLER. BEWARE, AND APPROACH THE FORTRESS OF NARZOD WITH GREAT CAUTION!</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>13A35C8A</hash>
+		<image>./images/Fortress of Narzod (USA, Europe).png</image>
+		<thumbnail>./boxart/Fortress of Narzod (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Fortress of Narzod (USA, Europe).png</marquee>
+		<video>./snap/Fortress of Narzod (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58850" source="ScreenScraper.fr">
+		<path>./Heads-Up - Action Soccer (USA).zip</path>
+		<name>Heads Up: Action Soccer</name>
+		<desc>TAKE THE ULTIMATE SOCCER CHALLENGE... WITHOUT EVER LEAVING YOUR SEAT! PLAY WITH A FRIEND OR TACKLE THE COMPUTER ITSELF IN AN ACTION-PACKED SOCCER GAME THAT TAKES ALL THE CONCENTRATION, STRATEGY AND SPLIT-SECOND REACTIONS OF THE REAL THING! YOU'RE IN CONTROL AS THE REALISTIC, DIMENSIONAL PLAYERS GET THE BALL DOWN THE FIELD BY PASSING, BOUNCING AND KICKING IT BACK AND FORTH TO ONE ANOTHER - JUST LIKE A REAL SOCCER GAME!
+HEADS-UP! AND GET READY FOR AN EXCITING AND DEMANDING SOCCER TOURNAMENT... COMPLETE WITH THE ROAR OF THE CROWD!</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<players>1-2</players>
+		<hash>E61A7DE3</hash>
+		<image>./images/Heads-Up - Action Soccer (USA).png</image>
+		<thumbnail>./boxart/Heads-Up - Action Soccer (USA).png</thumbnail>
+		<marquee>./marquee/Heads-Up - Action Soccer (USA).png</marquee>
+		<video>./snap/Heads-Up - Action Soccer (USA).mp4</video>
+	</game>
+	<game id="58851" source="ScreenScraper.fr">
+		<path>./HyperChase - Auto Race (World).zip</path>
+		<name>Hyperchase</name>
+		<desc>WATCH OUR FOR THE GUARDRAIL! YOU'RE BEHIND THE WHEEL OF YOUR FORMULA ONE RACER ABOUT TO START THE WORLD'S TOUGHEST GRAND PRIX. TRY TO STAY ALIVE THROUGH CITY STREETS AND COUNTRY ROADS. START YOUR ENGINE - THE START LIGHTS ARE COUNTING DOWN!</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>4BB13472</hash>
+		<image>./images/HyperChase - Auto Race (World).png</image>
+		<thumbnail>./boxart/HyperChase - Auto Race (World).png</thumbnail>
+		<marquee>./marquee/HyperChase - Auto Race (World).png</marquee>
+		<video>./snap/HyperChase - Auto Race (World).mp4</video>
+	</game>
+	<game id="58865" source="ScreenScraper.fr">
+		<path>./Mine Storm II (USA) (Rev 2).zip</path>
+		<name>Mine Storm II</name>
+		<desc>MINE STORM IS THE BUILT-IN GAME THAT CAME WITH EVERY VECTREX UNIT. IT WAS ALSO RELEASED IN A 3-D VERSION THAT REQUIRED THE USE OF THE VECTREX 3D IMAGER AND MINE STORM 2 IS A DEBUGGED VERSION OF MINE STORM.
+
+ONE OF THE BUILT-IN VERSIONS OF MINE STORM HAD A GLITCH THAT MADE THE GAME CRASH AT LEVEL 13, SO GCE DECIDED TO SEND A COPY OF MINE STORM 2 TO GAMERS THAT WROTE TO THE COMPANY AND COMPLAINED.
+
+THIS GAME IS RARE, BECAUSE MOST OF THE GAMERS DIDN'T KNOW ABOUT THE OFFER, AND ALSO BECAUSE NOT MANY GAMERS GOT TO LEVEL 13.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>F5B3B374</hash>
+		<image>./images/Mine Storm II (USA) (Rev 2).png</image>
+		<thumbnail>./boxart/Mine Storm II (USA) (Rev 2).png</thumbnail>
+		<marquee>./marquee/Mine Storm II (USA) (Rev 2).png</marquee>
+		<video>./snap/Mine Storm II (USA) (Rev 2).mp4</video>
+	</game>
+	<game id="58864" source="ScreenScraper.fr">
+		<path>./Mine Storm (World).zip</path>
+		<name>Mine Storm</name>
+		<desc>THE GAME BEGINS WITH A LARGE ENEMY SHIP DROPPING MINES ONTO THE FIELD AS AN OMINOUS JINGLE PLAYS, AND MOVES FROM THE TOP TO THE BOTTOM OF THE SCREEN, WHERE IT DISAPPEARS. THE PLAYER'S SHIP STARTS IN THE MIDDLE OF THE FIELD WITH 5 LIVES. NUMEROUS MINES THEN START POPPING UP. THE PLAYER MUST DESTROY ALL OF THE MINES IN ORDER TO PROGRESS TO THE NEXT MINEFIELD. ALL OF THE MINES CAN BE DESTROYED WITH ONE SHOT, OR HIT WITH THE PLAYER'S SHIP, COSTING THE PLAYER A LIFE. THERE ARE 4 TYPES OF MINES.
+THIS GAME CAME PROGRAMMED ONTO THE VECTREX.</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>6D509566</hash>
+		<image>./images/Mine Storm (World).png</image>
+		<thumbnail>./boxart/Mine Storm (World).png</thumbnail>
+		<marquee>./marquee/Mine Storm (World).png</marquee>
+		<video>./snap/Mine Storm (World).mp4</video>
+	</game>
+	<game id="58878" source="ScreenScraper.fr">
+		<path>./Polar Rescue (USA).zip</path>
+		<name>Polar Rescue</name>
+		<desc>JOURNEY TO THE ICY WATERS BENEATH THE NORTH POLE. AS COMMANDER OF A POWERFUL AND HIGHLY MANEUVERABLE SUBMARINE, YOU MUST RESCUE THE SURVIVORS OF AN ILL-FATED EXPEDITION.
+SEEK OUT THE SURVIVORS ON YOUR SONAR SCREEN AND PILOT YOUR SUB TO THEIR RESCUE! TO COMPLETE YOUR MISSION, YOU MUST AVOID DEADLY MINE FIELDS, ENEMY SUBMARINES AND THE TERROR OF THE MAELSTROM! MONITOR YOUR OXYGEN SUPPLY CAREFULLY AND HURRY! LIVES ARE AT STAKE!</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>A7471784</hash>
+		<image>./images/Polar Rescue (USA).png</image>
+		<thumbnail>./boxart/Polar Rescue (USA).png</thumbnail>
+		<marquee>./marquee/Polar Rescue (USA).png</marquee>
+		<video>./snap/Polar Rescue (USA).mp4</video>
+	</game>
+	<game id="58879" source="ScreenScraper.fr">
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<desc>THE SPECTACULAR ARCADE GAME, POLE POSITION, TAKES ON AN EXCITING NEW LOOK THROUGH THE MAGIC OF VECTREX! EXPERIENCE ALL THE CHALLENGE OF A GRAND PRIX RACING EVENT WITH NON-STOP ACTION THAT'LL LEAVE YOU BREATHLESS!
+DO YOU POSSESS THE SKILL, DEXTERITY AND COURAGE TO PULL OUT FROM THE CROWD FOR QUALIFICATION IN ONE OF THE EXCLUSIVE STARTING POSITIONS... OR WILL YOU END UP AS AN ALSO RAN?</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<players>1</players>
+		<hash>A00ED3D6</hash>
+		<image>./images/Pole Position (USA).png</image>
+		<thumbnail>./boxart/Pole Position (USA).png</thumbnail>
+		<marquee>./marquee/Pole Position (USA).png</marquee>
+		<video>./snap/Pole Position (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58884" source="ScreenScraper.fr">
+		<path>./Rip Off (World).zip</path>
+		<name>Rip-Off</name>
+		<desc>BEWARE OF SCAVENGING PIRATES TRYING TO STEAL YOUR PRECIOUS FUEL CELLS! THE MORE PIRATES YOU DESTROY, THE FASTER THEIR SUCCESSORS BECOME. GUARD YOUR TANKS CAREFULLY... YOU ARE ALWAYS OUTNUMBERED!</desc>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>34A98132</hash>
+		<image>./images/Rip Off (World).png</image>
+		<thumbnail>./boxart/Rip Off (World).png</thumbnail>
+		<marquee>./marquee/Rip Off (World).png</marquee>
+		<video>./snap/Rip Off (World).mp4</video>
+	</game>
+	<game id="58895" source="ScreenScraper.fr">
+		<path>./Scramble (USA, Europe).zip</path>
+		<name>Scramble</name>
+		<desc>WATCH OUT FOR THAT NEXT MOUNTAIN! MANEUVER YOUR SHIP OVER A ROUGH TERRAIN IN AN EFFORT TO DESTROY THE ENEMY BASE. CAREFUL PILOTING ALONE WON'T GET YOU TO YOUR DESTINATION... YOU MUST BRAVE ROCKETS, UFOS, FLAMOIDS AND SOME VERY TIGHT TUNNELS. FEW PEOPLE HAVE EVER SEEN THE ENEMY BASE, LET ALONE DESTROY IT. WILL YOU BE ONE OF THE SELECT FEW?</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>707C8FFE</hash>
+		<image>./images/Scramble (USA, Europe).png</image>
+		<thumbnail>./boxart/Scramble (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Scramble (USA, Europe).png</marquee>
+		<video>./snap/Scramble (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58896" source="ScreenScraper.fr">
+		<path>./Solar Quest (World).zip</path>
+		<name>Solar Quest</name>
+		<desc>HOW MANY TYPES OF ALIEN VESSELS WILL YOU BE ABLE TO DESTROY? SEVEN DIFFERENT TYPES ARE AFTER YOU. YOU MUST FIRST DESTROY THEM AND THEN ATTEMPT TO RESCUE THE SURVIVORS BEFORE THAT FLOAT INTO THE SUN. DON'T GET YOUR SHIP TOO CLOSE TO THE SUN... ITS HIGH TEMPERATURES CAN DESTROY YOU.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>5C4611C8</hash>
+		<image>./images/Solar Quest (World).png</image>
+		<thumbnail>./boxart/Solar Quest (World).png</thumbnail>
+		<marquee>./marquee/Solar Quest (World).png</marquee>
+		<video>./snap/Solar Quest (World).mp4</video>
+	</game>
+	<game id="58943" source="ScreenScraper.fr">
+		<path>./Space Wars (World).zip</path>
+		<name>Space Wars</name>
+		<desc>WHO SAYS THERE ARE NO RULES IN INTERGALACTIC WARFARE. PICK YOUR OWN - BOUNCE, EXPANDED UNIVERSE, BLACK HOLE - AS YOU EMBARK ON A DEADLY DOGFIGHT.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>A3BE5AFF</hash>
+		<image>./images/Space Wars (World).png</image>
+		<thumbnail>./boxart/Space Wars (World).png</thumbnail>
+		<marquee>./marquee/Space Wars (World).png</marquee>
+		<video>./snap/Space Wars (World).mp4</video>
+	</game>
+	<game id="58945" source="ScreenScraper.fr">
+		<path>./Spike (USA, Europe).zip</path>
+		<name>Spike</name>
+		<desc>THE DASTARDLY VILLAIN, SPUD, HAS KIDNAPPED OUR HEROINE, THE LOVELY AND OH SO INNOCENT, MOLLY, AND TAKEN HER FAR AWAY TO HIS SECRET HIDEOUT. "EEK! HELP, SPIKE!"
+SPIKE, OUR COURAGEOUS HERO AND MOLLY'S TRUE LOVE, RACES TO HER RESCUE. HE'LL BE RELYING ON YOUR SKILLS AND SPLIT-SECOND TIMING TO HELP HIM IN HIS QUEST TO SAVE POOR MOLLY. MANEUVER SPIKE THROUGH TREACHEROUS OBSTACLES AND AVOID THE DANGEROUS CREATURES ALONG THE WAY TO SPUD'S HIDEOUT. IF YOU'RE SUCCESSFUL, SPIKE CAN RESCUE MOLLY AND THE TWO WILL LIVE HAPPILY EVER AFTER - THAT IS UNTIL SPUD STRIKES AGAIN. "OH. NO!"</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>62A61843</hash>
+		<image>./images/Spike (USA, Europe).png</image>
+		<thumbnail>./boxart/Spike (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Spike (USA, Europe).png</marquee>
+		<video>./snap/Spike (USA, Europe).mp4</video>
+	</game>
+	<game id="58951" source="ScreenScraper.fr">
+		<path>./Spin ball (USA).zip</path>
+		<name>Spin Ball</name>
+		<desc>GET READY FOR EVEN MORE EXCITEMENT AND SPLIT-SECOND ACTION THAN TRADITIONAL ARCADE PINBALL. SPINBALL'S SPECIAL FEATURES LIKE A BALL SPLITTER, DROP TARGETS AND BALL SAVERS WILL GIVE YOU THE ULTIMATE PINBALL CHALLENGE. IT EVEN TILTS!
+SPINBALL'S ACTION MOVES FAST AND FURIOUS. YOU'LL NEED YOUR SHARPEST REFLEXES TO KEEP THE BALL IN PLAY AND RACK UP BONUS POINTS.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>02F41733</hash>
+		<image>./images/Spin ball (USA).png</image>
+		<thumbnail>./boxart/Spin ball (USA).png</thumbnail>
+		<marquee>./marquee/Spin ball (USA).png</marquee>
+		<video>./snap/Spin ball (USA).mp4</video>
+	</game>
+	<game id="58952" source="ScreenScraper.fr">
+		<path>./Star Castle (USA).zip</path>
+		<name>Star Castle</name>
+		<desc>YOU AND OTHER EXPERIENCED INTERGALACTIC VOYAGERS HAVE HEARD ABOUT AND SHARED THE LEGEND OF STAR CASTLE - A MYSTERIOUS FORTRESS IN A FAR AWAY GALAXY FILLED WITH INCREDIBLE RICHES AND SURROUNDED BY REVOLVING WALLS OF SHIMMERING SOLID GOLD. YET NO ONE, UNTIL NOW, HAS EVER ACTUALLY SEEN THE CASTLE - OR LIVED TO TELL ABOUT IT!
+AS YOU APPROACH, YOU ARE OVERWHELMED WITH THE BEAUTY OF THE CASTLE BUT YOU SUDDENLY REALIZE THAT THE GOLDEN WALLS HIDE A DEADLY ARSENAL. TO SURVIVE YOU MUST DESTROY THE WALLS AND THE POWERFUL ENERGY CANNON THEY SHIELD. PERHAPS YOU WILL BE THE FIRST TO SURVIVE THE STAR CASTLE'S ARSENAL AND PROVE THE LEGEND TRUE. PERHAPS NOT!</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>C9039623</hash>
+		<image>./images/Star Castle (USA).png</image>
+		<thumbnail>./boxart/Star Castle (USA).png</thumbnail>
+		<marquee>./marquee/Star Castle (USA).png</marquee>
+		<video>./snap/Star Castle (USA).mp4</video>
+	</game>
+	<game id="58958" source="ScreenScraper.fr">
+		<path>./StarHawk (World).zip</path>
+		<name>Star Hawk</name>
+		<desc>FASTEN YOUR SEATBELT... YOU'RE THE PILOT DEFENDING THE SOVEREIGNTY OF YOUR PLANET. DON'T BLINK - YOU MIGHT MISS ONE OF THE ALIEN VESSELS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>4DE1F06B</hash>
+		<image>./images/StarHawk (World).png</image>
+		<thumbnail>./boxart/StarHawk (World).png</thumbnail>
+		<marquee>./marquee/StarHawk (World).png</marquee>
+		<video>./snap/StarHawk (World).mp4</video>
+	</game>
+	<game id="58956" source="ScreenScraper.fr">
+		<path>./Star Trek - The Motion Picture (USA).zip</path>
+		<name>Star Trek: The Motion Picture</name>
+		<desc>WELCOME, CAPTAIN KIRK, TO YOUR COMMAND ON THE STARSHIP ENTERPRISE. YOUR MISSION IS TO SEEK OUT AND DESTROY THE ENEMY KLINGON MOTHERSHIP. TRAVEL THROUGH NINE SECTORS OF SPACE, EACH MORE DIFFICULT, OR TAKE A SHORTCUT THROUGH THE BLACK HOLE. BE CAREFUL ... THE KLINGONS AND ROMULANS ARE HIDING IN SPACE, WAITING TO DESTROY YOU AT EVERY TURN!</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>3768D8C3</hash>
+		<image>./images/Star Trek - The Motion Picture (USA).png</image>
+		<thumbnail>./boxart/Star Trek - The Motion Picture (USA).png</thumbnail>
+		<marquee>./marquee/Star Trek - The Motion Picture (USA).png</marquee>
+		<video>./snap/Star Trek - The Motion Picture (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58994" source="ScreenScraper.fr">
+		<path>./WebWars (USA).zip</path>
+		<name>Web Wars</name>
+		<desc>ENTER A GALAXY OF THE FUTURE FILLED WITH ADVENTURE AND DANGER - A GALAXY UNLIKE ANY YOU HAVE IMAGINED BEFORE.
+YOU BECOME THE HAWK KING - A CREATURE CAPABLE OF INCREDIBLE SPEED AND POWER - AS YOU ATTEMPT TO CAPTURE THE AMAZING CREATURES THAT INHABIT THE SPEEDING WEB OF FANTASY. ALL 20 CREATURES ARE PROTECTED BY GUARDIANS AND THE DREADED COSMIC DRAGON AND EACH WILL BECOME PROGRESSIVELY MORE DIFFICULT TO CAPTURE. NO ONE HAS EVER CAPTURED THE ELUSIVE TWENTIETH CREATURE. WILL YOU?</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>2EE20103</hash>
+		<image>./images/WebWars (USA).png</image>
+		<thumbnail>./boxart/WebWars (USA).png</thumbnail>
+		<marquee>./marquee/WebWars (USA).png</marquee>
+		<video>./snap/WebWars (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58945" source="ScreenScraper.fr">
+		<path>./Spike (USA, Europe).zip</path>
+		<name>Spike</name>
+		<desc>THE DASTARDLY VILLAIN, SPUD, HAS KIDNAPPED OUR HEROINE, THE LOVELY AND OH SO INNOCENT, MOLLY, AND TAKEN HER FAR AWAY TO HIS SECRET HIDEOUT. "EEK! HELP, SPIKE!"
+SPIKE, OUR COURAGEOUS HERO AND MOLLY'S TRUE LOVE, RACES TO HER RESCUE. HE'LL BE RELYING ON YOUR SKILLS AND SPLIT-SECOND TIMING TO HELP HIM IN HIS QUEST TO SAVE POOR MOLLY. MANEUVER SPIKE THROUGH TREACHEROUS OBSTACLES AND AVOID THE DANGEROUS CREATURES ALONG THE WAY TO SPUD'S HIDEOUT. IF YOU'RE SUCCESSFUL, SPIKE CAN RESCUE MOLLY AND THE TWO WILL LIVE HAPPILY EVER AFTER - THAT IS UNTIL SPUD STRIKES AGAIN. "OH. NO!"</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>62A61843</hash>
+		<image>./images/Spike (USA, Europe).png</image>
+		<thumbnail>./boxart/Spike (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Spike (USA, Europe).png</marquee>
+		<video>./snap/Spike (USA, Europe).mp4</video>
+	</game>
+	<game id="58850" source="ScreenScraper.fr">
+		<path>./Heads-Up - Action Soccer (USA).zip</path>
+		<name>Heads Up: Action Soccer</name>
+		<desc>TAKE THE ULTIMATE SOCCER CHALLENGE... WITHOUT EVER LEAVING YOUR SEAT! PLAY WITH A FRIEND OR TACKLE THE COMPUTER ITSELF IN AN ACTION-PACKED SOCCER GAME THAT TAKES ALL THE CONCENTRATION, STRATEGY AND SPLIT-SECOND REACTIONS OF THE REAL THING! YOU'RE IN CONTROL AS THE REALISTIC, DIMENSIONAL PLAYERS GET THE BALL DOWN THE FIELD BY PASSING, BOUNCING AND KICKING IT BACK AND FORTH TO ONE ANOTHER - JUST LIKE A REAL SOCCER GAME!
+HEADS-UP! AND GET READY FOR AN EXCITING AND DEMANDING SOCCER TOURNAMENT... COMPLETE WITH THE ROAR OF THE CROWD!</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<players>1-2</players>
+		<hash>E61A7DE3</hash>
+		<image>./images/Heads-Up - Action Soccer (USA).png</image>
+		<thumbnail>./boxart/Heads-Up - Action Soccer (USA).png</thumbnail>
+		<marquee>./marquee/Heads-Up - Action Soccer (USA).png</marquee>
+		<video>./snap/Heads-Up - Action Soccer (USA).mp4</video>
+	</game>
+	<game id="58952" source="ScreenScraper.fr">
+		<path>./Star Castle (USA).zip</path>
+		<name>Star Castle</name>
+		<desc>YOU AND OTHER EXPERIENCED INTERGALACTIC VOYAGERS HAVE HEARD ABOUT AND SHARED THE LEGEND OF STAR CASTLE - A MYSTERIOUS FORTRESS IN A FAR AWAY GALAXY FILLED WITH INCREDIBLE RICHES AND SURROUNDED BY REVOLVING WALLS OF SHIMMERING SOLID GOLD. YET NO ONE, UNTIL NOW, HAS EVER ACTUALLY SEEN THE CASTLE - OR LIVED TO TELL ABOUT IT!
+AS YOU APPROACH, YOU ARE OVERWHELMED WITH THE BEAUTY OF THE CASTLE BUT YOU SUDDENLY REALIZE THAT THE GOLDEN WALLS HIDE A DEADLY ARSENAL. TO SURVIVE YOU MUST DESTROY THE WALLS AND THE POWERFUL ENERGY CANNON THEY SHIELD. PERHAPS YOU WILL BE THE FIRST TO SURVIVE THE STAR CASTLE'S ARSENAL AND PROVE THE LEGEND TRUE. PERHAPS NOT!</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>C9039623</hash>
+		<image>./images/Star Castle (USA).png</image>
+		<thumbnail>./boxart/Star Castle (USA).png</thumbnail>
+		<marquee>./marquee/Star Castle (USA).png</marquee>
+		<video>./snap/Star Castle (USA).mp4</video>
+	</game>
+	<game id="58994" source="ScreenScraper.fr">
+		<path>./WebWars (USA).zip</path>
+		<name>Web Wars</name>
+		<desc>ENTER A GALAXY OF THE FUTURE FILLED WITH ADVENTURE AND DANGER - A GALAXY UNLIKE ANY YOU HAVE IMAGINED BEFORE.
+YOU BECOME THE HAWK KING - A CREATURE CAPABLE OF INCREDIBLE SPEED AND POWER - AS YOU ATTEMPT TO CAPTURE THE AMAZING CREATURES THAT INHABIT THE SPEEDING WEB OF FANTASY. ALL 20 CREATURES ARE PROTECTED BY GUARDIANS AND THE DREADED COSMIC DRAGON AND EACH WILL BECOME PROGRESSIVELY MORE DIFFICULT TO CAPTURE. NO ONE HAS EVER CAPTURED THE ELUSIVE TWENTIETH CREATURE. WILL YOU?</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>2EE20103</hash>
+		<image>./images/WebWars (USA).png</image>
+		<thumbnail>./boxart/WebWars (USA).png</thumbnail>
+		<marquee>./marquee/WebWars (USA).png</marquee>
+		<video>./snap/WebWars (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58834" source="ScreenScraper.fr">
+		<path>./Cosmic Chasm (World).zip</path>
+		<name>Cosmic Chasm</name>
+		<desc>CAN YOU SAVE THE GALAXY BY BLOWING UP THE ALIEN-INHABITED PLANET ... AND GET OFF THE PLANET BEFORE YOU EXPLODE TOO? YOU MUST BURROW DEEP INSIDE, FINDING YOUR WAY THROUGH THE UNDERGROUND MAZE WHILE BATTLING THE PLANET PROTECTORS. IF YOU CAN GET TO THE CENTER, PLANT YOUR ONE BOMB AND TRY TO FIND YOUR WAY OUT. IT'S ONLY A MATTER OF SECONDS BEFORE THE PLANET GOES BOOM!</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<players>1-2</players>
+		<hash>6C1AFA52</hash>
+		<image>./images/Cosmic Chasm (World).png</image>
+		<thumbnail>./boxart/Cosmic Chasm (World).png</thumbnail>
+		<marquee>./marquee/Cosmic Chasm (World).png</marquee>
+		<video>./snap/Cosmic Chasm (World).mp4</video>
+	</game>
+	<game id="58844" source="ScreenScraper.fr">
+		<path>./Fortress of Narzod (USA, Europe).zip</path>
+		<name>Fortress of Narzod</name>
+		<desc>A LONG TIME AGO, BEFORE OUR HISTORY BEGAN, WIZARDS - BOTH GOOD AND EVIL - BATTLED FOR SUPREMACY OF THE EARTH. IT WAS A TIME OF MAGIC AND ADVENTURE WHEN ALL MEN POSSESSED SPECIAL POWERS.
+THE MOST EVIL WIZARD, NARZOD, GAINED THE POWER TO ENSLAVE ALL MANKIND. YOU ARE THE ONLY REMAINING HONORABLE WIZARD WITH THE KNOWLEDGE TO HARNESS ALL THE FORCES OF GOOD TO DEFEAT NARZOD AND DESTROY HIS SINISTER FORTRESS. BUT NARZOD HAS PREPARED FOR YOUR APPROACH AND GUARDS HIS REALM WITH DEADLY CREATURES OF DARKNESS, INCLUDING THE MYSTIC HURLER. BEWARE, AND APPROACH THE FORTRESS OF NARZOD WITH GREAT CAUTION!</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>13A35C8A</hash>
+		<image>./images/Fortress of Narzod (USA, Europe).png</image>
+		<thumbnail>./boxart/Fortress of Narzod (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Fortress of Narzod (USA, Europe).png</marquee>
+		<video>./snap/Fortress of Narzod (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58823" source="ScreenScraper.fr">
+		<path>./Bedlam (USA, Europe).zip</path>
+		<name>Bedlam</name>
+		<desc>YOUR HOME GALAXY HAS BEEN INVADED BY ALIEN COLONISTS HOPING TO CLAIM ALL INHABITED WORLDS AS THEIR OWN. UNACCEPTABLE!
+YOU HAVE BEEN GIVEN THE ULTIMATE RESPONSIBILITY OF PROTECTING YOUR GALACTIC NEIGHBORS FROM THE INVADERS. BLASTING THE ALIENS WITH THE AMAZING ANTI-MOLECULAR CANNON TRANSPORTS THEM THOUSANDS OF LIGHT YEARS AWAY WHERE THEY WILL CAUSE NO FURTHER BEDLAM. BUT BEWARE, THE INVADERS WILL BE INCREASINGLY RUTHLESS.
+
+THE FUTURE OF THE GALAXY RESTS ON YOUR SHOULDERS. GOOD LUCK!</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<players>1-2</players>
+		<hash>A2FA649B</hash>
+		<image>./images/Bedlam (USA, Europe).png</image>
+		<thumbnail>./boxart/Bedlam (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Bedlam (USA, Europe).png</marquee>
+		<video>./snap/Bedlam (USA, Europe).mp4</video>
+	</game>
+	<game id="58864" source="ScreenScraper.fr">
+		<path>./Mine Storm (World).zip</path>
+		<name>Mine Storm</name>
+		<desc>THE GAME BEGINS WITH A LARGE ENEMY SHIP DROPPING MINES ONTO THE FIELD AS AN OMINOUS JINGLE PLAYS, AND MOVES FROM THE TOP TO THE BOTTOM OF THE SCREEN, WHERE IT DISAPPEARS. THE PLAYER'S SHIP STARTS IN THE MIDDLE OF THE FIELD WITH 5 LIVES. NUMEROUS MINES THEN START POPPING UP. THE PLAYER MUST DESTROY ALL OF THE MINES IN ORDER TO PROGRESS TO THE NEXT MINEFIELD. ALL OF THE MINES CAN BE DESTROYED WITH ONE SHOT, OR HIT WITH THE PLAYER'S SHIP, COSTING THE PLAYER A LIFE. THERE ARE 4 TYPES OF MINES.
+THIS GAME CAME PROGRAMMED ONTO THE VECTREX.</desc>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>6D509566</hash>
+		<image>./images/Mine Storm (World).png</image>
+		<thumbnail>./boxart/Mine Storm (World).png</thumbnail>
+		<marquee>./marquee/Mine Storm (World).png</marquee>
+		<video>./snap/Mine Storm (World).mp4</video>
+	</game>
+	<game id="58878" source="ScreenScraper.fr">
+		<path>./Polar Rescue (USA).zip</path>
+		<name>Polar Rescue</name>
+		<desc>JOURNEY TO THE ICY WATERS BENEATH THE NORTH POLE. AS COMMANDER OF A POWERFUL AND HIGHLY MANEUVERABLE SUBMARINE, YOU MUST RESCUE THE SURVIVORS OF AN ILL-FATED EXPEDITION.
+SEEK OUT THE SURVIVORS ON YOUR SONAR SCREEN AND PILOT YOUR SUB TO THEIR RESCUE! TO COMPLETE YOUR MISSION, YOU MUST AVOID DEADLY MINE FIELDS, ENEMY SUBMARINES AND THE TERROR OF THE MAELSTROM! MONITOR YOUR OXYGEN SUPPLY CAREFULLY AND HURRY! LIVES ARE AT STAKE!</desc>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>A7471784</hash>
+		<image>./images/Polar Rescue (USA).png</image>
+		<thumbnail>./boxart/Polar Rescue (USA).png</thumbnail>
+		<marquee>./marquee/Polar Rescue (USA).png</marquee>
+		<video>./snap/Polar Rescue (USA).mp4</video>
+	</game>
+	<game id="58825" source="ScreenScraper.fr">
+		<path>./Berzerk (World).zip</path>
+		<name>Berzerk</name>
+		<desc>MANEUVER YOUR HUMANOID THROUGH THE ELECTRIFIED MAZES OF ROBOT FILLED ROOMS. YOU MAY KILL THE FIRST GROUP OF ROBOTS BUT INITIAL SUCCESS DOES NOT MEAN SURVIVAL... 
+FUTURE GROUPS BEGIN FIRING AT YOU! ADDED DANGER LURKS WHEN EVIL OTTO ENTERS. HE CAN JUMP THE MAZE WALLS AND SQUASH YOU IF YOU LINGER TOO LONG!</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>EAFE2455</hash>
+		<image>./images/Berzerk (World).png</image>
+		<thumbnail>./boxart/Berzerk (World).png</thumbnail>
+		<marquee>./marquee/Berzerk (World).png</marquee>
+		<video>./snap/Berzerk (World).mp4</video>
+	</game>
+	<game id="58958" source="ScreenScraper.fr">
+		<path>./StarHawk (World).zip</path>
+		<name>Star Hawk</name>
+		<desc>FASTEN YOUR SEATBELT... YOU'RE THE PILOT DEFENDING THE SOVEREIGNTY OF YOUR PLANET. DON'T BLINK - YOU MIGHT MISS ONE OF THE ALIEN VESSELS.</desc>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>4DE1F06B</hash>
+		<image>./images/StarHawk (World).png</image>
+		<thumbnail>./boxart/StarHawk (World).png</thumbnail>
+		<marquee>./marquee/StarHawk (World).png</marquee>
+		<video>./snap/StarHawk (World).mp4</video>
+	</game>
+	<game id="58884" source="ScreenScraper.fr">
+		<path>./Rip Off (World).zip</path>
+		<name>Rip-Off</name>
+		<desc>BEWARE OF SCAVENGING PIRATES TRYING TO STEAL YOUR PRECIOUS FUEL CELLS! THE MORE PIRATES YOU DESTROY, THE FASTER THEIR SUCCESSORS BECOME. GUARD YOUR TANKS CAREFULLY... YOU ARE ALWAYS OUTNUMBERED!</desc>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>34A98132</hash>
+		<image>./images/Rip Off (World).png</image>
+		<thumbnail>./boxart/Rip Off (World).png</thumbnail>
+		<marquee>./marquee/Rip Off (World).png</marquee>
+		<video>./snap/Rip Off (World).mp4</video>
+	</game>
+	<game id="58831" source="ScreenScraper.fr">
+		<path>./Clean Sweep (World).zip</path>
+		<name>Clean Sweep</name>
+		<desc>EVIL BANK ROBBERS HAVE JUST BLOWN YOUR BANK TO SMITHEREENS. AS BANK PRESIDENT, YOU ONLY HAVE A VACUUM AVAILABLE TO RECOVER THE MONEY STREWN AMONG THE RUBBLE, BEFORE THE THIEVES DESTROY YOU! THE THIEVES GET INCREASINGLY ANXIOUS, BUT FOR ADDED CHALLENGE, TURN OFF THE LIGHTS OF THE BANK'S CORRIDORS AND GATHER THE MONEY THROUGH A BLIND MAZE.</desc>
+		<rating>0.55</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>F1B1DE78</hash>
+		<image>./images/Clean Sweep (World).png</image>
+		<thumbnail>./boxart/Clean Sweep (World).png</thumbnail>
+		<marquee>./marquee/Clean Sweep (World).png</marquee>
+		<video>./snap/Clean Sweep (World).mp4</video>
+	</game>
+	<game id="58812" source="ScreenScraper.fr">
+		<path>./Armor..Attack (World).zip</path>
+		<name>Armor Attack</name>
+		<desc>MANEUVER YOUR JEEP THROUGH THE STREETS AND ALLEYS OF AN OCCUPIED TOWN. HIDE FROM THE ENEMY TANKS BEHIND BUILDINGS AND LAUNCH YOUR OWN SURPRISE ATTACK! IMPROVE YOUR CHANCE OF SURVIVAL BY PLAYING WITH AN ALLEY. BUT BEWARE OF THE DEADLY HELICOPTER FLYING OVERHEAD . . . NO PLACE IS SAFE FROM THIS TREACHEROUS ENEMY.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>B7510971</hash>
+		<image>./images/Armor..Attack (World).png</image>
+		<thumbnail>./boxart/Armor..Attack (World).png</thumbnail>
+		<marquee>./marquee/Armor..Attack (World).png</marquee>
+		<video>./snap/Armor..Attack (World).mp4</video>
+	</game>
+	<game id="58879" source="ScreenScraper.fr">
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<desc>THE SPECTACULAR ARCADE GAME, POLE POSITION, TAKES ON AN EXCITING NEW LOOK THROUGH THE MAGIC OF VECTREX! EXPERIENCE ALL THE CHALLENGE OF A GRAND PRIX RACING EVENT WITH NON-STOP ACTION THAT'LL LEAVE YOU BREATHLESS!
+DO YOU POSSESS THE SKILL, DEXTERITY AND COURAGE TO PULL OUT FROM THE CROWD FOR QUALIFICATION IN ONE OF THE EXCLUSIVE STARTING POSITIONS... OR WILL YOU END UP AS AN ALSO RAN?</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<players>1</players>
+		<hash>A00ED3D6</hash>
+		<image>./images/Pole Position (USA).png</image>
+		<thumbnail>./boxart/Pole Position (USA).png</thumbnail>
+		<marquee>./marquee/Pole Position (USA).png</marquee>
+		<video>./snap/Pole Position (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58951" source="ScreenScraper.fr">
+		<path>./Spin ball (USA).zip</path>
+		<name>Spin Ball</name>
+		<desc>GET READY FOR EVEN MORE EXCITEMENT AND SPLIT-SECOND ACTION THAN TRADITIONAL ARCADE PINBALL. SPINBALL'S SPECIAL FEATURES LIKE A BALL SPLITTER, DROP TARGETS AND BALL SAVERS WILL GIVE YOU THE ULTIMATE PINBALL CHALLENGE. IT EVEN TILTS!
+SPINBALL'S ACTION MOVES FAST AND FURIOUS. YOU'LL NEED YOUR SHARPEST REFLEXES TO KEEP THE BALL IN PLAY AND RACK UP BONUS POINTS.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>02F41733</hash>
+		<image>./images/Spin ball (USA).png</image>
+		<thumbnail>./boxart/Spin ball (USA).png</thumbnail>
+		<marquee>./marquee/Spin ball (USA).png</marquee>
+		<video>./snap/Spin ball (USA).mp4</video>
+	</game>
+	<game id="58943" source="ScreenScraper.fr">
+		<path>./Space Wars (World).zip</path>
+		<name>Space Wars</name>
+		<desc>WHO SAYS THERE ARE NO RULES IN INTERGALACTIC WARFARE. PICK YOUR OWN - BOUNCE, EXPANDED UNIVERSE, BLACK HOLE - AS YOU EMBARK ON A DEADLY DOGFIGHT.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>A3BE5AFF</hash>
+		<image>./images/Space Wars (World).png</image>
+		<thumbnail>./boxart/Space Wars (World).png</thumbnail>
+		<marquee>./marquee/Space Wars (World).png</marquee>
+		<video>./snap/Space Wars (World).mp4</video>
+	</game>
+	<game id="58827" source="ScreenScraper.fr">
+		<path>./Blitz! - Action Football (USA, Europe).zip</path>
+		<name>Blitz! Action Football</name>
+		<desc>WILL YOU HAVE A CHAMPIONSHIP SEASON OR JUST BE AN ALSO-RAN?  YOU'RE IN CONTROL AS HEAD COACH OF THIS CHAMPIONSHIP CALIBER SQUAD.  RUN, PASS, PUNT, KICK FIELD GOALS -- ALL THE EXCITEMENT OF A REAL GAME.  PLAY AGAINST THE COMPUTER'S TOUGH DEFENSE OR INVITE A VISITING COACH TO JOIN IN A REAL SHOWDOWN!</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>0F11CE0C</hash>
+		<image>./images/Blitz! - Action Football (USA, Europe).png</image>
+		<thumbnail>./boxart/Blitz! - Action Football (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Blitz! - Action Football (USA, Europe).png</marquee>
+		<video>./snap/Blitz! - Action Football (USA, Europe).mp4</video>
+	</game>
+	<game id="58865" source="ScreenScraper.fr">
+		<path>./Mine Storm II (USA) (Rev 2).zip</path>
+		<name>Mine Storm II</name>
+		<desc>MINE STORM IS THE BUILT-IN GAME THAT CAME WITH EVERY VECTREX UNIT. IT WAS ALSO RELEASED IN A 3-D VERSION THAT REQUIRED THE USE OF THE VECTREX 3D IMAGER AND MINE STORM 2 IS A DEBUGGED VERSION OF MINE STORM.
+
+ONE OF THE BUILT-IN VERSIONS OF MINE STORM HAD A GLITCH THAT MADE THE GAME CRASH AT LEVEL 13, SO GCE DECIDED TO SEND A COPY OF MINE STORM 2 TO GAMERS THAT WROTE TO THE COMPANY AND COMPLAINED.
+
+THIS GAME IS RARE, BECAUSE MOST OF THE GAMERS DIDN'T KNOW ABOUT THE OFFER, AND ALSO BECAUSE NOT MANY GAMERS GOT TO LEVEL 13.</desc>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>4A0736BF</hash>
+		<image>./images/Mine Storm II (USA) (Rev 2).png</image>
+		<thumbnail>./boxart/Mine Storm II (USA) (Rev 2).png</thumbnail>
+		<marquee>./marquee/Mine Storm II (USA) (Rev 2).png</marquee>
+		<video>./snap/Mine Storm II (USA) (Rev 2).mp4</video>
+	</game>
+	<game id="58956" source="ScreenScraper.fr">
+		<path>./Star Trek - The Motion Picture (USA).zip</path>
+		<name>Star Trek: The Motion Picture</name>
+		<desc>WELCOME, CAPTAIN KIRK, TO YOUR COMMAND ON THE STARSHIP ENTERPRISE. YOUR MISSION IS TO SEEK OUT AND DESTROY THE ENEMY KLINGON MOTHERSHIP. TRAVEL THROUGH NINE SECTORS OF SPACE, EACH MORE DIFFICULT, OR TAKE A SHORTCUT THROUGH THE BLACK HOLE. BE CAREFUL ... THE KLINGONS AND ROMULANS ARE HIDING IN SPACE, WAITING TO DESTROY YOU AT EVERY TURN!</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>3768D8C3</hash>
+		<image>./images/Star Trek - The Motion Picture (USA).png</image>
+		<thumbnail>./boxart/Star Trek - The Motion Picture (USA).png</thumbnail>
+		<marquee>./marquee/Star Trek - The Motion Picture (USA).png</marquee>
+		<video>./snap/Star Trek - The Motion Picture (USA).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58851" source="ScreenScraper.fr">
+		<path>./HyperChase - Auto Race (World).zip</path>
+		<name>Hyperchase</name>
+		<desc>WATCH OUR FOR THE GUARDRAIL! YOU'RE BEHIND THE WHEEL OF YOUR FORMULA ONE RACER ABOUT TO START THE WORLD'S TOUGHEST GRAND PRIX. TRY TO STAY ALIVE THROUGH CITY STREETS AND COUNTRY ROADS. START YOUR ENGINE - THE START LIGHTS ARE COUNTING DOWN!</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>4BB13472</hash>
+		<image>./images/HyperChase - Auto Race (World).png</image>
+		<thumbnail>./boxart/HyperChase - Auto Race (World).png</thumbnail>
+		<marquee>./marquee/HyperChase - Auto Race (World).png</marquee>
+		<video>./snap/HyperChase - Auto Race (World).mp4</video>
+	</game>
+	<game id="58895" source="ScreenScraper.fr">
+		<path>./Scramble (USA, Europe).zip</path>
+		<name>Scramble</name>
+		<desc>WATCH OUT FOR THAT NEXT MOUNTAIN! MANEUVER YOUR SHIP OVER A ROUGH TERRAIN IN AN EFFORT TO DESTROY THE ENEMY BASE. CAREFUL PILOTING ALONE WON'T GET YOU TO YOUR DESTINATION... YOU MUST BRAVE ROCKETS, UFOS, FLAMOIDS AND SOME VERY TIGHT TUNNELS. FEW PEOPLE HAVE EVER SEEN THE ENEMY BASE, LET ALONE DESTROY IT. WILL YOU BE ONE OF THE SELECT FEW?</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>707C8FFE</hash>
+		<image>./images/Scramble (USA, Europe).png</image>
+		<thumbnail>./boxart/Scramble (USA, Europe).png</thumbnail>
+		<marquee>./marquee/Scramble (USA, Europe).png</marquee>
+		<video>./snap/Scramble (USA, Europe).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="58896" source="ScreenScraper.fr">
+		<path>./Solar Quest (World).zip</path>
+		<name>Solar Quest</name>
+		<desc>HOW MANY TYPES OF ALIEN VESSELS WILL YOU BE ABLE TO DESTROY? SEVEN DIFFERENT TYPES ARE AFTER YOU. YOU MUST FIRST DESTROY THEM AND THEN ATTEMPT TO RESCUE THE SURVIVORS BEFORE THAT FLOAT INTO THE SUN. DON'T GET YOUR SHIP TOO CLOSE TO THE SUN... ITS HIGH TEMPERATURES CAN DESTROY YOU.</desc>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<players>1-2</players>
+		<hash>5C4611C8</hash>
+		<image>./images/Solar Quest (World).png</image>
+		<thumbnail>./boxart/Solar Quest (World).png</thumbnail>
+		<marquee>./marquee/Solar Quest (World).png</marquee>
+		<video>./snap/Solar Quest (World).mp4</video>
+	</game>
+</gameList>

@@ -1,0 +1,823 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Super Nintendo MSU-1</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="172195" source="ScreenScraper.fr">
+		<path>./ActRaiser (MSU-1).sfc</path>
+		<name>ActRaiser</name>
+		<desc>ESTE JOGO SENSACIONAL COMBINA SEQUÊNCIAS DE AÇÃO E SIMULAÇÃO, PERMITINDO AO JOGADOR CRIAR UMA NOVA CIVILIZAÇÃO. FINALMENTE ... EXPERIMENTE UM JOGO QUE UTILIZE AS CAPACIDADES AVANÇADAS DO SUPER NES.
+
+O JOGO TEM SEU INÍCIO QUANDO O JOGADOR, UM DEUS, ACORDA DE UM SONO PROFUNDO. UM DOS ANJOS QUE SERVE A ESTE DEUS, EXPLICA TUDO O QUE ACONTECEU AO LONGO DOS ANOS, DEPOIS QUE ELE FOI FERIDO GRAVEMENTE PELO TERRÍVEL DEMÔNIO DENOMINADO TANZRA. SUA TERRA E SEU POVO, UMA VEZ TRANQUILA, TORNOU-SE ASSOLADA POR MONSTROS E CRIATURAS MALIGNAS. TANZRA E SEUS GUARDIÕES, PRATICAMENTE DESTRUÍRAM A RAÇA HUMANA. O SEU OBJETIVO É LIVRAR O MUNDO DA PRESENÇA DO MAL E POVOÁ-LO NOVAMENTE OU... PERDER A FÉ PARA SEMPRE.
+
+MODO AÇÃO
+DE A VIDA À ESTÁTUA MODELADA SEGUNDO A SUA IMAGEM E SEMELHANÇA E LIMPE A TERRA DOS MONSTROS QUE A CONQUISTARAM.
+
+MODO SIMULAÇÃO
+AJUDE SEU POVO A DESENVOLVER UMA NOVA TERRA A PARTIR DAQUILO QUE FOI PURIFICADO E CONSTRUA CIDADES COM SEUS PODERES.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911102T000000</releasedate>
+		<developer>Quintet Co., Ltd.</developer>
+		<publisher>Enix Corporation</publisher>
+		<players>1</players>
+		<hash>8881FC75</hash>
+		<image>./images/ActRaiser (MSU-1).png</image>
+		<thumbnail>./cartart/ActRaiser (MSU-1).png</thumbnail>
+		<favorite>true</favorite>
+	</game>
+	<game id="172176" source="ScreenScraper.fr">
+		<path>./BS F-Zero Grand Prix 2 (MSU-1).sfc</path>
+		<name>BS F-Zero Grand Prix 2</name>
+		<desc>BS F-ZERO GRAND PRIX 2 IS THE DIRECT SEQUEL TO THE ORIGINAL F-ZERO GAME RELEASED FOR THE SUPER FAMICOM VIA THE SATELLAVIEW. TWO VERSIONS WERE RELEASED - A NON-SOUNDLINK GAME AND A SOUNDLINK GAME. THE ORIGINAL NON-SOUNDLINK VERSION WAS RELEASED AS BSF-ZERO 2 PRACTICE ON JUNE 1, 1997 (ALTHOUGH THE TITLE SCREEN REMAINED THE SAME). IT CONTAINED THE FOUR COURSES FIRST SEEN THROUGHOUT BS F-ZERO GRAND PRIX (A SATELLAVIEW REMAKE OF THE ORIGINAL), ALONG WITH A NEW COURSE CALLED MUTE CITY IV. LITTLE IS KNOWN ABOUT THE LATER SOUNDLINK VERSION OUTSIDE OF SURVIVING VIDEOS, BUT IT WAS DISTRIBUTED IN TWO HALVES IN AUGUST 1997 AND HAD A SIMILAR ANNOUNCER AND REDONE SOUNDTRACK AS THE PREVIOUS SATELLAVIEW ENTRY. AT LEAST THE FIRST WEEK REARRANGED A FEW COURSES, AND REPLACED TWO WITH NEW LOCATIONS CALLED "FOREST I" AND "FOREST II". PRESUMING NO AREAS WERE REPEATED, THIS LIKELY MEANS THE SOUNDLINK VERSION HAD TWICE AS MANY COURSES TOTAL. IN ADDITION, IT CAN BE SEEN THAT THE PLAYER CANNOT CHOOSE BETWEEN GRAND PRIX AND PRACTICE MODES IN THE SOUNDLINK VERSION; AS IT WAS A LIVE BROADCAST, THE PLAYER IS FORCED TO PLAY EACH COURSE IN A TIMED PRACTICE MODE, AND THEN THE GRAND PRIX RACE.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<hash>9A8720FC</hash>
+		<image>./images/BS F-Zero Grand Prix 2 (MSU-1).png</image>
+		<thumbnail>./cartart/BS F-Zero Grand Prix 2 (MSU-1).png</thumbnail>
+		<video>./snap/BS F-Zero Grand Prix 2 (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).sfc</path>
+		<name>BS Zelda Ancient Stone Tablets - Week 1 (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./BS Zelda Ancient Stone Tablets - Week 2 (MSU-1).smc</path>
+		<name>BS Zelda Ancient Stone Tablets - Week 2 (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./BS Zelda Ancient Stone Tablets - Week 3 (MSU-1).smc</path>
+		<name>BS Zelda Ancient Stone Tablets - Week 3 (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./BS Zelda Ancient Stone Tablets - Week 4 (MSU-1).smc</path>
+		<name>BS Zelda Ancient Stone Tablets - Week 4 (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./BS Zelda Map 1 (MSU-1).smc</path>
+		<name>BS Zelda Map 1 (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./BS Zelda Map 2 (MSU-1).smc</path>
+		<name>BS Zelda Map 2 (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172202" source="ScreenScraper.fr">
+		<path>./Castlevania - Dracula X (MSU-1).sfc</path>
+		<name>Castlevania - Dracula X</name>
+		<desc>O JOGO SE PASSA NA ÉPOCA MEDIEVAL DA TRANSILVÂNIA. CEM ANOS PASSARAM-SE DESDE QUE O HERÓI LENDÁRIO SIMON BELMONT DERROTOU O MALÉFICO CONDE DRACULA E O APRISIONOU PARA, O QUE ERA PRA SER, A ETERNIDADE. AS PESSOAS JÁ TINHAM ESQUECIDO DOS ACONTECIMENTOS SOBRE O HORROR DOS IMORTAIS, O QUE PERMITIU A ALGUNS INDIVÍDUOS DEPRAVADOS A RESTAURAR O PRÍNCIPE DAS TREVAS À SUA FORMA ANTIGA; DORMINDO EM SEU CAIXÃO AO DIA E TRANSFORMANDO INFELIZES VÍTIMAS EM PRESAS À NOITE.
+
+DRACULA AGORA TEM O PLANO DE VINGAR-SE DE SEU VELHO INIMIGO ATRAVÉS DE SEUS DESCENDENTES AO APRISIONAR ANNETTE, A NAMORADA DO BISNETO DO GRANDE HERÓI BELMONT, RICTHER, E SUA IRMÃ, MARIA, NO SEU OBSCURO CASTELO.
+
+ASSIM QUE TOMADO CONHECIMENTO DISTO, RICHTER PEGA O CHICOTE SAGRADO DE SEU ANCESTRAL, PASSADO POR ANOS DE PAI A FILHO, E PARTE VIAGEM AO CASTELO DO DRACULA PARA RESGATAR ANNETTE E MARIA E SELÁ-LO NOVAMENTE PARA SEMPRE.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1</players>
+		<hash>9B70E115</hash>
+		<image>./images/Castlevania - Dracula X (MSU-1).png</image>
+		<thumbnail>./cartart/Castlevania - Dracula X (MSU-1).png</thumbnail>
+		<video>./snap/Castlevania - Dracula X (MSU-1).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Chrono Trigger (MSU-1).sfc</path>
+		<name>Chrono Trigger (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Conker's High Rule Tale (MSU-1).sfc</path>
+		<name>Conker's High Rule Tale (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172204" source="ScreenScraper.fr">
+		<path>./Contra III - The Alien Wars (MSU-1).sfc</path>
+		<name>Contra III - The Alien Wars</name>
+		<desc>O JOGO SE PASSA NO ANO DE 2636, DOIS ANOS DEPOIS DOS ACONTECIMENTOS DE SUPER CONTRA. OS PROTAGONISTAS BILL RIZER E LANCE BEAN SÃO CHAMADOS MAIS UMA VEZ, CONTRA UMA INVASÃO ALIENÍGENA.
+
+O JOGO ESTÁ DIVIDIDO EM SEIS NIVEIS, COM UM CHEFE NO FINAL DE CADA.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920406T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+		<hash>43ABB771</hash>
+		<image>./images/Contra III - The Alien Wars (MSU-1).png</image>
+		<thumbnail>./cartart/Contra III - The Alien Wars (MSU-1).png</thumbnail>
+		<video>./snap/Contra III - The Alien Wars (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172203" source="ScreenScraper.fr">
+		<path>./Death and Return of Superman, The (MSU-1).sfc</path>
+		<name>Death and Return of Superman, The</name>
+		<desc>"DOOMSDAY" IS HERE AND ONLY SUPERMAN CAN STOP HIM. UNFORTUNATELY IN DOING SO HE GETS KILLED HIMSELF. NOW FOUR OTHER CHARACTERS EMERGE, EACH CLAIMING TO BE THE REAL HERO. THE STORY STARTS YOU OFF WITH SUPERMAN, THEN STEEL, THE ERADICATOR, THE CYBORG, AND SUPERBOY. EACH CHARACTER HAS SLIGHTLY VARIED MOVES SO DIFFERENT STRATEGIES APPLY WHEN PLAYING AS THEM.
+
+THE GAMEPLAY IS BASICALLY THAT OF A STANDARD BEAT-EM-UP, WITH THE PUNCHES, THROWS AND SPECIALS MOVES.</desc>
+		<rating>0.65</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Blizzard Entertainment Inc.</developer>
+		<publisher>Sunsoft</publisher>
+		<players>1</players>
+		<hash>122A6911</hash>
+		<image>./images/Death and Return of Superman, The (MSU-1).png</image>
+		<thumbnail>./cartart/Death and Return of Superman, The (MSU-1).png</thumbnail>
+		<video>./snap/Death and Return of Superman, The (MSU-1).mp4</video>
+	</game>
+	<game id="172162" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country 2 - Diddys Kong Quest (MSU-1).sfc</path>
+		<name>Donkey Kong Country 2 - Diddy's Kong Quest</name>
+		<desc>APÓS DERROTAR O REI K. ROOL, OS KONGS VOLTAM PARA AS ILHAS DK COM A RESERVA DE BANANAS DE DONKEY KONG. LOGO DEPOIS DK ESTAVA RELAXANDO, QUANDO UMA AERONAVE CHAMADA FLYING KROCK SE APROXIMA DA ILHA. O CAPITÃO K. ROOL ENVIA OS KREMLINGS PARA A ILHA E SEQUESTRA DONKEY KONG. ELE SÓ IRÁ LIBERTÁ-LO SE A FAMÍLIA KONG ENTREGAR A RESERVA DE BANANAS DE DONKEY KONG PARA ELE.
+ENTÃO, DIDDY E SUA NAMORADA DIXIE, ENCONTRAM UMA NOTA AFIRMANDO O SEQUESTRO DE DONKEY KONG POR CAPITÃO K. ROOL NO CONVÉS DE UM NAVIO PIRATA, OS DOIS PARTEM JUNTOS PARA A CROCODILE ISLE PARA RESGATÁ-LO, MAS PARA ISSO DIDDY E DIXIE PRECISAM ATRAVESSAR UMA SÉRIE DE LUGARES DA ILHA. DURANTE A JORNADA, DIDDY E DIXIE SÃO AJUDADOS POR UMA VARIEDADE DE ANIMAIS PARA SALVAR DONKEY KONG E DERROTAR K. ROOL.</desc>
+		<rating>0.95</rating>
+		<releasedate>19951205T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<hash>C1CBB66B</hash>
+		<image>./images/Donkey Kong Country 2 - Diddys Kong Quest (MSU-1).png</image>
+		<thumbnail>./cartart/Donkey Kong Country 2 - Diddys Kong Quest (MSU-1).png</thumbnail>
+		<video>./snap/Donkey Kong Country 2 - Diddys Kong Quest (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172205" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country (MSU-1).sfc</path>
+		<name>Donkey Kong Country</name>
+		<desc>DONKEY KONG, AO LADO DE SEU SOBRINHO E COMPANHEIRO INSEPARÁVEL DIDDY KONG, DEVEM RECUPERAR AS BANANAS ROUBADAS POR KING K. ROOL E SEUS CAPANGAS, OS KREMLINGS. APÓS VERIFICAR O VAZIO ESCONDERIJO DE BANANAS, LOCALIZADO LOGO ABAIXO DE SUA CASA, DONKEY KONG EMBARCA EM UMA AVENTURA EM SUA TERRA NATIVA, A ILHA DONKEY KONG. ENQUANTO COLETA AS BANANAS NAS DIFERENTES REGIÕES DA ILHA, DONKEY KONG DEVE DERROTAR VÁRIOS INIMIGOS, INCLUINDO OS REPTEIS KREMLINGS, ALÉM DE OUTRAS PERIGOSAS CRIATURAS NATIVAS DA ILHA.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<hash>AB92D7A7</hash>
+		<image>./images/Donkey Kong Country (MSU-1).png</image>
+		<thumbnail>./cartart/Donkey Kong Country (MSU-1).png</thumbnail>
+		<video>./snap/Donkey Kong Country (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Final Fantasy III - Balance And Ruin (MSU-1).sfc</path>
+		<name>Final Fantasy III - Balance And Ruin (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172164" source="ScreenScraper.fr">
+		<path>./Final Fight (MSU-1).sfc</path>
+		<name>Final Fight</name>
+		<desc>FINAL FIGHT É RODADO NA METRÓPOLE FICTÍCIA AMERICANA DE METRO CITY, ONDE UM EX-LUTADOR PROFISSIONAL CHAMADO MIKE HAGGAR É ELEITO PREFEITO, PROMETENDO LIDAR COM OS PROBLEMAS CRIMINAIS DA CIDADE EM SUA CAMPANHA. A GANGUE MAD GEAR, A ORGANIZAÇÃO CRIMINOSA DOMINANTE NA CIDADE, SEQUESTRA A FILHA DE HAGGAR DIZENDO QUE SE ELE NÃO ENTREGAR O SEU CARGO, A SUA FILHA, JESSICA, IRÁ SOFRER AS CONSEQUENCIAS. CONTANDO COM A AJUDA DE CODY, NAMORADO DE JESSICA E UM MESTRE EM ARTES MARCIAIS, BEM COMO UM AMIGO DE CODY, GUY UM MESTRE EM NINJUTSU QUE TAMBÉM É AMIGO DE JESSICA, HAGGAR OPTA ENTÃO A LUTAR PELA SUA FILHA EM VEZ DE ENTREGAR O SEU CARGO.
+
+FINAL FIGHT, JUNTO COM O PRIMEIRO STREET FIGHTER, SÃO OS DOIS PRINCIPAIS JOGOS DA FORMAÇÃO DO ENREDO DA SÉRIE STREET FIGHTER, AONDE MUITOS PERSONAGENS SÃO USADOS EM JOGOS ATUAIS E CITADOS NA HISTÓRIA DE ALGUNS DELES, DIRETA OU INDIRETAMENTE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<hash>ED746809</hash>
+		<image>./images/Final Fight (MSU-1).png</image>
+		<thumbnail>./cartart/Final Fight (MSU-1).png</thumbnail>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Flashback - The Quest for Identity (MSU-1).sfc</path>
+		<name>Flashback - The Quest for Identity (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./F-Zero (MSU-1).sfc</path>
+		<name>F-Zero (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./F-Zero MSU Extended (MSU-1).sfc</path>
+		<name>F-Zero MSU Extended (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172201" source="ScreenScraper.fr">
+		<path>./Gradius III (MSU-1).sfc</path>
+		<name>Gradius III</name>
+		<desc>GRADIUS III IS THE THIRD GAME IN KONAMI'S LONG-RUNNING SPACE SHOOTER SERIES, WHICH ALSO INCLUDES LIFE FORCE AND NEMESIS. AS WITH MOST GRADIUS TITLES, YOU CONTROL THE HIGHLY ADVANCED VIC VIPER SPACE FIGHTER AGAINST HORDES OF FOES. WEAPONS CAN BE SELECTED FROM PRE-ARRANGED LOADOUTS OR YOU CAN CREATE YOUR OWN CUSTOM LOADOUT. THE GAME CAN BE PLAYED BY A SINGLE PLAYER, OR BY TWO PLAYERS IN ALTERNATING TURNS. THE GAME OFFERS THREE LEVELS OF DIFFICULTY.</desc>
+		<rating>0.55</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1</players>
+		<hash>65DC1A7C</hash>
+		<image>./images/Gradius III (MSU-1).png</image>
+		<thumbnail>./cartart/Gradius III (MSU-1).png</thumbnail>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Hyper Street Kart (MSU-1).smc</path>
+		<name>Hyper Street Kart (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172199" source="ScreenScraper.fr">
+		<path>./Joe and Mac (MSU-1).sfc</path>
+		<name>Joe &amp; Mac</name>
+		<desc>BACK IN THE DISTANT PAST (WAY BACK - LIKE WHEN ÂROCK AND ROLLÂ WAS JUST ROCK AND FAST FOOD WAS DINNER YOU COULDNÂT CATCH), LIVED TWO CAVE DUDES NAMED JOE AND MAC.  WHETHER IT WAS DINOSAUR DEMOLITION OR PTERODACTYL HANG-GLIDINÂ, LIFE FOR THE BOYS WAS PRETTY COOL.
+
+COOL, THAT IS, UNTIL A BOGUS BUNCH OF NEANDERTHAL NERDS CRASHED THEIR VILLAGE AND SCARED OFF ALL THE CAVE-BABES.  NOW THE CAVE-BABES ARE OUT THERE - SOMEWHERE, LOST AND REEEEALLY LONELYÂ¦ SO WHAT ARE YOU WAITINÂ FOR?  ITÂS UP TO JOE AND MAC TO GET ÂEM BACK.
+
+* FIGHT FLYING PTERODACTYLS IN ONE OR TWO-PLAYER SIMULTANEOUS PLAY.
+* 12 CLIFF-HANGINÂ LEVELS WITH MORE THAN 6 BONUS LEVELS TO FINDÂ¦
+* AMAZING ARCADE GRAPHICS WILL KEEP YOU CLUBBINÂ TO FIND YOUR BABESÂ¦
+* JOE &amp; MACÂS PRE-HYSTERICAL ESCAPADES WILL KEEP YOU COMINÂ BACK FOR MORE!</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<players>1-2</players>
+		<hash>F1BBDA45</hash>
+		<image>./images/Joe and Mac (MSU-1).png</image>
+		<thumbnail>./cartart/Joe and Mac (MSU-1).png</thumbnail>
+		<video>./snap/Joe and Mac (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172190" source="ScreenScraper.fr">
+		<path>./Legend of Zelda, The - A Link to the Past DX (MSU-1).sfc</path>
+		<name>Legend of Zelda, The - A Link to the Past DX</name>
+		<desc>THE LEGEND OF ZELDA : A LINK TO THE PAST É UM JOGO DE AVENTURA PARA SUPER NINTENDO EM QUE VOCÊ JOGA COM LINK, UM GAROTO DE HYRULE. SUA MISSÃO É RESGATAR A PRINCESA ZELDA DAS GARRAS DO MAGO AGAHNIM ANTES QUE ELE LIBERE O SELO DOS SETE SÁBIOS QUE SEPARAM O MUNDO DA LUZ E DA ESCURIDÃO. PARA ISSO, VOCÊ DEVE ATRAVESSAR MUITAS MASMORRAS CHEIAS DE MONSTROS E ENCONTRAR EM CADA UM DELES OBJETOS QUE LHE PERMITEM PROGREDIR EM SUA MISSÃO.</desc>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<hash>F2EEBF65</hash>
+		<image>./images/Legend of Zelda, The - A Link to the Past DX (MSU-1).png</image>
+		<thumbnail>./cartart/Legend of Zelda, The - A Link to the Past DX (MSU-1).png</thumbnail>
+		<favorite>true</favorite>
+	</game>
+	<game id="172168" source="ScreenScraper.fr">
+		<path>./Legend of Zelda, The - A Link to the Past (MSU-1).sfc</path>
+		<name>Legend of Zelda, The - A Link to the Past</name>
+		<desc>THE LEGEND OF ZELDA : A LINK TO THE PAST É UM JOGO DE AVENTURA PARA SUPER NINTENDO EM QUE VOCÊ JOGA COM LINK, UM GAROTO DE HYRULE. SUA MISSÃO É RESGATAR A PRINCESA ZELDA DAS GARRAS DO MAGO AGAHNIM ANTES QUE ELE LIBERE O SELO DOS SETE SÁBIOS QUE SEPARAM O MUNDO DA LUZ E DA ESCURIDÃO. PARA ISSO, VOCÊ DEVE ATRAVESSAR MUITAS MASMORRAS CHEIAS DE MONSTROS E ENCONTRAR EM CADA UM DELES OBJETOS QUE LHE PERMITEM PROGREDIR EM SUA MISSÃO.</desc>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<hash>95FC1E1E</hash>
+		<image>./images/Legend of Zelda, The - A Link to the Past (MSU-1).png</image>
+		<thumbnail>./cartart/Legend of Zelda, The - A Link to the Past DX (MSU-1).png</thumbnail>
+		<video>./snap/Legend of Zelda, The - A Link to the Past (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Legend of Zelda, The - Goddess of Wisdom (MSU-1).sfc</path>
+		<name>Legend of Zelda, The - Goddess of Wisdom (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172191" source="ScreenScraper.fr">
+		<path>./Legend of Zelda, The - Parallel Worlds (MSU-1).sfc</path>
+		<name>Legend of Zelda, The - Parallel Worlds</name>
+		<desc>THE LEGEND OF ZELDA: PARALLEL WORLDS IS A FAN OVERHAUL OF THE LEGEND OF ZELDA: A LINK TO THE PAST USING NEW GRAPHICS, NEW MUSIC, A NEW OVERWORLD AND UNDERWORLD, AND A NEW STORYLINE.
+
+YOU MOVED HERE FROM ANOTHER LAND WITH A FRIEND TO FIND TREASURE. NOT LONG AFTER YOUR ARRIVAL, A LOT OF STRANGE OCCURRENCES STARTED.
+
+SEVEN PEOPLE "APPEARED OUT OF NOWHERE" AND BEINGS QUESTIONING ABOUT THE PARALLEL TOWER AND THE INHABITANTS OF KAKARIKO VILLAGE. THE PARALLEL TOWER WAS SITUATED IN THE SKY ISLANDS NORTHEAST OF THE VILLAGE. THE LEGEND BEHIND THE PARALLEL TOWER WAS LONG LOST, AND ONLY THE ELDERS KNEW THE LEGEND.
+
+WORD BEGINS TO SPREAD OUT ABOUT THE PARALLEL TOWER, AND PEOPLE STARTED TO LEARN ABOUT THE LEGEND AGAIN. THE LEGEND SAYS IT WAS A BY PRODUCT OF A WAR LONG AGO, AND A POWER KNOWN AS THE TRIFORCE EXISTED AT THE TOP OF IT.  IT IS SAID THAT NOBODY KNOWS ABOUT THE CLUES AS TO HOW TO GET TO THE TOP OF THE TOWER. THE SEVEN PEOPLE ARE SAID TO KNOW ABOUT THESE "CLUES" TO THE TOWER.
+
+THE KING WAS NOTIFIED OF THESE SEVEN PEOPLE AND HE INVITED THEM TO THE CASTLE TO FIND OUT WHAT THEY WANTED WITH THE TOWER. JUST THE NIGHT BEFORE THE SEVEN PEOPLE ARE TO HAVE AN AUDIENCE WITH THE KING, THE KING'S ASSISTANT, DRAEGOR, ELIMINATES THE KING AND CLAIMS THE THRONE BY DEFAULT.
+
+THE SEVEN PEOPLE WALKED RIGHT INTO AN OBVIOUS TRAP. DRAEGOR, WHO PEOPLE BELIEVE IS A POWER HUNGRY PERSON, CAUGHT ALL 7 PEOPLE AND FORCES THEM TO TELL HIM WHAT THEY KNOW ABOUT THE TOWER.
+
+WHEN THE PEOPLE LEARNED OF THE KING'S FATE, A REBEL FORCE IS GATHERED IN SECRET TO PLOT AGAINST DRAEGOR. THE REBEL FORCE LEARNED THAT 2 OUT OF 7 PEOPLE WHOM DRAEGOR CAUGHT ARE STILL ALIVE AND IMPRISONED IN THE GUARDHOUSE. THEY QUICKLY RALLIED ANYONE WHO MAY BE INTERESTED IN THE TOWER AND THE LOCALS TO HELP THESE LAST 2 PEOPLE.
+
+YOU AND YOUR FRIEND HEARD ABOUT THIS PLAN AND ARE WILLING HELP THE REBELS AGAINST DRAEGOR.
+
+THE NIGHT OF THE OPERATION BEGINS THE STORY...</desc>
+		<rating>0.8</rating>
+		<releasedate>20061231T000000</releasedate>
+		<developer>Euclid &amp; SePH</developer>
+		<publisher>Romhacking.net</publisher>
+		<players>1</players>
+		<hash>DDD61CBE</hash>
+		<image>./images/Legend of Zelda, The - Parallel Worlds (MSU-1).png</image>
+		<thumbnail>./cartart/Legend of Zelda, The - Parallel Worlds (MSU-1).png</thumbnail>
+		<video>./snap/Legend of Zelda, The - Parallel Worlds (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172184" source="ScreenScraper.fr">
+		<path>./Mega Man 7 (MSU-1).sfc</path>
+		<name>Mega Man 7</name>
+		<desc>AT LONG LAST, MEGA MAN HAD FINALLY MANAGE TO BEAT THE EVIL DR. WILY! WITH THIS DEFEAT, WILY WAS THROWN IN JAIL, SEEMINGLY FOR GOOD. THE WORLD WOULD NO LONGER BE SUBJECT TO HIS MADNESS.
+
+BUT REMEMBER, DR. WILY IS MAD, BUT HE'S NOT STUPID. HE HAD A BACKUP PLAN...AND ALL HE HAD TO DO WAS JUST WAIT...
+
+6 MONTHS HAD PASSED, AND SOMEWHERE FROM DEEP WITHIN WILY'S ABANDONED LAB, 4 HIDDEN CAPSULES ACTIVATED AND OPENED. HIS BACKUP PLAN WAS IN ACTION...HE HAD HIDDEN 4 NEW WILY ROBOTS THAT WOULD SPRING HIM OUT OF JAIL SO HE COULD CONTINUE HIS MAD REIGN.
+
+WHEN MEGA MAN HEARS THE WORD THAT WILY WAS BUSTING OUT OF PRISON, HE RUSHES ONTO THE SCENE, ONLY TO ENCOUNTER A STRANGE ROBOT HE HAD NEVER SEEN BEFORE NAMED BASS. BASS TELLS MEGA MAN TO BACK OFF, THAT HE WOULD STOP WILY, AND THAT MEGA MAN WAS NO LONGER NEEDED.
+
+THINK THAT'S GONNA STOP MEGA MAN? NO WAY! MEGA MAN TAKES OFF TO PUT A STOP TO DR. WILY AND FIND OUT EXACTLY WHOSE SIDE BASS IS ON...</desc>
+		<rating>0.75</rating>
+		<releasedate>19950902T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<hash>653A587D</hash>
+		<image>./images/Mega Man 7 (MSU-1).png</image>
+		<thumbnail>./cartart/Mega Man 7 (MSU-1).png</thumbnail>
+		<video>./snap/Mega Man 7 (MSU-1).mp4</video>
+	</game>
+	<game id="172170" source="ScreenScraper.fr">
+		<path>./Mega Man X (MSU-1).sfc</path>
+		<name>Mega Man X</name>
+		<desc>MEGA MAN X IS A ROBOT DESIGNED BY DR. LIGHT TO CHOOSE HIS OWN PATH IN LIFE. YEARS AFTER HE IS CREATED, DR. CAIN FINDS X AND MIMICS HIS DESIGN TO CREATE A RACE OF SUCH ROBOTS CALLED REPLOIDS. WHEN THE SIGMA VIRUS INFECTS THESE REPLOIDS, CAUSING THEM TO COMMIT ACTS OF EVIL, IT IS UP TO MEGA MAN X AND HIS PARTNER ZERO (WHO IS QUITE POWERFUL, CONTRARY TO WHAT HIS NAME IMPLIES) TO STOP IT.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940118T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<hash>F7286642</hash>
+		<image>./images/Mega Man X (MSU-1).png</image>
+		<thumbnail>./cartart/Mega Man X (MSU-1).png</thumbnail>
+		<video>./snap/Mega Man X (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172175" source="ScreenScraper.fr">
+		<path>./Mega Man X2 (MSU-1).sfc</path>
+		<name>Mega Man X2</name>
+		<desc>SIGMA, THE LEADER OF THE MAVERICK ARMY, WAS DESTROYED WHEN HE UNDERESTIMATED HIS OPPONENT: A LONE WARRIOR, AWAKENED INTO A TIME HE NEVER KNEW...X.
+
+6 MONTHS HAD PASSED, AND X ROSE TO THE RANK OF LEADER OF THE MAVERICK HUNTERS. HIS FIRST TASK WAS TO ELIMINATE THE LAST OF THE MAVERICKS. BUT AS HE BEGAN HIS ASSIGNMENT, A MYSTERIOUS GROUP OF REPLOIDS CALLING THEMSELVES THE X-HUNTERS APPEARED WITH A MESSAGE TO X: THE REMAINS OF HIS FALLEN COMRADE, ZERO, WERE IN THE HANDS OF THE X-HUNTERS, AND THEY PLANNED ON RESURRECTING ZERO TO FIGHT ALONGSIDE THEM AND FOR THEIR FALLEN LEADER, SIGMA.
+
+X MUST NOW STOP THE X-HUNTERS AND RESCUE ZERO, AND ONCE AGAIN PREVENT SIGMA FROM RISING BACK INTO ULTIMATE POWER.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950303T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<hash>AA92F74B</hash>
+		<image>./images/Mega Man X2 (MSU-1).png</image>
+		<thumbnail>./cartart/Mega Man X2 (MSU-1).png</thumbnail>
+		<video>./snap/Mega Man X2 (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172180" source="ScreenScraper.fr">
+		<path>./Mega Man X3 (MSU-1).sfc</path>
+		<name>Mega Man X3</name>
+		<desc>A REPLOID SCIENTIST NAMED DR. DOPPLER BEGINS CREATION OF A NEW CITY FOR REPLOIDS, WHICH WILL BRING A NEW ERA OF PEACE TO THE REPLOIDS AND HUMANS. BUT SOMETHING GOES TERRIBLY WRONG, AND NOW MAVERICKS HAVE BEGUN TO APPEAR EVERYWHERE! IT'S UP TO X AND ZERO TO FIND OUT WHO IS BEHIND THIS MAVERICK REVOLT AND BRING THEM DOWN FOR GOOD!</desc>
+		<rating>0.8</rating>
+		<releasedate>19960214T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<hash>4DAAD6D4</hash>
+		<image>./images/Mega Man X3 (MSU-1).png</image>
+		<thumbnail>./cartart/Mega Man X3 (MSU-1).png</thumbnail>
+		<video>./snap/Mega Man X3 (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172207" source="ScreenScraper.fr">
+		<path>./Rival Turf! (MSU-1).sfc</path>
+		<name>Rival Turf!</name>
+		<desc>WHEN A RUTHLESS GANG LED BY BIG AL INVADES THEIR TURF, IT'S UP TO THE BRAWL BROTHERS TO TAKE BACK THEIR STREETS AND SEND THEIR RIVALS HOME WITH THEIR TAILS BETWEEN THEIR LEGS. YOU CAN GO AT IT ALONE OR TEAM UP WITH A FRIEND FOR SOME SIMULTANEOUS TWO-PLAYER ACTION AS YOU KICK, PUNCH, AND BODY SLAM YOUR WAY TO VICTORY THROUGH SIX STAGES OF NO HOLDS BARRED, HAND-TO-HAND FIGHTING ACTION. THERE ARE ALL KINDS OF REALISTIC STREET-FIGHTING TECHNIQUES TO MASTER, INCLUDING BODY SLAMS, LEG SWEEPS, JABS, HOOKS, AND UPPERCUTS. IF YOU WANT A FIGHT BUT AREN'T FEELING FRIENDLY, THEN TURN THE TABLES ON YOUR FRIEND AND GO HEAD-TO-HEAD FOR BRAGGING RIGHTS AND CONTROL OF THE STREETS. IN RIVAL TURF, ONLY THE STRONG SURVIVECAN YOU TAKE IT?
+</desc>
+		<rating>0.75</rating>
+		<releasedate>19920402T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<players>1-2</players>
+		<hash>FDBC63A2</hash>
+		<image>./images/Rival Turf! (MSU-1).png</image>
+		<thumbnail>./cartart/Rival Turf! (MSU-1).png</thumbnail>
+		<video>./snap/Rival Turf! (MSU-1).mp4</video>
+	</game>
+	<game id="172174" source="ScreenScraper.fr">
+		<path>./Rock n' Roll Racing (MSU-1).sfc</path>
+		<name>Rock n' Roll Racing</name>
+		<desc>ROCK 'N ROLL RACING IS AN ARCADE COMBAT RACING GAME. COMBAT PLAYS A HEAVY ROLE IN THE GAME, AS EACH CAR HAS A FRONTAL WEAPON, SUCH AS A LASER OR MISSILE, AND A DROP WEAPON, SUCH AS SPIKES OR MINES. AS YOU COMPLETE RACES, YOU GET MORE MONEY TO UPGRADE YOUR CAR.
+
+THE SOUNDTRACK FEATURES "BORN TO BE WILD," "BAD TO THE BONE," "THE PETER GUNN THEME," "HIGHWAY STAR" AND "PARANOID."
+</desc>
+		<rating>0.85</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<players>1-2</players>
+		<hash>AAE7584C</hash>
+		<image>./images/Rock n' Roll Racing (MSU-1).png</image>
+		<thumbnail>./cartart/Rock n' Roll Racing (MSU-1).png</thumbnail>
+		<video>./snap/Rock n' Roll Racing (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Rockman and Forte (MSU-1).sfc</path>
+		<name>Rockman and Forte (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172198" source="ScreenScraper.fr">
+		<path>./Secret of Evermore (MSU-1).sfc</path>
+		<name>Secret of Evermore</name>
+		<desc>YOU START OUT AS A NAMELESS BOY AND HIS DOG, LITERALLY FROM THE TOWN OF PODUNK.  YOU CHASE THE DOG INTO AN OLD ABANDONED MANSION, WHERE A SCIENTIST LIVED 30 YEARS AGO.  SOME OF HIS EQUIPMENT IS STILL OPERATIONAL, AND WHEN YOUR DOG CHEWS ON IT, YOU'RE BOTH SENT TO THE STRANGE WORLD OF EVERMORE.  NOW YOU MUST TRY TO GET BACK.
+THE ACTION-RPG GAMEPLAY IS VERY MUCH LIKE SECRET OF MANA, WITH A FEW KEY CHANGES.  MULTIPLAYER IS OUT.  RATHER THAN THREE CHARACTERS, THERE ARE JUST THE TWO.  THE EQUIVALENT OF MAGIC IS ALCHEMY, WHERE EACH EFFECT REQUIRES SEVERAL BASE INGREDIENTS WHICH YOU GATHER AS YOU GO ALONG.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950918T000000</releasedate>
+		<developer>Square Soft, Inc.</developer>
+		<publisher>Square Soft, Inc.</publisher>
+		<players>1</players>
+		<hash>8406B62E</hash>
+		<image>./images/Secret of Evermore (MSU-1).png</image>
+		<thumbnail>./cartart/Secret of Evermore (MSU-1).png</thumbnail>
+	</game>
+	<game id="172172" source="ScreenScraper.fr">
+		<path>./Secret of Mana (MSU-1).sfc</path>
+		<name>Secret of Mana</name>
+		<desc>ONCE UPON A TIME, THE POWER OF MANA WAS USED BY ALL PEOPLE AND HELPED THEIR CIVILIZATION GROW. BUT AS EVIL FORCES TOOK CONTROL OF MANA FORTRESS, THERE WAS NO WAY OUT BUT A WAR WHICH DESTROYED THE MANA-BASED CIVILIZATION BUT EVENTUALLY BROUGHT PEACE TO PEOPLE. THE EVENTS OF THE PAST BECAME BUT LEGENDS TO THE NEW GENERATION OF HUMANS. BUT HISTORY REPEATS ITSELF... ONE DAY, A YOUNG VILLAGE BOY FINDS A RUSTY SWORD STUCK AT THE BOTTOM OF A RIVER. HE DOESN'T KNOW THIS SWORD IS THE FAMOUS MANA SWORD, THE ONE THAT WON SO MANY BATTLES BEFORE. BY DRAWING THE SWORD OUT OF THE RIVER BOTTOM, THE BOY UNWILLINGLY SUMMONS HORDES OF MONSTERS, AND IS EXPELLED FROM HIS VILLAGE. A MYSTERIOUS KNIGHT JEMA IS THE ONLY MAN WHO HELPS HIM AND GIVES HIM INSTRUCTIONS FOR THE FUTURE. FIRST, HE MUST REPAIR THE SWORD, AND THEN, WITH ITS HELP, TAKE CONTROL OF MANA SEEDS WHICH CAN BE FOUND IN EIGHT GREAT CASTLES.
+
+"SECRET OF MANA" IS AN ACTION RPG, FEATURING REAL-TIME HACK-AND-SLASH TYPE OF A COMBAT. LIKE IN QUEST FOR GLORY GAMES, YOU HAVE A STAMINA GAUGE. THE MORE STAMINA YOU HAVE, THE MORE POWERFUL YOUR STRIKE IS. YOU UPGRADE YOUR WEAPONS AND ABILITIES AND MEET MANY DIFFERENT TYPES OF MONSTERS, WHILE ROAMING AROUND THE COUNTRY AND PERFORMING YOUR QUESTS.</desc>
+		<rating>0.8</rating>
+		<releasedate>19931003T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Soft, Inc.</publisher>
+		<players>1-3</players>
+		<hash>74AF624C</hash>
+		<image>./images/Secret of Mana (MSU-1).png</image>
+		<thumbnail>./cartart/Secret of Mana (MSU-1).png</thumbnail>
+		<video>./snap/Secret of Mana (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Street Fighter 2 Turbo (MSU-1).smc</path>
+		<name>Street Fighter 2 Turbo (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172200" source="ScreenScraper.fr">
+		<path>./Super Castlevania IV (MSU-1).sfc</path>
+		<name>Super Castlevania IV</name>
+		<desc>A CADA 100 ANOS, AS FORÇAS DO BEM ESTÃO MISTERIOSAMENTE ENFRAQUECIDAS. DURANTE ESTE PERÍODO, O PODER DE DRACULA COMEÇOU A RESSURGIR, TORNANDO-SE MAIS E MAIS FORTE. DRACULA REVIVEU MUITAS VEZES; NO ENTANTO, SUAS AÇÕES SINISTRAS FORAM CONSTANTEMENTE INTERROMPIDAS PELA FAMÍLIA BELMONT.
+
+FAZ 100 ANOS DESDE O ÚLTIMO CONFRONTO, E AGORA, A TRANQUILIDADE DA TRANSILVÂNIA É NOVAMENTE AMEAÇADA PELAS FORÇAS DAS TREVAS. 
+
+É O ANO DE 1691. EM UMA NOITE ESCURA ESCURA, DRÁCULA RESSUSCITOU DENTRE OS MORTOS, MERGULHANDO A TERRA DA EUROPA EM UM ESTADO DE ESCURIDÃO TOTAL. AS LEGIÕES DO CONDE CRESCERAM COMO UMA PRAGA, INFESTANDO A TERRA COMO UMA DOENÇA ONDE QUER QUE FOSSEM. SIMON BELMONT, O BISNETO DE CHRISTOPHER BELMONT, FOI AQUELE QUE OUVIU OS GRITOS DO POVO. ARMADO COM O LENDÁRIO CHICOTE VAMPIRE KILLER, ELE INICIARÁ UMA JORNADA PARA CASTLEVANIA, A CASA ANCESTRAL DO PRÍNCIPE DAS TREVAS. SUA MISSÃO É BEM CLARA. ENVIE O CONDE DE VOLTA A SUA SEPULTURA ESCURA, PARA SALVAR O MUNDO DE SEU TORMENTO ETERNO.</desc>
+		<rating>0.8</rating>
+		<releasedate>19911031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1</players>
+		<hash>A29E5924</hash>
+		<image>./images/Super Castlevania IV (MSU-1).png</image>
+		<thumbnail>./cartart/Super Castlevania IV (MSU-1).png</thumbnail>
+		<video>./snap/Super Castlevania IV (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172242" source="ScreenScraper.fr">
+		<path>./Super Ghouls'n Ghosts (MSU-1).sfc</path>
+		<name>Super Ghouls'n Ghosts</name>
+		<desc>4 YEARS AFTER ARTHUR SAVED PRINCESS PRINPRIN FROM THE EVIL DEMON LOKI, A WONDERFUL CELEBRATION IS ABOUT TO TAKE PLACE! ARTHUR AND THE PRINCESS ARE ENGAGED, AND THE WEDDING IS TO TAKE PLACE AT LAST! THOUSANDS FROM AROUND THE KINGDOM HAVE COME TO WITNESS THIS JOYOUS EVENT!
+
+BUT SOMEWHERE IN THE DARKNESS OF THE FOREST LURKS A HORRIBLE EVIL...
+
+ARTHUR AND PRINPRIN ARE SPENDING A QUIET MOMENT LOCKED IN EMBRACE, WHEN SHE IS SUDDENLY SNATCHED AWAY BY A HUGE DEMON! AS HER SCREAMS ECHO THROUGH THE NIGHT, ARTHUR RUSHES FROM THE CASTLE, AND PURSUES THE DEMON TO THE GRAVEYARD, WHERE HE IS GREETED BY HUNDREDS OF HORRIBLE GHOULS AND MONSTERS!
+
+NOW, THIS TIME, THEY'VE GONE TOO FAR...ARTHUR IS READY FOR THEM...
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<hash>D04F0350</hash>
+		<image>./images/Super Ghouls'n Ghosts (MSU-1).png</image>
+		<thumbnail>./cartart/Super Ghouls'n Ghosts (MSU-1).png</thumbnail>
+		<video>./snap/Super Ghouls'n Ghosts (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172196" source="ScreenScraper.fr">
+		<path>./Super Mario Kart (MSU-1).sfc</path>
+		<name>Super Mario Kart</name>
+		<desc>A DIFERENÇA DESSE JOGO PARA OS DEMAIS JOGOS DE CORRIDA É A POSSIBILIDADE DE USAR UTENSÍLIOS E ATALHOS PARA VENCER A CORRIDA. AS PISTAS ESTÃO LOCALIZADAS EM LOCAIS BASTANTE INCOMUNS, COMO LAGOS, CASTELOS DE FOGO, ILHAS DE CHOCOLATE, ETC.
+SUPER MARIO KART TEM OITO PILOTOS DISPONÍVEIS, DIVIDIDOS DE ACORDO COM SUAS ESTATÍSTICAS: ACELERAÇÃO, VELOCIDADE, PESO E DIREÇÃO.
+O JOGO TEM QUATRO COPAS COM CINCO PISTAS CADA, TOTALIZANDO 20 PISTAS DE CORRIDA.
+O JOGO OFERECE UMA SÉRIE DE ITENS QUE PODEM SER USADOS PARA BENEFICIAR OU ATRAPALHAR OS CORREDORES, DEPENDENDO DA MANEIRA COMO SÃO USADOS. TODOS OS ITENS SÃO ADQUIRIDOS ATRAVÉS DE PLACAS "?".</desc>
+		<rating>0.8</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<hash>BD27EBC3</hash>
+		<image>./images/Super Mario Kart (MSU-1).png</image>
+		<thumbnail>./cartart/Super Mario Kart (MSU-1).png</thumbnail>
+		<video>./snap/Super Mario Kart (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172210" source="ScreenScraper.fr">
+		<path>./Super Mario World (MSU-1).sfc</path>
+		<name>Super Mario World</name>
+		<desc>APÓS SALVAR O MUSHROOM KINGDOM EM SUPER MARIO BROS 3. MARIO E LUIGI, MAIS UMA VEZ, EMBARCAM EM UMA AVENTURA PARA SALVAR A PRINCESA PEACH, QUE FOI CAPTURADA POR BOWSER ENQUANTO TIRAVA FÉRIAS EM DINOSAUR LAND. EM SUA MISSÃO DE SALVAMENTO MARIO E LUIGI ENCONTRAM YOSHI, UM DINOSSAURO QUE TEVE SEUS AMIGOS SEQUESTRADOS POR BOWSER E SEUS CAPANGAS. JUNTOS, MARIO, LUIGI E YOSHI DEVEM EXPLORAR DINOSAUR LAND - AGORA ENFESTADA E DOMINADA PELOS SERVOS DE BOWSER - COM A ESPERANÇA DE RESGATAR PEACH E OS AMIGOS DE YOSHI.
+
+SUPER MARIO WORLD, TAMBÉM CONHECIDO COMO SUPER MARIO BROS 4, CONTA COM MAIS DE NOVENTA FASES DISTRIBUÍDAS AO LONGO DE OITO REGIÕES. CADA REGIÃO TEM UMA TEMÁTICA ÚNICA COM DIFERENTE ITENS, SEGREDOS, CASTELOS E INIMIGOS. EMBARQUE COM MARIO, LUIGI E YOSHI EM MAIS UMA JORNADA CHEIA DE AVENTURAS E PERIGOS, SALVE OS HABITANTES DE DINOSAUR LAND E RESGATE A PRINCESA, MAIS UMA VEZ.</desc>
+		<rating>0.85</rating>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<hash>FAD224B9</hash>
+		<image>./images/Super Mario World (MSU-1).png</image>
+		<thumbnail>./cartart/Super Mario World (MSU-1).png</thumbnail>
+		<video>./snap/Super Mario World (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172171" source="ScreenScraper.fr">
+		<path>./Super Metroid (MSU-1).sfc</path>
+		<name>Super Metroid</name>
+		<desc>SUPER METROID IS A FOLLOW-UP TO METROID II, AND ONCE AGAIN FEATURES BOUNTY HUNTER SAMUS ARAN. SHE HEADS TO PLANET ZEBES IN ORDER TO HUNT DOWN THE LEADERS OF THE SPACE PIRATES, WHO KIDNAPPED AN UNIQUE METROID LARVA. 
+
+SUPER METROID IS A PLATFORM GAME, WHICH, LIKE THE PREVIOUS METROID GAMES, IS NOT DIVIDED INTO SEPARATE LEVELS; THE PLANET ZEBES IS AN OPEN WORLD WHICH SAMUS TRAVERSES BACK AND FORTH. THIS WORLD IS DIVIDED INTO ROOMS SEPARATED WITH DOORS WHICH MUST BE SHOT TO BE OPENED. SHOOTING IS ALSO USED TO OPEN UP SECRET PASSAGES, SOME OF WHICH CONTAIN NIFTY BONUSES, BUT FINDING MOST OF THEM IS REQUIRED TO PROCEED IN THE GAME. 
+
+THERE ARE MANY ITEMS TO FIND ON THE WAY, AND EACH NEW ITEM USUALLY MAKES HERETOFORE INACCESSIBLE AREAS AVAILABLE TO SAMUS. THE ITEMS INCLUDE BOTH WEAPONRY (SUCH AS MISSILES, SUPER MISSILES, OR UPGRADES TO SAMUS'S STANDARD LASER GUN), ENERGY TANKS THAT INCREASE SAMUS' MAX HEALTH, AND OTHER GADGETS (LIKE A GRAPPLING HOOK THAT ALLOWS SAMUS TO STICK TO THE CEILING). 
+
+THERE ARE VARIOUS ENEMIES - ALIEN FAUNA - LURKING AROUND PLANET ZEBES. THE ENEMIES ALL RESPAWN AFTER RE-ENTERING A ROOM, THOUGH SAMUS' INCREASING CAPABILITIES MEAN THAT THEY BECOME EASIER TO DEFEAT AS THE PLAYER MAKES PROGRESS. AFTER KILLING THEM, THE ENEMIES TYPICALLY LEAVE BEHIND SOME HEALTH OR AMMO.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<hash>4303663B</hash>
+		<image>./images/Super Metroid (MSU-1).png</image>
+		<thumbnail>./cartart/Super Metroid (MSU-1).png</thumbnail>
+		<video>./snap/Super Metroid (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172169" source="ScreenScraper.fr">
+		<path>./Super Road Blaster (MSU-1).sfc</path>
+		<name>Super Road Blaster</name>
+		<desc>YOU ASSUME THE ROLE OF A VIGILANTE WHO DRIVES A CUSTOMIZED SPORTS CAR IN ORDER TO BRING THE BIKER GANG RESPONSIBLE FOR YOUR WIFE'S DEATH TO JUSTICE. SUPER ROAD BLASTER IS THE FIRST GAME TO USE THE MSU-1, AN ENHANCEMENT DEVICE COMPARABLE TO SPECIAL CHIPS SUCH AS THE SUPER FX INCLUDED IN CERTAIN SNES CARTRIDGES. THIS GAME SHOWS WHAT TITLES ON THE ILL-FATED SNES CD-ROM DRIVE MIGHT HAVE LOOKED LIKE.</desc>
+		<rating>0</rating>
+		<releasedate>20120831T000000</releasedate>
+		<developer>homebrew</developer>
+		<publisher>homebrew</publisher>
+		<players>1</players>
+		<hash>70C07998</hash>
+		<image>./images/Super Road Blaster (MSU-1).png</image>
+		<thumbnail>./cartart/Super Road Blaster (MSU-1).png</thumbnail>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Super Spongebob Kart (MSU-1).sfc</path>
+		<name>Super Spongebob Kart (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172193" source="ScreenScraper.fr">
+		<path>./Super Turrican (MSU-1).sfc</path>
+		<name>Super Turrican</name>
+		<desc>SUPER TURRICAN IS THE NEXT GENERATION INSTALLMENT OF THE FAMOUS TURRICAN SERIES. ONCE AGAIN IT IS UP TO THE U.S.S. FREEDOM FORCES TO GET INTO THEIR TURRICAN ASSAULT SUITS AND DRIVE BACK THE FORCES OF "THE MACHINE".
+
+SIMILAR TO IT'S PREDECESSORS, SUPER TURICAN FEATURES LARGE LEVELS THAT ARE CRAMMED WITH SECRETS AND CAN BE EXPLORED FREELY AND IN ANY DIRECTION. TO GET RID OF THE NUMEROUS ENEMIES, TURRICAN CAN USE THREE UPGRADEABLE SHOTS: A SPREADSHOT, A POWERFUL LASER AND A REBOUND THAT BOUNCES OFF OF WALLS. ADDITIONALLY, THERE IS A FREEZE-BEAM THAT CAN BE USED TO TEMPORARILY FREEZE ENEMIES. IT IS FULLY ROTATABLE, AND THEREFOR ALSO A GREAT HELP IN DISCOVERING SECRET CAPSULES. THESE CAPSULES CONTAIN POWERUPS AND CAN OFTEN BE USED TO REACH SECRET AREAS. LAST BUT NOT LEAST, TURRICAN HAS THE ABILITY TO TRANSFORM INTO AN ENERGY WHEEL (AS LONG AS HE HAS ENOUGH SPECIAL ENERGY), WHICH ENABLES HIM TO LAY MINES AND EVEN MAKES HIM INVINCIBLE.</desc>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Factor 5 GmbH</developer>
+		<publisher>Kemco/Seika</publisher>
+		<players>1</players>
+		<hash>56B07F56</hash>
+		<image>./images/Super Turrican (MSU-1).png</image>
+		<thumbnail>./cartart/Super Turrican (MSU-1).png</thumbnail>
+		<video>./snap/Super Turrican (MSU-1).mp4</video>
+	</game>
+	<game id="172179" source="ScreenScraper.fr">
+		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).sfc</path>
+		<name>Teenage Mutant Ninja Turtles IV - Turtles in Time</name>
+		<desc>DOESN'T THIS SHREDDER DUDE EVER TAKE A BREAK? NOW HE'S GONE AND KIDNAPPED CHANNEL 6'S OWN REPORTER BABE APRIL O' NEILL AGAIN, AND JUST AS THE NINJA TURTLES WERE ABOUT TO KICK HIS BUTT, HE TORE OPEN SOME KINDA TIME PORTAL THINGY AND FLUNG THEM BACK INTO THE PAST!
+
+NOW LEONARDO, RAPHAEL, DONATELLO, AND MICHAELANGELO HAVE TO FIGHT THEIR WAY THROUGH TIME AND TONS OF FOOT SOLDIERS, MUTANT WACKOS, AND MORE IN ORDER TO SAVE APRIL AND SLAM SHREDDER'S BUTT ALL THE WAY TO DIMENSION X! GO, TURTLES! KICK SOME SHELL AND SAVE APRIL!
+</desc>
+		<rating>0.85</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+		<hash>71A7F520</hash>
+		<image>./images/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).png</image>
+		<thumbnail>./cartart/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).png</thumbnail>
+		<video>./snap/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172179" source="ScreenScraper.fr">
+		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).sfc</path>
+		<name>Teenage Mutant Ninja Turtles IV - Turtles in Time</name>
+		<desc>DOESN'T THIS SHREDDER DUDE EVER TAKE A BREAK? NOW HE'S GONE AND KIDNAPPED CHANNEL 6'S OWN REPORTER BABE APRIL O' NEILL AGAIN, AND JUST AS THE NINJA TURTLES WERE ABOUT TO KICK HIS BUTT, HE TORE OPEN SOME KINDA TIME PORTAL THINGY AND FLUNG THEM BACK INTO THE PAST!
+
+NOW LEONARDO, RAPHAEL, DONATELLO, AND MICHAELANGELO HAVE TO FIGHT THEIR WAY THROUGH TIME AND TONS OF FOOT SOLDIERS, MUTANT WACKOS, AND MORE IN ORDER TO SAVE APRIL AND SLAM SHREDDER'S BUTT ALL THE WAY TO DIMENSION X! GO, TURTLES! KICK SOME SHELL AND SAVE APRIL!
+</desc>
+		<rating>0.85</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+		<hash>71A7F520</hash>
+		<image>./images/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).png</image>
+		<thumbnail>./cartart/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).png</thumbnail>
+		<video>./snap/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="172197" source="ScreenScraper.fr">
+		<path>./Terranigma (MSU-1).sfc</path>
+		<name>Terranigma</name>
+		<desc>IN "TERRANIGMA", YOU PLAY A YOUNG BOY NAMED ARK. HE HAS GROWN UP IN HIS LITTLE VILLAGE, ISOLATED FROM THE OUTER WORLD BY A STREAM OF LAVA, AND HAS NEVER SEEN ANYTHING ELSE BESIDE IT. ONE DAY, HE AND SOME OTHER BOYS HEAR MYSTERIOUS VOICES COMING FROM BEYOND A DOOR THE VILLAGE ELDER FORBADE THEM TO OPEN. UNABLE TO RESIST THEIR CURIOSITY, THE BOYS OPEN THE DOOR, AND ARK FINDS A BOX WITH A STRANGE CREATURE INSIDE. BY OPENING THE BOX, ARK DAMAGES THE BALANCE BETWEEN TWO CO-EXISTING WORLDS, AND ALL THE VILLAGE PEOPLE ARE TURNED INTO STONES. NOW ARK HAS TO EMBARK ON A DANGEROUS JOURNEY - TO FIND FIVE TOWERS, AND TO SEEK THERE THE ANSWERS TO HIS QUESTIONS, AND TO LIBERATE HIS PEOPLE FROM A TERRIBLE CURSE.
+
+"TERRANIGMA" IS AN ACTION GAME WITH SLIGHT RPG ELEMENTS. ARK LEVELS UP AFTER HAVING COMPLETED AN IMPORTANT QUEST OR CLEARED OUT AN AREA. HE CAN ATTACK ENEMIES WITH VARIOUS WEAPONS, USING VARIOUS TECHNIQUES: PIERCE, LEAP, DASH, ETC. 
+
+THE GAME IS CLOSELY CONNECTED TO AND OFTEN REGARDED AS A PART OF A TRILOGY CREATED BY ENIX, THE FIRST TWO GAMES BEING SOUL BLAZER AND ILLUSION OF GAIA.</desc>
+		<rating>0.75</rating>
+		<releasedate>19951020T000000</releasedate>
+		<developer>Quintet Co., Ltd.</developer>
+		<publisher>Enix Corporation</publisher>
+		<players>1</players>
+		<hash>6BA94DF1</hash>
+		<image>./images/Terranigma (MSU-1).png</image>
+		<thumbnail>./cartart/Terranigma (MSU-1).png</thumbnail>
+		<video>./snap/Terranigma (MSU-1).mp4</video>
+	</game>
+	<game id="172247" source="ScreenScraper.fr">
+		<path>./Top Gear 3000 (MSU-1).sfc</path>
+		<name>Top Gear 3000</name>
+		<desc>THE LAST GAME OF THE TOP GEAR SERIES FOR THE SNES EXCEEDS ORDINARY DIMENSIONS AND GOES INTO OUTER SPACE. FACE THE CHALLENGES FOUND IN 48 EXCITING TRACKS AND BECOME THE BEST PILOT IN THE ENTIRE GALAXY! JUST LIKE THE PREVIOUS GAMES, TOP GEAR 3000 COMES WITH A PASSWORD SYSTEM THAT ALLOWS THE PLAYER TO CONTINUE A GAME IN PROGRESS. THE UPGRADE SYSTEM OF TOP GEAR 2 GAINED NEW BREATH AND NOW COMES WITH NEWLY DESIGNED PARTS: RANGING FROM TIRES TO ENGINES UP TO ATOMIC TURBOS! AS PLAYERS TRAVEL FROM ONE PLANET TO ANOTHER VIA SPACECRAFT, THEY RACE ON VARIOUS PLANETS IN DIFFERENT SYSTEMS, GETTING PROGRESSIVELY HARDER. THE PRIZE MONEY EARNED IN EACH RACE INCREASES AS DOES THE PRICE OF NEW CAR PARTS... MOREOVER, THE GAME COMES WITH A VERSUS MODE WHICH ALLOWS UP TO 4 PLAYERS TO RACE SIMULTANEOUSLY VIA SPLITSCREEN.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Kotobuki System</publisher>
+		<players>1-4</players>
+		<hash>824EA114</hash>
+		<image>./images/Top Gear 3000 (MSU-1).png</image>
+		<thumbnail>./cartart/Top Gear 3000 (MSU-1).png</thumbnail>
+		<video>./snap/Top Gear 3000 (MSU-1).mp4</video>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Top Gear Alternative Version (MSU-1).sfc</path>
+		<name>Top Gear Alternative Version (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Top Gear Horizon Chase (MSU-1).sfc</path>
+		<name>Top Gear Horizon Chase (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Top Gear Remastered (MSU-1).sfc</path>
+		<name>Top Gear Remastered (MSU-1)</name>
+		<desc />
+		<rating>0</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="172214" source="ScreenScraper.fr">
+		<path>./Wolfchild (MSU-1).sfc</path>
+		<name>Wolfchild</name>
+		<desc>DR. KAL MORROW, EXPERT IN GENETIC RESEARCH AND CREATION OF HUMAN-ANIMAL HYBRIDS, HAS BEEN KIDNAPPED AND HIS FAMILY BRUTALLY MURDERED BY THE TERRORIST ORGANIZATION CHIMERA. HIS SURVIVING SON SAUL TAKES IT UPON HIMSELF TO AVENGE HIS FAMILY. USING HIS FATHER'S RESEARCH, HE TURNS INTO A MAN-WOLF AND SETS OUT TO FIND CHIMERA'S BASE AND DEFEAT THEIR LEADER KARL DRAXX.
+
+AS SAUL, IT IS YOUR JOB TO TRAVERSE FIVE DIFFERENT AREAS ON YOUR WAY TO DRAXX. WHEN SAUL COLLECTS ENOUGH POWER-UPS, HE TURNS INTO HIS WOLF FORM AND GAINS A SPECIAL PSYCHIC SHOT ATTACK, WHICH CAN BE IMPROVED BY COLLECTING FUTHER POWER-UPS. HOWEVER, IF SAUL LOSES HEALTH, HE TURNS BACK INTO HIS HUMAN FORM AND ONLY HAS HIS FISTS TO FIGHT THE NUMEROUS ENEMIES.</desc>
+		<rating>0.45</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Virgin</publisher>
+		<players>1</players>
+		<hash>73EBE1C8</hash>
+		<image>./images/Wolfchild (MSU-1).png</image>
+		<thumbnail>./cartart/Wolfchild (MSU-1).png</thumbnail>
+	</game>
+	<game>
+		<path>./Top Gear 2 (MSU-1).sfc</path>
+		<name>Top Gear 2</name>
+		<desc>THIS THIRD-PERSON RACING GAME RESEMBLES GREMLIN'S EARLIER LOTUS SERIES, IN TERMS OF ITS GENERAL LOOK AND FEEL, RIGHT DOWN TO THE TEXT FONT USED IN THE GAME. YOUR TASK IS TO RACE THROUGH 16 COUNTRIES, EACH OF WHICH FEATURES FOUR RACES, WITH MANY REAL-WORLD CIRCUITS RECREATED IN INCONGRUOUS LOCATIONS (SUCH AS THE MONZA LAYOUT IN AYERS ROCK, AND THE OLD HOCKENHEIM IN VANCOUVER). 
+
+THESE FOUR-RACE BLOCKS EACH REPRESENT THEIR OWN MINI-CHAMPIONSHIP, IN WHICH YOU RACE AGAINST 19 CARS, NEEDING TO FINISH IN THE TOP 10 TO CONTINUE, AND WITH THE TOP 6 SCORING POINTS 10-6-4-3-2-1, AND THE RESPECTIVE AMOUNT OF MONEY IN THOUSANDS. THIS CAN BE SPENT ON VARIOUS UPGRADES, RANGING FROM ENGINE TO TIRES (WET AND DRY) AND FROM SHOCKS (FRONT, SIDE AND REAR) TO GEARBOXES. THE IDEAL APPROACH IS TO BUY THE MORE EXPENSIVE VERSIONS ASAP, AS YOU GET NO SAVING WHEN UPGRADING. IF YOU WIN THE FOUR-RACE CHAMPIONSHIP, YOU GET THE NEXT PASSWORD. 
+
+YOU GET A SET AMOUNT OF NITRO BOOST TO USE DURING EACH RACE, ALTHOUGH BONUS NITROS, MONEY AND INSTANT SPEED-UP TOKEN APPEAR ON MANY TRACKS. HAZARDS SUCH AS PUDDLES, BARRIERS AND RAMPS ARE ALSO FREQUENT.</desc>
+		<image>./images/Top Gear 2 (MSU-1).png</image>
+		<video>./snap/Top Gear 2 (MSU-1).mp4</video>
+		<thumbnail>./cartart/Top Gear 2 (MSU-1).png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>KEMCO U.S.A., INC.</publisher>
+		<players>1-2</players>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20190101T224121</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,2967 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<game id="29218" source="ScreenScraper.fr">
+		<path>./20Q (Europe).cso</path>
+		<name>20Q</name>
+		<desc>20Q ES LA ADAPTACIÓN EN PSP DE UN PEQUEÑO DISPOSITIVO ELECTRÓNICO CAPAZ DE ADIVINAR CON PRECISIÓN EL OBJETO O ANIMAL EN EL QUE ESTÁ PENSANDO. RESPONDE SÍ O NO A LAS 20 PREGUNTAS QUE SE TE HACEN Y SORPRÉNDETE CON LA MAGIA ADIVINATORIA DE TU CONSOLA!</desc>
+		<rating>0.65</rating>
+		<releasedate>20110420T000000</releasedate>
+		<hash>1463631D</hash>
+		<image>./images/20Q (Europe).png</image>
+		<thumbnail>./boxart/20Q (Europe).png</thumbnail>
+		<marquee>./marquee/20Q (Europe).png</marquee>
+		<video>./snap/20Q (Europe).mp4</video>
+	</game>
+	<game id="135412" source="ScreenScraper.fr">
+		<path>./2D Adventures of Rotating Octopus Character, The (USA).cso</path>
+		<name>2D Adventures of Rotating Octopus Character, The</name>
+		<desc>THE 2D ADVENTURES OF ROTATING OCTOPUS CHARACTER IS A PLATFORM GAME WITH A TWIST (A LOT OF TWISTING!). STICK TO EVERY SURFACE AND LEAP FROM WALL TO WALL AS YOU GRAB BABY OCTOPI AND AVOID EVIL HATS, FLYING KNIVES, EXPLODING WASABI AND A HOST OF OTHER MEANIES INTENT ON OCTOPUS DOOM.</desc>
+		<rating>0</rating>
+		<releasedate>20110516T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/2D Adventures of Rotating Octopus Character, The (USA).png</image>
+		<thumbnail>./boxart/2D Adventures of Rotating Octopus Character, The (USA).png</thumbnail>
+		<marquee>./marquee/2D Adventures of Rotating Octopus Character, The (USA).png</marquee>
+		<video>./snap/2D Adventures of Rotating Octopus Character, The (USA).mp4</video>
+		<developer>Dakko Dakko Ltd.</developer>
+		<publisher>Dakko Dakko Ltd.</publisher>
+	</game>
+	<game id="29070" source="ScreenScraper.fr">
+		<path>./3D Twist &amp; Match (USA).cso</path>
+		<name>3D Twist &amp; Match</name>
+		<desc>HOW QUICKLY CAN YOU ROTATE 3D OBJECTS TO MATCH THEIR SILHOUETTES? CHALLENGE YOUR SPATIAL VISUALIZATION SKILLS AND MAKE OPTIMAL MOVES TO BUILD COMBOS. WITH ITS INTUITIVE CONTROLS, 3D TWIST &amp; MATCH IS EASY TO PICK UP, YET ITS INTENSE, FRANTIC GAME PLAY WILL HAVE YOU COMING BACK AGAIN AND AGAIN. THE GAME FEATURES 10 THEMES: BEACH, HALLOWEEN, CHRISTMAS, JUNGLE, FOOD, VEHICLES, TOOLS, MUSIC, SPORTS AND ELECTRONICS. GAME MODES INCLUDE CLASSIC, RUSH AND PRACTICE. THERE ARE THREE LEVELS OF DIFFICULTY, 200 OBJECTS TO MATCH AND OODLES OF TROPHIES TO UNLOCK.</desc>
+		<rating>0</rating>
+		<releasedate>20110330T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/3D Twist &amp; Match (USA).png</image>
+		<thumbnail>./boxart/3D Twist &amp; Match (USA).png</thumbnail>
+		<marquee>./marquee/3D Twist &amp; Match (USA).png</marquee>
+		<video>./snap/3D Twist &amp; Match (USA).mp4</video>
+		<developer>Bulkypix</developer>
+		<publisher>Sanuk Games</publisher>
+	</game>
+	<game id="29290" source="ScreenScraper.fr">
+		<path>./5-in-1 Solitaire (USA).cso</path>
+		<name>5 in 1 Solitaire</name>
+		<desc>5 EN 1 SOLITARIO ES UN JUEGO DE CARTAS PARA DESCARGAR EN PSP. ESTE PROPONE 5 VARIACIONES DEL FAMOSO JUEGO DE SOLITARIO A JUGAR, NECESARIAMENTE, TODO SOLO DELANTE DE SU PANTALLA.</desc>
+		<rating>0</rating>
+		<releasedate>20111005T000000</releasedate>
+		<hash>61986F89</hash>
+		<image>./images/5-in-1 Solitaire (USA).png</image>
+		<thumbnail>./boxart/5-in-1 Solitaire (USA).png</thumbnail>
+		<marquee>./marquee/5-in-1 Solitaire (USA).png</marquee>
+		<video>./snap/5-in-1 Solitaire (USA).mp4</video>
+		<developer>Digital Leisure</developer>
+		<publisher>Digital Leisure</publisher>
+	</game>
+	<game id="28896" source="ScreenScraper.fr">
+		<path>./5-in-1 Arcade Hits (USA).cso</path>
+		<name>5-in-1 Arcade Hits</name>
+		<desc>5-IN-1 ARCADE HITS FROM GRIP GAMES IS MORE TRUTHFULLY DESCRIBED AS 4 CLASSIC OR TRADITIONAL GAMES AND 1 ARCADE GAME. ITÂS A BIT OF A PUZZLE WHY THEY CALLED IT THAT, BECAUSE IT SEEMS LIKE IT WOULD ATTRACT THE WRONG AUDIENCE, AND AT THE SAME TIME NOT ATTRACT THE AUDIENCE THAT WOULD MOST APPRECIATE THE GAME.
+YOU COULD ALSO MAKE A CASE ITÂS MORE THAN 5 GAMES, BECAUSE SOME OF THE ONE PLAYER VS TWO PLAYER VARIATIONS COULD BE ENOUGH TO BE CONSIDERED A WHOLE DIFFERENT GAME. REGARDLESS OF THE NAME, ITÂS AN INTRIGUING PACKAGE.</desc>
+		<rating>0</rating>
+		<releasedate>20100707T000000</releasedate>
+		<hash>CE414C47</hash>
+		<image>./images/5-in-1 Arcade Hits (USA).png</image>
+		<thumbnail>./boxart/5-in-1 Arcade Hits (USA).png</thumbnail>
+		<marquee>./marquee/5-in-1 Arcade Hits (USA).png</marquee>
+		<video>./snap/5-in-1 Arcade Hits (USA).mp4</video>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game id="28676" source="ScreenScraper.fr">
+		<path>./Age of Zombies (USA).cso</path>
+		<name>Age of Zombies</name>
+		<desc>IN THE AGE OF ZOMBIES, OUR HERO BARRY STEAKFRIES EMPLOYS THE USE OF TIME PORTALS TO STOP THE EVIL ZOMBIE SCHEME OF PROFESSOR BRAINS. USING A HUGE PILE OF WEAPONS AND EXPLOSIVES, STEAKFRIES IS THE REAL DEAL FOR BLOOD-SPLATTERING NEEDS. PLAYED AS A TOP-DOWN SHOOTER AND OFFERING STYLE AND FLAIR THROUGH HUMOR, INTENSE ACTION AND ZOMBIE BLASTING CARNAGE, AGE OF ZOMBIES PUTS STEAKFRIES UP AGAINST THE ZOMBIE MASSES AND SAYS, "GOOD LUCK!"</desc>
+		<rating>0.8</rating>
+		<releasedate>20100225T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Age of Zombies (USA).png</image>
+		<thumbnail>./boxart/Age of Zombies (USA).png</thumbnail>
+		<marquee>./marquee/Age of Zombies (USA).png</marquee>
+		<video>./snap/Age of Zombies (USA).mp4</video>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="28747" source="ScreenScraper.fr">
+		<path>./Alien Havoc (USA).cso</path>
+		<name>Alien Havoc</name>
+		<desc>ALIEN HAVOC IS A THROWBACK TO THE CLASSIC ARCADE GAME GENRE, PUTTING GAMERS IN COMMAND OF A LITTLE ALIEN WHO MUST PLUCK COWS FROM FARMS ON EARTH, LOAD THEM ONTO HIS SPACESHIP, AND BRING THEM BACK TO HIS HOME PLANET. THE FARMERS, HOWEVER, WON'T LET THEIR COWS GO WITHOUT A FIGHT. PLAYERS MUST TACKLE WRAPPING FARM MAZES OF CONFUSION, PLAY HIDE AND SNEAK UNDER THE COVER OF TALL GRASS, AND THROW VEGGIES, ROCKS, OR WHATEVER THEY CAN GET THEIR ALIEN CLAWS ON AT THE FARMERS AS THEY FIGHT TO BRING THESE VALUABLE LIVESTOCK BACK TO THEIR HOME WORLD.</desc>
+		<rating>0.8</rating>
+		<releasedate>20091001T000000</releasedate>
+		<hash>8C071DE3</hash>
+		<image>./images/Alien Havoc (USA).png</image>
+		<thumbnail>./boxart/Alien Havoc (USA).png</thumbnail>
+		<marquee>./marquee/Alien Havoc (USA).png</marquee>
+		<video>./snap/Alien Havoc (USA).mp4</video>
+		<developer>Creat Studios</developer>
+		<publisher>Creat Studios</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="28919" source="ScreenScraper.fr">
+		<path>./Alien Zombie Death (USA).cso</path>
+		<name>Alien Zombie Death</name>
+		<desc>SOMEWHERE FAR FAR AWAY IN A RANDOM SOLAR SYSTEM, A LONE SPACE MAN DIES... HORRIBLY. TAKE CONTROL OF SAID FATEFUL SPACE MAN AS HE BATTLES TO HIS END AGAINST THE DREADED ALIEN ZOMBIES! USING A STANDARD LASER GUN AND A FEW PICKUPS ALONG THE WAY, MAKE SURE YOU TAKE OUT AS MANY OF THOSE ALIEN ZOMBIE SUCKERS BEFORE THEY TAKE YOU DOWN. ITS THAT SIMPLE. IT'S ALIEN ZOMBIE DEATH.</desc>
+		<rating>0</rating>
+		<releasedate>20100325T000000</releasedate>
+		<hash>0DC60A55</hash>
+		<image>./images/Alien Zombie Death (USA).png</image>
+		<thumbnail>./boxart/Alien Zombie Death (USA).png</thumbnail>
+		<marquee>./marquee/Alien Zombie Death (USA).png</marquee>
+		<video>./snap/Alien Zombie Death (USA).mp4</video>
+		<developer>PomPom Games</developer>
+		<publisher>PomPom Games</publisher>
+		<players>1</players>
+	</game>
+	<game id="29119" source="ScreenScraper.fr">
+		<path>./Alpha Mission (USA).cso</path>
+		<name>Alpha Mission</name>
+		<desc>OUT BEYOND, IN THE GALAXY OF TETRENOVA, A WAR HAS BEEN FOUGHT THAT HAS EXHAUSTED RESOURCES AND EVEN WORLDS. THE SURVIVORS BAND TOGETHER AND LOOK FOR A NEW PLACE TO REBUILD. THEY CHOOSE A SEEMINGLY UNDEVELOPED PLANET, EARTH.
+
+USING YOUR DEFENSE SHIP 'SYD,' YOU MUST DESTROY THE INVADING FORCES AND GROUND TARGETS WITH BOMBS. OBTAIN POWER-UPS TO GAIN ENERGY FOR SHIP UPGRADES THAT ALLOW YOU TO TRANSFORM TO A MORE POWERFUL MACHINE. THE GAME ITSELF IS A VERTICAL SHOOTER, MOVING CONTINUOUSLY UP TOWARDS THE TOP OF THE SCREEN.</desc>
+		<rating>0</rating>
+		<releasedate>20110914T000000</releasedate>
+		<hash>DEFF0E4A</hash>
+		<image>./images/Alpha Mission (USA).png</image>
+		<thumbnail>./boxart/Alpha Mission (USA).png</thumbnail>
+		<marquee>./marquee/Alpha Mission (USA).png</marquee>
+		<video>./snap/Alpha Mission (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="143800" source="ScreenScraper.fr">
+		<path>./Ambassador Kane (Europe).cso</path>
+		<name>Ambassador Kane</name>
+		<desc>ASEGURE UN CAMINO SEGURO PARA EL EMBAJADOR KANE USANDO ROBOTS Y UN RIFLE DE FRANCOTIRADOR FIABLE PARA QUE PUEDA ALCANZAR Y HACKEAR TERMINALES PARA ABRIR LA PUERTA DE SALIDA EN CADA NIVEL.</desc>
+		<rating>0</rating>
+		<releasedate>20111214T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Ambassador Kane (Europe).png</image>
+		<thumbnail>./boxart/Ambassador Kane (Europe).png</thumbnail>
+		<marquee>./marquee/Ambassador Kane (Europe).png</marquee>
+		<video>./snap/Ambassador Kane (Europe).mp4</video>
+		<developer>60 Degrees North</developer>
+		<publisher>Playgroundsquad</publisher>
+	</game>
+	<game id="143803" source="ScreenScraper.fr">
+		<path>./Ancient Game Treasures Mill (USA).cso</path>
+		<name>Ancient Game Treasures Mill</name>
+		<desc>EL TABLERO ES CUADRADO, CON DOS CUADRADOS PROGRESIVAMENTE MÁS PEQUEÑOS EN EL CENTRO. EN CADA ESQUINA DE UN CUADRADO Y EN CADA PUNTO MEDIO DE UN LADO HAY UN PUNTO PARA UNA PIEZA DE JUEGO, 24 PUNTOS EN TOTAL.NNNNCADA JUGADOR TIENE 9 PIEZAS, PRESUMIBLEMENTE LOS "HOMBRES" EN EL NOMBRE INGLÉS, AUNQUE EN REALIDAD SON PIEDRAS O GUIJARROS DE COLORES (O QUIZÁS, SI JUEGAN A LA HORA DEL ALMUERZO, MUFFINS). LOS JUGADORES SE TURNAN PARA JUGAR UNA DE SUS ROCAS EN UN LUGAR VACÍO. UNA VEZ COLOCADAS TODAS LAS PIEZAS, LOS JUGADORES SE TURNAN PARA DESLIZAR SUS ROCAS ALREDEDOR DEL TABLERO. POR DESLIZAMIENTO, QUIERO DECIR QUE SÓLO PUEDEN MOVER UNA DE SUS PIEZAS A UN ESPACIO VACÍO ADYACENTE.</desc>
+		<rating>0</rating>
+		<releasedate>20110315T000000</releasedate>
+		<hash>46029FBF</hash>
+		<image>./images/Ancient Game Treasures Mill (USA).png</image>
+		<thumbnail>./boxart/Ancient Game Treasures Mill (USA).png</thumbnail>
+		<marquee>./marquee/Ancient Game Treasures Mill (USA).png</marquee>
+		<video>./snap/Ancient Game Treasures Mill (USA).mp4</video>
+		<developer>G1M2</developer>
+		<publisher>G1M2</publisher>
+	</game>
+	<game id="28005" source="ScreenScraper.fr">
+		<path>./Angry Birds (USA).cso</path>
+		<name>Angry Birds</name>
+		<desc>THE SURVIVAL OF THE ANGRY BIRDS IS AT STAKE. DISH OUT REVENGE ON THE GREEN PIGS WHO STOLE THE BIRDS' EGGS. USE THE UNIQUE DESTRUCTIVE POWERS OF THE ANGRY BIRDS TO LAY WASTE TO THE PIGS' FORTIFIED CASTLES. ANGRY BIRDS FEATURES HOURS OF GAMEPLAY, CHALLENGING PHYSICS-BASED CASTLE DEMOLITION, AND LOTS OF REPLAY VALUE. EACH OF THE 63 LEVELS REQUIRES LOGIC, SKILL, AND BRUTE FORCE TO CRUSH THE ENEMY.</desc>
+		<rating>0.85</rating>
+		<releasedate>20110112T000000</releasedate>
+		<hash>1F2168F2</hash>
+		<image>./images/Angry Birds (USA).png</image>
+		<thumbnail>./boxart/Angry Birds (USA).png</thumbnail>
+		<marquee>./marquee/Angry Birds (USA).png</marquee>
+		<video>./snap/Angry Birds (USA).mp4</video>
+		<developer>Rovio Mobile</developer>
+		<publisher>Chillingo</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="28996" source="ScreenScraper.fr">
+		<path>./Apache Overkill (USA).cso</path>
+		<name>Apache Overkill</name>
+		<desc>GUIDE YOUR CHOPPER IN THIS ACTION-PACKED SHOOT'EM UP GAME BASED ON THE POPULAR WEB GAME SERIES. COLLECT MISSILES, WEAPONS AND POWERUPS, TARGETTING ENEMY TANKS, TRUCKS, TROOPS, FIGHTER PLANES AND GROUND TROOPS.</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>3026EC4E</hash>
+		<image>./images/Apache Overkill (USA).png</image>
+		<thumbnail>./boxart/Apache Overkill (USA).png</thumbnail>
+		<marquee>./marquee/Apache Overkill (USA).png</marquee>
+		<video>./snap/Apache Overkill (USA).mp4</video>
+		<developer>Playerthree</developer>
+		<publisher>Asylum Entertainment</publisher>
+	</game>
+	<game id="29164" source="ScreenScraper.fr">
+		<path>./Aquattack! (USA).cso</path>
+		<name>Aquattack</name>
+		<desc>AQUATTACK ES UN JUEGO DE ROMPECABEZAS. SU OBJETIVO AQUÍ ES ALINEAR TRES O MÁS PECES DEL MISMO COLOR PARA HACERLOS DESAPARECER. POR SUPUESTO, TE CORRESPONDERÁ A TI PENSAR TUS MOVIMIENTOS PARA DESARROLLAR COMBOS.</desc>
+		<rating>0</rating>
+		<releasedate>20100707T000000</releasedate>
+		<hash>2AB3BFBA</hash>
+		<image>./images/Aquattack! (USA).png</image>
+		<thumbnail>./boxart/Aquattack! (USA).png</thumbnail>
+		<marquee>./marquee/Aquattack! (USA).png</marquee>
+		<video>./snap/Aquattack! (USA).mp4</video>
+		<developer>Mere Mortals</developer>
+		<publisher>Mere Mortals</publisher>
+	</game>
+	<game id="29045" source="ScreenScraper.fr">
+		<path>./Arcade Darts (USA).cso</path>
+		<name>Arcade Darts</name>
+		<desc>WITH AUTHENTIC DARTS PLAYING FEEL, PREPARE FOR FUN AS YOU CONTROL YOUR THROWS PRECISELY AND EASILY WITH. CHALLENGE OVER 20 DIFFERENT COMPUTER OPPONENTS WITH A RANGE OF PLAYING SKILLS OR PLAY AGAINST A FRIEND.</desc>
+		<rating>0</rating>
+		<releasedate>20100623T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Arcade Darts (USA).png</image>
+		<thumbnail>./boxart/Arcade Darts (USA).png</thumbnail>
+		<marquee>./marquee/Arcade Darts (USA).png</marquee>
+		<video>./snap/Arcade Darts (USA).mp4</video>
+	</game>
+	<game id="29142" source="ScreenScraper.fr">
+		<path>./Arcade Essentials Evolution (USA).cso</path>
+		<name>Arcade Essentials Evolution</name>
+		<desc>COMO OCURRIÓ CON SU PREDECESOR, ARCADE ESSENTIALS EVOLUTION ES UNA COLECCIÓN DE 5 JUEGOS ARCADE, NUEVAS VERSIONES DE LOS CLÁSICOS DE LAS RECREATIVAS DE LOS 80 QUE TODOS CONOCEMOS. CADA JUEGO SE COMPONE DE 50 NIVELES, ASÍ QUE HAY MUCHO TIEMPO DE JUEGO. HEMOS CREADO GRÁFICOS MINIMALISTAS CON UN MONTÓN DE EFECTOS ESPECIALES PARA CREAR LA SENSACIÓN DE ESTAR EN UN SALÓN RECREATIVO DE VERDAD.</desc>
+		<rating>0</rating>
+		<releasedate>20110914T000000</releasedate>
+		<hash>3D4DF1F7</hash>
+		<image>./images/Arcade Essentials Evolution (USA).png</image>
+		<thumbnail>./boxart/Arcade Essentials Evolution (USA).png</thumbnail>
+		<marquee>./marquee/Arcade Essentials Evolution (USA).png</marquee>
+		<video>./snap/Arcade Essentials Evolution (USA).mp4</video>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game id="29028" source="ScreenScraper.fr">
+		<path>./Arcade Essentials (USA).cso</path>
+		<name>Arcade Essentials</name>
+		<desc>RECOPILACIÓN DE CINCO DE LOS JUEGOS ARCADE CLÁSICOS MÁS POPULARES, TODOS ELLOS CON MEJORAS EN LA MECÁNICA DE JUEGO, EN EL APARTADO GRÁFICOS Y EN LOS EFECTOS DE SONIDO.</desc>
+		<rating>0.6</rating>
+		<releasedate>20101208T000000</releasedate>
+		<hash>D7C10D19</hash>
+		<image>./images/Arcade Essentials (USA).png</image>
+		<thumbnail>./boxart/Arcade Essentials (USA).png</thumbnail>
+		<marquee>./marquee/Arcade Essentials (USA).png</marquee>
+		<video>./snap/Arcade Essentials (USA).mp4</video>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game id="29212" source="ScreenScraper.fr">
+		<path>./Arcade Air Hockey &amp; Bowling (USA).cso</path>
+		<name>Arcade Sports : Bowling &amp; Air Hockey</name>
+		<desc>ARCADE AIR HOCKEY &amp; BOWLING OFFERS FULLY FEATURED 3D VERSIONS OF AIR HOCKEY &amp; BOWLING, WITH SMOOTH ANALOGUE CONTROL AND REALISTIC GAMEPLAY. WIN TROPHIES AND UNLOCK NEW EQUIPMENT IN THE WORLD TOUR CAREER MODE, OR CHALLENGE A FRIEND TO PLAY.</desc>
+		<rating>0</rating>
+		<releasedate>20100922T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Arcade Air Hockey &amp; Bowling (USA).png</image>
+		<thumbnail>./boxart/Arcade Air Hockey &amp; Bowling (USA).png</thumbnail>
+		<marquee>./marquee/Arcade Air Hockey &amp; Bowling (USA).png</marquee>
+		<video>./snap/Arcade Air Hockey &amp; Bowling (USA).mp4</video>
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+	</game>
+	<game id="29116" source="ScreenScraper.fr">
+		<path>./Archibald's Adventures (USA).cso</path>
+		<name>Archibald's Adventures</name>
+		<desc>HELP ARCHIE TO OVERCOME ALL OF THE PITFALLS OF A MAD SCIENTIST'S MANSION IN THIS FUNNY ACTION PUZZLE GAME! ARCHIE AND CRAZY PROFESSOR KLUMPFUS ARE STUCK IN THE PROFESSOR'S MANSION. THE LATEST EXPERIMENT OF THE GOOFY SCIENTIST WENT ALL WRONG, AND WEIRD LIFEFORMS ESCAPED FROM THEIR CONTAINMENT. NOW A PARANOID CENTRAL COMPUTER LOCKED BOTH HEROES UP!
+
+ARCHIBALD'S ADVENTURES OFFERS GAMEPLAY MIXED OF ACTION AND PUZZLE ELEMENTS WITH GRADUALLY RISING COMPLEXITY. THE PLAYER STARTS AS A BOY ON SKATEBOARD, BUT SOON HE WILL ROLL IN ROBOTIC VEHICLE CAPABLE OF RIDING ON WALLS AND CEILINGS, FLY ON JET DEVICE OR REMOTELY CONTROL MYSTERIOUS FLOATING BUBBLE ABLE TO SWITCH DISTANT MECHANISM OR TRANSPORT OBJECTS IN MANY TRICKY PUZZLES.</desc>
+		<rating>0</rating>
+		<releasedate>20100714T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Archibald's Adventures (USA).png</image>
+		<thumbnail>./boxart/Archibald's Adventures (USA).png</thumbnail>
+		<marquee>./marquee/Archibald's Adventures (USA).png</marquee>
+		<video>./snap/Archibald's Adventures (USA).mp4</video>
+		<developer>Rake In Grass</developer>
+		<publisher>Rake In Grass</publisher>
+	</game>
+	<game id="29165" source="ScreenScraper.fr">
+		<path>./Arctic Adventures - Polar's Puzzles (USA).cso</path>
+		<name>Arctic Adventures : Polar's Puzzles</name>
+		<desc>PLAY AS POLAR IN 50 BRAND NEW BRAIN-FREEZING PUZZLES FROM THE ICY NORTH ON THE ICETRUCK TO THE EXPLOSIVE OIL RIG LEVELS. WILL YOU FIND YOURSELF ALL AT SEA ON THE BOAT PUZZLES OR CAN YOU PROVE YOU ARE SMARTER THAN THE AVERAGE BEAR?</desc>
+		<rating>0.9</rating>
+		<releasedate>20100721T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Arctic Adventures - Polar's Puzzles (USA).png</image>
+		<thumbnail>./boxart/Arctic Adventures - Polar's Puzzles (USA).png</thumbnail>
+		<marquee>./marquee/Arctic Adventures - Polar's Puzzles (USA).png</marquee>
+		<video>./snap/Arctic Adventures - Polar's Puzzles (USA).mp4</video>
+		<developer>Eiconic Games</developer>
+		<publisher>Eiconic Games</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29249" source="ScreenScraper.fr">
+		<path>./Athena (USA).cso</path>
+		<name>Athena</name>
+		<desc>JOIN ATHENA, PRINCESS OF THE KINGDOM OF VICTORY AS SHE OPENS THE "FORBIDDEN DOOR" AND DESCENDS INTO A WORLD OF FANTASY IN THIS CLASSIC PLATFORM ARCADE GAME ORIGINALLY RELEASED IN 1986.</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>5B144248</hash>
+		<image>./images/Athena (USA).png</image>
+		<thumbnail>./boxart/Athena (USA).png</thumbnail>
+		<marquee>./marquee/Athena (USA).png</marquee>
+		<video>./snap/Athena (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="135731" source="ScreenScraper.fr">
+		<path>./BABEL - The King of the Blocks (USA).cso</path>
+		<name>Babel - The King Of The Blocks</name>
+		<desc>BUILD YOUR EMPIRE AND BECOME THE KING.
+
+- PUT YOUR BUILDING SKILLS TO THE TEST AND CREATE YOUR OWN KINGDOM MADE OUT OF BLOCKS.
+- PLACE FALLING PIECES IN THE RIGHT POSITION AT THE RIGHT TIME TO CREATE AMAZING BUILDINGS.
+- CHALLENGE YOURSELF TO OVER 50 LEVELS IN THREE EXCITING GAME MODES AND BECOME KING OF THE BLOCKS</desc>
+		<rating>0</rating>
+		<hash>00000000</hash>
+		<image>./images/BABEL - The King of the Blocks (USA).png</image>
+		<thumbnail>./boxart/BABEL - The King of the Blocks (USA).png</thumbnail>
+		<marquee>./marquee/BABEL - The King of the Blocks (USA).png</marquee>
+		<video>./snap/BABEL - The King of the Blocks (USA).mp4</video>
+		<developer>StormBASIC S.L.</developer>
+		<publisher>StormBASIC S.L.</publisher>
+	</game>
+	<game id="144027" source="ScreenScraper.fr">
+		<path>./Basha Baloot (Europe).cso</path>
+		<name>Basha Baloot</name>
+		<desc>BASHA BALOOT TRAE EL POPULAR JUEGO DE NAIPES DE ROBAR A LA PLATAFORMA MINIS. ÚNETE AL JUEGO IA Y JUEGA CONTRA EL EQUIPO RIVAL EN ESTE JUEGO DE INGENIO Y ESTRATEGIA. EL JUEGO PONE AL JUGADOR EN UNA ATMÓSFERA DE JUEGO CON VIEJOS AMIGOS, CON RICOS Y ARABESCOS GRÁFICOS QUE PROVIENEN DE LOS TRADICIONALES TABLEROS DE JUEGO Y MESAS DE LA REGIÓN ÁRABE. EL JUEGO REALISTA SE REALZA AÚN MÁS POR UNA BANDA SONORA RELAJANTE, Y TODO ELLO EN CONJUNTO PROPORCIONA HORAS DE DIVERSIÓN SIN FIN!</desc>
+		<rating>0</rating>
+		<releasedate>20110302T000000</releasedate>
+		<hash>0EF27DFD</hash>
+		<image>./images/Basha Baloot (Europe).png</image>
+		<thumbnail>./boxart/Basha Baloot (Europe).png</thumbnail>
+		<marquee>./marquee/Basha Baloot (Europe).png</marquee>
+		<video>./snap/Basha Baloot (Europe).mp4</video>
+		<developer>Quirkat</developer>
+		<publisher>Quirkat</publisher>
+	</game>
+	<game id="144028" source="ScreenScraper.fr">
+		<path>./Basha Card Game Collection (Europe).cso</path>
+		<name>Basha Card Game Collection</name>
+		<desc>UNA COMPILACIÓN DE LOS SIGUIENTES JUEGOS DE CARTAS:
+BASHA BALOOT
+BASHA TARNEEB
+BASHA TRIX</desc>
+		<rating>0</rating>
+		<releasedate>20110119T000000</releasedate>
+		<hash>4F412F98</hash>
+		<image>./images/Basha Card Game Collection (Europe).png</image>
+		<thumbnail>./boxart/Basha Card Game Collection (Europe).png</thumbnail>
+		<marquee>./marquee/Basha Card Game Collection (Europe).png</marquee>
+		<video>./snap/Basha Card Game Collection (Europe).mp4</video>
+		<developer>Quirkat</developer>
+		<publisher>Quirkat</publisher>
+	</game>
+	<game id="144029" source="ScreenScraper.fr">
+		<path>./Basha Tarneeb (Europe).cso</path>
+		<name>Basha Tarneeb</name>
+		<desc>BASHA TARNEEB Y LAS OTRAS ENTRADAS DE LA SERIE BASHA SON VERSIONES DE VIDEOJUEGOS DE JUEGOS DE CARTAS POPULARES EN ORIENTE MEDIO Y ÁFRICA DEL NORTE. CUALQUIERA QUE NO ESTÉ FAMILIARIZADO CON ESTOS JUEGOS PODRÍA CONFUNDIRSE A LO GRANDE LA PRIMERA VEZ. ENTRE LOS TRES TÍTULOS DE QUIRKAT BASHA, BASHA TARNEEB ES EN REALIDAD EL MÁS SENCILLO.</desc>
+		<rating>0</rating>
+		<releasedate>20110119T000000</releasedate>
+		<hash>F0323939</hash>
+		<image>./images/Basha Tarneeb (Europe).png</image>
+		<thumbnail>./boxart/Basha Tarneeb (Europe).png</thumbnail>
+		<marquee>./marquee/Basha Tarneeb (Europe).png</marquee>
+		<video>./snap/Basha Tarneeb (Europe).mp4</video>
+		<developer>Quirkat</developer>
+		<publisher>Quirkat</publisher>
+	</game>
+	<game id="144030" source="ScreenScraper.fr">
+		<path>./Basha Trix (Europe).cso</path>
+		<name>Basha Trix</name>
+		<desc>TRAE A TARNEEB A UN NUEVO PLANO ESTRATÉGICO CON UN NUEVO CONJUNTO DE REGLAS Y CONDICIONES. MIENTRAS QUE BASHA TARNEEB ES UN CONCURSO DE REPETICIONES, BASHA TRIX TE MANTIENE ALERTA CON NUMEROSAS REGLAS. ESTA VEZ, EL TEMIDO MODO DE JUEGO "EN EQUIPO" NO ESTÁ PRESENTE. BASHA TRIX ES UN JUEGO DE CARTAS SIN PAREJAS. AÚN ASÍ, EL ESQUEMA DE CONTROL SIGUE SIENDO EL MISMO, CON X PARA JUGAR UNA CARTA, TRIÁNGULO PARA VOLVER, CUADRADO PARA VER EL REGISTRO DE TRUCOS DE TODA LA MESA Y CÍRCULO PARA VER LAS CARTAS JUGADAS DE LA ÚLTIMA RONDA.</desc>
+		<rating>0</rating>
+		<releasedate>20110119T000000</releasedate>
+		<hash>EDAE630B</hash>
+		<image>./images/Basha Trix (Europe).png</image>
+		<thumbnail>./boxart/Basha Trix (Europe).png</thumbnail>
+		<marquee>./marquee/Basha Trix (Europe).png</marquee>
+		<video>./snap/Basha Trix (Europe).mp4</video>
+		<developer>Quirkat</developer>
+		<publisher>Quirkat</publisher>
+	</game>
+	<game id="144035" source="ScreenScraper.fr">
+		<path>./Battle Poker (USA).cso</path>
+		<name>Battle Poker</name>
+		<desc>BATTLE POKER IS A PUZZLE GAME IN WHICH YOU BATTLING AGAINST THE CPU AND CLOCK TO MAKE THE BEST ARRANGEMENT OF FIVE-CARD HANDS POSSIBLE. 
+THERE ARE TWO MODES: SHUFFLE UP ÂN DEAL WITH IT, IN WHICH YOU ARRANGE THE FIVE-BY-FIVE GRID OF CARDS TO MAKE TEN OF THE BEST POSSIBLE POKER HANDS, AND CHAIN REACTION, WHERE YOU SIMPLY HAVE TO MAKE AS MANY FIVE-CARD POKER HANDS WITHIN THE TIME LIMIT BY SELECTING INDIVIDUAL ADJACENT CARDS WITH X AND THEN PRESSING X AGAIN TO CAPTURE THE HAND.
+
+BATTLES ARE PLAYED ACROSS MULTIPLE ROUNDS WITH POINTS SCORED FOR EACH ROUND BASED ON THE QUALITY OF THE HANDS.</desc>
+		<rating>0</rating>
+		<releasedate>20090720T000000</releasedate>
+		<hash>372AA4AC</hash>
+		<image>./images/Battle Poker (USA).png</image>
+		<thumbnail>./boxart/Battle Poker (USA).png</thumbnail>
+		<marquee>./marquee/Battle Poker (USA).png</marquee>
+		<video>./snap/Battle Poker (USA).mp4</video>
+		<developer>Left Field Productions</developer>
+		<publisher>Left Field Productions</publisher>
+	</game>
+	<game id="29183" source="ScreenScraper.fr">
+		<path>./Beach Buzzin' Chopper (Europe).cso</path>
+		<name>Beach Buzzin' Chopper</name>
+		<desc>YOU CONTROL A BEACH-SPORTS CHOPPER THAT IS BUZZIN' PRIVATE BEACHES FOR BIKINI BABES AND HANDSOME HUNKS. SOME OF THE BABES AND HUNKS ARE ALREADY TAKEN BUT OTHERS ARE HAPPY TO CLIMB ON BOARD! AVOID THE ANGERED BEACH BODIES WHOSE SQUEEZES YOU'VE STOLEN AS THEY PURSUE YOU IN JET PACKS AND BEACH BUGGIES ARMED WITH RUBBER BULLETS TRYING TO GET THEIR FAVOURITE HONEY OR DUDE BACK. IF YOUÂRE SUCCESSFUL, YOU GET TO PARTY WITH THE MOST BEAUTIFUL GIRLS OR HUNKY GUYS ON THE BEACH!</desc>
+		<rating>0</rating>
+		<releasedate>20100929T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Beach Buzzin' Chopper (Europe).png</image>
+		<thumbnail>./boxart/Beach Buzzin' Chopper (Europe).png</thumbnail>
+		<marquee>./marquee/Beach Buzzin' Chopper (Europe).png</marquee>
+		<video>./snap/Beach Buzzin' Chopper (Europe).mp4</video>
+		<developer>Asylum Entertainment</developer>
+		<publisher>Asylum Entertainment</publisher>
+	</game>
+	<game id="29012" source="ScreenScraper.fr">
+		<path>./Beam 'em Up (USA).cso</path>
+		<name>Beam 'Em Up</name>
+		<desc>BEAM'EM UP IS A DOWNLOADABLE ACTION/PUZZLE GAME FOR PSP IN WHICH THE PLAYER IS CAST IN THE ROLE OF A SPACE SCIENTIST, PILOTING A SPACESHIP WITH THE GOAL OF ACQUIRING AND COLLECTING ALIEN SPECIMENS FROM VARIOUS PLANETS AND ENVIRONMENTS. THANKS TO LUSH ENVIRONMENTS STYLED IN 1950S SCI-FI VISUALS, AN ACCURATE 2D PHYSICS SYSTEM, ADDICTIVE PUZZLE GAMEPLAY, AND COLLECTION MECHANICS, BEAT'EM UP IS HOMAGE TO THE CLASSIC ERA OF VIDEOGAMES, REVISITED WITH CONTEMPORARY LOOK AND FEEL.</desc>
+		<rating>0</rating>
+		<releasedate>20091210T000000</releasedate>
+		<hash>B7A88B6B</hash>
+		<image>./images/Beam 'em Up (USA).png</image>
+		<thumbnail>./boxart/Beam 'em Up (USA).png</thumbnail>
+		<marquee>./marquee/Beam 'em Up (USA).png</marquee>
+		<video>./snap/Beam 'em Up (USA).mp4</video>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game id="144040" source="ScreenScraper.fr">
+		<path>./Bee Wars (Europe).cso</path>
+		<name>Bee Wars</name>
+		<desc>BEE WARS ES UN HÍBRIDO DE ESTRATEGIA BASADA EN TURNOS Y GESTIÓN DE RECURSOS. TU OBJETIVO ES CONTROLAR UN GRUPO DE ABEJAS QUE TIENEN DIFERENTES HABILIDADES Y RECOGER MÁS MIEL QUE LOS ENEMIGOS EN UN NIVEL DADO, ¡PERO TEN CUIDADO! LAS ABEJAS OPOSITORAS ATACARÁN A SUS OBREROS Y LAS ABEJAS LADRONAS ROBARÁN LA MIEL DE SU COLMENA. USTED DEBE OPTAR POR ELIMINARLOS A TODOS ELLOS O SUPERARLOS RECOGIENDO MÁS MIEL HASTA QUE TODOS LOS MOVIMIENTOS SE AGOTAN.
+ELABORAR ESTRATEGIAS, ASEGURANDO A TUS ABEJAS OBRERAS DE LAS ABEJAS NINJA OPONENTES Y RECOGIENDO MIEL DE LAS ABEJAS LADRONAS OPONENTES. AL MISMO TIEMPO, TAMBIÉN PUEDE CONTRARRESTAR CON TU PROPIO LADRÓN Y ABEJAS NINJA PARA INCAPACITAR SU COLECCIÓN Y GANAR VENTAJA.</desc>
+		<rating>0</rating>
+		<releasedate>20111026T000000</releasedate>
+		<hash>F738FA47</hash>
+		<image>./images/Bee Wars (Europe).png</image>
+		<thumbnail>./boxart/Bee Wars (Europe).png</thumbnail>
+		<marquee>./marquee/Bee Wars (Europe).png</marquee>
+		<video>./snap/Bee Wars (Europe).mp4</video>
+		<developer>GameShastra Solutions Pvt Ltd</developer>
+		<publisher>GameShastra Solutions Pvt Ltd</publisher>
+	</game>
+	<game id="29336" source="ScreenScraper.fr">
+		<path>./Bermuda Triangle (USA).cso</path>
+		<name>Bermuda Triangle</name>
+		<desc>PILOT A HUGE ZIG AIRCRAFT, AND COMMAND UP TO THREE SYD ESCORT FIGHTERS AS YOU BATTLE AGAINST UNIDENTIFIED ENEMIES THROUGH SPACE-TIME WARPS, TRAVELING FURTHER AND FURTHER BACK INTO THE PAST IN THIS SHOOTER RELEASED BY SNK.</desc>
+		<rating>0</rating>
+		<releasedate>20120215T000000</releasedate>
+		<hash>439AC2B4</hash>
+		<image>./images/Bermuda Triangle (USA).png</image>
+		<thumbnail>./boxart/Bermuda Triangle (USA).png</thumbnail>
+		<marquee>./marquee/Bermuda Triangle (USA).png</marquee>
+		<video>./snap/Bermuda Triangle (USA).mp4</video>
+		<developer>Bulkypix</developer>
+		<publisher>Bulkypix</publisher>
+		<players>1</players>
+	</game>
+	<game id="144041" source="ScreenScraper.fr">
+		<path>./Best of Solitaire (USA).cso</path>
+		<name>Best Of Solitaire</name>
+		<desc>THIS IS A COLLECTION OF SEVERAL SOLITAIRE GAMES INCLUDING FREECELL, SPIDER, PYRAMID, AND KLONDIKE. PLAYERS CAN CHOOSE FROM A VARIETY OF BACKGROUND IMAGES (E.G., DESERTS, BEACHES, AND SUNSETS) TO USE DURING THE GAME.</desc>
+		<rating>0</rating>
+		<releasedate>20110517T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Best of Solitaire (USA).png</image>
+		<thumbnail>./boxart/Best of Solitaire (USA).png</thumbnail>
+		<marquee>./marquee/Best of Solitaire (USA).png</marquee>
+		<video>./snap/Best of Solitaire (USA).mp4</video>
+		<developer>Cosmigo</developer>
+		<publisher>Cosmigo</publisher>
+	</game>
+	<game id="29080" source="ScreenScraper.fr">
+		<path>./Block Cascade Fusion (USA).cso</path>
+		<name>Block Cascade Fusion</name>
+		<desc>BLOCK CASCADE FUSION ES UN ROMPECABEZAS. EL OBJETIVO DEL JUEGO: COMPILAR BLOQUES DE COLOR UTILIZANDO LOS BLOQUES QUE CAEN DESDE LA PARTE SUPERIOR DE LA PANTALLA. UNA VEZ QUE EL CRONÓMETRO SE HAYA DETENIDO, LA FUSIÓN COMENZARÁ A REMOVER LAS LÍNEAS DE BLOQUES.</desc>
+		<rating>0</rating>
+		<releasedate>20100602T000000</releasedate>
+		<hash>1588D630</hash>
+		<image>./images/Block Cascade Fusion (USA).png</image>
+		<thumbnail>./boxart/Block Cascade Fusion (USA).png</thumbnail>
+		<marquee>./marquee/Block Cascade Fusion (USA).png</marquee>
+		<video>./snap/Block Cascade Fusion (USA).mp4</video>
+		<developer>Gamelion Studios</developer>
+		<publisher>Gamelion Studios</publisher>
+	</game>
+	<game id="28719" source="ScreenScraper.fr">
+		<path>./Bloons TD (USA).cso</path>
+		<name>Bloons TD</name>
+		<desc>ACHIEVE TOTAL BLOON POPPING SATISFACTION WITH BLOONSÂ® TD. THIS REALLY IS CLASSIC TD AT ITS BEST. WITH A MULTITUDE OF TOWERS AND WEAPONS AT YOUR DISPOSAL CAN YOU POP ALL OF THE BLOONS BEFORE THEY ESCAPE? BATTLE YOUR WAY THROUGH 50 CHALLENGING LEVELS AND 8 EXCITING TRACKS AS YOUR ARMY OF MONKEYS DEFEND THE NEVER ENDING WAVE OF BLOONS. UPGRADE TOWERS AND TRAPS TO DEFEAT THE ENEMY AND EARN THE GOLD MEDALS TO BECOME THE TD MASTER!</desc>
+		<rating>0.8</rating>
+		<releasedate>20100623T000000</releasedate>
+		<hash>A5396474</hash>
+		<image>./images/Bloons TD (USA).png</image>
+		<thumbnail>./boxart/Bloons TD (USA).png</thumbnail>
+		<marquee>./marquee/Bloons TD (USA).png</marquee>
+		<video>./snap/Bloons TD (USA).mp4</video>
+		<developer>Digital Goldfish</developer>
+		<publisher>Digital Goldfish</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29270" source="ScreenScraper.fr">
+		<path>./Bloons (USA).cso</path>
+		<name>Bloons</name>
+		<desc>IN BLOONS, THE PLAYER ASSUMES THE ROLE OF A MONKEY SITTING ON A PLATFORM IN THE CLOUDS ATTEMPTING TO POP AS MANY BALLOONS AS POSSIBLE. THE PLAYER USES THE TOUCH SCREEN OF THE IPHONE OR IPOD TOUCH IN ORDER TO AIM THE PRIMATE'S THROW AND INDICATE ITS VELOCITY; LETTING GO OF THE TOUCH SCREEN THROWS THE DART AND PHYSICS TAKES ITS COURSE. EACH LEVEL HAS A MINIMUM NUMBER OF BALLOONS THAT MUST BE POPPED BEFORE PROGRESSING TO THE NEXT LEVEL.
+
+IN ADDITION TO THE STANDARD BALLOONS, VARIOUS LEVELS HAVE SPECIAL BALLOONS, SUCH AS A BALLOON WITH EXTRA DARTS, A TACK-FILLED BALLOON WHICH WILL POP ALL NEARBY BALLOONS IF IT IS BURST, AND BALLOONS CONTAINING BOOMERANGS (USEFUL FOR TRICKY BALLOON-POPPING MANEUVERS). DIFFERENT LEVELS ALSO HAVE VARYING OBSTACLES WHICH MUST BE OVERCOME AS PART OF THE PUZZLE, SUCH AS BLOCKS WHICH MIGHT BE DESTRUCTIBLE WITH A DART.</desc>
+		<rating>0</rating>
+		<releasedate>20091001T000000</releasedate>
+		<hash>D1DD7335</hash>
+		<image>./images/Bloons (USA).png</image>
+		<thumbnail>./boxart/Bloons (USA).png</thumbnail>
+		<marquee>./marquee/Bloons (USA).png</marquee>
+		<video>./snap/Bloons (USA).mp4</video>
+		<developer>Hands-on Mobile</developer>
+		<publisher>Hands-on Mobile</publisher>
+		<players>1</players>
+	</game>
+	<game id="29100" source="ScreenScraper.fr">
+		<path>./Boom Beats (USA).cso</path>
+		<name>Boom Beats</name>
+		<desc>BOOM BEATS IS AN ADDICTIVE RHYTHM GAME WHICH LETS YOU ENTER COMPELLING WORLDS FULL OF CLUB TUNES: DRUM AND BASS, JUNGLE, DUB STEP, RAVE AND HOUSE. ALL YOU NEED TO DO IS TAP THE RHYTHM AND EARN SCORE. USE MULTIPLIERS, UNLOCKS, SPECIAL POWERS AND MORE. HEADPHONES RECOMMENDED.</desc>
+		<rating>0.7</rating>
+		<releasedate>20101027T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Boom Beats (USA).png</image>
+		<thumbnail>./boxart/Boom Beats (USA).png</thumbnail>
+		<marquee>./marquee/Boom Beats (USA).png</marquee>
+		<video>./snap/Boom Beats (USA).mp4</video>
+		<developer>Gamelion Studios</developer>
+		<publisher>Gamelion Studios</publisher>
+	</game>
+	<game id="144068" source="ScreenScraper.fr">
+		<path>./BounceBack (Europe).cso</path>
+		<name>Bounce Back</name>
+		<desc>BOUNCEBACK ES UN EMOCIONANTE JUEGO DE PLATAFORMAS/PUZLE 2D SOBRE UNA PELOTA HINCHABLE LLAMADA LANOS QUE CON EL TIEMPO HA PERDIDO SU REBOTE! CONTROLA A LANOS EN UNA BÚSQUEDA PARA RECUPERAR EL CONTROL, RESOLVER ACERTIJOS Y SUPERAR OBSTÁCULOS EN 28 NIVELES QUE INVITAN A LA REFLEXIÓN. VIAJE MÁS Y MÁS ALTO A TRAVÉS DE VARIAS ÁREAS PROGRESIVAMENTE DESAFIANTES PARA LLEVAR A LANOS DE VUELTA A SU MUNDO NATAL EN LA LUNA! RECOJA LOS REBOTE MÁGICOS PARA LLENAR SU BOUNCEBAR Y OBTENER UN POCO DE AIRE SERIO! A LO LARGO DEL CAMINO, HAZTE AMIGO DE UNA GRAN CANTIDAD DE MEMORABLES PERSONAJES DE APOYO PARA AYUDAR EN LA RESOLUCIÓN DE ROMPECABEZAS, CADA UNO CON HABILIDADES ESPECIALES ÚNICAS A TU DISPOSICIÓN. ¿TIENES LO QUE SE NECESITA PARA REBOTAR HASTA LAS ESTRELLAS? PONTE TU GORRA PENSANTE Y DESCÁRGATE AHORA MISMO ESTE TÍTULO DE PUZZLE!</desc>
+		<rating>0</rating>
+		<releasedate>20120912T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/BounceBack (Europe).png</image>
+		<thumbnail>./boxart/BounceBack (Europe).png</thumbnail>
+		<marquee>./marquee/BounceBack (Europe).png</marquee>
+		<video>./snap/BounceBack (Europe).mp4</video>
+		<developer>Steel Minions</developer>
+		<publisher>Steel Minions</publisher>
+	</game>
+	<game id="29313" source="ScreenScraper.fr">
+		<path>./Bowling 3D (USA).cso</path>
+		<name>Bowling 3D</name>
+		<desc>TAKE THE SENSATION OF HITTING THE LANES TO ANOTHER DIMENSION WITH BOWLING 3D FOR PSP. YOU MIGHT EVEN FEEL LIKE YOU NEED TO RENT SOME SHOES. SEE THE ALLEY SPRING TO LIFE IN MULTIPLE IMMERSIVE 3D ENVIRONMENTS. THEN EXPERIENCE AN EXTRA DIMENSION OF AUTHENTICITY WITH THE GAME'S INNOVATIVE PHYSICS AND MECHANICS. CONTROL THE BALL'S DIRECTION AND THE FORCE BEHIND YOUR STROKE. USE THE SPIN METER TO ADD ACTION. FIND YOUR GROOVE WITH STRIKE AFTER STRIKE, OR FINESS YOUR SHOT FOR A CLUTCH SPARE. CHALLENGE UP TO FOUR FRIENDS WITH A VARIETY OF PASS 'N PLAY MODES. OR BWOL LIKE A PRO IN FIVE SINGLE-PLAYER MODES, INCLUDING QUICK PLAY, SPARE-O-THON, AND THE EXCLUSIVE STRIKE-O-THON. BETWEEN FRAMES, WATCH REPLAYS OF YOUR SLICKEST SHOTS FROM UP TO FIVE ANGLES. TRACK STATS, EARN ACHIEVEMENTS, AND WIN AWARDS.</desc>
+		<rating>0.75</rating>
+		<releasedate>20091222T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Bowling 3D (USA).png</image>
+		<thumbnail>./boxart/Bowling 3D (USA).png</thumbnail>
+		<marquee>./marquee/Bowling 3D (USA).png</marquee>
+		<video>./snap/Bowling 3D (USA).mp4</video>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+	</game>
+	<game id="29268" source="ScreenScraper.fr">
+		<path>./Brainpipe (USA).cso</path>
+		<name>Brainpipe : A Plunge to Unhumanity</name>
+		<desc>BRAINPIPE: UNA ZAMBULLIDA A LA DESHUMANIDAD EN PSP ES UN JUEGO ATÍPICO. AHORA SE EMBARCAN EN UNA SUCESIÓN DE TUBOS MULTICOLORES E HIPNÓTICOS. SU OBJETIVO ES EVITAR OBSTÁCULOS MIENTRAS RECOGE GLIFOS PARA AUMENTAR SU PUNTUACIÓN.</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Brainpipe (USA).png</image>
+		<thumbnail>./boxart/Brainpipe (USA).png</thumbnail>
+		<marquee>./marquee/Brainpipe (USA).png</marquee>
+		<video>./snap/Brainpipe (USA).mp4</video>
+		<developer>Hands-on Mobile</developer>
+		<publisher>Hands-on Mobile</publisher>
+	</game>
+	<game id="29363" source="ScreenScraper.fr">
+		<path>./Brick Breaker (USA).cso</path>
+		<name>Brick Breaker</name>
+		<desc>BRICK BREAKER ES UN ROMPELADRILLOS. EL JUEGO INCLUYE 50 NIVELES EN MODO CLÁSICO, 12 NIVELES EN MODO DE DOBLE PALETA, DOCENAS DE BONOS INUSUALES, UN LANZADOR DE COHETES, BOLAS REBOTADORAS, UNA PLATAFORMA QUE SE DESLIZA Y UNA PANTALLA QUE TE VOLVERÁ LOCO!</desc>
+		<rating>0.5</rating>
+		<releasedate>20100728T000000</releasedate>
+		<hash>B48881FD</hash>
+		<image>./images/Brick Breaker (USA).png</image>
+		<thumbnail>./boxart/Brick Breaker (USA).png</thumbnail>
+		<marquee>./marquee/Brick Breaker (USA).png</marquee>
+		<video>./snap/Brick Breaker (USA).mp4</video>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game id="29076" source="ScreenScraper.fr">
+		<path>./Bubble Trubble (USA).cso</path>
+		<name>Bubble Trubble</name>
+		<desc>BUBBLE TRUBBLE IS A DYNAMIC NEW TWIST TO FALLING PUZZLE GAMES THAT LETS PLAYERS ROTATE AND DROP CLUSTERS OF COLORED BUBBLES, MATCHING COLORS TO FUSE THEM TOGETHER AND GROW THEM UNTIL THEY BURST. BE SURE TO COMBINE MATCHED COLORED BUBBLES TOGETHER BEFORE RUNNING OUT OF ROOM. TO AVOID ANY TRUBBLE, YOU'VE GOTTA BURST YOUR BUBBLE! THREE ZANY CARTOON ANIMAL GUIDES REACT TO PLAYERS PERFORMANCES AS THEY PRESENT EACH LEVEL AND ITS UNIQUE ENVIRONMENT'S CHALLENGE. BE SURE TO WATCH OUT FOR THE POWER BUBBLES THAT MAY ENHANCE OR IMPEDE YOUR PERFORMANCE.</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>3FFB76CA</hash>
+		<image>./images/Bubble Trubble (USA).png</image>
+		<thumbnail>./boxart/Bubble Trubble (USA).png</thumbnail>
+		<marquee>./marquee/Bubble Trubble (USA).png</marquee>
+		<video>./snap/Bubble Trubble (USA).mp4</video>
+		<developer>Creat Studios</developer>
+		<publisher>Creat Studios</publisher>
+		<players>1</players>
+	</game>
+	<game id="144073" source="ScreenScraper.fr">
+		<path>./Bunny Dodge (USA).cso</path>
+		<name>Bunny Dodge</name>
+		<desc>OLVÍDATE DE TODOS LOS JUEGOS DE ESQUIVAR CON LOS QUE HAS JUGADO! BUNNY DODGE HA LLEGADO PARA ENCADENARTE A TU DISPOSITIVO PARA SIEMPRE! NN¡NUESTRO MUNDO SE ESTÁ DESMORONANDO! SÓLO ESTE PODEROSO CONEJITO PUEDE AYUDAR A RESTAURAR EL CONTINUO ESPACIO-TIEMPO! NNSALVA EL MUNDO CON SMOKIE! EVITA LA CAÍDA DE BLOQUES EN LABERINTOS IMPRESIONANTES, DIFÍCILES Y DESAFIANTES!</desc>
+		<rating>0</rating>
+		<releasedate>20110331T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Bunny Dodge (USA).png</image>
+		<thumbnail>./boxart/Bunny Dodge (USA).png</thumbnail>
+		<marquee>./marquee/Bunny Dodge (USA).png</marquee>
+		<video>./snap/Bunny Dodge (USA).mp4</video>
+		<developer>Skylon Games</developer>
+		<publisher>Skylon Games</publisher>
+	</game>
+	<game id="29321" source="ScreenScraper.fr">
+		<path>./Burnin' Rubber (USA).cso</path>
+		<name>Burnin' Rubber</name>
+		<desc>BUMP 'N' JUMP IS AN ACTION RACING GAME PLAYED FROM A TOP DOWN POINT OF VIEW. AS YOU RACE THROUGH THE TREACHEROUS AND EVER CHANGING ROADWAYS, THE NUMEROUS ENEMY CARS WILL BE TRYING TO BUMP YOU OFF THE ROAD. YOU NEED TO MAKE SURE YOU BUMP THE CARS OUT OF THE WAY BEFORE YOU GET BUMPED AND CRASH INTO THE SIDES YOURSELF! YOUR CAR ALSO HAS THE ABILITY TO JUMP QUITE HIGH IF YOU HAVE ENOUGH SPEED. THIS IS USEFUL TO JUMP OVER ENEMY CARS IF THERE ARE TOO MANY IN THE WAY, AND MUST ALSO BE USED TO JUMP GAPS IN THE ROADWAY AND OTHER HIGHWAY OBSTACLES. AS THE LEVELS PROGRESS, THE ROAD BECOMES NARROWER WITH MORE OBSTACLES IN THE WAY, AND THE OTHER CARS INCREASE IN NUMBER AND IN AGGRESSIVENESS.</desc>
+		<rating>0.2</rating>
+		<releasedate>20100622T000000</releasedate>
+		<hash>1019E68D</hash>
+		<image>./images/Burnin' Rubber (USA).png</image>
+		<thumbnail>./boxart/Burnin' Rubber (USA).png</thumbnail>
+		<marquee>./marquee/Burnin' Rubber (USA).png</marquee>
+		<video>./snap/Burnin' Rubber (USA).mp4</video>
+		<developer>Course</developer>
+		<publisher>Course</publisher>
+	</game>
+	<game id="144076" source="ScreenScraper.fr">
+		<path>./Busy Sweets Factory (USA).cso</path>
+		<name>Busy Sweets Factory</name>
+		<desc>MAKE THE SWEETS AS FAST AS YOU CAN IN THIS SIMPLE LITTLE PUZZLER. YOU ARE IN CHARGE OF PREPARING DESSERTS FOR CUSTOMERS AS THEY ROLL OFF A SWEETS FACTORY ASSEMBLY LINE, SO APPLY THE FROSTING, WHIPPED CREAM AND DECORATIONS AS FAST AS YOU CAN TO MAKE THOSE TASTY TREATS READY FOR CUSTOMERS.</desc>
+		<rating>0</rating>
+		<releasedate>20100511T000000</releasedate>
+		<hash>E442C161</hash>
+		<image>./images/Busy Sweets Factory (USA).png</image>
+		<thumbnail>./boxart/Busy Sweets Factory (USA).png</thumbnail>
+		<marquee>./marquee/Busy Sweets Factory (USA).png</marquee>
+		<video>./snap/Busy Sweets Factory (USA).mp4</video>
+		<developer>Sony Computer Entertainment America, Inc.</developer>
+		<publisher>Sony Computer Entertainment America, Inc.</publisher>
+	</game>
+	<game id="28652" source="ScreenScraper.fr">
+		<path>./Canabalt (USA).cso</path>
+		<name>Canabalt</name>
+		<desc>CANABALT ES UN JUEGO DE PLATAFORMAS. JUEGAS EL PAPEL DE UN JOVEN EN UNA CIUDAD RECIENTEMENTE DEVASTADA POR UN TERREMOTO. EL OBJETIVO DEL JUEGO ES CORRER EN LAS CALLES DURANTE EL MAYOR TIEMPO POSIBLE, EVITANDO LOS DIVERSOS OBSTÁCULOS QUE BLOQUEAN SU CAMINO.</desc>
+		<rating>0.45</rating>
+		<releasedate>20120314T000000</releasedate>
+		<hash>06BD6A44</hash>
+		<image>./images/Canabalt (USA).png</image>
+		<thumbnail>./boxart/Canabalt (USA).png</thumbnail>
+		<marquee>./marquee/Canabalt (USA).png</marquee>
+		<video>./snap/Canabalt (USA).mp4</video>
+		<developer>Semi Secret Software</developer>
+		<publisher>Semi Secret Software</publisher>
+	</game>
+	<game id="29279" source="ScreenScraper.fr">
+		<path>./Card Shark (USA).cso</path>
+		<name>Card Shark</name>
+		<desc>CARD SHARK AUMENTA LA APUESTA PRESENTANDO LOS SIGUIENTES JUEGOS CLÁSICOS: SOLITAIRE, TEXAS HOLD' EM, FIVE CARD DRAW, BLACKJACK Y HIGHER OR LOWER. ¿CREES QUE PUEDES GANAR MUCHO DINERO Y SACAR UN BENEFICIO? ¡BUENO, VE AL CASINO Y PRUÉBATELO TÚ MISMO!</desc>
+		<rating>0</rating>
+		<releasedate>20101124T000000</releasedate>
+		<hash>1C9A7F8B</hash>
+		<image>./images/Card Shark (USA).png</image>
+		<thumbnail>./boxart/Card Shark (USA).png</thumbnail>
+		<marquee>./marquee/Card Shark (USA).png</marquee>
+		<video>./snap/Card Shark (USA).mp4</video>
+		<developer>Midas Interactive</developer>
+		<publisher>Midas Interactive</publisher>
+	</game>
+	<game id="28987" source="ScreenScraper.fr">
+		<path>./Caterpillar (USA).cso</path>
+		<name>Caterpillar</name>
+		<desc>CATERPILLAR IS A FAST-PACED, ARCADE GAME THAT PITS YOU AGAINST RELENTLESS CATERPILLARS. TAKE A STAND AGAINST AN ARMY OF PESTS IN CATERPILLAR! CLICK AND ELIMINATE GROUPS OF MATCHING TILES TO PREVENT THE TRICKY INSECTS FROM REACHING THE FINISH LINE. DISSOLVE ENOUGH TILES WHILE KEEPING THE BUGS AT BAY AND YOUÂLL ADVANCE TO THE NEXT LEVEL. YOU CAN DOUBLE THE CHALLENGE IN PAIRS MODE AND STOP TWO PESTS FROM ZIGZAGGING AWAY IN OPPOSITE DIRECTIONS. RACE MODE AND CONUNDRUM MODE WILL PRESENT PLAYERS WITH A WHOLE NEW SET OF TWISTS AND CHALLENGES FOR HOURS OF ADDITIONAL GAMEPLAY. WITH FOUR DIFFERENT GAME MODES TO CHOOSE FROM AND HUNDREDS OF LEVELS TO PLAY, CATERPILLAR WILL KEEP REFLEXES SHARP AND GIVE PLAYERS A MENTAL BOOST.</desc>
+		<rating>0</rating>
+		<releasedate>20100901T000000</releasedate>
+		<hash>9AF3C1B3</hash>
+		<image>./images/Caterpillar (USA).png</image>
+		<thumbnail>./boxart/Caterpillar (USA).png</thumbnail>
+		<marquee>./marquee/Caterpillar (USA).png</marquee>
+		<video>./snap/Caterpillar (USA).mp4</video>
+		<developer>TikGames</developer>
+		<publisher>TikGames</publisher>
+	</game>
+	<game id="144083" source="ScreenScraper.fr">
+		<path>./Championship Manager 2010 Express (Europe).cso</path>
+		<name>Championship Manager 2010 Express</name>
+		<desc>CHAMPIONSHIP MANAGER 2010 ES OTRA ACTUALIZACIÓN DE TEMPORADA PARA LA SERIE CHAMPIONSHIP MANAGER. COMO NOVEDAD EN LA SERIE, EL JUEGO UTILIZA UN MODELO DE NEGOCIO "PAY-WHAT-WHAT-YOU-WANT" PARA LOS PEDIDOS PREVIOS, DE MODO QUE LOS JUGADORES PUEDEN DECIDIR POR SÍ MISMOS QUÉ PAGAR POR EL JUEGO. LOS JUGADORES ASUMEN EL PAPEL DE ENTRENADOR DE UN CLUB DE FÚTBOL Y REALIZAN TAREAS COMO ENTRENAR A JUGADORES, MANEJAR TRANSFERENCIAS, EXPLORAR TALENTOS Y DECIDIR ESTRATEGIAS DE JUEGO. LAS ESTADÍSTICAS DEL JUGADOR Y DEL EQUIPO SE ACTUALIZAN EL 31 DE JULIO, PERO LOS PARCHES REGULARES LO ACTUALIZARÁN AÚN MÁS.</desc>
+		<rating>0</rating>
+		<releasedate>20090911T000000</releasedate>
+		<hash>788FF00F</hash>
+		<image>./images/Championship Manager 2010 Express (Europe).png</image>
+		<thumbnail>./boxart/Championship Manager 2010 Express (Europe).png</thumbnail>
+		<marquee>./marquee/Championship Manager 2010 Express (Europe).png</marquee>
+		<video>./snap/Championship Manager 2010 Express (Europe).mp4</video>
+		<developer>Beautiful Game Studios</developer>
+		<publisher>Eidos Interactive Ltd.</publisher>
+	</game>
+	<game id="135732" source="ScreenScraper.fr">
+		<path>./Charge! Tank Squad (USA).cso</path>
+		<name>Charge! Tank Squad</name>
+		<desc>UN ASALTO MONSTRUOSO ESTÁ TENIENDO LUGAR EN SU SISTEMA PSP® Y DEPENDE DE TI, EL COMANDANTE DEL TANQUE, PARA ELIMINAR LAS FUERZAS INVASORAS IMPLACABLES DEL ENEMIGO. DEBES PERMANECER EN ALERTA CONSTANTE YA QUE ESTOS EJÉRCITOS SON ASTUTOS Y CAMBIARÁN SU ESTILO DE ATAQUE PARA DOMINARTE. DESPLIEGA TODO TIPO DE ARMAS Y TOMA EL PODER EN UNA CRUZADA PARA SALVAR TU BASE ANTES DE QUE TU ENERGÍA Y TUS FONDOS SE ACABEN!</desc>
+		<rating>0</rating>
+		<releasedate>20100422T000000</releasedate>
+		<hash>F1C5E3F2</hash>
+		<image>./images/Charge! Tank Squad (USA).png</image>
+		<thumbnail>./boxart/Charge! Tank Squad (USA).png</thumbnail>
+		<marquee>./marquee/Charge! Tank Squad (USA).png</marquee>
+		<video>./snap/Charge! Tank Squad (USA).mp4</video>
+		<developer>Sony Computer Entertainment America, Inc.</developer>
+		<publisher>Sony Computer Entertainment America, Inc.</publisher>
+	</game>
+	<game id="29135" source="ScreenScraper.fr">
+		<path>./Circles, Circles, Circles (USA).cso</path>
+		<name>Circles, Circles, Circles</name>
+		<desc>THE GAME IDEA OF THE CIRCLES IS INSPIRED FROM A WAR STRATEGY CALLED ÂCHAKRAVIGUAÂ DESCRIBED IN THE INDIAN EPIC MAHABHARATA. THE SANSKRIT WORD CHAKRAVIGUA MEANS CIRCLE STRATEGY WHERE A BATTALION FORMS A CIRCLE AROUND THE KING TO PROTECT HIM.
+
+CIRCLE PUZZLE IS DESIGNED IN SIMILAR FASHION. THE PLAYERÂS CIRCLES (BLUE SMALL CIRCLES) ARE DISTRIBUTED IN BORDER OF BIG CIRCLE WHERE THE OBJECTIVE IS TO MOVE THE BLUE CIRCLE TOWARD ZERO TO CONQUER IT. DEFENDING PLAYERÂS CIRCLES (ORANGE SMALL CIRCLES) ARE DISTRIBUTED AROUND THE GOLDEN ZERO WHERE THE OBJECT IS TO DESTROY THE ALL THE BLUE CIRCLES. 
+
+MOVING THE CIRCLE AROUND WORKS BASED ON SIMPLE LOGIC WHICH DESCRIBED IN GAME MECHANICS SECTION. THE PLAYER CAN DESTROY THE OPPONENT CIRCLES USING SIMPLE MATH SKILLS LIKE (5+3 =?), (4-2 =?). 
+
+FEATURES
+Â¢	THREE DIFFICULTY MODES (EASY, MEDIUM &amp; HARD). 
+Â¢	40 LEVELS IN EACH MODE 
+Â¢	120 TOTAL LEVELS</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>0E1D3C24</hash>
+		<image>./images/Circles, Circles, Circles (USA).png</image>
+		<thumbnail>./boxart/Circles, Circles, Circles (USA).png</thumbnail>
+		<marquee>./marquee/Circles, Circles, Circles (USA).png</marquee>
+		<video>./snap/Circles, Circles, Circles (USA).mp4</video>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game id="29318" source="ScreenScraper.fr">
+		<path>./Coconut Dodge (USA).cso</path>
+		<name>Coconut Dodge</name>
+		<desc>COCONUT DODGE IS AN ARCADE GAME IN WHICH A PLAYER MUST DODGE FALLING COCONUTS, WEAVE THROUGH AIRBORNE MAZES AND PLAY BEACH BALL KEEPY-UPPY TO COLLECT GIANT SHINY TREASURES. THE GAME STARTS QUITE EASY AND GRADUALLY RAMPS UP TO INSANE LEVELS OF COCO-BULLET ACTION.
+
+WHAT MAKES THE GAME ADDICTIVE IS THE COMBINATION OF THE PREDICTABLE MAZES AND THE RANDOM COCONUTS AND BEACH BALLS. IT MAKES THE EXPERIENCE SIMILAR TO A RACING GAME, WHERE THE FIRST FEW ATTEMPTS AT A NEW TRACK ARE DIFFICULT, BUT ONCE YOUVE LEARNT THE TRACK, YOU CAN HONE YOUR MOVEMENTS TO PERFECTION WHILST CONFIDENTLY DEALING WITH THE OTHER CARS.
+
+COCONUT DODGE WORKS IN A SIMILAR WAY AS YOU LEARN TO MEMORISE AND MASTER THE MAZES. MOST OF THE MAZES IN THE GAME HAVE TWO DIFFERENT ROUTES; ONE THAT IS NICE AND EASY, AND ONE THAT IS MORE DIFFICULT. THE DIFFICULT ROUTE ALWAYS HAS MORE VALUABLE TREASURE IN IT. SO, WHEN YOU COME ACROSS A MAZE YOU CAN GET THROUGH IT QUITE EASILY, WHICH MAKES THE GAME SUITABLE FOR SOME QUICK CASUAL PLAY ON THE BUS. HOWEVER, TO GET THE MOST TREASURE AND A HIGH SCORE, YOU HAVE TO LEARN SOME PRETTY COMPLEX MOVEMENTS THAT REQUIRE GOOD RHYTHM AND VERY HIGH PRECISION.</desc>
+		<rating>0</rating>
+		<releasedate>20100519T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Coconut Dodge (USA).png</image>
+		<thumbnail>./boxart/Coconut Dodge (USA).png</thumbnail>
+		<marquee>./marquee/Coconut Dodge (USA).png</marquee>
+		<video>./snap/Coconut Dodge (USA).mp4</video>
+		<developer>FuturLab</developer>
+		<publisher>FuturLab</publisher>
+	</game>
+	<game id="29248" source="ScreenScraper.fr">
+		<path>./Cohort Chess (USA).cso</path>
+		<name>Cohort Chess</name>
+		<desc>COHORT CHESS ES UN JUEGO DE AJEDREZ DISPONIBLE EN LA PLAYSTATION STORE. CON UN DISEÑO ÚNICO, ESTE TÍTULO LE OFRECE LA OPORTUNIDAD DE AFINAR SU SENTIDO TÁCTICO UTILIZANDO ESTE FAMOSO JUEGO DE MESA Y LOS DIVERSOS MODOS DE JUEGO OFRECIDOS.</desc>
+		<rating>0</rating>
+		<releasedate>20110607T000000</releasedate>
+		<hash>48D7ED5C</hash>
+		<image>./images/Cohort Chess (USA).png</image>
+		<thumbnail>./boxart/Cohort Chess (USA).png</thumbnail>
+		<marquee>./marquee/Cohort Chess (USA).png</marquee>
+		<video>./snap/Cohort Chess (USA).mp4</video>
+		<developer>Cohort Studios</developer>
+		<publisher>Cohort Studios</publisher>
+	</game>
+	<game id="135733" source="ScreenScraper.fr">
+		<path>./Crime Spree (Europe).cso</path>
+		<name>Crime Spree</name>
+		<desc>YO! I GOT A "JOB" FOR YOU, IF YOU KNOW WHAT I MEAN. THE GODFATHER NEEDS A FAVOR FOR THE MAFIA. I NEED YOU TO DRIVE A GETAWAY CAR, COLLECT CASH, AND OUTRUN SOME COPS THATÂLL BE CHASING YOU. RACE THROUGH THE CITY AS FAST AS YOU CAN AND FIND SOME LOOT THAT SOME OF MY BOYS LEFT HANGING AROUND. THE COPS ARE ONTO US SO YOUÂRE GUNNA HAVE SOME HEAT ON YOU. I MEAN A LOT OF HEAT. BUT DONÂT WORRY, MY COUSIN JOHNNY LEFT SOME OIL CANS AND A FEW OTHER 'TINGS LAYING AROUND FOR YOUSE TO USE. JUST REMEMBER, YOUR GETAWAY CAR IS ALWAYS IN MOTION SO MAKE SURE THE COPS DON'T GET YOU CORNERED! GOT IT! NOW GET 'OTTA HERE!</desc>
+		<rating>0</rating>
+		<releasedate>20110215T000000</releasedate>
+		<hash>15EDDA8C</hash>
+		<image>./images/Crime Spree (Europe).png</image>
+		<thumbnail>./boxart/Crime Spree (Europe).png</thumbnail>
+		<marquee>./marquee/Crime Spree (Europe).png</marquee>
+		<video>./snap/Crime Spree (Europe).mp4</video>
+		<developer>GameShastra Solutions Pvt Ltd</developer>
+		<publisher>GameShastra Solutions Pvt Ltd</publisher>
+	</game>
+	<game id="29158" source="ScreenScraper.fr">
+		<path>./Cubixx (USA).cso</path>
+		<name>Cubixx</name>
+		<desc>CUBIXX HD IS A PUZZLE GAME DEVELOPED BY UK-BASED STUDIO LAUGHING JACKAL RELEASED ON THE PLAYSTATION NETWORK IN EUROPE ON AUGUST 17, 2011 [1] AND SEPTEMBER 20, 2011 IN NORTH AMERICA.[2] IT IS THE HD SEQUEL TO CUBIXX, A 2009 PLAYSTATION MINI TITLE.</desc>
+		<rating>0.65</rating>
+		<releasedate>20091222T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Cubixx (USA).png</image>
+		<thumbnail>./boxart/Cubixx (USA).png</thumbnail>
+		<marquee>./marquee/Cubixx (USA).png</marquee>
+		<video>./snap/Cubixx (USA).mp4</video>
+		<developer>Laughing Jackal</developer>
+		<publisher>Laughing Jackal</publisher>
+	</game>
+	<game id="29096" source="ScreenScraper.fr">
+		<path>./D-Cube Planet (USA).cso</path>
+		<name>D-Cube Planet</name>
+		<desc>THE GOAL OF THE GAME IS TO MOVE THE ALIEN TO ITS DESTINATION. THE ALIEN IS TRAPPED IN AN ARRAY OF CUBES. THE PLAYER CAN MOVE THE ALIEN AND THE CUBES. THE ALIEN CAN BE MOVED IN ALL FOUR DIRECTIONS BASED ON EMPTY SPACES AVAILABLE AROUND HIM. CUBES CAN BE MOVED ONLY IN THE DIRECTIONS INDICATED BY THE ARROW MARKS ON THE CUBES. SO THE PLAYER HAS TO MOVE THE ALIEN AND THE CUBES WISELY TO MAKE PATH FOR THE ALIEN TO COLLECT THE SPARE PARTS AND OTHER INTERESTING ELEMENTS IN THE WORLD. 
+
+FEATURES 
+Â¢	THREE DIFFICULTY MODE (EASY, MEDIUM &amp; HARD)
+Â¢	40 LEVELS IN EACH MODE 
+Â¢	TOTALLY 120 LEVELS</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>14E0E99C</hash>
+		<image>./images/D-Cube Planet (USA).png</image>
+		<thumbnail>./boxart/D-Cube Planet (USA).png</thumbnail>
+		<marquee>./marquee/D-Cube Planet (USA).png</marquee>
+		<video>./snap/D-Cube Planet (USA).mp4</video>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+		<players>1</players>
+	</game>
+	<game id="29396" source="ScreenScraper.fr">
+		<path>./Deflector (USA).cso</path>
+		<name>Deflector</name>
+		<desc>DEFLECTOR ES UN JUEGO DE REFLEJO SOBRE PSP EN EL QUE ES NECESARIO REALIZAR MUCHAS DEFLEXIONES SOBRE LÁSERES PARA QUE LLEGUEN AL RECEPTOR DE SU COLOR CON EL FIN DE QUE SÓLO SE HAGAN ESPEJOS Y PRISMAS QUE ES NECESARIO ADQUIRIR CON EL PRESUPUESTO LIMITADO QUE TIENE EL JUGADOR AL PRINCIPIO DE CADA NIVEL, LO QUE AUMENTA SIGNIFICATIVAMENTE LA DIFICULTAD.	NN</desc>
+		<rating>0</rating>
+		<releasedate>20100114T000000</releasedate>
+		<hash>2224EEAF</hash>
+		<image>./images/Deflector (USA).png</image>
+		<thumbnail>./boxart/Deflector (USA).png</thumbnail>
+		<marquee>./marquee/Deflector (USA).png</marquee>
+		<video>./snap/Deflector (USA).mp4</video>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game id="29435" source="ScreenScraper.fr">
+		<path>./Denki Blocks! (USA).cso</path>
+		<name>Denki Blocks!</name>
+		<desc>¡DENKI BLOCKS! ES UN JUEGO DE PUZZLE DISPONIBLE EN LA PLAYSTATION STORE'S PLAYSTATION PORTABLE. NO TE FÍES DE SU ASPECTO BONITO Y COLORIDO PORQUE ESTE DENKI BLOCKS! TE LAVARÁN EL CEREBRO. EL CONCEPTO BÁSICO ES SIMPLE, PERO LA DIFICULTAD RADICA EN SUPERAR LOS PRIMEROS NIVELES.</desc>
+		<rating>0.75</rating>
+		<releasedate>20110126T000000</releasedate>
+		<hash>D11D10B9</hash>
+		<image>./images/Denki Blocks! (USA).png</image>
+		<thumbnail>./boxart/Denki Blocks! (USA).png</thumbnail>
+		<marquee>./marquee/Denki Blocks! (USA).png</marquee>
+		<video>./snap/Denki Blocks! (USA).mp4</video>
+		<developer>Tiger Games Limited</developer>
+		<publisher>Tiger Games Limited</publisher>
+	</game>
+	<game id="145106" source="ScreenScraper.fr">
+		<path>./Digi-Tiles (USA).cso</path>
+		<name>Digi-tiles</name>
+		<desc>DESAFÍA TUS HABILIDADES PARA RESOLVER ACERTIJOS EN ESTE JUEGO BASADO EN MATEMÁTICAS COMPLETANDO FÓRMULAS PARA ELIMINAR FICHAS. LOS MODOS DE JUEGO INCLUYEN EL MODO ESTÁNDAR CON 99 ROMPECABEZAS, Y UN MODO DE SUPERVIVENCIA SIN PARAR.</desc>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<hash>6D250787</hash>
+		<image>./images/Digi-Tiles (USA).png</image>
+		<thumbnail>./boxart/Digi-Tiles (USA).png</thumbnail>
+		<marquee>./marquee/Digi-Tiles (USA).png</marquee>
+		<video>./snap/Digi-Tiles (USA).mp4</video>
+		<developer>Sony Computer Entertainment Japan</developer>
+		<publisher>Sony Computer Entertainment Japan</publisher>
+	</game>
+	<game id="29251" source="ScreenScraper.fr">
+		<path>./Doodle Fit (USA).cso</path>
+		<name>Doodle Fit</name>
+		<desc>PUZZLE GAME ADDICTION MEETS DOODLE-STYLE GRAPHICS! YOUR TASK IS SIMPLE: FIT THE GIVEN SETS OF BLOCKS INTO GIVEN SHAPES. DRAG THE BLOCKS INSIDE AND OUTSIDE IN SEARCH FOR THE LAYOUT THAT COVERS THE WHOLE SHAPE. A LEVEL IS COMPLETE WHEN ALL BLOCKS HAVE BEEN USED AND THERE'S NO MORE SPACE FREE IN THE SHAPE.</desc>
+		<rating>0</rating>
+		<releasedate>20100927T000000</releasedate>
+		<hash>9506F649</hash>
+		<image>./images/Doodle Fit (USA).png</image>
+		<thumbnail>./boxart/Doodle Fit (USA).png</thumbnail>
+		<marquee>./marquee/Doodle Fit (USA).png</marquee>
+		<video>./snap/Doodle Fit (USA).mp4</video>
+		<developer>Gamelion Studios</developer>
+		<publisher>Gamelion Studios</publisher>
+		<players>1</players>
+	</game>
+	<game id="29245" source="ScreenScraper.fr">
+		<path>./Doodle Pool (USA).cso</path>
+		<name>Doodle Pool</name>
+		<desc>DOODLE POOL ES UN JUEGO DE BILLAR. DESCUBRE LAS DIFERENTES FORMAS DE JUGAR A ESTE JUEGO DE BOLAS: FRANCÉS, AMERICANO... Y DESAFÍA A TUS AMIGOS EN LOS DIFERENTES MODOS DE JUEGO.</desc>
+		<rating>0</rating>
+		<releasedate>20110309T000000</releasedate>
+		<hash>5A21891C</hash>
+		<image>./images/Doodle Pool (USA).png</image>
+		<thumbnail>./boxart/Doodle Pool (USA).png</thumbnail>
+		<marquee>./marquee/Doodle Pool (USA).png</marquee>
+		<video>./snap/Doodle Pool (USA).mp4</video>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game id="29103" source="ScreenScraper.fr">
+		<path>./Dr. Maybee and the Adventures of Scarygirl (USA).cso</path>
+		<name>Dr. Maybee and the Adventures of Scarygirl</name>
+		<desc>BASED ON THE SCARYGIRL GRAPHIC NOVEL CREATED BY ACCLAIMED ARTIST NATHAN JUREVICIUS, DR MAYBEE AND THE ADVENTURES OF SCARYGIRL IS A MARVELOUS ADVENTURE THROUGH THE SCARYGIRL UNIVERSE, AS SHE ATTEMPTS TO DISCOVER THE IDENTITY OF THE MYSTERIOUS, BEARDED MAN HAUNTING HER DREAMS. WITH HELP FROM HER FRIENDS, THE QUICK-WITTED BUNNIGURU AND BLISTER THE GIANT OCTOPUS, SHE WILL JOURNEY FROM HER TREEHOUSE HOME IN THE FOREST TO AN OVERWHELMINGLY UNFRIENDLY CITY IN HER QUEST TO LOCATE DR MAYBEE.</desc>
+		<rating>0</rating>
+		<releasedate>20110706T000000</releasedate>
+		<hash>009711C7</hash>
+		<image>./images/Dr. Maybee and the Adventures of Scarygirl (USA).png</image>
+		<thumbnail>./boxart/Dr. Maybee and the Adventures of Scarygirl (USA).png</thumbnail>
+		<marquee>./marquee/Dr. Maybee and the Adventures of Scarygirl (USA).png</marquee>
+		<video>./snap/Dr. Maybee and the Adventures of Scarygirl (USA).mp4</video>
+		<developer>TikGames</developer>
+		<publisher>TikGames</publisher>
+		<players>1</players>
+	</game>
+	<game id="29434" source="ScreenScraper.fr">
+		<path>./Dr. Mini Games (USA).cso</path>
+		<name>Dr. Minigames</name>
+		<desc>DR. MINIGAMES ES UNA COMPILACIÓN DE MINIJUEGOS DISPONIBLES EN LA PLAYSTATION STORE'S PLAYSTATION PORTABLE. UNA VARIEDAD DE JUEGOS MUY CORTOS SE ENCUENTRAN DISPONIBLES Y ES POSIBLE VARIAR SU NIVEL DE DIFICULTAD.</desc>
+		<rating>0</rating>
+		<releasedate>20101215T000000</releasedate>
+		<hash>B371C2E1</hash>
+		<image>./images/Dr. Mini Games (USA).png</image>
+		<thumbnail>./boxart/Dr. Mini Games (USA).png</thumbnail>
+		<marquee>./marquee/Dr. Mini Games (USA).png</marquee>
+		<video>./snap/Dr. Mini Games (USA).mp4</video>
+		<developer>StormBASIC S.L.</developer>
+		<publisher>StormBASIC S.L.</publisher>
+	</game>
+	<game id="28700" source="ScreenScraper.fr">
+		<path>./Dracula - Undead Awakening (USA).cso</path>
+		<name>Dracula : Undead Awakening</name>
+		<desc>IN THIS CHILLING TOP-DOWN SHOOTER, YOU PLAY A VAMPIRE HUNTER MUST COMBAT HORDES OF UNDEAD ENEMIES LIKE ZOMBIES, GHOULS, WEREWOLVES, VAMPIRE BRIDES AND MORE. CAN YOU STAND THE NIGHT?</desc>
+		<rating>0.85</rating>
+		<releasedate>20091126T000000</releasedate>
+		<hash>11B1A275</hash>
+		<image>./images/Dracula - Undead Awakening (USA).png</image>
+		<thumbnail>./boxart/Dracula - Undead Awakening (USA).png</thumbnail>
+		<marquee>./marquee/Dracula - Undead Awakening (USA).png</marquee>
+		<video>./snap/Dracula - Undead Awakening (USA).mp4</video>
+		<developer>Chillingo</developer>
+		<publisher>Chillingo</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29247" source="ScreenScraper.fr">
+		<path>./Duael Invaders (USA).cso</path>
+		<name>Duæl Invaders</name>
+		<desc>DUÃ¦L INVADERS IS AN OLD-SCHOOL, FIXED-SCREEN SHOOT 'EM UP, MIXING THE CLASSIC FORMULA SEEN IN COUNTLESS GREAT '80S GAMES WITH ITS OWN UNIQUE BRAND OF SIMULTANEOUS 2-SHIP CONTROL. THE GAMEÂS CONCEPT IS CENTERED ON THE IDEA OF CONTROLLING TWO PLAYER SHIPS SIMULTANEOUSLY (ON A SINGLE PSP OR PS3 CONTROLLER) ACROSS SINGLE PLAYER AND 2-PLAYER CO-OPERATIVE AND ADVERSARIAL GAME MODES.
+
+IN ALL MODES YOUR SHIPS (ONE RED, ONE BLUE) ARE TASKED WITH DESTROYING WAVE UPON WAVE OF RED AND BLUE ENEMIES; THE IDEA BEING TO SURVIVE, WASTE THE BAD GUYS AND ATTAIN THE HIGHEST SCORE POSSIBLE. SOME OF YOUR ENEMIES WILL CAUSE CHAIN REACTIONS OR CHANGE OTHER ENEMIESÂ COLORS, SO PICKING OUT THE BEST SHOTS WILL REALLY HELP YOU SURVIVE AND RACK UP THOSE HIGH SCORES!</desc>
+		<rating>0</rating>
+		<releasedate>20110419T000000</releasedate>
+		<hash>714678EF</hash>
+		<image>./images/Duael Invaders (USA).png</image>
+		<thumbnail>./boxart/Duael Invaders (USA).png</thumbnail>
+		<marquee>./marquee/Duael Invaders (USA).png</marquee>
+		<video>./snap/Duael Invaders (USA).mp4</video>
+		<developer>Laughing Jackal</developer>
+		<publisher>Laughing Jackal</publisher>
+		<players>2</players>
+	</game>
+	<game id="29115" source="ScreenScraper.fr">
+		<path>./Dynogems (USA).cso</path>
+		<name>Dynogems</name>
+		<desc>DYNOGEMS IS AN ADDICTIVE AND CHALLENGING PUZZLE GAME! GRAB AND GROUP FOUR OR MORE DIAMONDS OF THE SAME COLOR TO ELIMINATE THEM FROM THE SCREEN, UNTIL YOU FILL THE LEVEL BAR.</desc>
+		<rating>0.75</rating>
+		<releasedate>20091210T000000</releasedate>
+		<hash>931A8DEC</hash>
+		<image>./images/Dynogems (USA).png</image>
+		<thumbnail>./boxart/Dynogems (USA).png</thumbnail>
+		<marquee>./marquee/Dynogems (USA).png</marquee>
+		<video>./snap/Dynogems (USA).mp4</video>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game id="140702" source="ScreenScraper.fr">
+		<path>./Earthshield (USA).cso</path>
+		<name>Earthshield</name>
+		<desc>DEFIENDE EL PLANETA CONTRA LOS INVASORES ALIENÍGENAS EN ESTE CLÁSICO JUEGO DE ARCADE VERTICAL. MULTIPLICA TU PUNTUACIÓN MÁS RÁPIDO HACIENDO QUE TUS ENEMIGOS APAREZCAN MÁS RÁPIDO.</desc>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<hash>D4ABA2DF</hash>
+		<image>./images/Earthshield (USA).png</image>
+		<thumbnail>./boxart/Earthshield (USA).png</thumbnail>
+		<marquee>./marquee/Earthshield (USA).png</marquee>
+		<video>./snap/Earthshield (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="29355" source="ScreenScraper.fr">
+		<path>./Echoes (USA).cso</path>
+		<name>Echoes</name>
+		<desc>RACE TO COLLECT CRYSTALS WHILE DODGING THE ECHOES SHADOWING YOUR FOOTSTEPS IN THIS INNOVATIVE, SEAT-OF-YOUR-PANTS ARCADE GAME. HALFBRICK ECHOES IS AN ACTION PUZZLE GAME IN WHICH PLAYERS COLLECT CRYSTALS WITHIN MANY SURREAL, ARTISTIC WORLDS. AS EACH CRYSTAL IS COLLECTED, AN ENEMY CALLED AN ECHO WILL SPAWN. ECHOES ARE TRANSLUCENT VERSIONS OF THE PLAYER'S HAT ICON, AND THEY WILL WALK THE EXACT SAME PATH THE HAT WALKED BETWEEN COLLECTING CRYSTALS. THE GOAL IS TO SUCCESSFULLY COMPLETE THE LEVEL BY COLLECTING ALL THE CRYSTALS. COMING INTO CONTACT WITH AN ECHO WILL RESULT IN ONE LIFE BEING LOST.</desc>
+		<rating>0.65</rating>
+		<releasedate>20091119T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Echoes (USA).png</image>
+		<thumbnail>./boxart/Echoes (USA).png</thumbnail>
+		<marquee>./marquee/Echoes (USA).png</marquee>
+		<video>./snap/Echoes (USA).mp4</video>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+		<players>1</players>
+	</game>
+	<game id="28852" source="ScreenScraper.fr">
+		<path>./Edge (USA).cso</path>
+		<name>Edge</name>
+		<desc>IN EDGE THE PLAYER CONTROLS A CUBE IN A GEOMETRIC LANDSCAPE CONSISTING OF PLATFORMS AND MOVING SHAPES VIEWED FROM AN ISOMETRIC PERSPECTIVE. THROUGHOUT THE WORLD ARE PRISMS THAT THE PLAYER HAS TO PICK UP, ALTHOUGH THEY ARE OPTIONAL TO FINISH A LEVEL. EACH LEVEL IS FULL OF TRAPS WHERE THE PLAYER CAN FALL IF HE DOES NOT MANAGE TO ROLL HIS CUBE FROM A PLATFORM TO ANOTHER IN THE RIGHT TIME. AFTER A LEVEL HAS BEEN COMPLETED THE PLAYER GETS A RATING BASED ON HOW MANY TIMES HE HAS FAILED, THE NUMBER OF PRISMS HE HAS PICKED UP AND HOW LONG IT HAS TAKEN.</desc>
+		<rating>0</rating>
+		<releasedate>20101201T000000</releasedate>
+		<hash>4B31735B</hash>
+		<image>./images/Edge (USA).png</image>
+		<thumbnail>./boxart/Edge (USA).png</thumbnail>
+		<marquee>./marquee/Edge (USA).png</marquee>
+		<video>./snap/Edge (USA).mp4</video>
+		<developer>Mobigame</developer>
+		<publisher>Mobigame</publisher>
+	</game>
+	<game id="29238" source="ScreenScraper.fr">
+		<path>./HISTORY - Egypt - Engineering an Empire (USA).cso</path>
+		<name>Egypt : Engineering an Empire</name>
+		<desc>HISTORY EGYPT ENGINEERING EMPIRE ALLOWS PLAYERS TO BUILD THEIR OWN EMPIRE FROM ITS FOUNDATIONS TO THE HEIGHT OF ITS POWER. ACTING AS THE LEADER OF A TERRITORY FROM THE EGYPTIAN EMPIRE, PLAYERS MANAGE ALL ASPECTS OF ITS RISE, FROM ECONOMIC GROWTH TO POLITICAL POWER, THE DEVELOPMENT OF ARMIES, AND EXPANSION INTO OTHER REGIONS BY WAR AND DIPLOMACY. 
+
+EMPIRES ARE CONTROLLED FROM THREE MAIN VIEWS: THE CAMPAIGN MAP SHOWS THE ENTIRE GAME WORLD, INCLUDING MOUNTAINS, FORESTS, COASTLINES, OCEANS, RIVERS, CITES, AND ARMIES. THE CITY MAP GIVES PLAYERS AN OVERVIEW OF THE STRUCTURE AND ROLE OF A CITY WITHIN THE EMPIRE, AND PROVIDES A BASIS FOR ECONOMIC DECISIONS. THE BATTLE MAP IS TO BE USED WHEN DIPLOMACY HAS RUN ITS COURSE OR WHEN A CITY IS BEING ATTACKED, RESULTING IN TURN-BASED COMBAT. 
+
+ALL NATIONS, CITIES AND ARMIES WERE CAREFULLY RESEARCHED TO ENSURE HISTORICAL ACCURACY. THE GAME IS ACCESSIBLE FOR NEW USERS, WHILE OFFERING DEEPER GAMEPLAY FOR EXPERT PLAYERS.</desc>
+		<rating>0</rating>
+		<releasedate>20101020T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/HISTORY - Egypt - Engineering an Empire (USA).png</image>
+		<thumbnail>./boxart/HISTORY - Egypt - Engineering an Empire (USA).png</thumbnail>
+		<marquee>./marquee/HISTORY - Egypt - Engineering an Empire (USA).png</marquee>
+		<video>./snap/HISTORY - Egypt - Engineering an Empire (USA).mp4</video>
+		<developer>Slitherine Software</developer>
+		<publisher>Slitherine Software</publisher>
+	</game>
+	<game id="29246" source="ScreenScraper.fr">
+		<path>./Enigmo (USA).cso</path>
+		<name>Enigmo</name>
+		<desc>ENIGMO IS A 3D PUZZLE GAME WHERE YOU DIRECT ANIMATED STREAMS OF FLOWING LIQUID SO THAT THE DROPLETS GET TO THEIR DESTINATION. WATER, OIL, AND LAVA FALL FROM DROPPERS AND BOUNCE AROUND THE WALLS OF THE PUZZLE. YOU MOVE AND ROTATE VARIOUS TYPES OF BUMPERS, SLIDERS, ACCELERATORS, AND SPONGES IN ORDER TO DIVERT THE FLOW OF THE FALLING DROPLETS. THE FASTER YOU COMPLETE EACH OF THE 50 LEVELS, THE MORE BONUS POINTS YOU RECEIVE.</desc>
+		<rating>0.65</rating>
+		<releasedate>20110316T000000</releasedate>
+		<hash>FFD92BDF</hash>
+		<image>./images/Enigmo (USA).png</image>
+		<thumbnail>./boxart/Enigmo (USA).png</thumbnail>
+		<marquee>./marquee/Enigmo (USA).png</marquee>
+		<video>./snap/Enigmo (USA).mp4</video>
+		<developer>Pangea Software</developer>
+		<publisher>Pangea Software</publisher>
+	</game>
+	<game id="29495" source="ScreenScraper.fr">
+		<path>./Express Raider (USA).cso</path>
+		<name>Express Raider</name>
+		<desc>YOUR AIM IN LIFE IS TO BE THE GREATEST TRAIN ROBBER IN THE WILD WEST, A MULTI-STAGE TASK. YOUR CHARACTER HAS PLENTY OF ATTACKING KICKS AND PUNCHES TO USE ON ANYONE WHO GETS IN HIS WAY, STARTING WITH THE LOCAL BANKER, AND THEN SOME COYOTES ROAMING THE PLAINS, WHO ARE EASIER DODGED THAN KILLED. AFTER THIS, YOU FIND YOURSELF ATOP THE TRAIN, ATTACKING A SUCCESSION OF GUARDS IN ONE-ON-ONE BEAT ?EM UP DUELS, EACH OF WHICH MUST BE WON OUTRIGHT WITHIN THE TIME LIMIT TO AVOID LOSING A LIFE. MANY OF THESE SHOOT AT YOU, SO DODGE THEIR SHOTS AS YOU ATTACK THEM. THE GAME OFFERS A PRACTICE MODE, IN WHICH YOU HAVE 32 LIVES TO TRY TO IMPROVE YOUR SKILLS, AND A ?NORMAL' MODE IN WHICH YOU HAVE UNLIMITED CONTINUES AS LONG AS YOU CAN REACH THE HIGH-SCORE TABLE WITH EACH CONTINUE ? IN THIS MODE, AS IN THE ?ADVANCED' MODE IN WHICH YOU MUST ALWAYS START AGAIN FROM SCRATCH, YOU HAVE 5 LIVES</desc>
+		<rating>0</rating>
+		<releasedate>20100615T000000</releasedate>
+		<hash>F526D3DE</hash>
+		<image>./images/Express Raider (USA).png</image>
+		<thumbnail>./boxart/Express Raider (USA).png</thumbnail>
+		<marquee>./marquee/Express Raider (USA).png</marquee>
+		<video>./snap/Express Raider (USA).mp4</video>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+	</game>
+	<game id="29403" source="ScreenScraper.fr">
+		<path>./Family Games (USA).cso</path>
+		<name>Family Games : Pen &amp; Paper Edition</name>
+		<desc>A COLLECTION OF CLASSIC FAMILY PEN AND PAPER GAME FAVORITES. TIMELESS FAVORITES FOR ALL THE FAMILY. INCLUDES SQUARES (DOTS), NINE MEN'S MORRIS (MILL), SAFE CRACKER, MATCHSTICKS, NOUGHTS &amp; CROSSES (TIC-TAC-TOE), 4 IN-A-ROW, BATTLEFLEET AND HANGMAN.</desc>
+		<rating>0</rating>
+		<releasedate>20110105T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Family Games (USA).png</image>
+		<thumbnail>./boxart/Family Games (USA).png</thumbnail>
+		<marquee>./marquee/Family Games (USA).png</marquee>
+		<video>./snap/Family Games (USA).mp4</video>
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+	</game>
+	<game id="144136" source="ScreenScraper.fr">
+		<path>./Farm Frenzy - Pizza Party (USA).cso</path>
+		<name>Farm Frenzy - Pizza Party</name>
+		<desc>DO YOU LIKE PIZZA AS MUCH AS WE DO? THEN YOU'LL LOVE THE PEPPERONI-PACKED SEQUEL TO THE FARMING SIM ? FARM FRENZY: PIZZA PARTY!NNAT FIRST, YOU'LL GROW CROPS, FEED ANIMALS AND COLLECT PRODUCE, AND THEN YOU'LL TURN YOUR GOODS INTO THE INGREDIENTS YOU NEED TO MAKE A VARIETY OF PIZZAS. FROM CHINA TO GERMANY AND ITALY TO NEW YORK CITY (WHERE PIZZA IS CONSIDERED ONE OF THE MAIN FOOD GROUPS), PEOPLE FROM AROUND THE WORLD WILL ENJOY YOUR MOUTHWATERING CREATIONS!</desc>
+		<rating>0</rating>
+		<releasedate>20120606T000000</releasedate>
+		<hash>F9566D4E</hash>
+		<image>./images/Farm Frenzy - Pizza Party (USA).png</image>
+		<thumbnail>./boxart/Farm Frenzy - Pizza Party (USA).png</thumbnail>
+		<marquee>./marquee/Farm Frenzy - Pizza Party (USA).png</marquee>
+		<video>./snap/Farm Frenzy - Pizza Party (USA).mp4</video>
+		<developer>Alawar Entertainment, Inc.</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game id="29071" source="ScreenScraper.fr">
+		<path>./Farm Frenzy 2 (USA).cso</path>
+		<name>Farm Frenzy 2</name>
+		<desc>FARM FRENZY 2 IS A TIME MANAGEMENT GAME, WHERE EACH ACTION (FEEDING ANIMALS, PRODUCING GOODS, TRADING) NEEDS A SPECIFIC AMOUNT OF TIME TO BE COMPLETED.NNNNIN THE GAME THE PLAYER HAS TO PRODUCE A SPECIFIC AMOUNT OF GOODS WITHIN A GIVEN TIME. THE BASIC ACTION IS PLANING GRASS TO FEED THE ANIMALS. THE ANIMALS WILL PRODUCE BASIC GOODS (E.G. HENS WILL LAY EGGS) WHICH CAN BE SOLD IN THE CITY. BASIC PRODUCTS CAN BE PROCESSED TO MORE VALUABLE GOODS (E.G. EGGS TO EGG POWDER AND EGG POWDER TO CAKES). BETWEEN THE LEVELS THERE IS AN UPGRADE SHOP WHERE THE PLAYER CAN SPEND STARS TO IMPROVE BUILDINGS AND FARM HELPERS.</desc>
+		<rating>0</rating>
+		<releasedate>20120307T000000</releasedate>
+		<hash>235F1E06</hash>
+		<image>./images/Farm Frenzy 2 (USA).png</image>
+		<thumbnail>./boxart/Farm Frenzy 2 (USA).png</thumbnail>
+		<marquee>./marquee/Farm Frenzy 2 (USA).png</marquee>
+		<video>./snap/Farm Frenzy 2 (USA).mp4</video>
+		<developer>Alawar Melesta</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game id="29214" source="ScreenScraper.fr">
+		<path>./Farm Frenzy (USA).cso</path>
+		<name>Farm Frenzy</name>
+		<desc>FARM FRENZY IS A STRAIGHTFORWARD TIME-MANAGEMENT GAME, WHERE THE PLAYER CONTROLS A FARM, RAISING ANIMALS AND SELLING PRODUCTS TO THE MARKET. THE MAIN GAME SCREEN IS MOSTLY OCCUPIED BY A CENTRAL BARE PATCH OF LAND WHERE THE FARM ANIMALS ROAM, SURROUNDED BY A SERIES OF FARM IMPLEMENTS AND MACHINES. ALL NECESSARY ACTIONS ARE PERFORMED WITH CLICKS OVER INTERACTIVE HOTSPOTS OF THE SCENERY.</desc>
+		<rating>0</rating>
+		<releasedate>20101215T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Farm Frenzy (USA).png</image>
+		<thumbnail>./boxart/Farm Frenzy (USA).png</thumbnail>
+		<marquee>./marquee/Farm Frenzy (USA).png</marquee>
+		<video>./snap/Farm Frenzy (USA).mp4</video>
+		<developer>Melesta</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game id="140703" source="ScreenScraper.fr">
+		<path>./Feisty Feet (USA).cso</path>
+		<name>Feisty Feet</name>
+		<desc>WELCOME TO THE ANNUAL EXTREME RUNNING CHAMPIONSHIP! COMPETE WITH FIERCE OPPONENTS FOR THE GRAND PRIZE. FREEZE YOUR RIVALS WITH SNOWBALLS, SET TRAPS TO SLOW THEM DOWN AND USE SPEED BOOST TO CHARGE YOUR WAY TO VICTORY. EARN COINS FOR YOUR PERFORMANCE AND UPGRADE YOUR SKILLS FOR ULTIMATE DOMINANCE.NNUNLOCK MARATHON MODE AND EXERCISE YOUR LONG DISTANCE RUNNING ABILITY VERSUS FIFTY AI CONTROLLED RIVALS IN AN EXTREME RUNNING MAYHEM!</desc>
+		<rating>0</rating>
+		<releasedate>20120926T000000</releasedate>
+		<hash>B9288A40</hash>
+		<image>./images/Feisty Feet (USA).png</image>
+		<thumbnail>./boxart/Feisty Feet (USA).png</thumbnail>
+		<marquee>./marquee/Feisty Feet (USA).png</marquee>
+		<video>./snap/Feisty Feet (USA).mp4</video>
+		<developer>iSquared Games Ltd.</developer>
+		<publisher>iSquared Games Ltd.</publisher>
+	</game>
+	<game id="144142" source="ScreenScraper.fr">
+		<path>./Finger Connection (USA).cso</path>
+		<name>Finger Connection</name>
+		<desc>READY FOR A FINGER CONNECTION? START BY PLACING YOUR FINGERS ON THE PSP® SCREEN. EACH ROUND YOU WILL HAVE TO MANEUVER YOUR FINGERS AROUND TO DIFFERENT SPOTS ON THE GAME BOARD. THE LONGER YOU CAN LAST, THE HIGHER THE CHANCE OF YOU AND YOUR PARTNER HAVING A FINGER CONNECTION. ARE YOU READY?</desc>
+		<rating>0</rating>
+		<releasedate>20100504T000000</releasedate>
+		<hash>13A8FC96</hash>
+		<image>./images/Finger Connection (USA).png</image>
+		<thumbnail>./boxart/Finger Connection (USA).png</thumbnail>
+		<marquee>./marquee/Finger Connection (USA).png</marquee>
+		<video>./snap/Finger Connection (USA).mp4</video>
+		<developer>Sony Computer Entertainment Japan</developer>
+		<publisher>Sony Computer Entertainment America, Inc.</publisher>
+	</game>
+	<game id="29364" source="ScreenScraper.fr">
+		<path>./Fish Tank (USA).cso</path>
+		<name>Fish Tank</name>
+		<desc>FISH TANK IS A FIRST "MATCH-3" GAME THAT NOT ONLY OFFERS LOTS OF FUN WITH FINDING GROUPS OF FISHES IN THE SAME COLORS ON THE GRID, BUT ALSO OFFERS PLAYER WAY TO NAVIGATE NEW SWIMMING FISHES INTO DESIRED PLACE ON THE GRID. 
+BECAUSE OF THAT YOU ARE NOT ONLY ENTERTAINED BY NORMAL MATCHING GAME MECHANICS BUT ALSO WITH DYNAMIC, REFLEX BASED GAMEPLAY!</desc>
+		<rating>0</rating>
+		<releasedate>20110405T000000</releasedate>
+		<hash>5953D214</hash>
+		<image>./images/Fish Tank (USA).png</image>
+		<thumbnail>./boxart/Fish Tank (USA).png</thumbnail>
+		<marquee>./marquee/Fish Tank (USA).png</marquee>
+		<video>./snap/Fish Tank (USA).mp4</video>
+		<developer>iFun4all</developer>
+		<publisher>iFun4all</publisher>
+	</game>
+	<game id="29072" source="ScreenScraper.fr">
+		<path>./Floating Cloud God Saves the Pilgrims (USA).cso</path>
+		<name>Floating Cloud God Saves the Pilgrims</name>
+		<desc>FLOATING CLOUD GOD SAVES THE PILGRIMS IS A PLAYSTATION MINI GAME FOR PSP AND VITA.  
+
+FLOATING CLOUD GOD SAVES THE PILGRIMS IS EXACTLY THAT, A 2D SHOOTER BUILT AROUND THE EPONYMOUS DEITY (CONTROLLED BY THE PLAYER) AND HIS QUEST TO PROTECT EIGHT PILGRIMS IN THEIR JOURNEY ACROSS PERILOUS TERRITORIES.
+
+YOUR OWN SHOTS JUST KNOCK THEIR HATS OFF, BUT GETTING HIT BY ANYTHING ELSE WILL KILL A PILGRIM AND SEND THEIR SPIRIT FLOATING OFF WITH A SAD LITTLE WAIL. THIS IS BAD NOT ONLY BECAUSE THE PILGRIMS ARE A DE FACTO HEALTH BAR (LOSING THEM ALL ENDS THE GAME) BUT POWERING UP CLOUD GOD DEPENDS ON HARVESTING THEIR LOVE - JUICY LITTLE HEARTS THAT POP UP WHENEVER YOU KILL AN ENEMY AND INCREASE IN SIZE AS YOU BLAST MORE.
+
+YOU MUST GET ALL OF THE LOVE (GIVEN FORM AS HEARTS) THAT THEY RELEASE, WHICH THEN MAKES YOU MUCH MORE POWERFUL THAN YOU ALREADY ARE. YOU INCREASE IN SIZE, LOOK MORE MENACING, AND YOUR ATTACKS ARE MORE POWERFUL. THE PILGRIMS GET THE MOST EXCITED WHEN THEY WITNESS AMBUSHING GHOSTS AND GHOULS GET ANNIHILATED BY YOU. WHEN THEY ARE EXCITED, THEY PRODUCE MORE LOVE, MEANING MORE POWER TO YOU.
+
+HOWEVER, YOU HAVE TO BE VERY CAREFUL WHEN SHOOTING. YOU GROW WEAKER WITH EVERY SHOT, SO TRY NOT TO CHANNEL YOUR INNER WAR-FREAK AND HAVE A LITTLE RESTRAINT, FOR THE GOOD OF BOTH YOURSELF AND THE PILGRIMS. YOU ALSO LOSE SOME OF YOUR STEAM IF YOU GET HIT BY ENEMY FORCES. AND SOMETIMES, THE SITUATION CALLS TO FOR YOU TO SACRIFICE YOUR MIGHTINESS AND PROVIDE COVER TO THE PILGRIMS FROM THE ENEMY ASSAULT WITH YOUR OWN SELF.
+
+THERE ARE TWO TYPES OF ATTACK: THE NORMAL SHOT (BY PRESSING X), AND THE BOMB SHOT (BY PRESSING CIRCLE). THE DIRECTION OF THE NORMAL SHOT DEPENDS ON WHAT DIRECTION YOU ARE PRESSING, SO THERE IS SOME STRATEGY TO WHAT PART OF THE SCREEN YOU SHOULD BE SHOOTING FROM. BEING TOO FAR FROM YOUR PILGRIMS IS VERY DANGEROUS BUT ALLOWS YOU TO COVER MORE GROUND, WHILE LAUNCHING A FULL FRONTAL ASSAULT CAN PROTECT YOUR PILGRIMS BY ABSORBING ALL THE INCOMING FIRE. YOU HAVE TO THINK THROUGH, IN REAL TIME, WHAT TACTICS YOU WOULD LIKE TO EMPLOY. YOU CAN ALWAYS GET IN THE MIDDLE, THEN RUSH FORWARD, THEN GET TO A SAFE DISTANCE; MIX AND MATCH, AND YOU GOT YOURSELF GOING.
+
+THE BOMB SHOT IS USED IF YOU ARE ABOVE THE ENEMY. BUT THATÂS NOT ALL, AS SOME ENEMIES CANÂT BE KILLED WITH THE BOMB SHOT, ONLY WITH THE NORMAL SHOT, AND VICE VERSA. THERE ARE ALSO ENEMIES WHERE YOU HAVE TO INFLICT BOMB SHOT DAMAGE FIRST BEFORE SWITCHING TO THE NORMAL SHOT TO TAKE THEM OUT.
+
+ENEMIES ARE VARIED, AND THEY LOOK GOOD, EVEN IF THEY ARE VILE AND EVIL. THERE ARE BOSS FIGHTS, TOO, TO KEEP YOU ON YOUR TOES.  THE CLOUD GOD'S POWERS AND THE HEART SYSTEM MESH SO WELL THAT ANY ENEMY CAN BE DESTROYED IN A BLINK - SO THEY'VE GOT TO BE DECEPTIVE, SNEAKY, AND SOMETIMES NUMEROUS. PAPER LANTERNS SEND OUT AN ARCING FLAME ON DEATH, RED-EYED FOXES HIDE IN THE SCENERY, IMPS SWOOP TO CARRY OFF UNLUCKY PILGRIMS AND BOBBING DOLL HEADS SEND OUT SWARMS OF KISSES. HANDS START CLAWING UP FROM THE GROUND, CROWS DIVE-BOMB YOUR CREW, AND DEMONS WITH PHALLIC NOSES LAUNCH THEM AS LANGUOROUS, LOOPING ROCKETS. THE CHEEKY ORIENTAL STYLINGS ARE GORGEOUS, TRANSFORMING SYMBOLS INTO EVERYTHING FROM FREAKY MOMIJI TO DICK-NOSED DEVILS.
+
+AS THIS SUGGESTS, ONE OF THE REASONS FLOATING CLOUD GOD IS SUCH A PLEASURE TO PLAY IS ITS VISUAL INVENTIVENESS, WHICH HAS ROOM ENOUGH FOR EVERYTHING FROM WARIO TRIBUTES TO WHAT LOOKS LIKE A CRYING POO. THIS BIG LUMP OF A THING, WHICH IS INTRODUCED IN A LEVEL CALLED THE SADDEST ENEMY, EXPLODES INTO GOBBETS OF MINI-POO THAT ARE VERY USEFUL FOR BUILDING UP A HEART MULTIPLIER. PERHAPS THEY'RE BABIES? THAT WOULD EXPLAIN THE SADNESS.
+
+FLOATING CLOUD GOD HAS BAGS MORE WHERE THAT CAME FROM, AND DESPITE THE MINIS TAG HAS PLENTY OF ROOM TO BREATHE (THERE ARE SEVEN WORLDS WITH 27 STAGES, INCLUDING BOSS FIGHTS). AND IT KEEPS ON SURPRISING. THE CONTROLS ARE SIMPLICITY ITSELF: LEFT STICK TO MOVE, ONE BUTTON TO SHOOT AND ONE TO BOMB. BUT YOU SOON REALISE THE SUBTLETY OF HOW SHOOTING AFFECTS MOVEMENT AND VICE-VERSA, WHICH FAIRLY SOON YOU'RE DEPENDING ON AGAINST EVERY ENEMY PATTERN. THE PILGRIMS, TOO, ARE LOOSELY TIED TO CLOUD GOD DURING SOME SECTIONS, AND LEARNING HOW TO MANAGE THEIR MOMENTUM IS ANOTHER LITTLE LEARNING CURVE.
+
+THE FINAL TOUCH IS A MINOR DETAIL THAT TIES UP EVERYTHING. THE PILGRIMS' HATS CAN BE IMPROVED. THERE'S NO IN-GAME BENEFIT TO THIS, BEYOND LOOKING MUCH MORE AWESOME, AND IT'S DONE BY COMPLETING STAGES WITHOUT LOSING A SINGLE PILGRIM. OBVIOUSLY, IF YOU START THIS PROCESS ON THE FIRST LEVEL AND NEVER LOSE A PILGRIM, THE HATS JUST KEEP GETTING BETTER.
+
+SEEMS LIKE SUCH A SMALL THING, DOESN'T IT? SOON NOTHING BUT A PERFECT RUN WILL DO. THE RESTART OPTION IS ACCESSIBLE, KNOWING, AND TEMPTING. EVERY TIME A PILGRIM FELL, IT WAS TOO MUCH TO TAKE - I DIDN'T SEE THEIR TINY SPIRIT FLOAT OFF TO HEAVEN SO MUCH AS ALL MY FUTURE HEADWEAR AMBITIONS. AND TO BE FAIR, BY THAT POINT I HAD FOUR DUDES WITH TOP HATS, TWO WITH OCTOPUS HEADS AND TWO WITH SPACE HERO HELMETS. YOU CAN'T BE REPLACING ANY OF THEM WITH NORMAN AND HIS BROWN CAP JUST BECAUSE SOME DEMON GETS A LUCKY SHOT IN.
+
+THAT'S THE BEST THING ABOUT FLOATING CLOUD GOD SAVES THE PILGRIMS. YOU DO WANT TO SAVE THEM, AND NOT JUST BECAUSE THEY REPRESENT 'HEALTH'. THE HATS ARE A BIG PART OF IT, BUT JUST AS MUCH IS THE SENSE OF PRIDE IN BEING A BADASS GOD - HARVESTING POWER AT THE RIGHT MOMENT TO SMASH THROUGH ONCOMING WAVES, BATTLING DESPERATE REAR-GUARD ACTIONS AGAINST HAILS OF DEADLY KISSES AND THROWING YOURSELF IN BODILY AS A LAST RESORT (WHICH SOMETIMES WORKS!). THE LITTLE YELP AS A PILGRIM GOES DOWN IS A SHARP REPRIMAND, A BLOW TO THE DAYDREAMS OF AN ALL-CONQUERING DEITY.
+
+THIS DESCRIPTION WAS COMPILED FROM THE FOLLOWING REVIEWS:
+HTTP://WWW.EUROGAMER.NET/ARTICLES/2012-04-19-FLOATING-CLOUD-GOD-SAVES-THE-PILGRIMS-REVIEW
+HTTP://WWW.PSPMINIS.COM/8859/FLOATING-CLOUD-GOD-SAVES-THE-PILGRIMS-REVIEW-IF-THE-INDICATION-OF-A-GOOD-GAME-IS-A-LENGTHY-TITLE-THEN-THAT-RULE-APPLIES-HERE/</desc>
+		<rating>0</rating>
+		<releasedate>20120418T000000</releasedate>
+		<hash>E49215C2</hash>
+		<image>./images/Floating Cloud God Saves the Pilgrims (USA).png</image>
+		<thumbnail>./boxart/Floating Cloud God Saves the Pilgrims (USA).png</thumbnail>
+		<marquee>./marquee/Floating Cloud God Saves the Pilgrims (USA).png</marquee>
+		<video>./snap/Floating Cloud God Saves the Pilgrims (USA).mp4</video>
+		<developer>Dakko Dakko</developer>
+		<publisher>Dakko Dakko</publisher>
+		<players>1</players>
+	</game>
+	<game id="29180" source="ScreenScraper.fr">
+		<path>./Fly Fu (USA).cso</path>
+		<name>Fly Fu</name>
+		<desc>FLY FU IS A SIDE-SCROLLING BEAT-'EM-UP GAME WITH CHARACTERS DESIGNED FROM PHOTOGRAPHS OF DEAD INSECTS MIXED WITH DOODLE ART. 
+YOUR GIRLFRIEND, KATE MOTH, A FLUFFY MOTH WAS KIDNAPPED BY EVIL SPIDERS AND DRAGGED AWAY TO THE SUBURB.
+YOU ARE NOT A COMMON HOUSEFLY BUT TRAINED TO FIGHT. BEING A KUNG-FU MASTER, ONLY YOU CAN SAVE YOUR LOVE FROM THE CLAWS OF THE EVIL INSECTS!</desc>
+		<rating>0.4</rating>
+		<releasedate>20100720T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Fly Fu (USA).png</image>
+		<thumbnail>./boxart/Fly Fu (USA).png</thumbnail>
+		<marquee>./marquee/Fly Fu (USA).png</marquee>
+		<video>./snap/Fly Fu (USA).mp4</video>
+		<developer>Invictus</developer>
+		<publisher>Invictus</publisher>
+	</game>
+	<game id="29427" source="ScreenScraper.fr">
+		<path>./Forest Puzzle (USA).cso</path>
+		<name>Forest Puzzle</name>
+		<desc>FOREST PUZZLE IS THE GAME IN WHICH YOU NEED TO SAVE STRANGE CREATURES CALLED SPARKS ON 60 CHALLENGING LEVELS IN 3 DIFFERENT GAME MODES. DEADLY CREATURES LIKE GOLEMS, ZOMBIES, FIREBATS AND GHOSTS WILL BE PURSUING YOU.NN- COMPLETE LEVELS AND SAVE ENOUGH SPARKS TO UNLOCK NEW, MORE CHALLENGING STAGES. NN- FIND THE WAY TO EXIT PORTAL THROUGH THE NUMEROUS PUZZLES IN PUZZLE MODE.</desc>
+		<rating>0</rating>
+		<releasedate>20100512T000000</releasedate>
+		<hash>097425D8</hash>
+		<image>./images/Forest Puzzle (USA).png</image>
+		<thumbnail>./boxart/Forest Puzzle (USA).png</thumbnail>
+		<marquee>./marquee/Forest Puzzle (USA).png</marquee>
+		<video>./snap/Forest Puzzle (USA).mp4</video>
+		<developer>IBA Group</developer>
+		<publisher>IBA Group</publisher>
+	</game>
+	<game id="29240" source="ScreenScraper.fr">
+		<path>./Fort Commander - King's Gambit (USA).cso</path>
+		<name>Fort Commander : King's Gambit</name>
+		<desc>FORT COMMANDER IS A TWIST ON THE CLASSIC TOWER DEFENSE GENRE SET IN THE MOGUL CONQUEST PERIOD. YOU PLAY THE ROLE OF THE COMMANDER OF THE MOGUL ARMY. YOU MUST DEFEAT TWO OPPOSING KINGDOMS - LODI AND SUR - IN A TOTAL OF 14 MISSIONS INCLUDING TWO ASSAULT AND TWO SURVIVAL. THE GAMEPLAY IS BUILT AROUND THE STRATEGY FOR EXPANDING AND CONTROLLING THE MOGUL EMPIRE. IN CAMPAIGN MODE, YOU DEFEND YOUR TOWER UNTIL THE ENEMY POPULATION IS DEPLETED AND THEN YOU CONQUER THEIR TOWER. IN ASSAULT MODE, YOU CHARGE THE ENEMY TOWER UNTIL YOU DEPLETE THEIR POPULATION.</desc>
+		<rating>0</rating>
+		<releasedate>20101005T000000</releasedate>
+		<hash>5DD90192</hash>
+		<image>./images/Fort Commander - King's Gambit (USA).png</image>
+		<thumbnail>./boxart/Fort Commander - King's Gambit (USA).png</thumbnail>
+		<marquee>./marquee/Fort Commander - King's Gambit (USA).png</marquee>
+		<video>./snap/Fort Commander - King's Gambit (USA).mp4</video>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game id="29433" source="ScreenScraper.fr">
+		<path>./Fort Commander II - Counterattack (USA).cso</path>
+		<name>Fort Commander II : Counterattack</name>
+		<desc>FORT COMMANDER IS A TWIST ON THE CLASSIC TOWER DEFENSE GENRE SET IN THE MOGUL CONQUEST PERIOD. YOU PLAY THE ROLE OF THE COMMANDER OF THE MOGUL ARMY. YOU MUST DEFEAT TWO OPPOSING KINGDOMS - MALWA AND BENGAL - IN A TOTAL OF 14 MISSIONS INCLUDING TWO ASSAULT AND TWO SURVIVAL. THE GAME PLAY IS BUILT AROUND THE STRATEGY FOR EXPANDING AND CONTROLLING THE MOGUL EMPIRE. IN CAMPAIGN MODE, YOU DEFEND YOUR TOWER UNTIL THE ENEMY POPULATION IS DEPLETED AND THEN YOU CONQUER THEIR TOWER. IN ASSAULT MODE, YOU CHARGE THE ENEMY TOWER UNTIL YOU DEPLETE THEIR POPULATION.</desc>
+		<rating>0</rating>
+		<releasedate>20101110T000000</releasedate>
+		<hash>69253D1D</hash>
+		<image>./images/Fort Commander II - Counterattack (USA).png</image>
+		<thumbnail>./boxart/Fort Commander II - Counterattack (USA).png</thumbnail>
+		<marquee>./marquee/Fort Commander II - Counterattack (USA).png</marquee>
+		<video>./snap/Fort Commander II - Counterattack (USA).mp4</video>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game id="144151" source="ScreenScraper.fr">
+		<path>./Free Shot Frenzy (Europe).cso</path>
+		<name>Free Shot Frenzy</name>
+		<desc>ES UN JUEGO ARCADE DE DEPORTES, DONDE EL JUGADOR LANZA PELOTAS DE BALONCESTO EN UNA SUCESIÓN RÁPIDA PARA TRATAR DE OBTENER LA MAYOR CANTIDAD DE CANASTAS. EL OBJETIVO DEL JUEGO ES ANOTAR EL MÁXIMO NÚMERO DE CANASTAS POSIBLES. LOS HOOPSTERS SE MUEVEN POR LA PANTALLA PARA HACER EL JUEGO MÁS DIFÍCIL.</desc>
+		<rating>0</rating>
+		<releasedate>20120101T000000</releasedate>
+		<hash>5AD80539</hash>
+		<image>./images/Free Shot Frenzy (Europe).png</image>
+		<thumbnail>./boxart/Free Shot Frenzy (Europe).png</thumbnail>
+		<marquee>./marquee/Free Shot Frenzy (Europe).png</marquee>
+		<video>./snap/Free Shot Frenzy (Europe).mp4</video>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game id="29350" source="ScreenScraper.fr">
+		<path>./Funky Punch (USA).cso</path>
+		<name>Funky Punch</name>
+		<desc>IN THE UNIQUE WORLD OF FUNKYVILLE, A MUSICAL POWER CALLED THE ?FUNKY FLOW? HAS EMPOWERED SOME WITH AMAZING ABILITIES. BUT KLYDE HAS EVIL PLANS FOR THE ?FUNKY FLOW? AND HAS BUILT AN ARMY OF EMOTICONS TO DO HIS BIDDING AND CONTROL THE FLOW FOR HIMSELF. NOW THE BATTLE IS AT HAND. WHICH SIDE WILL YOU CHOOSE?</desc>
+		<rating>0</rating>
+		<releasedate>20091001T000000</releasedate>
+		<hash>07FCC967</hash>
+		<image>./images/Funky Punch (USA).png</image>
+		<thumbnail>./boxart/Funky Punch (USA).png</thumbnail>
+		<marquee>./marquee/Funky Punch (USA).png</marquee>
+		<video>./snap/Funky Punch (USA).mp4</video>
+		<developer>Solus Games</developer>
+		<publisher>Solus Games</publisher>
+	</game>
+	<game id="29432" source="ScreenScraper.fr">
+		<path>./Future Fight (Europe).cso</path>
+		<name>Future Fight</name>
+		<desc>FUTURE FIGHT IS TACTIC BATTLE GAME IN WHICH ALL SIDES ARE PERFORMING THEIR TURNS AT THE SAME TIME FOR TRUE BATTLE MAYHEM!NNIT IS ONLY TACTIC GAME IN WHICH YOU CAN REVERSE TIME TO SURPRISE YOUR ENEMIES! YOU CAN ALSO TRY TO BRIBE ENEMY UNITS TO LEAVE FROM THE BATTLE.NNGAME UTILIZES EXTREMELY SIMPLE POINT &amp; SHOOT INTERFACE SO YOU CAN FOCUS ONLY ON MANAGING YOUR ARMY AND LEAD IT TO GLORIOUS VICTORY!</desc>
+		<rating>0</rating>
+		<releasedate>20100929T000000</releasedate>
+		<hash>1E98EA34</hash>
+		<image>./images/Future Fight (Europe).png</image>
+		<thumbnail>./boxart/Future Fight (Europe).png</thumbnail>
+		<marquee>./marquee/Future Fight (Europe).png</marquee>
+		<video>./snap/Future Fight (Europe).mp4</video>
+		<developer>Bloober Team</developer>
+		<publisher>Bloober Team</publisher>
+		<players>1-2</players>
+	</game>
+	<game id="29478" source="ScreenScraper.fr">
+		<path>./Galcon Labs (USA).cso</path>
+		<name>Galcon Labs</name>
+		<desc>CONQUISTA LA GALAXIA COMO NUNCA ANTES! GALCON LABS ES UN IMPRESIONANTE JUEGO DE ESTRATEGIA DE ARCADE GALÁCTICA A GRAN VELOCIDAD. ENVÍA ENJAMBRES DE NAVES PARA DERROTAR PLANETAS ENEMIGOS Y CONQUISTAR EL UNIVERSO!</desc>
+		<rating>0</rating>
+		<releasedate>20110927T000000</releasedate>
+		<hash>0B62B6B4</hash>
+		<image>./images/Galcon Labs (USA).png</image>
+		<thumbnail>./boxart/Galcon Labs (USA).png</thumbnail>
+		<marquee>./marquee/Galcon Labs (USA).png</marquee>
+		<video>./snap/Galcon Labs (USA).mp4</video>
+		<developer>Hassey Enterprises</developer>
+		<publisher>Hassey Enterprises</publisher>
+	</game>
+	<game id="144172" source="ScreenScraper.fr">
+		<path>./Gamocracy One - Legend of Robot (USA).cso</path>
+		<name>Gamocracy One - Legend Of Robot</name>
+		<desc>LA LEYENDA DEL ROBOT ES ALGO MUY ESPECIAL. ES EL PRODUCTO DEL PROYECTO GAMOCRACIA, EN EL QUE THE BEARDED LADIES INVITÓ A LOS MIEMBROS DEL FORO DE LA COMUNIDAD PLAYSTATION® A DISEÑAR UN JUEGO. EL RESULTADO ES UN INCREÍBLE PLATFORMER CON UNA MECÁNICA DE JUEGO MUY ÚNICA Y PERSONAJES COLORIDOS.NNEN VERDADERO ESPÍRITU GAMOCRACIA AQUÍ ESTÁ EL LANZAMIENTO DE VENTAS DE UNO DE LOS MIEMBROS DEL FORO: NN¿ALGUNA VEZ HAS CONSIDERADO CÓMO SERÍA LANZAR TU PROPIA CABEZA Y USARLA COMO PLATAFORMA O ARMA? ¿QUÉ TAL CONVERTIR TUS BRAZOS EN CÁNONES DE ENERGÍA E IMANES? EN LEGEND OF ROBOT PUEDES HACER TODAS ESTAS COSAS!</desc>
+		<rating>0</rating>
+		<releasedate>20110815T000000</releasedate>
+		<hash>B0DBAFE7</hash>
+		<image>./images/Gamocracy One - Legend of Robot (USA).png</image>
+		<thumbnail>./boxart/Gamocracy One - Legend of Robot (USA).png</thumbnail>
+		<marquee>./marquee/Gamocracy One - Legend of Robot (USA).png</marquee>
+		<video>./snap/Gamocracy One - Legend of Robot (USA).mp4</video>
+		<developer>The Bearded Ladies Consulting</developer>
+		<publisher>Ayeware AB</publisher>
+	</game>
+	<game id="29259" source="ScreenScraper.fr">
+		<path>./Gang Wars (USA).cso</path>
+		<name>Gang Wars</name>
+		<desc>GANG WARS ES UN JUEGO DE DESPLAZAMIENTO LATERAL 2D QUE PONE A LOS JUGADORES EN EL LUGAR DE MIKE (JUGADOR 1) O JACKIE (JUGADOR 2). EN 1989 UNA MUCHACHA ES SECUESTRADA EN NUEVA YORK Y AHORA TIENES QUE LUCHAR A TRAVÉS DE HORDAS DE PANDILLEROS PARA RESCATARLA.</desc>
+		<rating>0</rating>
+		<releasedate>20120724T000000</releasedate>
+		<hash>8DE8B5C3</hash>
+		<image>./images/Gang Wars (USA).png</image>
+		<thumbnail>./boxart/Gang Wars (USA).png</thumbnail>
+		<marquee>./marquee/Gang Wars (USA).png</marquee>
+		<video>./snap/Gang Wars (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29209" source="ScreenScraper.fr">
+		<path>./Gold Fever (USA).cso</path>
+		<name>Gold Fever</name>
+		<desc>TAKE A TRIP BACK IN TIME TO EXPLORE THE GREAT AMERICAN GOLD RUSH IN THIS WELL-DESIGNED ARCADE PUZZLE GAME. FLIP COINS TO MAKE MATCHES AND MINE YOUR WAY TO GOLD COUNTRY, CALIFORNIA. GOLD FEVER WILL CHALLENGE EVEN THE MOST DEDICATED PUZZLE PLAYERS. CLEVER POWER UPS AND STUNNING GRAPHICS PROMISE HOURS OF ENJOYABLE GAMEPLAY.NN</desc>
+		<rating>0</rating>
+		<releasedate>20100609T000000</releasedate>
+		<hash>5D7938EE</hash>
+		<image>./images/Gold Fever (USA).png</image>
+		<thumbnail>./boxart/Gold Fever (USA).png</thumbnail>
+		<marquee>./marquee/Gold Fever (USA).png</marquee>
+		<video>./snap/Gold Fever (USA).mp4</video>
+		<developer>TikGames, LLC</developer>
+		<publisher>TikGames, LLC</publisher>
+	</game>
+	<game id="29105" source="ScreenScraper.fr">
+		<path>./Gold Medalist (USA).cso</path>
+		<name>Gold Medalist</name>
+		<desc>CHALLENGE 192 ATHLETES FROM EIGHT COUNTRIES, IN NINE SPORTING EVENTS SUCH AS DISCUS THROW, HIGH JUMP, BOXING, AND SWIMMING TO BECOME THE GOLD MEDALIST AT THE 1988 SEOUL OLYMPICS! CAN YOU DEFEAT LOUIS OR BEN?</desc>
+		<rating>0</rating>
+		<releasedate>20120314T000000</releasedate>
+		<hash>4CF8B310</hash>
+		<image>./images/Gold Medalist (USA).png</image>
+		<thumbnail>./boxart/Gold Medalist (USA).png</thumbnail>
+		<marquee>./marquee/Gold Medalist (USA).png</marquee>
+		<video>./snap/Gold Medalist (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+	</game>
+	<game id="144198" source="ScreenScraper.fr">
+		<path>./GreenTechPlus (Europe).cso</path>
+		<name>Green Tech Plus</name>
+		<desc>GREENTECH+ IS A COMMERCIAL VERSION OF THE FREEWARE GAME GREENTECH. JUST LIKE IN THE ORIGINAL GAME THE PLAYER CONTROLS A HURRICANE IN AN ATTEMPT TO STEER POLLUTED CLOUDS INTO CLEANSING FACTORIES, TO CREATE CLEANER AIR AND THWART GLOBAL WARMING. POLLUTED CLOUDS ARE SENT OUT GRADUALLY AND THESE ARE DRAWN TOWARDS THE HURRICANE THAT CAN MOVE ABOUT FREELY ON THE SCREEN. BY MOVING THE HURRICANE AND KEEPING TRACK OF ALL POLLUTION, THE CLOUDS NEED TO BE STEERED INTO THE FACTORIES. BORROWING FROM THE MECHANICS OF TOWER DEFENSE GAMES, THE POLLUTION NEEDS TO BE MOVED AWAY FROM HIGH PRESSURE ZONES. THESE ZONES IMMEDIATELY ABSORB THE POLLUTION AND DISPERSE IT, ADDING 10% TO THE GLOBAL WARMING PERCENTAGE. SIMILARLY, HAVING POLLUTION TOUCH THE HURRICANE YIELDS A 20% PERCENTAGE. WHEN 100% IS REACHED, EARTH IS DESTROYED AND THE GAME IS OVER.</desc>
+		<rating>0</rating>
+		<releasedate>20110126T000000</releasedate>
+		<hash>EE7FFF93</hash>
+		<image>./images/GreenTechPlus (Europe).png</image>
+		<thumbnail>./boxart/GreenTechPlus (Europe).png</thumbnail>
+		<marquee>./marquee/GreenTechPlus (Europe).png</marquee>
+		<video>./snap/GreenTechPlus (Europe).mp4</video>
+		<developer>Vertigo Games</developer>
+		<publisher>YoYo Games Ltd</publisher>
+	</game>
+	<game id="29440" source="ScreenScraper.fr">
+		<path>./Guerrilla War (USA).cso</path>
+		<name>Guerrilla War</name>
+		<desc>ENTER THE JUNGLE AND RUINED CITIES OF A TROPICAL ISLAND TO OVERTHROW ITS TYRANNICAL DICTATOR, AND LIBERATE THE NATION HELD IN HIS GRIP. DON'T FORGET TO RESCUE YOUR CAPTURED COMRADES ALONG THE WAY! HAIL THE HEROES OF THE REVOLUTION!</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>1E08B909</hash>
+		<image>./images/Guerrilla War (USA).png</image>
+		<thumbnail>./boxart/Guerrilla War (USA).png</thumbnail>
+		<marquee>./marquee/Guerrilla War (USA).png</marquee>
+		<video>./snap/Guerrilla War (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<players>1</players>
+	</game>
+	<game id="29441" source="ScreenScraper.fr">
+		<path>./HAL 21 (USA).cso</path>
+		<name>Hal 21</name>
+		<desc>HAL 21 IS AN ARCADE SHOOTER FROM 1985 THAT IS MECHANICALLY SIMILAR TO XEVIOUS. THE PLAYER SHOOTS FLYING ENEMIES AND BOMBS GROUND TARGETS AS THE SCREEN SCROLLS UPWARDS. AT SPECIFIC PARTS IN THE STAGES MORE POWERFUL BOSS ENEMIES WILL APPEAR. COLLECTING SEVERAL ENERGY ICONS WILL TEMPORARILY INCREASE THE SHIP'S FIREPOWER.NNNNTWO PLAYER MODE, THE ARCADE VERSION'S MAJOR IMPROVEMENT ON THE XEVIOUS TEMPLATE, IS NOT AVAILABLE IN THE PS MINI RELEASE.</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>D614B57E</hash>
+		<image>./images/HAL 21 (USA).png</image>
+		<thumbnail>./boxart/HAL 21 (USA).png</thumbnail>
+		<marquee>./marquee/HAL 21 (USA).png</marquee>
+		<video>./snap/HAL 21 (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29205" source="ScreenScraper.fr">
+		<path>./Blast Off (USA).cso</path>
+		<name>Halfbrick Blast Off</name>
+		<desc>BLAST OFF IS AN INTERSTELLAR ARCADE GAME FEATURING GRAVITY FIELDS, LOST ASTRONAUTS AND BIZARRE PLANETARY SYSTEMS. USE YOUR ROCKET SHIP TO RESCUE ASTRONAUTS AND CARRY THEM THROUGH THE WARPGATE TO SAFETY. BUT BE CAREFUL! THE EVER-PRESENT FORCE OF GRAVITY CAN HELP YOU ON YOUR JOURNEY, BUT CAN ALSO BRING YOU CRASHING DOWN. 
+
+
+- 45 MISSIONS ACROSS FOUR DIFFICULTY SETTINGS
+- PLANETS AND ASTEROIDS GRAVITY ATTRACT THE SHIP, ALLOWING PLAYERS TO FLOAT AROUND THE LEVEL
+- BLACK HOLES ATTRACT THE SHIP WITH EVEN MORE FEROCITY
+- WHITE HOLES HAVE A REVERSE GRAVITY FIELD, PUSHING THE SHIP AWAY
+- MISSION SUCCESS IS RANKED ON REMAINING FUEL AND AIR, ASTRONAUTS COLLECTED
+- AWARDED SILVER, GOLD OR BRICK MEDALS BASED ON FINAL MISSION OUTCOME 
+
+GOOD LUCK, AND BLAST OFF!</desc>
+		<rating>0.75</rating>
+		<releasedate>20091126T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Blast Off (USA).png</image>
+		<thumbnail>./boxart/Blast Off (USA).png</thumbnail>
+		<marquee>./marquee/Blast Off (USA).png</marquee>
+		<video>./snap/Blast Off (USA).mp4</video>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+	</game>
+	<game id="29401" source="ScreenScraper.fr">
+		<path>./Hello Flowerz (USA).cso</path>
+		<name>Hello Flowerz</name>
+		<desc>IN ?HELLO FLOWERZ? YOU CAN SOW YOUR FAVORITE FLOWERS AND LOOK AFTER THEM EVERY DAY HELPING THEM GROW INTO HEALTHY BEAUTIFUL FLOWERS.NNUSE YOUR FLOWERS TO CREATE WONDERFUL BOUQUETS AND ENTER THEM IN COMPETITIONS THAT ARE RUN REGULARLY. NNLANDSCAPE YOUR OWN GARDENS, TRANSPLANT FLOWERS AND ARRANGE VARIOUS ITEMS.SO, PUT ON YOUR GLOVES, GRAB YOUR TOOLS AND... START SHOWING OFF YOUR FLOWERS! NN</desc>
+		<rating>0</rating>
+		<releasedate>20100625T000000</releasedate>
+		<hash>1C520555</hash>
+		<image>./images/Hello Flowerz (USA).png</image>
+		<thumbnail>./boxart/Hello Flowerz (USA).png</thumbnail>
+		<marquee>./marquee/Hello Flowerz (USA).png</marquee>
+		<video>./snap/Hello Flowerz (USA).mp4</video>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+		<players>1</players>
+	</game>
+	<game id="29431" source="ScreenScraper.fr">
+		<path>./Hive Sweeper (Europe).cso</path>
+		<name>Hive Sweeper</name>
+		<desc>PLAY THE CLASSIC MINE SWEEPER GAME AS YOU'VE NEVER PLAYED IT BEFORE! HIVE SWEEPER OFFERS UNLIMITED NUMBER OF THE CLASSIC GAME SET IN THE UNIQUE ATMOSPHERE OF A HIVE. BE CAREFUL! CRAZY GRAPHICS, CHILLING MUSIC, WIDE RANGE OF DIFFICULTY LEVELS AND CONSTANTLY BREAKABLE TIME RECORD WILL SOON MAKE YOU A NUMBER ONE ADDICT TO HIVE SWEEPER. TEST YOUR BRAIN POWER, SMARTNESS AND PATIENCE IN THE 3 TYPES OF GAME STYLE (WITH DIFFERENT CELL SHAPES), EACH WITH 15 DIFFICULTY LEVELS. ARE YOU AN ABSOLUTE BEGINNER? OR AN EXPERT ALREADY? HIVE SWEEPER IS THE MINE SWEEPER FOR YOU!</desc>
+		<rating>0</rating>
+		<releasedate>20100825T000000</releasedate>
+		<hash>B8088E34</hash>
+		<image>./images/Hive Sweeper (Europe).png</image>
+		<thumbnail>./boxart/Hive Sweeper (Europe).png</thumbnail>
+		<marquee>./marquee/Hive Sweeper (Europe).png</marquee>
+		<video>./snap/Hive Sweeper (Europe).mp4</video>
+		<developer>Skyl-com</developer>
+		<publisher>Skyl-com</publisher>
+	</game>
+	<game id="29107" source="ScreenScraper.fr">
+		<path>./Hotel Mogul (USA).cso</path>
+		<name>Hotel Mogul</name>
+		<desc>BUY, DEVELOP AND SELL COMMERCIAL PROPERTIES TO MAKE A PROFIT BUILD ATTRACTIONS THAT INCREASE YOUR INCOME AND KEEP YOUR EYE ON THE BOTTOM LINE AS YOU PURCHASE MATERIALS AND HIRE WORKERS. THE FUN OF HOTEL MOGUL WILL HAVE YOU LAUGHING ALL THE WAY TO THE BANK!</desc>
+		<rating>0</rating>
+		<releasedate>20121205T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Hotel Mogul (USA).png</image>
+		<thumbnail>./boxart/Hotel Mogul (USA).png</thumbnail>
+		<marquee>./marquee/Hotel Mogul (USA).png</marquee>
+		<video>./snap/Hotel Mogul (USA).mp4</video>
+		<developer>Alawar Entertainment, Inc.</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game id="140704" source="ScreenScraper.fr">
+		<path>./Hungry Giraffe (USA).cso</path>
+		<name>Hungry Giraffe</name>
+		<desc>É RUIM  QUANDO VOCÊ ESTÁ COM FOME. ÀS VEZES VOCÊ QUER APENAS ENTERRAR SEU ROSTO EM UM HAMBÚRGUER, OU COMER UM TACO. PARA FORA DA SAVANA AFRICANA, UMA GIRAFA COM FOME SENTE SUA DOR. UM ANIMAL DE 20 PÉS DE ALTURA E 1200 KG, COMO A GIRAFA, PRECISA COMER TONELADAS DE COMIDA POR DIA, APENAS PARA SE MANTER VIVO. MAS, OH NÃO! TODAS AS FOLHAS MAIS SABOROSAS FORAM COMIDAS, ENQUANTO NO ALTO DO CÉU QUANTIDADES INFINITAS DE LANCHES, FRUTAS E GULOSEIMAS FLUTUAM FORA DO ALCANCE!</desc>
+		<rating>0</rating>
+		<releasedate>20120207T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Hungry Giraffe (USA).png</image>
+		<thumbnail>./boxart/Hungry Giraffe (USA).png</thumbnail>
+		<marquee>./marquee/Hungry Giraffe (USA).png</marquee>
+		<video>./snap/Hungry Giraffe (USA).mp4</video>
+		<developer>Laughing Jackal</developer>
+		<publisher>TBC</publisher>
+	</game>
+	<game id="29213" source="ScreenScraper.fr">
+		<path>./I Must Run! (USA).cso</path>
+		<name>I Must Run!</name>
+		<desc>YOU HAVE BEEN CONVICTED OF A CRIME YOU DIDN'T MEAN TO COMMIT. YOUR SENTENCE WAS HARSH DESPITE THE CIRCUMSTANCES, AND NOW YOU ROT IN JAIL. BUT THOSE AFFECTED BY YOUR ACTIONS ARE NOT SATISFIED. NOW, THEY ARE THREATENING TO KILL THE ONE YOU LOVE TO EXACT REVENGE. AND IF YOU DO NOT ESCAPE AND REACH THE COURTHOUSE IN 24 HOURS, SHE'LL BE GONE. THERE ARE NO OTHER OPTIONS. YOU MUST RUN.</desc>
+		<rating>0</rating>
+		<releasedate>20101214T000000</releasedate>
+		<hash>BD8B3A3E</hash>
+		<image>./images/I Must Run! (USA).png</image>
+		<thumbnail>./boxart/I Must Run! (USA).png</thumbnail>
+		<marquee>./marquee/I Must Run! (USA).png</marquee>
+		<video>./snap/I Must Run! (USA).mp4</video>
+		<developer>Gamelion Studios</developer>
+		<publisher>Gamelion Studios</publisher>
+	</game>
+	<game id="29026" source="ScreenScraper.fr">
+		<path>./HISTORY - Ice Road Truckers (USA).cso</path>
+		<name>Ice Road Truckers</name>
+		<desc>THE ICE ROAD TRUCKERS IS A RACING GAME THAT CAPTURES THE SPIRIT AND DANGER OF THE SERIES BY PUTTING PLAYERS IN THE DRIVER'S SEAT OF AN EIGHTEEN WHEELER. PLAYERS FACE A NUMBER OF CHALLENGES AS THEY HAUL EQUIPMENT AND SUPPLIES TO ISOLATED OUTPOSTS NORTH OF THE ARCTIC CIRCLE. PLAYER TAKE COMMAND OF THESE HUGE 18-WHEELERS AND DRIVE THEIR WAY ACROSS ICE ROADS. STAY ON THE ROAD, AVOID OBSTACLES, AND REACH THE DESTINATION BEFORE TIME RUNS OUT. QUICKER TIMES EARN YOU MORE MONEY, BUT IF YOU'RE LATE YOU WON'T ADVANCE !</desc>
+		<rating>0.45</rating>
+		<releasedate>20100311T000000</releasedate>
+		<hash>C2BC4FE4</hash>
+		<image>./images/HISTORY - Ice Road Truckers (USA).png</image>
+		<thumbnail>./boxart/HISTORY - Ice Road Truckers (USA).png</thumbnail>
+		<marquee>./marquee/HISTORY - Ice Road Truckers (USA).png</marquee>
+		<video>./snap/HISTORY - Ice Road Truckers (USA).mp4</video>
+		<developer>Slitherine Software</developer>
+		<publisher>Slitherine Software</publisher>
+	</game>
+	<game id="29222" source="ScreenScraper.fr">
+		<path>./Idiot Squad (USA).cso</path>
+		<name>Idiot Squad</name>
+		<desc>¡EL GRANJERO BEN ESTÁ ENOJADO! SUS OVEJAS FINALMENTE ESTABAN LISTAS PARA LA COMPETICIÓN ANUAL DEL PUEBLO, PERO LOS HERMANOS CHUCK SE LAS ROBARON ANOCHE PARA ASEGURARSE DE QUE NO TENÍA NINGUNA OPORTUNIDAD DE GANAR. BEN ESTÁ DECIDIDO A RECUPERARLAS. HA FORMADO UN COMANDO ESPECIAL PARA ENTRAR EN TERRITORIO ENEMIGO Y EXPULSAR A LAS OVEJAS SECUESTRADAS. HA ENTRENADO A SUS MEJORES OVEJAS PARA QUE SEAN SIMPLEMENTE LAS MEJORES.</desc>
+		<rating>0.8</rating>
+		<releasedate>20120328T000000</releasedate>
+		<hash>7B76BF99</hash>
+		<image>./images/Idiot Squad (USA).png</image>
+		<thumbnail>./boxart/Idiot Squad (USA).png</thumbnail>
+		<marquee>./marquee/Idiot Squad (USA).png</marquee>
+		<video>./snap/Idiot Squad (USA).mp4</video>
+		<developer>Hydravision</developer>
+		<publisher>Hydravision</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29144" source="ScreenScraper.fr">
+		<path>./Ikari Warriors II - Victory Road (USA).cso</path>
+		<name>Ikari Warriors II : Victory Road</name>
+		<desc>IKARI WARRIORS II: VICTORY ROAD EN PSP ES UN JUEGO DE ACCIÓN DESPUÉS DEL FAMOSO JUEGO DE ARCADE. EN ESTA SEGUNDA OBRA, CONTROLAS A LOS GUERREROS IKARIS, ENFRENTÁNDOTE A CADA VEZ MÁS ENEMIGOS COMO LOS HOMBRES VERDE-CÍCLOPE, O INCLUSO BESTIAS CON CABEZAS DE PIEDRA.</desc>
+		<rating>0</rating>
+		<releasedate>20111122T000000</releasedate>
+		<hash>0ACACC80</hash>
+		<image>./images/Ikari Warriors II - Victory Road (USA).png</image>
+		<thumbnail>./boxart/Ikari Warriors II - Victory Road (USA).png</thumbnail>
+		<marquee>./marquee/Ikari Warriors II - Victory Road (USA).png</marquee>
+		<video>./snap/Ikari Warriors II - Victory Road (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29120" source="ScreenScraper.fr">
+		<path>./Ikari Warriors (USA).cso</path>
+		<name>Ikari Warriors</name>
+		<desc>IKARI WARRIORS PARA DESCARGAR EN PSP ES UN JUEGO DE ACCIÓN DE DESPLAZAMIENTO VERTICAL. TU AVIÓN ACABA DE ESTRELLARSE EN MEDIO DE LA SELVA EN TERRITORIO ENEMIGO, AHORA DEBES LLEGAR A LA ALDEA DE IKARI, PERO MUCHOS ENEMIGOS ESTÁN BLOQUEANDO TU CAMINO, DESDE SIMPLES SOLDADOS A HELICÓPTEROS Y TANQUES. TENDRÁS QUE DESHACERTE DE ELLOS PARA CUMPLIR TU MISIÓN!</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>59024002</hash>
+		<image>./images/Ikari Warriors (USA).png</image>
+		<thumbnail>./boxart/Ikari Warriors (USA).png</thumbnail>
+		<marquee>./marquee/Ikari Warriors (USA).png</marquee>
+		<video>./snap/Ikari Warriors (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29457" source="ScreenScraper.fr">
+		<path>./International Snooker (Europe).cso</path>
+		<name>International Snooker</name>
+		<desc>QUITE POSSIBLY THE MOST REALISTIC SNOOKER GAME TO COME TO ANY GAMING PLATFORM, WORKING CLOSELY WITH MICHAELA TABB THE WORLDS MOST FAMOUS SNOOKER AND POOL REFEREE BIG HEAD GAMES HAVE CRAFTED THE ULTIMATE CUE SPORTS SIMULATION, WITH EASY TO PICKUP AND PLAY CONTROLS AND MONTHS OF GAMEPLAY AS YOU FIGHT THROUGH A PRO PLAYERS CAREER.</desc>
+		<rating>0</rating>
+		<releasedate>20091222T000000</releasedate>
+		<hash>38838B2F</hash>
+		<image>./images/International Snooker (Europe).png</image>
+		<thumbnail>./boxart/International Snooker (Europe).png</thumbnail>
+		<marquee>./marquee/International Snooker (Europe).png</marquee>
+		<video>./snap/International Snooker (Europe).mp4</video>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game id="29329" source="ScreenScraper.fr">
+		<path>./Jane's Hotel (USA).cso</path>
+		<name>Jane's Hotel</name>
+		<desc>YOU START AS A SMALL 2 STAR HOTEL OWNER AT THE TOWN SUBURBS AND WORK YOUR WAY TO THE TOP BY UPGRADING ACCOMMODATIONS AND ACHIEVING AN EXCELLENT REPUTATION. KEEP AN EYE ON CUSTOMER MOODS AND MAKE THEM HAPPY BY SERVING THEM FINE DRINKS AND DAINTY MEALS, OR SIMPLY OFFERING PERFECT ROOM SERVICE. WE WILL MAKE YOUR STAY UNFORGETTABLE!</desc>
+		<rating>0</rating>
+		<releasedate>20110112T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Jane's Hotel (USA).png</image>
+		<thumbnail>./boxart/Jane's Hotel (USA).png</thumbnail>
+		<marquee>./marquee/Jane's Hotel (USA).png</marquee>
+		<video>./snap/Jane's Hotel (USA).mp4</video>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+	</game>
+	<game id="29499" source="ScreenScraper.fr">
+		<path>./JellyCar 2 (USA).cso</path>
+		<name>JellyCar 2</name>
+		<desc>YOU'LL WANT TO DRIVE JELLYCAR 2 ALL AROUND TOWN!
+
+JELLYCAR 2, THE HIT DRIVING PLATFORM GAME IS HERE AND FULLY LOADED WITH MORE THAN 30 LEVELS, THREE GAME MODES, AND MUCH MORE! POST HIGH SCORES, BEST TIMES AND LONGEST JUMPS IN THE HALL OF FAME. WITH SO MUCH SQUISHY GOODNESS, YOUÂLL WANT TO DRIVE JELLYCAR 2 ALL AROUND TOWN!
+
+CLASSIC:
+DRIVE YOUR SQUISHY CAR AND USE YOUR SPECIAL ABILITIES TO DRIVE THROUGH SQUISHY WORLDS!
+
+FACTORY:
+WHERE DOES ALL THIS SQUISHY GOODNESS COME FROM? THE JELLY FACTORY, OF COURSE! IN THIS PUZZLE GAME YOUR GOAL IS TO GUIDE THE FALLING PARTS INTO MATCHING CHUTES. TAP THE LEVERS TO OPEN DIFFERENT PATHWAYS TO GUIDE EACH PART DOWN THE CONVEYOR BELTS.
+
+LONG JUMP:
+YOUÂRE GOING FOR DISTANCE, SO GO FOR SPEED! WATCH OUT FOR OBJECTS THAT CAN SLOW YOU DOWN, AND LOOK FOR OBJECTS THAT CAN HELP GIVE YOU A BOOST!</desc>
+		<rating>0.9</rating>
+		<releasedate>20110720T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/JellyCar 2 (USA).png</image>
+		<thumbnail>./boxart/JellyCar 2 (USA).png</thumbnail>
+		<marquee>./marquee/JellyCar 2 (USA).png</marquee>
+		<video>./snap/JellyCar 2 (USA).mp4</video>
+		<developer>Disney</developer>
+		<publisher>Disney</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29289" source="ScreenScraper.fr">
+		<path>./Jelly Pops (USA).cso</path>
+		<name>JellyPops</name>
+		<desc>LETS FACE IT... SOMETIMES, VIDEOGAMES CAN BE A BIT WEIRD. FOR EXAMPLE, WHO EVER THOUGHT TO MIX COLOUR MATCHING WITH TIME TRIAL STYLE RALLY RACING? AND THEN TO DECIDE IT SHOULD GRAPHICALLY LOOK LIKE SOMETHING INVOLING ALIEN POND SNAKES AND CELLULAR LIFE? MAKES NO SENSE, RIGHT? WE AT POMPOM PRIDE OURSELVES IN MAKING AS LITTLE SENSE AS POSSIBLE. HENCE OUR DECISION TO DO ALL THE ABOVE. THE RESULT IS JELLYPOPS.
+
+
+IT GOES SOMETHING LIKE THIS: YOU CONTROL A STRANGE SNAKE CREATURE, WHICH RESIDES IN A STRANGE POND IN A STRANGE WORLD WITH SOME STRANGE RULES. THE AIM IS TO STAY ALIVE AS LONG AS POSSIBLE. STAYING ALIVE DRAINS YOUR LIVE FORCE, SO SNAKE NEEDS TO COLLECT LIFE FORCE GEMS TO KEEP IT GOING. WITH TIME, LIFE GEMS BECOME MORE AND MORE SCARCE, RESULTING IN A DESPERATE RACE TO REACH THE NEXT GEM BEFORE ITS LIGHTS OUT.
+
+
+BETWEEN SNAKE AND THE LIFE FORCE GEMS ARE A MYRIAD OF OTHER BEASTIES THAT REQUIRE SPECIAL ATTENTION. COLOURED JELLIES WHICH BOOST YOUR GEMS VALUE WHEN COLLECTED AS PART OF A COMBO. TEETHY FISH THINGS THAT TRY TO BLAST YOU WITH PLASMA. SPIKEY ROCKS AND WALLS. BOUNCING SPHERICAL CELLS THAT CAN BE CONTROLLED AND USED AS BATTERING RAMS. EACH LEVEL WITH ITS OWN UNIQUE MECHANICS TO UNDERSTAND AND MASTER.
+
+FEATURES :
+AVAILABLE ON PSP MINIS
+ENDLESS SURVIVAL GAMEPLAY
+8 PONDS TO TRAVERSE
+FUN, SLIPPY SLIDEY RACING TYPE GAMEPLAY
+BONUS SPIRIT AND BOOST UNLOCKABLES
+MEDALS AWARDED FOR ACHIEVEMENTS
+CUSTOM MUSIC WHICH DYNAMICALLY CHAGES WITH GAMEPLAY
+QUICK PLAYTIME. THE PERFECT GAME FOR FILLING 5 MINUTES.</desc>
+		<rating>0</rating>
+		<releasedate>20110907T000000</releasedate>
+		<hash>7646ECC9</hash>
+		<image>./images/Jelly Pops (USA).png</image>
+		<thumbnail>./boxart/Jelly Pops (USA).png</thumbnail>
+		<marquee>./marquee/Jelly Pops (USA).png</marquee>
+		<video>./snap/Jelly Pops (USA).mp4</video>
+		<developer>PomPom Games</developer>
+		<publisher>PomPom Games</publisher>
+	</game>
+	<game id="27876" source="ScreenScraper.fr">
+		<path>./Jetpack Joyride (USA).cso</path>
+		<name>Jetpack Joyride</name>
+		<desc>EN JETPACK JOYRIDE EL JUGADOR CONTROLA A BARRY, UN JOVEN QUE ROBA UN JETPACK EXPERIMENTAL DE CIENTÍFICOS SUPUESTAMENTE MALVADOS Y TIENE QUE ESCAPAR DEL LABORATORIO. EL JUEGO SE DESPLAZA AUTOMÁTICAMENTE, HACIENDO QUE BARRY AVANCE DE IZQUIERDA A DERECHA A UNA VELOCIDAD CADA VEZ MAYOR. LOS FONDOS SE ALTERNAN ALEATORIAMENTE, INTERCALANDO LABORATORIOS DE CIENCIAS CON ALMACENES, JARDINES, ETC.</desc>
+		<rating>0.8</rating>
+		<releasedate>20121121T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Jetpack Joyride (USA).png</image>
+		<thumbnail>./boxart/Jetpack Joyride (USA).png</thumbnail>
+		<marquee>./marquee/Jetpack Joyride (USA).png</marquee>
+		<video>./snap/Jetpack Joyride (USA).mp4</video>
+		<developer>Beatshapers</developer>
+		<publisher>Beatshapers</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29367" source="ScreenScraper.fr">
+		<path>./Jewel Keepers - Easter Island (USA).cso</path>
+		<name>Jewel Keepers : Easter Island</name>
+		<desc>WELCOME TO JEWEL KEEPERS: EASTER ISLAND Â AN ADDICTIVE MATCH-THREE ARCADE ACTION GAME WITH MIND-BLOWING VISUALS AND ENGAGING STORYLINE! THIS GAME WILL KEEP YOU ENTERTAINED FOR HOURS, AS YOU TRAVEL ACROSS EASTER ISLAND AND HELP TO UNVEIL ITS MYSTERIES.
+
+MORE FUN FROM NORDCURRENT: - 101-IN-1 GAMES Â A COLLECTION OF 101 GAMES IN ONE APP. FREQUENT CHART TOPPER IN USA, UK, AUSTRALIA, AND MANY OTHER COUNTRIES! - URBANIX Â AN ENHANCED VERSION OF XONIX AND QIX, WITH NEW MODES OF PLAY, NEW WORLDS AND ENEMIES! - ROBIN HOOD: RETURN OF RICHARD Â HELP ROBIN TO DEFEAT THE VILLAINS AND RESTORE PEACE IN THIS ACTION GAME!</desc>
+		<rating>0</rating>
+		<releasedate>20101110T000000</releasedate>
+		<hash>A2996FFD</hash>
+		<image>./images/Jewel Keepers - Easter Island (USA).png</image>
+		<thumbnail>./boxart/Jewel Keepers - Easter Island (USA).png</thumbnail>
+		<marquee>./marquee/Jewel Keepers - Easter Island (USA).png</marquee>
+		<video>./snap/Jewel Keepers - Easter Island (USA).mp4</video>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game id="28946" source="ScreenScraper.fr">
+		<path>./Kahoots (USA).cso</path>
+		<name>Kahoots</name>
+		<desc>THE CONFUSED KAHOOTS NEED TO FIND THEIR WAY TO THEIR DESTINATION WITHOUT BEING BOTHERED BY THE CRANKY CARDBORGS. KAHOOTS IS A 50 LEVEL PUZZLE GAME WHERE YOU SWAP TILES WHICH FORM THE FLOOR OF THE LEVELS TO HELP YOUR KAHOOT TO AVOID OBSTACLES AND GET TO THE EXIT.</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Kahoots (USA).png</image>
+		<thumbnail>./boxart/Kahoots (USA).png</thumbnail>
+		<marquee>./marquee/Kahoots (USA).png</marquee>
+		<video>./snap/Kahoots (USA).mp4</video>
+		<developer>Honeyslug</developer>
+		<publisher>Honeyslug</publisher>
+		<players>1</players>
+	</game>
+	<game id="29470" source="ScreenScraper.fr">
+		<path>./Karimogi (USA).cso</path>
+		<name>Karimogi</name>
+		<desc>KARIMOGI IS AN ALIEN THAT NEEDS YOU! THE SITUATION IS CRITICAL. CRANES ARE DROPPING BRICKS EVERYWHERE AND KARIMOGI NEEDS YOUR HELP TO PUSH THEM AROUND AND PUT THEM IN ORDER OR HE WILL NEVER SEE HIS SPACESHIP AGAIN. ARRANGE THE BRICKS INTO ROWS AND THEY WILL THEN DISAPPEAR. BUT BE CAREFUL, YOU MUST STAY VERY ALERT BECAUSE ANY BRICK COULD CRUSH YOU!</desc>
+		<rating>0</rating>
+		<releasedate>20110216T000000</releasedate>
+		<hash>2A4685C3</hash>
+		<image>./images/Karimogi (USA).png</image>
+		<thumbnail>./boxart/Karimogi (USA).png</thumbnail>
+		<marquee>./marquee/Karimogi (USA).png</marquee>
+		<video>./snap/Karimogi (USA).mp4</video>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+		<players>1</players>
+	</game>
+	<game id="29102" source="ScreenScraper.fr">
+		<path>./Karoshi (Europe).cso</path>
+		<name>Karoshi</name>
+		<desc>KAROSHI ES UN JUEGO DE PUZZLE DISPONIBLE EN LA PLAYSTATION STORE. TU OBJETIVO AQUÍ SERÁ MATAR A KAROSHI, UN EMPLEADO JAPONÉS DEPRIMIDO, POR CUALQUIER MEDIO. POR LO TANTO, TENDRÁS QUE RESOLVER VARIOS ROMPECABEZAS PARA PERMITIR AL POBRE HOMBRE TERMINAR SU VIDA DE SERVIDUMBRE BAJO EL YUGO DEL CAPITALISMO.</desc>
+		<rating>0.9</rating>
+		<releasedate>20110406T000000</releasedate>
+		<hash>A75B7F2E</hash>
+		<image>./images/Karoshi (Europe).png</image>
+		<thumbnail>./boxart/Karoshi (Europe).png</thumbnail>
+		<marquee>./marquee/Karoshi (Europe).png</marquee>
+		<video>./snap/Karoshi (Europe).mp4</video>
+		<developer>YoYo Games</developer>
+		<publisher>YoYo Games</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="27190" source="ScreenScraper.fr">
+		<path>./L.A. Gridlock (Europe).cso</path>
+		<name>LA Gridlock</name>
+		<rating>0</rating>
+		<releasedate>20120411T000000</releasedate>
+		<image>./images/L.A. Gridlock (Europe).png</image>
+		<thumbnail>./boxart/L.A. Gridlock (Europe).png</thumbnail>
+		<marquee>./marquee/L.A. Gridlock (Europe).png</marquee>
+		<video>./snap/L.A. Gridlock (Europe).mp4</video>
+		<developer>Immersive Games</developer>
+		<publisher>Immersive Games</publisher>
+	</game>
+	<game id="29210" source="ScreenScraper.fr">
+		<path>./Labyrinth (USA).cso</path>
+		<name>Labyrinth</name>
+		<desc>EN LABYRINTH, UN JUEGO DE ARCADE, PLANTAS CARNÍVORAS HAN SIDO LIBERADAS! PARA ESCAPAR DE SU INSACIABLE APETITO, DEBES COMERTE TODAS LAS SEMILLAS DEL LABERINTO, JUGAR CON ELLAS, CAMBIAR DE DIRECCIÓN, ACELERAR, ESCABULLIRTE A TRAVÉS DE PASAJES SECRETOS Y COMERTE TODAS LAS FRUTAS MÁGICAS PARA AUMENTAR TU FUERZA Y CONVERTIRTE EN EL NUEVO DEPREDADOR DEL LABERINTO.</desc>
+		<rating>0</rating>
+		<releasedate>20100728T000000</releasedate>
+		<hash>B1B59245</hash>
+		<image>./images/Labyrinth (USA).png</image>
+		<thumbnail>./boxart/Labyrinth (USA).png</thumbnail>
+		<marquee>./marquee/Labyrinth (USA).png</marquee>
+		<video>./snap/Labyrinth (USA).mp4</video>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game id="29141" source="ScreenScraper.fr">
+		<path>./Left to Die in Zombhai (Europe).cso</path>
+		<name>Left To Die In Zombhai</name>
+		<desc>BIENVENIDOS A ZOMBHAI, UNA CIUDAD POBLADA DE ZOMBIS! ¿CUANTO TIEMPO SOBREVIVIRAS? OFRECIENDO UNA AMPLIA GAMA DE ARMAS Y LUGARES ESTE JUEGO TRAERÁ HORAS DE DIVERSIÓN.</desc>
+		<rating>0</rating>
+		<releasedate>20110831T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Left to Die in Zombhai (Europe).png</image>
+		<thumbnail>./boxart/Left to Die in Zombhai (Europe).png</thumbnail>
+		<marquee>./marquee/Left to Die in Zombhai (Europe).png</marquee>
+		<video>./snap/Left to Die in Zombhai (Europe).mp4</video>
+		<developer>iSquared Games</developer>
+		<publisher>iSquared Games</publisher>
+	</game>
+	<game id="144409" source="ScreenScraper.fr">
+		<path>./Legend of Kunoichi (USA).cso</path>
+		<name>Legend Of Kunoichi</name>
+		<desc>PLAY AS MAI, A NINJA WARRIOR, TO DEFEND YOUR SHOGUN AGAINST WAVES OF NINJA ATTACKERS. THROW HAMMERS TO TAKE THEM OUT AND HOLD THEM OFF AS LONG AS YOU CAN SO YOUR SHOGUN CAN ESCAPE IN THIS EASY-TO-PLAY, ARCADE-STYLE MINIGAME.</desc>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<hash>EE4CDBEE</hash>
+		<image>./images/Legend of Kunoichi (USA).png</image>
+		<thumbnail>./boxart/Legend of Kunoichi (USA).png</thumbnail>
+		<marquee>./marquee/Legend of Kunoichi (USA).png</marquee>
+		<video>./snap/Legend of Kunoichi (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="29494" source="ScreenScraper.fr">
+		<path>./Lock 'n' Chase (USA).cso</path>
+		<name>Lock'n Chase</name>
+		<desc>BASADO EN EL JUEGO DE PAC-MAN, LOCK' N CHASE EN PSP TE PONDRÁ EN LA PIEL DE UN LADRÓN QUE ACABA DE ROBAR UN BANCO. EL TORPE PERDERÁ PRONTO SUS PRECIOSAS MONEDAS AMARILLAS UNA POR UNA. ASÍ QUE DEPENDE DE TI RECOGERLOS EN CADA SET, PERO TEN CUIDADO DE VIGILAR AL POLICÍA QUE TE PERSEGUIRÁ DONDEQUIERA QUE VAYAS.</desc>
+		<rating>0</rating>
+		<releasedate>20100608T000000</releasedate>
+		<hash>784080A3</hash>
+		<image>./images/Lock 'n' Chase (USA).png</image>
+		<thumbnail>./boxart/Lock 'n' Chase (USA).png</thumbnail>
+		<marquee>./marquee/Lock 'n' Chase (USA).png</marquee>
+		<video>./snap/Lock 'n' Chase (USA).mp4</video>
+		<developer>Action</developer>
+		<publisher>Action</publisher>
+	</game>
+	<game id="144418" source="ScreenScraper.fr">
+		<path>./Love Cupid (USA).cso</path>
+		<name>Love Cupid</name>
+		<desc>HAVE YOU EVER WONDERED WHAT IT WOULD BE LIKE TO BE CUPID? IN LOVE CUPID IT IS YOUR JOB TO HELP COUPLES FALL IN LOVE BY SHOOTING AS MANY HEARTS AS YOU CAN WITH YOUR LOVE ARROWS. WORK TOGETHER WITH A FRIEND TO COLLECT THE FALLEN HEARTS AND INCREASE THE COUPLE'S AFFECTION BY FILLING UP THEIR LOVE METER. BUT BE CAREFUL TO AVOID MENACES IN YOUR WAY AND CORRUPTED BAD HEARTS. SHARE THE LOVE!</desc>
+		<rating>0</rating>
+		<releasedate>20100511T000000</releasedate>
+		<hash>88C320CD</hash>
+		<image>./images/Love Cupid (USA).png</image>
+		<thumbnail>./boxart/Love Cupid (USA).png</thumbnail>
+		<marquee>./marquee/Love Cupid (USA).png</marquee>
+		<video>./snap/Love Cupid (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="29498" source="ScreenScraper.fr">
+		<path>./Mad Blocker Alpha (USA).cso</path>
+		<name>Mad Blocker Alpha : Revenge of the Fluzzles</name>
+		<desc>FLUZZLE'S ARE SMALL FLUFFY CREATURES WHO LOVE SHAPE MORPHING IN THEIR BEAUTIFUL HOMELAND OF MACHU POPYU.NNALAS, EVIL MOKES ARE POLLUTING THEIR WORLD IN THE NAME OF PROFITS AND POINTY CHARTS THAT IMPRESS MOKE INDUSTRY BIG WIGS. NNHELP THE FLUZZLE'S GATHER IN GROUPS OF 4 OR MORE MATCHING COLOURED BLOCKS TO UNLEASH THE POWER OF BUHMBA AGAINST THE MOKES. NNBUT BEWARE SHOULD THE MOKES PROVE TOO POWERFUL, THE FLUZZLE'S WILL BE TRAPPED IN BLOCK FORM FOREVER AS TERRIBLE DESATURONS.</desc>
+		<rating>0</rating>
+		<releasedate>20110419T000000</releasedate>
+		<hash>CD72A3BA</hash>
+		<image>./images/Mad Blocker Alpha (USA).png</image>
+		<thumbnail>./boxart/Mad Blocker Alpha (USA).png</thumbnail>
+		<marquee>./marquee/Mad Blocker Alpha (USA).png</marquee>
+		<video>./snap/Mad Blocker Alpha (USA).mp4</video>
+		<developer>Open Emotions</developer>
+		<publisher>Open Emotions</publisher>
+	</game>
+	<game id="29424" source="ScreenScraper.fr">
+		<path>./Mahjong Solitaire (USA).cso</path>
+		<name>Mahjong Solitaire</name>
+		<desc>MAHJONG SOLITAIRE IS FUN &amp; SIMPLE GAME. PLAYERS REMOVE MATCHING PAIRS OF TILES FROM AN ORGANIZED LAYERING OF TILES, TRYING TO REMOVE AS MANY TILES AS POSSIBLE AND AS FAST AS THEY CAN.NNNNYOU ARE PRESENTED WITH 144 MAHJONG TILES ARRANGED IN AN ORGANIZED, THREE-DIMENSIONAL HEAP. THE GOAL IS TO MATCH OPEN PAIRS OF IDENTICAL TILES AND REMOVE THEM FROM THE BOARD, EXPOSING THE TILES UNDER THEM FOR PLAY.</desc>
+		<rating>0</rating>
+		<releasedate>20100427T000000</releasedate>
+		<hash>F9359BBC</hash>
+		<image>./images/Mahjong Solitaire (USA).png</image>
+		<thumbnail>./boxart/Mahjong Solitaire (USA).png</thumbnail>
+		<marquee>./marquee/Mahjong Solitaire (USA).png</marquee>
+		<video>./snap/Mahjong Solitaire (USA).mp4</video>
+		<developer>Agetec</developer>
+		<publisher>Agetec</publisher>
+	</game>
+	<game id="29392" source="ScreenScraper.fr">
+		<path>./Mahjong Artifacts - Chapter 2 (USA).cso</path>
+		<name>Mahjongg Artifacts : Chapter 2</name>
+		<desc>MAHJONGG ARTIFACTS®: CHAPTER 2 IS HIGHLY ADDICTIVE TILE-MATCHING GAME THAT TAKES MAHJONG GAMES IN AN EXCITING NEW DIRECTION! PAIR UP TILES TO DISMANTLE HUNDREDS OF LAYOUTS. UTILIZE A SELECTION OF GROUND-BREAKING POWERUPS, EARN TROPHIES, AND ENJOY THE GAME`S BEAUTIFUL GRAPHICS AND RICH AUDIO. THERE'S MORE THAN ENOUGH TILE-MATCHING ACTION IN MAHJONGG ARTIFACTS® 2 TO HAVE FUN FOR MONTHS!NN</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Mahjong Artifacts - Chapter 2 (USA).png</image>
+		<thumbnail>./boxart/Mahjong Artifacts - Chapter 2 (USA).png</thumbnail>
+		<marquee>./marquee/Mahjong Artifacts - Chapter 2 (USA).png</marquee>
+		<video>./snap/Mahjong Artifacts - Chapter 2 (USA).mp4</video>
+		<developer>G5 Entertainment</developer>
+		<publisher>G5 Entertainment</publisher>
+	</game>
+	<game id="144254" source="ScreenScraper.fr">
+		<path>./Homerun Hitters (USA).cso</path>
+		<name>Make Drama Baseball</name>
+		<desc>STEP UP TO THE PLATE IN HOMERUN HITTERS. PLAY SOLO OR AGAINST A FRIEND AS YOU LAUNCH FASTBALLS, CURVEBALLS, SHOOTS AND MORE! HEAD OUT TO THE BALLPARK AND CHOOSE FROM 4 TEAMS AND PLAY UP TO 9 INNING IN THIS FUN BACK TO BASICS BASEBALL GAME.</desc>
+		<rating>0</rating>
+		<releasedate>20100422T000000</releasedate>
+		<hash>E5337D04</hash>
+		<image>./images/Homerun Hitters (USA).png</image>
+		<thumbnail>./boxart/Homerun Hitters (USA).png</thumbnail>
+		<marquee>./marquee/Homerun Hitters (USA).png</marquee>
+		<video>./snap/Homerun Hitters (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="29237" source="ScreenScraper.fr">
+		<path>./Manic Monkey Mayhem (USA).cso</path>
+		<name>Manic Monkey Mayhem</name>
+		<desc>AS WITH MOST FIGHTS, NOBODY REALLY KNOWS WHERE, HOW OR WHEN THIS RIVALRY STARTED, BUT THIS GROUP OF MONKEYS HAVE NOT STOPPED BATTLING FOR AS LONG AS THEY CAN REMEMBER. THEIR CHOSEN FIGHTING STYLE IS THE ANCIENT ART OF BANANA FLINGING AND ALTHOUGH THEIR MANIC SCREAMS OF RAGE MAY INSINUATE UNCONTROLLED ANGER, THEY ARE IN FACT HIGHLY ACCURATE AND ADEPT BANANA FLINGERS.NNNNCONTROLLING ONE OF EIGHT MONKEYS YOU WILL COMPETE IN BATTLE WITH A SELECTION OF OTHERS ACROSS EIGHT DIFFERENT THEMED LANDSCAPES WITH SEVERAL DIFFERENT GAME MODES TO EXCEL IN.</desc>
+		<rating>0</rating>
+		<releasedate>20100325T000000</releasedate>
+		<hash>26C6BB92</hash>
+		<image>./images/Manic Monkey Mayhem (USA).png</image>
+		<thumbnail>./boxart/Manic Monkey Mayhem (USA).png</thumbnail>
+		<marquee>./marquee/Manic Monkey Mayhem (USA).png</marquee>
+		<video>./snap/Manic Monkey Mayhem (USA).mp4</video>
+		<developer>The Code Monkeys</developer>
+		<publisher>The Code Monkeys</publisher>
+	</game>
+	<game id="29442" source="ScreenScraper.fr">
+		<path>./Marvin's Maze (USA).cso</path>
+		<name>Marvin's Maze</name>
+		<desc>HELP MARVIN DEFEND HIS MAZE FROM THE TERRIBLE ROBONOIDS IN THIS CUTE AND ADDICTIVE ARCADE PUZZLE-ACTION GAME, ORIGINALLY RELEASED IN 1983.</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>6908D675</hash>
+		<image>./images/Marvin's Maze (USA).png</image>
+		<thumbnail>./boxart/Marvin's Maze (USA).png</thumbnail>
+		<marquee>./marquee/Marvin's Maze (USA).png</marquee>
+		<video>./snap/Marvin's Maze (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="28879" source="ScreenScraper.fr">
+		<path>./Mecho Wars (USA).cso</path>
+		<name>Mecho Wars</name>
+		<desc>MECHO WARS IS A TURN-BASED STRATEGY GAME, SIMILAR TO THE GBA TITLE ADVANCE WARS.NNTHE GAME SPORTS THREE GAMEPLAY MODES: SINGLE PLAYER (CAMPAIGN/STAGE SELECT), A HOT SEAT TYPE MULTIPLAYER AND MULTIPLAYER OVER WI-FI (SCHEDULED TO BE RELEASED IN AN UPCOMING UPDATE).</desc>
+		<rating>0</rating>
+		<releasedate>20120125T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Mecho Wars (USA).png</image>
+		<thumbnail>./boxart/Mecho Wars (USA).png</thumbnail>
+		<marquee>./marquee/Mecho Wars (USA).png</marquee>
+		<video>./snap/Mecho Wars (USA).mp4</video>
+		<developer>Oyaji Games</developer>
+		<publisher>Oyaji Games</publisher>
+	</game>
+	<game id="144489" source="ScreenScraper.fr">
+		<path>./Mighty Flip Champs! DX (USA).cso</path>
+		<name>Mighty Flip Champs! Dx</name>
+		<desc>TAKE CONTROL OF MULTIPLE DIMENSIONS AS ALTA IN MIGHTY FLIP CHAMPS! NAVIGATE YOUR WAY THROUGH DIFFERENT WORLDS AND DIMENSIONS AS YOU ATTEMPT TO MAKE YOUR WAY TO THE EXIT. USE YOUR MAGICAL WARP WAND TO SWITCH TO NEW DIMENSIONS, BUT WATCH THE TOUCH SCREEN WHEN YOU FLIP TO A NEW DIMENSION - OR YOU MIGHT JUST GET CRUSHED!</desc>
+		<rating>0</rating>
+		<hash>00000000</hash>
+		<image>./images/Mighty Flip Champs! DX (USA).png</image>
+		<thumbnail>./boxart/Mighty Flip Champs! DX (USA).png</thumbnail>
+		<marquee>./marquee/Mighty Flip Champs! DX (USA).png</marquee>
+		<video>./snap/Mighty Flip Champs! DX (USA).mp4</video>
+		<developer>WayForward Technologies, Inc.</developer>
+		<publisher>WayForward Technologies, Inc.</publisher>
+	</game>
+	<game id="29334" source="ScreenScraper.fr">
+		<path>./Monochrome Racing (USA).cso</path>
+		<name>Monochrome Racing</name>
+		<desc>SCREECHING TIRES, THE SMELL OF BURNED RUBBER, THE RUSH OF ADRENALINE AND ENEMIES THAT ARE LEFT IN THE DUST-THESE ARE THE EMOTIONS THAT DRIVE REAL RACERS. HOWEVER THERE IS MUCH MORE THAN THIS IN THE WORLD OF MONOCHROME RACING-THERE IS THE PASSION FOR COLOR! COLOR IS EVERYTHING HERE, IT IS WHAT YOU STRIVE FOR, IN THE WORLD WHERE EVERYTHING IS IN BLACK AND WHITE. COLOR IS YOUR FUEL, COLOR GIVES YOU SPEED, COLOR MAKES YOU STRONGER AND ULTIMATELY MAKES YOU THE TRUE LEADER OF THE MONOCHROME RACING WORLD.</desc>
+		<rating>0</rating>
+		<releasedate>20110802T000000</releasedate>
+		<hash>83A57714</hash>
+		<image>./images/Monochrome Racing (USA).png</image>
+		<thumbnail>./boxart/Monochrome Racing (USA).png</thumbnail>
+		<marquee>./marquee/Monochrome Racing (USA).png</marquee>
+		<video>./snap/Monochrome Racing (USA).mp4</video>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+	</game>
+	<game id="28989" source="ScreenScraper.fr">
+		<path>./Nom Nation (Europe).cso</path>
+		<name>Nom Nation</name>
+		<desc>NOM NATION IS A DELICIOUS PLATFORM ADVENTURE.NNYOU PLAY AS CHEF ON A MISSION TO RESCUE THE BOOK OF NOM FROM JABBER THE GUT, HEAD OF THE MCFATASS CORPORATION. ONLY THE NOMS CAN HELP YOU SUCCEED. HARNESSING THEIR HIDDEN POWERS IS THE KEY INGREDIENT.</desc>
+		<rating>0</rating>
+		<releasedate>20120516T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Nom Nation (Europe).png</image>
+		<thumbnail>./boxart/Nom Nation (Europe).png</thumbnail>
+		<marquee>./marquee/Nom Nation (Europe).png</marquee>
+		<video>./snap/Nom Nation (Europe).mp4</video>
+		<developer>Playerthree</developer>
+		<publisher>Playerthree</publisher>
+	</game>
+	<game id="29316" source="ScreenScraper.fr">
+		<path>./NormalTanks (USA).cso</path>
+		<name>NormalTanks</name>
+		<desc>NORMALTANKS IS A FAST-PACED MULTI-DIRECTIONAL TOP-DOWN ARCADE SHOOTER FEATURING CLASSIC RUN'N'GUN GAMEPLAY WITH 3 DIFFICULTY SETTINGS. AT THE 8 CHALLENGING, DYNAMIC AND HAZARDOUS ENVIRONMENTS, INSIDE THE ENEMY BASES OR FORESTS AND MOUNTAINS, YOU HAVE TO CHOOSE YOUR BATTLE TACTICS CAREFULLY TO SURVIVE!</desc>
+		<rating>0</rating>
+		<releasedate>20100318T000000</releasedate>
+		<hash>528E236E</hash>
+		<image>./images/NormalTanks (USA).png</image>
+		<thumbnail>./boxart/NormalTanks (USA).png</thumbnail>
+		<marquee>./marquee/NormalTanks (USA).png</marquee>
+		<video>./snap/NormalTanks (USA).mp4</video>
+		<developer>Beatshapers</developer>
+		<publisher>Beatshapers</publisher>
+	</game>
+	<game id="29179" source="ScreenScraper.fr">
+		<path>./Numba (Europe).cso</path>
+		<name>Numba</name>
+		<desc>NUMBA IS A PUZZLE GAME WHERE YOU MUST LINK SEQUENCES OF ADJACENT NUMBERS TO MAKE BLOCKS DISAPPEAR AND NEW BLOCKS FALL FROM THE TOP OF THE SCREEN. HOWEVER, HERE YOU CAN MATCH BLOCKS IN MANY WAYS -- FOR EXAMPLE, YOU CAN MATCH BLOCKS WITH THE SAME REPEATED NUMBER (4-4-4, SAY), OR YOU CAN MAKE SEQUENCES OF NUMBERS LIKE 3-4-5 OR 2-4-6-8. SOME SPECIAL BLOCKS ADD VARIETY TO THE MIX -- BLOCKS THAT BLINK IN AND OUT OF EXISTENCE, FIRE BLOCKS WHICH BECOME SOLID ROCK IF NEGLECTED FOR TOO LONG, ICE BLOCKS WHICH NEED TO BE THAWED BEFORE USED, AND SO ON.</desc>
+		<rating>0</rating>
+		<releasedate>20100602T000000</releasedate>
+		<hash>500A1C5B</hash>
+		<image>./images/Numba (Europe).png</image>
+		<thumbnail>./boxart/Numba (Europe).png</thumbnail>
+		<marquee>./marquee/Numba (Europe).png</marquee>
+		<video>./snap/Numba (Europe).mp4</video>
+		<developer>Cobra Mobile</developer>
+		<publisher>Cobra Mobile</publisher>
+	</game>
+	<game id="28923" source="ScreenScraper.fr">
+		<path>./One Epic Game (USA).cso</path>
+		<name>One Epic Game</name>
+		<desc>THE WORLD NEEDS SAVING... AGAIN. BUT THIS TIME, IT NEEDS PROTECTION FROM AN ALIEN INVASION RIGHT IN THE MIDDLE OF A ZOMBIE OUTBREAK, IN A FANTASY LAND SOMEWHERE IN A POST-APOCALYPTIC WASTELAND, WITH WORLD WAR II ALSO INVOLVED SOMEHOW! 
+
+AND THERE'S JUST ONE HERO WHO CAN SAVE US ALL. UNFORTUNATELY, HE HAS SOMETHING BETTER TO DO, SO IT'S ALL UP TO YOU NOW!</desc>
+		<rating>0.55</rating>
+		<releasedate>20110720T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/One Epic Game (USA).png</image>
+		<thumbnail>./boxart/One Epic Game (USA).png</thumbnail>
+		<marquee>./marquee/One Epic Game (USA).png</marquee>
+		<video>./snap/One Epic Game (USA).mp4</video>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+	</game>
+	<game id="144607" source="ScreenScraper.fr">
+		<path>./One Two Boat Racing (USA).cso</path>
+		<name>One Two Boat Racing</name>
+		<desc>WELCOME TO THE WET WILD WORLD OF ONE TWO BOAT RACING, WHERE YOU NEED TO USE YOUR REFLEXES AND SPEED TO STAY IN THE LEAD, BEAT THE COMPETITION, AND BE THE FIRST TO REACH THE FINISH LINE. BUT THERE IS MORE TO WINNING THAN JUST SPEED. YOU'LL NEED TO EVADE PYLONS, BLOW BY ROCKS, AND MAKE SURE TO AVOID SLUDGE OR FACE WASTING PRECIOUS SECONDS AND LOSING THE RACE.</desc>
+		<rating>0</rating>
+		<releasedate>20100504T000000</releasedate>
+		<hash>96B98766</hash>
+		<image>./images/One Two Boat Racing (USA).png</image>
+		<thumbnail>./boxart/One Two Boat Racing (USA).png</thumbnail>
+		<marquee>./marquee/One Two Boat Racing (USA).png</marquee>
+		<video>./snap/One Two Boat Racing (USA).mp4</video>
+		<developer>Sony Computer Entertainment Inc.</developer>
+		<publisher>Sony Computer Entertainment Inc.</publisher>
+	</game>
+	<game id="29285" source="ScreenScraper.fr">
+		<path>./Ozma Wars (USA).cso</path>
+		<name>Ozma Wars</name>
+		<desc>OZMA WARS IS A SCROLLING SHOOTER CONVERSION OF SPACE INVADERS. INSTEAD OF DISCRETE LIVES THE GAME INSTEAD HAS A CONSTANTLY DEPLETING ENERGY FIGURE. GETTING HIT DRASTICALLY REDUCES THE FIGURE, AND AT ZERO THE GAME ENDS. ENEMY PATTERNS APPEAR IN WAVES, AND AFTER EVERY FOUR WAVES A MOTHERSHIP WILL APPEAR THAT REPLENISHES ENERGY. ENEMIES COME IN SEVERAL VARIETIES WITH UNIQUE ABILITIES, SUCH AS TINY ENEMIES THAT APPEAR IN SWARMS, SAUCERS THAT SHOOT BULLETS AND MISSILES, AND SPACE SHIPS THAT BANK AND SINK INTO THE BACKGROUND IN A SIMULATION OF 3D SPACE.</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>AF5B7DF7</hash>
+		<image>./images/Ozma Wars (USA).png</image>
+		<thumbnail>./boxart/Ozma Wars (USA).png</thumbnail>
+		<marquee>./marquee/Ozma Wars (USA).png</marquee>
+		<video>./snap/Ozma Wars (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="28759" source="ScreenScraper.fr">
+		<path>./Pac-Man Championship Edition (USA).cso</path>
+		<name>Pac-Man Championship Edition</name>
+		<desc>PAC-MAN CHAMPIONSHIP EDITION IS SIMILAR IN BASIC GAMEPLAY TO THE ORIGINAL 1980 PAC-MAN: PLAYERS HAVE TO EAT DOTS, WHILE AVOIDING THE FOUR GHOSTS THAT ROAM AROUND THE MAZE. CHAMPIONSHIP EDITION, HOWEVER, ALSO BRINGS MANY GAMEPLAY DIFFERENCES.
+
+THE GAME WAS DESIGNED BY THE CREATOR OF THE CLASSIC ORIGINAL 1980 ARCADE GAME PAC-MAN, AND IT WAS IWATANI'S FINAL GAME BEFORE HIS RETIREMENT.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Pac-Man Championship Edition (USA).png</image>
+		<thumbnail>./boxart/Pac-Man Championship Edition (USA).png</thumbnail>
+		<marquee>./marquee/Pac-Man Championship Edition (USA).png</marquee>
+		<video>./snap/Pac-Man Championship Edition (USA).mp4</video>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="29429" source="ScreenScraper.fr">
+		<path>./Pallurikio (USA).cso</path>
+		<name>Pallurikio</name>
+		<desc>JUMP AND ROLL WITH PALLURIKIO, A FAST-PACED ACTION PLATFORMER, EASY TO PICK UP, YET CHALLENGING TO MASTER.NNWHILE PLAYING A MYSTERIOUS BOARD GAME HE FOUND WITH HIS FRIENDS, RUSTY IS SUCKED UP IN A DIMENSIONAL VORTEX AND FINDS HIMSELF CAST INTO A MYSTICAL AND WONDROUS WORLD, WHERE HE ASSUMES THE ASPECT OF THE ROUND AND BOUNCING PALLURIKIO.</desc>
+		<rating>0.7</rating>
+		<releasedate>20100714T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Pallurikio (USA).png</image>
+		<thumbnail>./boxart/Pallurikio (USA).png</thumbnail>
+		<marquee>./marquee/Pallurikio (USA).png</marquee>
+		<video>./snap/Pallurikio (USA).mp4</video>
+		<developer>Playstos Entertainment</developer>
+		<publisher>Playstos Entertainment</publisher>
+	</game>
+	<game id="29059" source="ScreenScraper.fr">
+		<path>./Panda Craze (USA).cso</path>
+		<name>Panda Craze</name>
+		<desc>GUIDE TIK-LING THE PANDA THROUGH CAVES, FORESTS, MOUNTAINS, AND DESERTS ON THE WAY TO HER HOME, THE BAMBOO FOREST. THE CONCEPT IS SIMPLE: COLLECT ALL OF THE MAGICAL LANTERNS IN EACH LEVEL TO UNLOCK A MAGIC PORTAL TO THE NEXT LEVEL. ACTUALLY GETTING TO THE LANTERNS WITHOUT GETTING STUCK IN THE PROCESS, HOWEVER, IS NOT SO SIMPLE! DIG, DRILL, AND BLAST YOUR WAY THROUGH ICE AND ROCK IN THIS EPIC PUZZLE ADVENTURE!</desc>
+		<rating>0</rating>
+		<releasedate>20100915T000000</releasedate>
+		<hash>25959E4C</hash>
+		<image>./images/Panda Craze (USA).png</image>
+		<thumbnail>./boxart/Panda Craze (USA).png</thumbnail>
+		<marquee>./marquee/Panda Craze (USA).png</marquee>
+		<video>./snap/Panda Craze (USA).mp4</video>
+		<developer>TikGames</developer>
+		<publisher>TikGames</publisher>
+	</game>
+	<game id="28913" source="ScreenScraper.fr">
+		<path>./Paper Wars - Cannon Fodder (USA).cso</path>
+		<name>Paper Wars : Cannon Fodder</name>
+		<desc>PAPER WARS CANNON FODDER IS A TOWER DEFENSE VIDEO GAME DEVELOPED BY SEVERAL POLISH AND HUNGARIAN OUTSOURCED PROGRAMMERS OF IFUN4ALL TEAM, IN THE CHEAPEST WAY YOU CAN IMAGINE. WHAT'S THE SO-CALLED BRILLIANT GOAL OF THE GAME? YOU WOULD NEVER GUESS. IT IS ABOUT DESTROYING ALL ENEMIES! THE SAME WELL-KNOWN THRILLING STORY, HORDES OF COLD-BLOODED ENEMIES TRYING TO SURVIVE THE ARMAGEDDON! THERE ARE SOME ADDITIONAL GOALS TO BE ACHIEVED IN DIFFERENT MISSIONS AND LEVELS - WATCH YOUR RIGHT! THE GAME CAN BE PLAYED BY UP TO FOUR PLAYERS IN CO-OP MODE.</desc>
+		<rating>0</rating>
+		<releasedate>20101006T000000</releasedate>
+		<hash>E843C289</hash>
+		<image>./images/Paper Wars - Cannon Fodder (USA).png</image>
+		<thumbnail>./boxart/Paper Wars - Cannon Fodder (USA).png</thumbnail>
+		<marquee>./marquee/Paper Wars - Cannon Fodder (USA).png</marquee>
+		<video>./snap/Paper Wars - Cannon Fodder (USA).mp4</video>
+		<developer>iFun4all</developer>
+		<publisher>iFun4all</publisher>
+	</game>
+	<game id="142925" source="ScreenScraper.fr">
+		<path>./Pile Up! Bakery (USA).cso</path>
+		<name>Pile Up Bakery</name>
+		<desc>CAN YOU MAKE A MOUNTAIN OUT OF SWEETS AND CANDIES? DROP CAKES, PIES, AND MORE FROM YOUR ASSEMBLY LINE AND PILE THEM UP TO THE SKY! YOU ARE UP AGAINST THE CLOCK SO YOU NEED TO PLACE EACH SWEET IN JUST THE RIGHT SPOT TO HELP BUILD YOUR TOWER OF TREATS AS HIGH AS POSSIBLE. THINGS START SIMPLE BUT YOU WILL SOON FIND IT'S NOT QUITE AS EASY AS TAKING CANDY FROM A BABY.</desc>
+		<rating>0</rating>
+		<releasedate>20100429T000000</releasedate>
+		<hash>4988F6CD</hash>
+		<image>./images/Pile Up! Bakery (USA).png</image>
+		<thumbnail>./boxart/Pile Up! Bakery (USA).png</thumbnail>
+		<marquee>./marquee/Pile Up! Bakery (USA).png</marquee>
+		<video>./snap/Pile Up! Bakery (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="144662" source="ScreenScraper.fr">
+		<path>./Pinball Dreams (USA).cso</path>
+		<name>Pinball Dreaming : Pinball Dreams</name>
+		<desc>THE FIRST IN A LINE OF PINBALL GAMES FROM 21ST CENTURY AND DIGITAL ILLUSIONS, WITH FOUR TABLES COVERING THEMES SUCH AS THE WILD WEST FOR STEEL WHEEL, SPACE ROCKETS FOR IGNITION, A HAUNTED GRAVEYARD FOR NIGHTMARE AND POP MUSIC FOR BEAT BOX.</desc>
+		<rating>0.85</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>F43D5643</hash>
+		<image>./images/Pinball Dreams (USA).png</image>
+		<thumbnail>./boxart/Pinball Dreams (USA).png</thumbnail>
+		<marquee>./marquee/Pinball Dreams (USA).png</marquee>
+		<video>./snap/Pinball Dreams (USA).mp4</video>
+		<developer>Cowboy Rodeo Ltd</developer>
+		<publisher>TBC</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="142926" source="ScreenScraper.fr">
+		<path>./Pinball Duel (USA).cso</path>
+		<name>Pinball Duel</name>
+		<desc>FACE OFF AGAINST THE COMPUTER OR A FRIEND IN THE CRAZY FRENETIC WORLD OF DOUBLE SIDED PINBALL DUEL. WITH TWO BALLS BEING CATAPULTED AROUND THE PINBALL ARENA, NAIL THE TIMING AND USE YOUR FLIPPERS TO SMACK THEM AT JUST THE RIGHT ANGLE. TAG THE BONUS TARGET MARKS TO WIN BIG PRIZES, UNLEASH MORE BALLS AND WORK TO REACH THE COVETED 10,000 POINT MARK. TRYING TO CATCH UP, BUT RUNNING OUT OF LUCK, BE DEVIOUS AND TILT THE BOARD TO GAIN AN ADVANTAGE!</desc>
+		<rating>0</rating>
+		<releasedate>20100429T000000</releasedate>
+		<hash>2E06DCB4</hash>
+		<image>./images/Pinball Duel (USA).png</image>
+		<thumbnail>./boxart/Pinball Duel (USA).png</thumbnail>
+		<marquee>./marquee/Pinball Duel (USA).png</marquee>
+		<video>./snap/Pinball Duel (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="29078" source="ScreenScraper.fr">
+		<path>./Pinball Fantasies (USA).cso</path>
+		<name>Pinball Fantasies</name>
+		<desc>AFTER THE SUCCESS OF PINBALL DREAMS ON SEVERAL SYSTEMS, A SEQUEL FEATURING FOUR NEW TABLES WAS CREATED. THE GAMEPLAY IS MUCH THE SAME AS THE FIRST GAME, WITH REALISTIC PHYSICS, MULTI-PLAYER OPTIONS AND A HIGH SCORE TABLE TO AIM FOR. THE TABLES ARE PARTYLAND, SPEED DEVILS, BILLION DOLLAR GAMESHOW AND STONES 'N' BONES, TAKING IN A FUNFAIR, RACING CARS, A TACKY GAME-SHOW, AND A GRAVEYARD. EACH ONE HAS A RANGE OF RAMPS, COMBOS, LIGHT SEQUENCES AND TARGETS TO SHOOT, AS WELL AS GENERAL THEMES WHICH ARE LESS INFLUENCED BY REAL TABLES THAN THOSE IN PINBALL DREAMS.</desc>
+		<rating>0.95</rating>
+		<releasedate>20091001T000000</releasedate>
+		<hash>5C534FB2</hash>
+		<image>./images/Pinball Fantasies (USA).png</image>
+		<thumbnail>./boxart/Pinball Fantasies (USA).png</thumbnail>
+		<marquee>./marquee/Pinball Fantasies (USA).png</marquee>
+		<video>./snap/Pinball Fantasies (USA).mp4</video>
+		<developer>Cowboy Rodeo</developer>
+		<publisher>Cowboy Rodeo</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29404" source="ScreenScraper.fr">
+		<path>./Pipe Madness (USA).cso</path>
+		<name>Pipe Madness</name>
+		<desc>PUT TOGETHER SOME PIPES -- PRONTO! IN PIPE MADNESS, YOU MUST RUSH TO COMPLETE YOUR PIPELINE BEFORE THE LIQUID CATCHES UP WITH YOU OR ALL OF YOUR HARD WORK WILL BE RUINED. COMBAT THE FLOWING LIQUID OVER ENDLESS LEVELS AND REACH THAT UNBEATABLE HIGH SCORE. MAXIMIZE YOUR BONUSES BY BUILDING INTRICATE PIPE NETWORKS.</desc>
+		<rating>0</rating>
+		<releasedate>20110104T000000</releasedate>
+		<hash>DDF5895D</hash>
+		<image>./images/Pipe Madness (USA).png</image>
+		<thumbnail>./boxart/Pipe Madness (USA).png</thumbnail>
+		<marquee>./marquee/Pipe Madness (USA).png</marquee>
+		<video>./snap/Pipe Madness (USA).mp4</video>
+		<developer>Ayeware AB</developer>
+		<publisher>Ayeware AB</publisher>
+		<players>1</players>
+	</game>
+	<game id="29331" source="ScreenScraper.fr">
+		<path>./Pix'n Love Rush (USA).cso</path>
+		<name>Pix'n Love Rush</name>
+		<desc>PIX'N LOVE RUSH IS A RETRO-STYLED, JUMP'N'RUN PLATFORMER WITH OVER 125 LEVELS OF PURE MAYHEM FUN.</desc>
+		<rating>0</rating>
+		<releasedate>20110316T000000</releasedate>
+		<hash>DF4B0F16</hash>
+		<image>./images/Pix'n Love Rush (USA).png</image>
+		<thumbnail>./boxart/Pix'n Love Rush (USA).png</thumbnail>
+		<marquee>./marquee/Pix'n Love Rush (USA).png</marquee>
+		<video>./snap/Pix'n Love Rush (USA).mp4</video>
+		<developer>Pastagames</developer>
+		<publisher>Bulkypix</publisher>
+		<players>1</players>
+	</game>
+	<game id="29031" source="ScreenScraper.fr">
+		<path>./Psycho Soldier (USA).cso</path>
+		<name>Psycho Soldier</name>
+		<desc>SEQUEL TO ATHENA, THE 2D SIDE-SCROLLER WHICH STARRED A STYLIZED MANGA VERSION OF THE GREEK GODDESS ATHENA AS SHE SET OUT TO FIND ADVENTURE IN THE MORTAL WORLD.NNNNTHIS GAME FEATURES ATHENA ASAMIYA, A DESCENDANT OF PRINCESS ATHENA, WHO USES HER NEW PSYCHIC POWERS (HENCE THE GAME'S TITLE, PSYCHO SOLDIER) TO CLEAR A POST-APOCALYPTIC WORLD OF ITS MUTANT INHABITANTS WITH THE HELP OF HER FRIEND KENSU, THUS ALLOWING SIMULTANEOUS TWO PLAYERS GAMEPLAY.</desc>
+		<rating>0</rating>
+		<releasedate>20120111T000000</releasedate>
+		<hash>218E08C4</hash>
+		<image>./images/Psycho Soldier (USA).png</image>
+		<thumbnail>./boxart/Psycho Soldier (USA).png</thumbnail>
+		<marquee>./marquee/Psycho Soldier (USA).png</marquee>
+		<video>./snap/Psycho Soldier (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="144125" source="ScreenScraper.fr">
+		<path>./Quiz Animania (USA).cso</path>
+		<name>Quiz Animania</name>
+		<rating>0</rating>
+		<hash>AE989E26</hash>
+		<image>./images/Quiz Animania (USA).png</image>
+		<thumbnail>./boxart/Quiz Animania (USA).png</thumbnail>
+		<marquee>./marquee/Quiz Animania (USA).png</marquee>
+		<video>./snap/Quiz Animania (USA).mp4</video>
+	</game>
+	<game id="144713" source="ScreenScraper.fr">
+		<path>./Ramen Heaven (USA).cso</path>
+		<name>Ramen Heaven</name>
+		<desc>SLURP UP THE FUN IN THE QUIRKY PSP® SOUP GAME RAMEN HEAVEN. USE YOUR CHOPSTICKS TO COLLECT BUBBLES OF OIL FLOATING ON THE SOUP, AND PLACE THEM IN YOUR SPOON TO EAT UP, INCREASING YOUR SATISFACTION GAUGE. A BOWL OF RAMEN HAS NEVER HAD SO MANY OBSTACLES IN IT, KNOCK INTO AN EGG AND YOUR OIL BUBBLE WILL SPLIT UP, BRAISE A NARUTO, AND IT MAY POP ALTOGETHER. HEAT UP THE FUN BY GRABBING A FRIEND AND COMPETING HEAD TO HEAD!</desc>
+		<rating>0</rating>
+		<releasedate>20100504T000000</releasedate>
+		<hash>18C53FAA</hash>
+		<image>./images/Ramen Heaven (USA).png</image>
+		<thumbnail>./boxart/Ramen Heaven (USA).png</thumbnail>
+		<marquee>./marquee/Ramen Heaven (USA).png</marquee>
+		<video>./snap/Ramen Heaven (USA).mp4</video>
+		<developer>Sony Interactive Entertainment</developer>
+		<publisher>Sony Interactive Entertainment</publisher>
+	</game>
+	<game id="170004" source="ScreenScraper.fr">
+		<path>./Rasmus Klump and the Big Maze (Denmark).cso</path>
+		<name>Rasmus Klump and the Big Maze</name>
+		<rating>0</rating>
+		<hash>180AA624</hash>
+		<image>./images/Rasmus Klump and the Big Maze (Denmark).png</image>
+		<thumbnail>./boxart/Rasmus Klump and the Big Maze (Denmark).png</thumbnail>
+		<marquee>./marquee/Rasmus Klump and the Big Maze (Denmark).png</marquee>
+		<video>./snap/Rasmus Klump and the Big Maze (Denmark).mp4</video>
+	</game>
+	<game id="29481" source="ScreenScraper.fr">
+		<path>./Rasmus Klump in Pingonesien (Denmark).cso</path>
+		<name>Rasmus Klump in Pingonisen</name>
+		<rating>0</rating>
+		<releasedate>20120530T000000</releasedate>
+		<hash>6253DFB4</hash>
+		<image>./images/Rasmus Klump in Pingonesien (Denmark).png</image>
+		<thumbnail>./boxart/Rasmus Klump in Pingonesien (Denmark).png</thumbnail>
+		<marquee>./marquee/Rasmus Klump in Pingonesien (Denmark).png</marquee>
+		<video>./snap/Rasmus Klump in Pingonesien (Denmark).mp4</video>
+	</game>
+	<game id="170005" source="ScreenScraper.fr">
+		<path>./Rasmus Klump is Saving the Chickens (Denmark).cso</path>
+		<name>Rasmus Klump is Saving the Chickens</name>
+		<rating>0</rating>
+		<hash>3E3DCDFF</hash>
+		<image>./images/Rasmus Klump is Saving the Chickens (Denmark).png</image>
+		<thumbnail>./boxart/Rasmus Klump is Saving the Chickens (Denmark).png</thumbnail>
+		<marquee>./marquee/Rasmus Klump is Saving the Chickens (Denmark).png</marquee>
+		<video>./snap/Rasmus Klump is Saving the Chickens (Denmark).mp4</video>
+	</game>
+	<game id="28794" source="ScreenScraper.fr">
+		<path>./Red Bull X-Fighters (USA).cso</path>
+		<name>Red Bull X-Fighters</name>
+		<desc>LAS ESTRELLAS DEL MOTOCROSS EN ESTE RED BULL X-FIGHTERS EN PLAYSTATION PORTABLE. BAJO EL FOCO DE ATENCIÓN Y EN ARENAS ENORMES, COMPETIR CONTRA TUS RIVALES HACIENDO LOS TRUCOS MÁS INCREÍBLES. BACK FLIP, SUPERHOMBRE, VERTICAL: PARA TI LOS TRUCOS MÁS BELLOS... ¡DESPIÉRTATE!</desc>
+		<rating>0.75</rating>
+		<releasedate>20091022T000000</releasedate>
+		<hash>54B7DAE4</hash>
+		<image>./images/Red Bull X-Fighters (USA).png</image>
+		<thumbnail>./boxart/Red Bull X-Fighters (USA).png</thumbnail>
+		<marquee>./marquee/Red Bull X-Fighters (USA).png</marquee>
+		<video>./snap/Red Bull X-Fighters (USA).mp4</video>
+		<developer>Xendex Holding GMBH</developer>
+		<publisher>Xendex Holding GMBH</publisher>
+	</game>
+	<game id="29426" source="ScreenScraper.fr">
+		<path>./Reef Aquarium (USA).cso</path>
+		<name>Reef Aquarium</name>
+		<desc>DOWNLOAD THE MAGNIFICENT CORAL REEFS OF THE DEEP BLUE TO YOUR CONSOLE. FEEL THE ATMOSPHERE OF THE UNDERWATER WORLD AND WATCH ITS INHABITANTS SWIMMING AROUND YOU. YOU WILL SEE THE MOST VIVID OCEAN FISHES THERE. FISH LIBRARY WILL HELP YOU TO FIND OUT MORE ABOUT THESE AMAZING CREATURES. AND DO NOT FORGET TO FEED FISH AND PLAY WITH THEM ? FISH ARE VERY EASY TO GET UPSET.</desc>
+		<rating>0</rating>
+		<releasedate>20100429T000000</releasedate>
+		<hash>810251AC</hash>
+		<image>./images/Reef Aquarium (USA).png</image>
+		<thumbnail>./boxart/Reef Aquarium (USA).png</thumbnail>
+		<marquee>./marquee/Reef Aquarium (USA).png</marquee>
+		<video>./snap/Reef Aquarium (USA).mp4</video>
+		<developer>Biart Studio</developer>
+		<publisher>Biart Studio</publisher>
+	</game>
+	<game id="29461" source="ScreenScraper.fr">
+		<path>./Retro Cave Flyer (USA).cso</path>
+		<name>Retro Cave Flyer</name>
+		<desc>GUIDE YOUR LANDING CRAFT THROUGH 23 CHALLENGING LEVELS, SOLVING PUZZLES AND AVOIDING HAZARDS WHILST FINDING AND SAVING THE STRANDED SCIENTISTS. GET THEM ALL BACK TO THE MOTHERSHIP BEFORE THE PLANET GOES SUPER NOVA. GREAT GAMEPLAY, PERFECT PHYSICS, VIBRANT VISUALS AND A STORMING SOUNDTRACK MAKE THIS THE BEST LUNAR LANDER ARCADE PUZZLER AVAILABLE.</desc>
+		<rating>0</rating>
+		<releasedate>20100218T000000</releasedate>
+		<hash>5619FB86</hash>
+		<image>./images/Retro Cave Flyer (USA).png</image>
+		<thumbnail>./boxart/Retro Cave Flyer (USA).png</thumbnail>
+		<marquee>./marquee/Retro Cave Flyer (USA).png</marquee>
+		<video>./snap/Retro Cave Flyer (USA).mp4</video>
+		<developer>Big Head Games</developer>
+		<publisher>Big Head Games</publisher>
+	</game>
+	<game id="29320" source="ScreenScraper.fr">
+		<path>./Rocks N' Rockets (USA).cso</path>
+		<name>Rocks N'Rockets</name>
+		<desc>ARE YOU READY TO TAKE THE HERO'S SEAT IN THIS MESMERIZING ARCADE GAME? WE HOPE SO. CIVILIZATION IS THREATENED BY A TERRIFYING, MULTI-PHASED METEOR ATTACK?THOUSANDS OF STRANGE METEORS ARE HEADING TOWARDS EARTH! YOUR MISSION IS TO PROTECT OUR CITIES BY CONTROLLING A ROCKET LAUNCHER THAT IS BUILT TO PROTECT EACH CITY.</desc>
+		<rating>0</rating>
+		<releasedate>20100609T000000</releasedate>
+		<hash>B7B893AB</hash>
+		<image>./images/Rocks N' Rockets (USA).png</image>
+		<thumbnail>./boxart/Rocks N' Rockets (USA).png</thumbnail>
+		<marquee>./marquee/Rocks N' Rockets (USA).png</marquee>
+		<video>./snap/Rocks N' Rockets (USA).mp4</video>
+		<developer>Creat Studios</developer>
+		<publisher>Creat Studios</publisher>
+	</game>
+	<game id="29380" source="ScreenScraper.fr">
+		<path>./Ronnie O'Sullivan's Snooker (USA).cso</path>
+		<name>Ronnie O'Sullivan's Snooker</name>
+		<desc>HERE WITH RONNIE O'SULLIVAN'S SNOOKER, YOU PLAY THROUGH THE HIGHLIGHTS OF RONNIE'S CAREER CULMINATING IN HIS MOST FAMOUS WORLD CHAMPIONSHIP WINS. HAVE YOU GOT WHAT IT TAKES TO RE-CREATE HIS MANY STUNNING VICTORIES?NNRONNIE GUIDES YOU THROUGH THE GAME, GIVING ADVICE, EVEN TAKING YOU BACK TO HIS HOME TABLE WHERE YOU CAN REFINE YOUR SKILLS IN HIS VERY OWN PRACTICE ROOM.</desc>
+		<rating>0</rating>
+		<releasedate>20121003T000000</releasedate>
+		<hash>082CBC32</hash>
+		<image>./images/Ronnie O'Sullivan's Snooker (USA).png</image>
+		<thumbnail>./boxart/Ronnie O'Sullivan's Snooker (USA).png</thumbnail>
+		<marquee>./marquee/Ronnie O'Sullivan's Snooker (USA).png</marquee>
+		<video>./snap/Ronnie O'Sullivan's Snooker (USA).mp4</video>
+		<developer>P1 Sports</developer>
+		<publisher>P1 Sports</publisher>
+	</game>
+	<game id="29288" source="ScreenScraper.fr">
+		<path>./Run Ghost Run (USA).cso</path>
+		<name>Run Ghost Run</name>
+		<desc>AN INFERNAL STORM BEGINS AND YOU THINK THAT AN OLD CASTLE COULD BE YOUR SALVATION. YOU WILL SOON DISCOVER THAT THIS IS ONE OF THE WORST DECISIONS YOU HAVE EVER MADE. THE DOORS CLOSE AND YOU BEGIN TO TRY AND FIND A WAY OUT, BUT WHAT YOU DON'T KNOW IS THAT YOU WILL NEVER BE ALONE. SHOOT, JUMP, RUN AND TRY TO AVOID THE HUNDREDS OF GHOSTS WHO NEVER WANT YOU TO LEAVE. ENJOY 36 LEVELS AND 2 GAME MODES OF THIS FUN AND SUPER ADDICTIVE ADVENTURE. THE LONGEST NIGHT OF YOUR LIFE HAS JUST BEGUN...</desc>
+		<rating>0</rating>
+		<releasedate>20110615T000000</releasedate>
+		<hash>086A7127</hash>
+		<image>./images/Run Ghost Run (USA).png</image>
+		<thumbnail>./boxart/Run Ghost Run (USA).png</thumbnail>
+		<marquee>./marquee/Run Ghost Run (USA).png</marquee>
+		<video>./snap/Run Ghost Run (USA).mp4</video>
+		<developer>StormBASIC Games</developer>
+		<publisher>StormBASIC Games</publisher>
+	</game>
+	<game id="29501" source="ScreenScraper.fr">
+		<path>./SAR - Search and Rescue (USA).cso</path>
+		<name>SAR : Search and Rescue</name>
+		<desc>THE GOVERNMENT SENDS DOWN AN INVESTIGATION TEAM TO A CRASHED SPACESHIP THAT HAD VANISHED OFF ITS COURSE, IN ORDER TO DETERMINE WHAT ACTUALLY HAPPENED... INFILTRATE THE SPACESHIP, AND BATTLE HORDES OF ALIEN MONSTERS AND ROBOTS, IN THIS ACTION-SHOOTING MASTERPIECE OF SNK ORIGINALLY RELEASED IN 1989.</desc>
+		<rating>0</rating>
+		<releasedate>20120320T000000</releasedate>
+		<hash>9CCA357E</hash>
+		<image>./images/SAR - Search and Rescue (USA).png</image>
+		<thumbnail>./boxart/SAR - Search and Rescue (USA).png</thumbnail>
+		<marquee>./marquee/SAR - Search and Rescue (USA).png</marquee>
+		<video>./snap/SAR - Search and Rescue (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29373" source="ScreenScraper.fr">
+		<path>./Sasuke Vs. Commander (USA).cso</path>
+		<name>Sasuke vs Commander</name>
+		<desc>SASUKE IS GIVEN A SINGLE COMMAND FROM HIS LORD: DEFEND HIM FROM NINJAS. SEVERAL THOUSAND NINJAS, SPECIFICALLY.NNNNSASUKE CAN RUN ALONG THE BOTTOM OF THE SCREEN WHILE NINJAS FLY ACROSS THE SCREEN DIAGONALLY, DROPPING SHURIKEN. SASUKE'S THROWN KUNAI DESTROY SHURIKEN AND KILL NINJAS, BUT FALLING NINJA WILL BLOCK ANY KUNAI THAT HIT THEM. AFTER FINISHING TWO WAVES A MAGIC BONUS NINJA WILL APPEAR. MAGIC BONUS NINJAS HAVE SPECIAL ABILITIES, SUCH AS RAPIDLY TELEPORTING AROUND THE SCREEN OR SHOOTING FIRE, AND WILL AWARD MORE BONUS POINTS THE FASTER THEY ARE HIT.</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>5635995D</hash>
+		<image>./images/Sasuke Vs. Commander (USA).png</image>
+		<thumbnail>./boxart/Sasuke Vs. Commander (USA).png</thumbnail>
+		<marquee>./marquee/Sasuke Vs. Commander (USA).png</marquee>
+		<video>./snap/Sasuke Vs. Commander (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29469" source="ScreenScraper.fr">
+		<path>./Shapo (USA).cso</path>
+		<name>Shapo</name>
+		<desc>SHAPO IS A CHALLENGE THAT WILL KEEP YOU ON THE EDGE! BALANCE THE SCALES AS YOU PLACE SHAPES MADE OF DIFFERENT MATERIALS. PLAY MORE THAN 150 LEVELS IN CLASSIC OR PUZZLE MODE TO UNLOCK THE GREATEST WONDERS OF THE WORLD. STUNNING ART BRINGS 15 WONDERS OF THE WORLD TO LIFE! ENJOY EXCITING POWER UPS SUCH AS THE MATERIAL BOMB AND LINE BOMB. EACH BALL AND SHAPE HAS A DIFFERENT WEIGHT SO BE CAREFUL WHEN PLACING YOUR PIECES!</desc>
+		<rating>0.9</rating>
+		<releasedate>20101215T000000</releasedate>
+		<hash>2A69BD68</hash>
+		<image>./images/Shapo (USA).png</image>
+		<thumbnail>./boxart/Shapo (USA).png</thumbnail>
+		<marquee>./marquee/Shapo (USA).png</marquee>
+		<video>./snap/Shapo (USA).mp4</video>
+		<developer>TikGames</developer>
+		<publisher>TikGames</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="144890" source="ScreenScraper.fr">
+		<path>./Sheep Defense (USA).cso</path>
+		<name>Sheep Defense</name>
+		<desc>HUNGRY BEARS AND CRAZY WOLVES ARE AFTER YOUR FLOCK OF SOFT, FLUFFY SHEEP AND IT'S UP TO YOU AND A FRIEND TO CONTROL TWO BRAVE, VALIANT SHEEP DOGS AND PROTECT THE HERD. HOWL, BARK OR EVEN UNLEASH A SUPER POWERED GROWL TO SCARE AWAY FEROCIOUS INVADERS. BUT BARK TOO MUCH AND YOUR STAMINA MAY DECREASE LEAVING YOU TEMPORARILY POWERLESS TO PROTECT YOUR CUTE CUDDLY FRIENDS.</desc>
+		<rating>0</rating>
+		<releasedate>20100415T000000</releasedate>
+		<hash>A250FBB9</hash>
+		<image>./images/Sheep Defense (USA).png</image>
+		<thumbnail>./boxart/Sheep Defense (USA).png</thumbnail>
+		<marquee>./marquee/Sheep Defense (USA).png</marquee>
+		<video>./snap/Sheep Defense (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="28658" source="ScreenScraper.fr">
+		<path>./Shift Extended (USA).cso</path>
+		<name>SHIFT Extended</name>
+		<desc>AS A SUBJECT OF A SCIENCE EXPERIMENT, YOU HAVE TO ESCAPE THE 120 LEVELS OF THE GAME AND AVOID ALL THE CAREFULLY CRAFTED TRAPS. FORTUNATELY YOU HAVE A UNIQUE POWER CALLED 'SHIFT': FLOOR, CEILING, WALLS...EVERYTHING IS REVERSED BY PRESSING A SINGLE BUTTON!</desc>
+		<rating>0.7</rating>
+		<releasedate>20110119T000000</releasedate>
+		<hash>F1E3388B</hash>
+		<image>./images/Shift Extended (USA).png</image>
+		<thumbnail>./boxart/Shift Extended (USA).png</thumbnail>
+		<marquee>./marquee/Shift Extended (USA).png</marquee>
+		<video>./snap/Shift Extended (USA).mp4</video>
+		<developer>Fishing Cactus</developer>
+		<publisher>Zallag</publisher>
+		<players>1</players>
+	</game>
+	<game id="144926" source="ScreenScraper.fr">
+		<path>./Shogi (USA).cso</path>
+		<name>Shogi</name>
+		<desc>LOOKING FOR A LITTLE BOARD GAME FUN? TRY YOUR HAND AT SHOGI, A JAPANESE GAME THAT IS SIMILAR TO CHESS, BUT HAS AN IMPORTANT STRATEGIC DIFFERENCE: GAME PIECES YOU ELIMINATE BECOME YOURS TO CONTROL. DO YOU HAVE WHAT IT TAKES TO CAPTURE YOUR OPPONENTS KING AND BECOME A SHOGI CHAMPION?</desc>
+		<rating>0</rating>
+		<releasedate>20100422T000000</releasedate>
+		<hash>E9F36656</hash>
+		<image>./images/Shogi (USA).png</image>
+		<thumbnail>./boxart/Shogi (USA).png</thumbnail>
+		<marquee>./marquee/Shogi (USA).png</marquee>
+		<video>./snap/Shogi (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="144959" source="ScreenScraper.fr">
+		<path>./Smashbreak (USA).cso</path>
+		<name>Smashbreak</name>
+		<desc>USE PADDLES ON EITHER SIDE OF THE SCREEN TO DEFLECT BALLS AND BREAK THE BLOCKS IN THE MIDDLE. COLLECT POWER-UPS AND USE YOUR SMASH ABILITY TO SEND THE BALL FLYING AND BREAK MULTIPLE BLOCKS AT ONCE. TWO-PLAYER MODE LETS TWO PEOPLE PLAY ON A SINGLE PS3? SYSTEM OR PSP® SYSTEM TO PLAY HEAD TO HEAD.</desc>
+		<rating>0</rating>
+		<releasedate>20100304T000000</releasedate>
+		<hash>D3FDC7B0</hash>
+		<image>./images/Smashbreak (USA).png</image>
+		<thumbnail>./boxart/Smashbreak (USA).png</thumbnail>
+		<marquee>./marquee/Smashbreak (USA).png</marquee>
+		<video>./snap/Smashbreak (USA).mp4</video>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+	</game>
+	<game id="29217" source="ScreenScraper.fr">
+		<path>./Sneezies (USA).cso</path>
+		<name>Sneezies</name>
+		<desc>SNEEZIES IS AN OVERLOAD OF CUTENESS! GRAB A CUP OF COFFEE, SIT BACK IN YOUR FAVORITE PLUSH CHAIR, AND ENJOY THE SOOTHING RELAXED GAMEPLAY FEATURING FANTASTIC GRAPHICS AND SWEET MELODIES. TOUCH THE SCREEN TO DROP A BURST OF SNEEZING POWDER INTO THE FIELD OF FLOATING SNEEZIES AND WATCH AS THEY SNEEZE THEMSELVES OUT OF THEIR BUBBLES IN A MARVELOUS CHAIN REACTION. TRY TO RESCUE AS MANY SNEEZIES AS YOU CAN IN ONE GO.</desc>
+		<rating>0</rating>
+		<releasedate>20111207T000000</releasedate>
+		<hash>A98B8369</hash>
+		<image>./images/Sneezies (USA).png</image>
+		<thumbnail>./boxart/Sneezies (USA).png</thumbnail>
+		<marquee>./marquee/Sneezies (USA).png</marquee>
+		<video>./snap/Sneezies (USA).mp4</video>
+		<developer>Retro Dreamer</developer>
+		<publisher>Chillingo</publisher>
+	</game>
+	<game id="29375" source="ScreenScraper.fr">
+		<path>./Snowy - The Bear's Adventures (USA).cso</path>
+		<name>Snowy : The Bear's Adventures</name>
+		<desc>HELP THE WHITE BEAR SNOWY TO GET TO ARCTIC. COULD IT BE POSSIBLE FOR A LITTLE WHITE BEAR TO WITHSTAND A WHOLE ARMY OF EVIL MONSTERS? FOR SURE, IF WE'RE TALKING ABOUT CHARMING AND FEARLESS SNOWY. ARMED TO THE TEETH WITH THE SNOWBALLS, HE IS TURNING HIS ENEMIES INTO LARGE BALLS OF SNOW AND ICE FIGURES. BUT THIS SNOWBALLS THROWING CHAMPION DOESN'T WANT TO DO ANY HARM, HE SIMPLY WANTS TO GET BACK HOME TO ARCTIC AND COLLECT AS MANY PRIZES AND BONUSES ON HIS WAY AS POSSIBLE. AND HE WILL MAKE IT! BUT ONLY WITH YOUR HELP. ATTENTION: DURING THE GAME PLAY, MORE THEN 10000 SNOWBALLS WILL BE MADE. ALL OF THE MONSTERS WILL BE DEFROSTED AFTERWARDS. NO WHITE BEARS WILL GET HURT.</desc>
+		<rating>0</rating>
+		<releasedate>20110831T000000</releasedate>
+		<hash>0D027E25</hash>
+		<image>./images/Snowy - The Bear's Adventures (USA).png</image>
+		<thumbnail>./boxart/Snowy - The Bear's Adventures (USA).png</thumbnail>
+		<marquee>./marquee/Snowy - The Bear's Adventures (USA).png</marquee>
+		<video>./snap/Snowy - The Bear's Adventures (USA).mp4</video>
+		<developer>Alawar Entertainment, Inc.</developer>
+		<publisher>Alawar Entertainment, Inc.</publisher>
+	</game>
+	<game id="28821" source="ScreenScraper.fr">
+		<path>./Solitaire (USA).cso</path>
+		<name>Solitaire</name>
+		<desc>SO YOU THOUGHT YOU WERE THE KING OF SOLITAIRE? SWOT UP ON YOUR CLASSICS!NNTAKE THE FIRST AND MOST POPULAR OF ALL CARD GAMES WITH YOU WHEREVER YOU GO, WHETHER YOU'RE ON PUBLIC TRANSPORT OR IN A WAITING ROOM, WITH A SPARE 5 MINUTES OR AN HOUR TO KILL! YOU'RE NEVER ALONE WHEN YOU'VE GOT SOLITAIRE.</desc>
+		<rating>0</rating>
+		<releasedate>20100804T000000</releasedate>
+		<hash>89477B1B</hash>
+		<image>./images/Solitaire (USA).png</image>
+		<thumbnail>./boxart/Solitaire (USA).png</thumbnail>
+		<marquee>./marquee/Solitaire (USA).png</marquee>
+		<video>./snap/Solitaire (USA).mp4</video>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game id="29398" source="ScreenScraper.fr">
+		<path>./Spaceball Revolution (USA).cso</path>
+		<name>Spaceball Revolution</name>
+		<desc>SPACEBALL: REVOLUTION WILL PUT YOUR INTELLIGENCE AND SKILL TO THE TEST AS YOU SOLVE PUZZLES IN A FUTURISTIC ENVIRONMENT. YOU HAVE TO COPY THE FIGURES THAT APPEAR ON THE TOP SCREEN, USING ENERGY BALLS THAT MAKE THE BOXES USED TO CONSTRUCT THE FIGURE CORRECTLY CHANGE COLOR. BUT IT WON'T BE AN EASY TASK... DIFFERENT OBSTACLES WILL BE THROWN INTO YOUR PATH, MAKING YOU POLISH YOUR AIM AND THINK RAPIDLY. FIFTEEN DIFFERENT LEVELS ARE WAITING FOR YOU IN "SPACEBALL: REVOLUTION." ARE YOU UP TO THE CHALLENGE? ONLY THE VERY BEST PLAYERS MANAGE TO REACH THE END!</desc>
+		<rating>0</rating>
+		<releasedate>20100204T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Spaceball Revolution (USA).png</image>
+		<thumbnail>./boxart/Spaceball Revolution (USA).png</thumbnail>
+		<marquee>./marquee/Spaceball Revolution (USA).png</marquee>
+		<video>./snap/Spaceball Revolution (USA).mp4</video>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game id="29312" source="ScreenScraper.fr">
+		<path>./Stand O'Food (USA).cso</path>
+		<name>Stand O'Food</name>
+		<desc>STAND O'FOOD IS A FASTFOOD RESTAURANT SIMULATOR WITH WHERE YOU NEED TO COOK UP VEGGIE, OMELET, BEEF, CHICKEN OR FISH BURGERS, BEFORE THE LONG LINE OF IMPATIENT CUSTOMERS BECOMES TOO BIG. IF YOU EARN MONEY FOR EACH SESSION, YOU CAN UPGRADE YOUR RESTAURANT WITH MUSIC, DRESSINGS, FASTER COOKING, AND OTHER IMPROVEMENTS. THIS IS A FAST, INSTANT PLAY GAME WITH MORE THAN 100 LEVELS AND 80 DIFFERENT BURGER RECIPES.</desc>
+		<rating>0.9</rating>
+		<releasedate>20091203T000000</releasedate>
+		<hash>A976CFF7</hash>
+		<image>./images/Stand O'Food (USA).png</image>
+		<thumbnail>./boxart/Stand O'Food (USA).png</thumbnail>
+		<marquee>./marquee/Stand O'Food (USA).png</marquee>
+		<video>./snap/Stand O'Food (USA).mp4</video>
+		<developer>Shape Games</developer>
+		<publisher>Shape Games</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="28998" source="ScreenScraper.fr">
+		<path>./Star Hammer Tactics (USA).cso</path>
+		<name>Star Hammer Tactics</name>
+		<desc>BATTLE THE MYSTERIOUS ALIEN NAUTILIDS AND DECIDE THE FATE OF THE PLANET NOVUS!NNSTAR HAMMER TACTICS IS A TACTICAL BATTLE GAME THAT ANYONE CAN LEARN TO PLAY IN MINUTES. CHALLENGE THE DEVIOUS AI IN SINGLE PLAYER MODE, OR COMPETE AGAINST FRIENDS IN LOCAL HOTSEAT MULTIPLAYER.NNACHIEVE VICTORY BY OUTWITTING YOUR OPPONENTS, AND BLASTING THEM TO LITTLE PIECES!</desc>
+		<rating>0</rating>
+		<releasedate>20100714T000000</releasedate>
+		<hash>963E9127</hash>
+		<image>./images/Star Hammer Tactics (USA).png</image>
+		<thumbnail>./boxart/Star Hammer Tactics (USA).png</thumbnail>
+		<marquee>./marquee/Star Hammer Tactics (USA).png</marquee>
+		<video>./snap/Star Hammer Tactics (USA).mp4</video>
+		<developer>Black Lab Games</developer>
+		<publisher>Black Lab Games</publisher>
+	</game>
+	<game id="29447" source="ScreenScraper.fr">
+		<path>./Stick Man Rescue (USA).cso</path>
+		<name>Stick Man Rescue</name>
+		<desc>COUNTLESS INNOCENT STICK MEN WILL PERISH UNLESS PLAYERS DO THEIR HEROIC DUTY AND RESCUE THEM IN STICK MAN RESCUE. IN THIS ACTION/ARCADE GAME, PLAYERS MUST PILOT A FUTURISTIC TROOP TRANSPORT COPTER AS THEY FLY THROUGH THIRTY DANGEROUS LEVELS FILLED WITH DEADLY TRAPS IN AN ATTEMPT TO RESCUE BLACK STICK MEN. THE EVIL BLUE STICK MINIONS ARE OUT IN FORCE, WITH STICK MURDER ON THEIR MINDS. PLAYERS MUST PREVENT THEIR STICK MEN FROM BEING BURNED ALIVE, SMASHED, DECAPITATED, BLOWN UP, ELECTROCUTED, DISSOLVED BY ACID, AND OTHER CLASSIC DEMISES. TO COMBAT THE EVIL BLUE STICK MINIONS' ZEPPELINS, PARATROOPERS, AND STEAM ROLLERS, PLAYERS CAN POWER UP THEIR COPTER WITH WEAPONS LIKE BOMBS, MISSILES, FLAME THROWERS, AND MORE. OF COURSE, PLAYERS COULD JUST SIT BACK AND IDLY WATCH THEIR STICK MEN DIE HILARIOUSLY HORRIBLE DEATHS...BUT THEN THEY WOULDN'T FINISH THE LEVEL. WHAT TO DO, WHAT TO DO?</desc>
+		<rating>0</rating>
+		<releasedate>20120104T000000</releasedate>
+		<hash>63F52186</hash>
+		<image>./images/Stick Man Rescue (USA).png</image>
+		<thumbnail>./boxart/Stick Man Rescue (USA).png</thumbnail>
+		<marquee>./marquee/Stick Man Rescue (USA).png</marquee>
+		<video>./snap/Stick Man Rescue (USA).mp4</video>
+		<developer>TikGames</developer>
+		<publisher>TikGames</publisher>
+		<players>1</players>
+	</game>
+	<game id="145004" source="ScreenScraper.fr">
+		<path>./Super Fruitfall Deluxe (Europe).cso</path>
+		<name>Super Fruitfall Deluxe</name>
+		<desc>SUPER FRUITFALL IS A SIMPLE TILE MATCHING GAME. THE PLAYING FIELD IS A FRAME WHICH IS DIFFERENTLY SHAPED IN EVERY LEVEL, E.G. SOMETIMES A REGULAR SQUARE OR A TUBE. THE INTERIOR SPACE ALSO FEATURES DIFFERENT FORMS. FRUITS ARE SPREAD OUT IN THIS FRAME WHICH THE PLAYER CAN ROTATE EITHER LEFT, RIGHT OR 180°. THEN OF COURSE THE FRUITS START FALLING AND IF MULTIPLE OF THE SAME KIND TOUCH EACH OTHER THEY VANISH. THE GOAL OF A LEVEL IS TO GET RID OF EVERY FRUIT.</desc>
+		<rating>0</rating>
+		<releasedate>20101201T000000</releasedate>
+		<hash>6EE91AEC</hash>
+		<image>./images/Super Fruitfall Deluxe (Europe).png</image>
+		<thumbnail>./boxart/Super Fruitfall Deluxe (Europe).png</thumbnail>
+		<marquee>./marquee/Super Fruitfall Deluxe (Europe).png</marquee>
+		<video>./snap/Super Fruitfall Deluxe (Europe).mp4</video>
+		<developer>Slam Productions Ltd</developer>
+		<publisher>System 3 Software</publisher>
+	</game>
+	<game id="29497" source="ScreenScraper.fr">
+		<path>./Swap Zap (Europe).cso</path>
+		<name>Swap Zap!</name>
+		<desc>PAM CAN RUN AND JUMP AROUND IN AN INCREASINGLY HAZARDOUS SPACE-TRUCK, DODGING FALLING BLOCKS AND DANGERS THAT SLOWLY FILL THE CARGO HOLDS.NNENEMIES POP OUT OF THE SPACE-TRUCKS NOOKS AND CORNERS TO GNAW AT OUR HEROINE.NNAS IF THAT WASN´T ENOUGH PAM NEEDS TO COLLECT ALL POWER CORES IN EACH LEVEL IN ORDER TO START HER SHIP.NNTHE ONLY TOOL AVAILABLE TO HER IS THE SWAP-ZAPPER WHICH ENABLES ITS USER TO CHANGE PLACES WITH ANYTHING IT ZAPS!</desc>
+		<rating>0</rating>
+		<releasedate>20110216T000000</releasedate>
+		<hash>397276F0</hash>
+		<image>./images/Swap Zap (Europe).png</image>
+		<thumbnail>./boxart/Swap Zap (Europe).png</thumbnail>
+		<marquee>./marquee/Swap Zap (Europe).png</marquee>
+		<video>./snap/Swap Zap (Europe).mp4</video>
+		<developer>Plate-Forme</developer>
+		<publisher>Puzzle-Game</publisher>
+	</game>
+	<game id="145014" source="ScreenScraper.fr">
+		<path>./Sweet Reversi (USA).cso</path>
+		<name>Sweet Reversi</name>
+		<desc>OUTSMART YOUR FRIENDS AND TAKE ALL OF THEIR MACAROONS FOR YOURSELF IN THIS TASTY TAKE ON THE REVERSI GAME. STAY ON YOUR TOES, STRATEGIZE AND MAKE SURE YOU ARE ALWAYS THINKING SEVERAL STEPS AHEAD AS YOU TRAP YOUR OPPONENT'S MACAROONS AND TURN THEM INTO YOURS IN THIS DELICIOUSLY FUN PUZZLE GAME.</desc>
+		<rating>0</rating>
+		<releasedate>20100415T000000</releasedate>
+		<hash>34C883B7</hash>
+		<image>./images/Sweet Reversi (USA).png</image>
+		<thumbnail>./boxart/Sweet Reversi (USA).png</thumbnail>
+		<marquee>./marquee/Sweet Reversi (USA).png</marquee>
+		<video>./snap/Sweet Reversi (USA).mp4</video>
+		<developer>Sony Computer Entertainment Inc.</developer>
+		<publisher>Sony Computer Entertainment Inc.</publisher>
+	</game>
+	<game id="29335" source="ScreenScraper.fr">
+		<path>./TNK III (USA).cso</path>
+		<name>T.N.K. III</name>
+		<desc>T.N.K. III ES UN JUEGO DE ACCIÓN EN PSP MINIS. DESPUÉS DE UN GOLPE DE ESTADO DE UN PELIGROSO DICTADOR EN SU PAÍS, SE MOVILIZAN PARA DESTRUIR SUS DEFENSAS Y DESTRUIR SUS TROPAS. Y PARA LLEVAR A CABO TU OBJETIVO, TENDRÁS, ENTRE OTRAS COSAS, AMETRALLADORAS Y CAÑONES.</desc>
+		<rating>0</rating>
+		<releasedate>20120208T000000</releasedate>
+		<hash>62C51C6E</hash>
+		<image>./images/TNK III (USA).png</image>
+		<thumbnail>./boxart/TNK III (USA).png</thumbnail>
+		<marquee>./marquee/TNK III (USA).png</marquee>
+		<video>./snap/TNK III (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29395" source="ScreenScraper.fr">
+		<path>./Telegraph Crosswords (USA).cso</path>
+		<name>Telegraph Crosswords</name>
+		<desc>PLAY CROSSWORD PUZZLES FROM THE 'TELEGRAPH' LIKE YOU'VE NEVER PLAYED THEM BEFORE! DISCOVER A WHOPPING 500 PUZZLES OF MULTIPLE TYPES. YOU'RE IN FOR MANY HOURS OF GAMEPLAY!NNWITH ITS HANDY INTERFACE AND INTUITIVE CONTROLS, THIS GAME TRANSFIGURES THE CLASSIC PEN-AND-PAPER EXPERIENCE.</desc>
+		<rating>0</rating>
+		<releasedate>20091210T000000</releasedate>
+		<hash>4500A905</hash>
+		<image>./images/Telegraph Crosswords (USA).png</image>
+		<thumbnail>./boxart/Telegraph Crosswords (USA).png</thumbnail>
+		<marquee>./marquee/Telegraph Crosswords (USA).png</marquee>
+		<video>./snap/Telegraph Crosswords (USA).mp4</video>
+		<developer>Sanuk Games SARL</developer>
+		<publisher>Sanuk Games SARL</publisher>
+	</game>
+	<game id="29492" source="ScreenScraper.fr">
+		<path>./Telegraph Sudoku &amp; Kakuro (USA).cso</path>
+		<name>Telegraph Sudoku &amp; Kakuro</name>
+		<desc>LET THE ULTIMATE SUDOKU EXPERT, CAROL VORDERMAN, SHOW YOU HOW TO PLAY AND CONQUER THE NUMBER GAME PHENOMENON SWEEPING THE WORLD. WITH OVER 1 MILLION PUZZLE BOARDS TO CHOOSE FROM, EXPERIENCE COUNTLESS HOURS AND HOURS OF FUN. PLAY A CASUAL GAME, LEARN STEP-BY-STEP STRATEGIES TO PLAY OR EVEN TEST YOUR SKILLS IN HEAD-TO-HEAD COMPETITIVE MATCHES. PLAY AGAINST A FRIEND IN EXCITING MULTI-PLAYER MODES ON THE PLAYSTATION 2 AND PSP SYSTEM. THROUGH IT ALL, CAROL WILL TEACH YOU HOW TO HONE YOUR SUDOKU SKILLS AND ULTIMATELY BECOME A SUDOKU EXPERT. CAROL VORDERMANÂS SUDOKU FEATURES A GAME FOR EVERY LEVEL SUDOKU PLAYER WITH EXCITING FEATURES AND CHALLENGES.</desc>
+		<rating>0</rating>
+		<releasedate>20100415T000000</releasedate>
+		<hash>088963FC</hash>
+		<image>./images/Telegraph Sudoku &amp; Kakuro (USA).png</image>
+		<thumbnail>./boxart/Telegraph Sudoku &amp; Kakuro (USA).png</thumbnail>
+		<marquee>./marquee/Telegraph Sudoku &amp; Kakuro (USA).png</marquee>
+		<video>./snap/Telegraph Sudoku &amp; Kakuro (USA).mp4</video>
+		<developer>Sanuk Games</developer>
+		<publisher>Sanuk Games</publisher>
+	</game>
+	<game id="29015" source="ScreenScraper.fr">
+		<path>./Tetraminos (USA).cso</path>
+		<name>Tetraminos</name>
+		<desc>SO YOU THOUGHT YOU WERE THE ?PRO' OF ARCADE GAMES? SWOT UP ON YOUR CLASSICS!NN6 SHAPES OF 4 BLOCKS THAT DROP WITHOUT EVER STOPPING, LINES TO COMPLETE AND MAKE VANISH, 3 LEVELS OF DIFFICULTY, STATIC BLOCKS TO HINDER YOUR PROGRESS AND GRADUALLY INCREASING SPEED... THERE'S NOTHING LIKE A BIT OF QUICK THINKING TO GET RID OF THE STRESS!</desc>
+		<rating>0.35</rating>
+		<releasedate>20100728T000000</releasedate>
+		<hash>3F0451ED</hash>
+		<image>./images/Tetraminos (USA).png</image>
+		<thumbnail>./boxart/Tetraminos (USA).png</thumbnail>
+		<marquee>./marquee/Tetraminos (USA).png</marquee>
+		<video>./snap/Tetraminos (USA).mp4</video>
+		<developer>Bigben Interactive</developer>
+		<publisher>Bigben Interactive</publisher>
+	</game>
+	<game id="28296" source="ScreenScraper.fr">
+		<path>./Tetris (USA).cso</path>
+		<name>Tetris</name>
+		<desc>TETRIS? ICONIC BLOCKY SHAPES ARE JUST AS EFFECTIVE AT OCCUPYING EVERY SPARE THOUGHT WHEN YOU?RE NOT PLAYING AS THEY WERE WHEN THEY DEBUTED IN 1984. AS THE TIMES HAVE CHANGED, SO TOO HAS TETRIS ITSELF, BECOMING MORE VISUALLY STRIKING WHILE RETAINING THAT CLASSIC INFECTIOUS GAMEPLAY.</desc>
+		<rating>0.75</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Tetris (USA).png</image>
+		<thumbnail>./boxart/Tetris (USA).png</thumbnail>
+		<marquee>./marquee/Tetris (USA).png</marquee>
+		<video>./snap/Tetris (USA).mp4</video>
+		<developer>Impressionware</developer>
+		<publisher>Electronic Arts</publisher>
+	</game>
+	<game id="28614" source="ScreenScraper.fr">
+		<path>./Impossible Game, The (USA).cso</path>
+		<name>The Impossible Game</name>
+		<desc>THE IMPOSSIBLE GAME. WITH A TITLE LIKE THAT, YOU KNOW IT'LL BE A TOUGH RIDE BUT THE IMPOSSIBLE GAME TAKES "DIFFICULTY" TO A WHOLE NEW LEVEL. IT'S FAST-PACED AND BRUTAL, BUT WITH NEAR-INSTANT RESPAWNING, THE EXPERIENCE IS AS SMOOTH AS IT IS DEADLY.
+YOU PLAY A HUMBLE ORANGE SQUARE, RACING AGAINST A SERENE BLUE BACKGROUND. THE TRICK IS THAT THERE ARE PLENTY OF OBSTACLES ON THIS COURSE: TRIANGLES ARE LIKE DEADLY SPIKES, AND SQUARES CAN BE JUMPED ON TOP OF BUT WILL KILL YOU IF YOU SLAM INTO THEM. LIKEWISE, YOU CAN DIE IF YOU FALL THROUGH A HOLE IN THE FLOOR. YOUR ORANGE SQUARE WILL HURTLE FORWARD REGARDLESS OF THE DANGER, AND YOUR ONLY CONTROL IS SIMPLE TAP TO JUMP. LONGER TAPS EQUAL LONGER JUMPS, AND YOU?LL NEED METICULOUS PRECISION IF YOU WANT TO SURVIVE. THE MUSIC SYNCS WITH YOUR MUSIC, WHICH IS A VERY NIFTY EFFECT THAT ADDS TO THE SURREAL QUALITY OF THE WHOLE THING.</desc>
+		<rating>0.9</rating>
+		<releasedate>20110907T000000</releasedate>
+		<hash>67D833C3</hash>
+		<image>./images/Impossible Game, The (USA).png</image>
+		<thumbnail>./boxart/Impossible Game, The (USA).png</thumbnail>
+		<marquee>./marquee/Impossible Game, The (USA).png</marquee>
+		<video>./snap/Impossible Game, The (USA).mp4</video>
+		<developer>Grip Games</developer>
+		<publisher>Grip Games</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="29444" source="ScreenScraper.fr">
+		<path>./Marbians, The (USA).cso</path>
+		<name>The Marbians</name>
+		<desc>ON A MISSION TO COLLECT PRECIOUS MOON ROCKS, THE ADORABLE ALIENS, THE MARBIANS, HAVE CRASH LANDED IN A DUSTY ATTIC IN NEW MEXICO LEFT UNTOUCHED SINCE THE '40S. NOW YOU MUST HELP THEM FIND THEIR WAY BACK TO THEIR UFO AND GATHER AS MANY MOON ROCKS AS POSSIBLE ON YOUR WAY. THE MARBIANS IS A FUN PHYSICS-BASED PUZZLE ADVENTURE THAT OFFERS 72 LEVELS OF TRICKY TIMING, PECULIAR PRECISION AND TREMENDOUS BRAIN TEASING FOR THE WHOLE FAMILY.</desc>
+		<rating>0</rating>
+		<releasedate>20111005T000000</releasedate>
+		<hash>DC05E2AF</hash>
+		<image>./images/Marbians, The (USA).png</image>
+		<thumbnail>./boxart/Marbians, The (USA).png</thumbnail>
+		<marquee>./marquee/Marbians, The (USA).png</marquee>
+		<video>./snap/Marbians, The (USA).mp4</video>
+		<developer>Osao</developer>
+		<publisher>Osao</publisher>
+	</game>
+	<game id="28814" source="ScreenScraper.fr">
+		<path>./Terminator, The (USA).cso</path>
+		<name>The Terminator</name>
+		<desc>THE TERMINATOR EST UN MINI-JEU D'ACTION FUTURISTE DISPONIBLE SUR PLAYSTATION PORTABLE. LE TITRE PREND PLACE EN L'AN 2029 OÙ LES MACHINES TENTENT DE DÉTRUIRE LA PLANÈTE. INCARNEZ KYLE REESE ET PARTEZ À LA RECHERCHE DE JOHN CONNOR POUR SAUVER L'HUMANITÉ DE LA COLÈRE DE SKYNET.</desc>
+		<rating>0</rating>
+		<releasedate>20100211T000000</releasedate>
+		<hash>D5F9DBA6</hash>
+		<image>./images/Terminator, The (USA).png</image>
+		<thumbnail>./boxart/Terminator, The (USA).png</thumbnail>
+		<marquee>./marquee/Terminator, The (USA).png</marquee>
+		<video>./snap/Terminator, The (USA).mp4</video>
+	</game>
+	<game id="29443" source="ScreenScraper.fr">
+		<path>./Treasures of Montezuma, The (USA).cso</path>
+		<name>The Treasures of Montezuma</name>
+		<desc>THE TREASURES OF MONTEZUMA IS ANOTHER RENDITION OF BEJEWELED WHICH HAS PLAYERS SOLVING "MATCH 3" PUZZLES WHILE FOLLOWING A NON-INTERACTIVE ADVENTURE STORYLINE.</desc>
+		<rating>0.65</rating>
+		<releasedate>20110928T000000</releasedate>
+		<hash>37FEF80A</hash>
+		<image>./images/Treasures of Montezuma, The (USA).png</image>
+		<thumbnail>./boxart/Treasures of Montezuma, The (USA).png</thumbnail>
+		<marquee>./marquee/Treasures of Montezuma, The (USA).png</marquee>
+		<video>./snap/Treasures of Montezuma, The (USA).mp4</video>
+		<developer>Alawar Entertainment</developer>
+		<publisher>Alawar Entertainment</publisher>
+	</game>
+	<game id="29458" source="ScreenScraper.fr">
+		<path>./This is Football Management (Europe).cso</path>
+		<name>This is Football Management</name>
+		<desc>EASY TO PICK UP AND ENJOY, THIS IS FOOTBALL MANAGEMENT? FEATURES A COMPREHENSIVE ?EDIT MODE' ALLOWING YOU TO CUSTOMISE PROCEEDINGS AND PLAY HOW YOU WANT TO PLAY. AND THE 2D MATCH ENGINE SIMULATES GAMES, SO YOU CAN FOLLOW EACH FIXTURE, CHEERING AS THE GOALS GO IN AND MAKING SUBSTITUTIONS AND TACTICAL DECISIONS AS YOU SEE FIT.</desc>
+		<rating>0.8</rating>
+		<releasedate>20100107T000000</releasedate>
+		<hash>BD6327B7</hash>
+		<image>./images/This is Football Management (Europe).png</image>
+		<thumbnail>./boxart/This is Football Management (Europe).png</thumbnail>
+		<marquee>./marquee/This is Football Management (Europe).png</marquee>
+		<video>./snap/This is Football Management (Europe).mp4</video>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29490" source="ScreenScraper.fr">
+		<path>./Tiger Trouble (Europe).cso</path>
+		<name>Tiger Trouble</name>
+		<desc>THE GAME IS PLAYED AGAINST ASYMMETRICAL OPPONENTS WHERE ONE CONTROLS THREE TIGERS AND THE OTHER CONTROLS 15 GOATS. OBJECTIVE OF THE TIGERS IS TO HUNT DOWN THE GOATS WHILE THE GOATS ATTEMPT TO LOCK THE TIGERS ABILITY TO MOVE. NNNNPLAYERS CAN CHOOSE TO BE EITHER TIGER OR GOAT. BOTH REQUIRE DIFFERENT PLAYING STRATEGY. THE ARRANGEMENT OF PIECES, METHOD OF PLAY AND THE RULES OF CAPTURE VARY FROM GAME TO GAME.</desc>
+		<rating>0</rating>
+		<releasedate>20091222T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Tiger Trouble (Europe).png</image>
+		<thumbnail>./boxart/Tiger Trouble (Europe).png</thumbnail>
+		<marquee>./marquee/Tiger Trouble (Europe).png</marquee>
+		<video>./snap/Tiger Trouble (Europe).mp4</video>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game id="29052" source="ScreenScraper.fr">
+		<path>./Time Soldiers (USA).cso</path>
+		<name>Time Soldiers</name>
+		<desc>YOU ARE A TIME SOLDIER, WHO IS ASKED TO RESCUE FIVE WARRIORS FROM DIFFERENT TIME PERIODS: SIRIUS IN THE "PRIMITIVE AGE", LAPLACE IN THE "AGE OF ROME", DYMOS IN "THE WORLD WARS", ALPHA IN THE "AGE OF ROME", AND ALTAIR IN "FUTURE WORLD". EACH ONE OF THEM IS GUARDED BY ONE OF GYLEND'S HENCHMEN, BUT TO GET TO THEM, YOU MUST FIGHT OFF OTHER ENEMIES THAT ARE SPECIFIC TO EACH TIME ERA. SOME OF THESE ENEMIES WILL DROP WEAPONS THAT YOU CAN PICK UP AND USE. YOU CAN USE SEVERAL TELEPORTS SCATTERED IN EACH TIME ERA TO TRAVEL TO ANOTHER.</desc>
+		<rating>0</rating>
+		<releasedate>20120724T000000</releasedate>
+		<hash>851898C7</hash>
+		<image>./images/Time Soldiers (USA).png</image>
+		<thumbnail>./boxart/Time Soldiers (USA).png</thumbnail>
+		<marquee>./marquee/Time Soldiers (USA).png</marquee>
+		<video>./snap/Time Soldiers (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29409" source="ScreenScraper.fr">
+		<path>./Tiny Hawk (Europe).cso</path>
+		<name>Tiny Hawk</name>
+		<desc>TINY HAWK IS A 2D PLATFORM GAME WITH SIMPLE CONTROLS AND FAST ARCADE FEEL, WHERE THE PLAYER MUST COLLECT THE HIGHER NUMBER OF SODA CANS IN THE SHORTEST POSSIBLE TIME. THE DIFFICULTY COMES WITH THE IMPOSSIBILITY TO STOP: PLAYER IS ONLY ABLE TO TURN AND JUMP.</desc>
+		<rating>0</rating>
+		<releasedate>20120104T000000</releasedate>
+		<hash>655A163D</hash>
+		<image>./images/Tiny Hawk (Europe).png</image>
+		<thumbnail>./boxart/Tiny Hawk (Europe).png</thumbnail>
+		<marquee>./marquee/Tiny Hawk (Europe).png</marquee>
+		<video>./snap/Tiny Hawk (Europe).mp4</video>
+		<developer>Polygon Toys</developer>
+		<publisher>Polygon Toys</publisher>
+	</game>
+	<game id="145205" source="ScreenScraper.fr">
+		<path>./Tonzurakko (USA).cso</path>
+		<name>Tonzurakko</name>
+		<desc>HELP YOUR SEA OTTER SWIM TOWARD VICTORY AS YOU EVADE HUNGRY KILLER WHALES AND WATER HAZARDS GALORE! AS YOU SPLASH YOUR WAY TOWARD YOUR GOAL YOU WILL BE CHALLENGED BY DIZZYING WHIRLPOOLS, DEADLY FROZEN ICEBERGS AND SEA CREATURES LOOKING TO MAKE YOU THEIR NEXT MEAL. BUT, SNAG SHELLFISHES AND USE THEM AS EITHER TURBO SPEED BOOSTS OR AS PROJECTILES TO KEEP YOUR SEA FARING FOES AT BAY.</desc>
+		<rating>0</rating>
+		<releasedate>20100415T000000</releasedate>
+		<hash>A1F58C6E</hash>
+		<image>./images/Tonzurakko (USA).png</image>
+		<thumbnail>./boxart/Tonzurakko (USA).png</thumbnail>
+		<marquee>./marquee/Tonzurakko (USA).png</marquee>
+		<video>./snap/Tonzurakko (USA).mp4</video>
+		<developer>Sony Computer Entertainment Inc.</developer>
+	</game>
+	<game id="28953" source="ScreenScraper.fr">
+		<path>./Top Trumps - NBA All Stars (USA).cso</path>
+		<name>Top Trumps NBA All Stars</name>
+		<desc>TOP TRUMPS NBA ALL STARS IS A TURN BASED STRATEGY GAME BASED UPON THE POPULAR TOP TRUMPS CARD GAMES FRANCHISE, USING REAL LIFE PLAYER STATISTICS. DEFEAT RIVAL TEAMS WITH A COMBINATION OF STRATEGY AND CAREFUL USE OF POWER UPS.</desc>
+		<rating>0</rating>
+		<releasedate>20120821T000000</releasedate>
+		<hash>B883D355</hash>
+		<image>./images/Top Trumps - NBA All Stars (USA).png</image>
+		<thumbnail>./boxart/Top Trumps - NBA All Stars (USA).png</thumbnail>
+		<marquee>./marquee/Top Trumps - NBA All Stars (USA).png</marquee>
+		<video>./snap/Top Trumps - NBA All Stars (USA).mp4</video>
+		<developer>Sport</developer>
+		<publisher>Sport</publisher>
+	</game>
+	<game id="29472" source="ScreenScraper.fr">
+		<path>./Touch Racing Nitro (Europe).cso</path>
+		<name>Touch Racing Nitro</name>
+		<desc>TOUCH RACING NITRO IS A RACING GAME LIKE NO OTHER. YOU WILL DRIVE, DRIFT, JUMP, LAUNCH NITROS AND FLY OVER YOUR OPPONENTS!3 DIFFERENT TOURNAMENTS AND RACING ENVIRONMENTS. HONE YOUR TOUCH RACING SKILLS IN THE INDOOR CUP.NNMASTER THE 4X4 MONSTER TRUCKS OF THE OFF-ROAD CUP, OR FOR THE SPEED LOVERS PUSH YOUR SUPER CAR TO THE LIMIT IN THE SUPERTRAX CUP!</desc>
+		<rating>0</rating>
+		<releasedate>20110323T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Touch Racing Nitro (Europe).png</image>
+		<thumbnail>./boxart/Touch Racing Nitro (Europe).png</thumbnail>
+		<marquee>./marquee/Touch Racing Nitro (Europe).png</marquee>
+		<video>./snap/Touch Racing Nitro (Europe).mp4</video>
+		<developer>Bravo</developer>
+		<publisher>Bravo</publisher>
+	</game>
+	<game id="29410" source="ScreenScraper.fr">
+		<path>./Trailblazer (USA).cso</path>
+		<name>TrailBlazer</name>
+		<desc>THUNDERING INTO THE UNKNOWN AT BREAKNECK SPEED, ARE YOU AGILE ENOUGH TO NEGOTIATE THE PERILS OF TRAILBLAZER? NNROLL LEFT AND RIGHT TO AVOID THE CRACKS AND BE CAREFUL NOT TO FALL OFF THE EDGE OF THE PATH AS YOU GO. NNBE SURE TO IDENTIFY AND AVOID THE SPECIAL TILES WHICH WILL SPEED YOU UP AND SLOW YOU DOWN, BLOCK YOUR PATH OR MAKE YOU JUMP AUTOMATICALLY.</desc>
+		<rating>0</rating>
+		<releasedate>20120118T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Trailblazer (USA).png</image>
+		<thumbnail>./boxart/Trailblazer (USA).png</thumbnail>
+		<marquee>./marquee/Trailblazer (USA).png</marquee>
+		<video>./snap/Trailblazer (USA).mp4</video>
+		<developer>Ideas Pad Ltd</developer>
+		<publisher>Ideas Pad Ltd</publisher>
+	</game>
+	<game id="29366" source="ScreenScraper.fr">
+		<path>./Urbanix (USA).cso</path>
+		<name>Urbanix</name>
+		<desc>URBANIX ESTÁ INSPIRADO EN EL CLÁSICO ARCADE QIX. DEBES RODEAR LOS CAMPOS DE LA PANTALLA PARA LIBERARLOS Y HACER CRECER EDIFICIOS. SI POR DESGRACIA UN ENEMIGO TE TOCA DURANTE LA VALIDACIÓN DE UN ÁREA, PIERDES UNA VIDA. HAY VARIOS ENEMIGOS, CAMPOS DE JUEGO Y BONOS EN LOS 150 NIVELES.</desc>
+		<rating>0.9</rating>
+		<releasedate>20101006T000000</releasedate>
+		<hash>E8F603D7</hash>
+		<image>./images/Urbanix (USA).png</image>
+		<thumbnail>./boxart/Urbanix (USA).png</thumbnail>
+		<marquee>./marquee/Urbanix (USA).png</marquee>
+		<video>./snap/Urbanix (USA).mp4</video>
+		<developer>Nordcurrent</developer>
+		<publisher>Nordcurrent</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game id="29480" source="ScreenScraper.fr">
+		<path>./Vanguard II (USA).cso</path>
+		<name>Vanguard II</name>
+		<desc>THE SEQUEL TO VANGUARD, VANGUARD II TAKES PLAYERS OUT OF THE CAVES AND INTO THE SKY ABOVE EARTH. INSTEAD OF MERELY BEING ABLE TO SHOOT IN FOUR DIRECTIONS THE SHIP NOW HAS THE ABILITY TO MOVE IN EIGHT DIRECTIONS AS IT FLIES OVER THE FLOATING ALIEN PLATFORM. PODS ON THE PLATFORM MUST BE BOMBED WHILE AERIAL DEFENSES MUST BE SHOT DOWN. AFTER ENOUGH PODS ARE DESTROYED THE CORE CAN BE BOMBED, DESTROYING THE PLATFORM AND ENDING THE LEVEL.</desc>
+		<rating>0</rating>
+		<releasedate>20120208T000000</releasedate>
+		<hash>565B3503</hash>
+		<image>./images/Vanguard II (USA).png</image>
+		<thumbnail>./boxart/Vanguard II (USA).png</thumbnail>
+		<marquee>./marquee/Vanguard II (USA).png</marquee>
+		<video>./snap/Vanguard II (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29250" source="ScreenScraper.fr">
+		<path>./Vanguard (USA).cso</path>
+		<name>Vanguard</name>
+		<desc>VANGUARD IS AN ARCADE STYLE SHOOTER FOR ONE OR TWO PLAYERS. YOUR GOAL IS TO PILOT YOUR SPACESHIP TO THE CITY OF MYSTERY WHICH IS LOCATED AT THE END OF A HEAVILY GUARDED TUNNEL, AND ONCE THERE DESTROY THE CREATURE GOND. THE TUNNEL IS BROKEN UP INTO SEVERAL DIFFERENT ZONES, CALLED THE MOUNTAIN ZONE, RAINBOW ZONE, STICK ZONE, STRIPE ZONE, BLEAK ZONE, AND CITY OF MYSTERY. EACH ZONE FEATURES DIFFERENT TYPES OF ENEMY SPACESHIPS TO DEAL WITH, AND CAN SCROLL EITHER HORIZONTALLY OR VERTICALLY. IN THE MOUNTAIN ZONE OR STRIPE ZONE, YOU MAY ALSO COME ACROSS AN ENERGY POD MARKED WITH AN 'E'. IF YOU FLY THROUGH THIS, YOUR SHIP TEMPORARILY BECOMES INVINCIBLE TO THE DEADLY CAVE WALLS AND NUMEROUS ENEMIES WHICH ARE TRYING TO STOP YOU.</desc>
+		<rating>0</rating>
+		<releasedate>20110719T000000</releasedate>
+		<hash>73253A0E</hash>
+		<image>./images/Vanguard (USA).png</image>
+		<thumbnail>./boxart/Vanguard (USA).png</thumbnail>
+		<marquee>./marquee/Vanguard (USA).png</marquee>
+		<video>./snap/Vanguard (USA).mp4</video>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+	</game>
+	<game id="29370" source="ScreenScraper.fr">
+		<path>./Vector TD (USA).cso</path>
+		<name>Vector TD</name>
+		<desc>IN THIS ENTRY IN THE POPULAR TOWER DEFENSE GENRE, PLAYERS AIM TO ELIMINATE THE VECTOID THREAT BEFORE THEY REACH THE END OF THE PATH. YOU DO THIS BY CONSTRUCTING TOWERS ALONG THE PATH TO ATTACK ONCOMING VECTOIDS. SUCCESS IS NOT BASED SOLELY ON THE TYPES OF TOWER YOU SELECT, BUT WHERE YOU PLACE THEM AND WHAT UPGRADE AND BONUS OPTIONS YOU TAKE.</desc>
+		<rating>0.95</rating>
+		<releasedate>20100121T000000</releasedate>
+		<hash>93F59B2F</hash>
+		<image>./images/Vector TD (USA).png</image>
+		<thumbnail>./boxart/Vector TD (USA).png</thumbnail>
+		<marquee>./marquee/Vector TD (USA).png</marquee>
+		<video>./snap/Vector TD (USA).mp4</video>
+		<developer>Candystand</developer>
+		<publisher>Candystand</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="29234" source="ScreenScraper.fr">
+		<path>./Vempire (USA).cso</path>
+		<name>Vempire</name>
+		<desc>VEMPIRE IS A PUZZLE GAME WITH ADDED STRATEGY AND STORY ELEMENTS TO ENTRANCE GAMERS. AT ITS HEART VEMPIRE IS A PUZZLE GAME IN WHICH THE PLAYER HAS TO ROTATE SQUARES OF BLOCKS (CLOCKWISE OR COUNTER-CLOCKWISE) WITH THE AIM TO CREATE ROWS OR COLUMNS OF FOUR OF MORE BLOCKS OF THE SAME TYPE. WHEN THIS HAPPENS THOSE BLOCKS ARE DESTROYED AND MORE BLOCKS FALLS FROM THE TOP. THE AIM OF EACH LEVEL IS TO DELETE ENOUGH BLOCKS BEFORE THE TIME RUNS OUT.</desc>
+		<rating>0</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>87C011C1</hash>
+		<image>./images/Vempire (USA).png</image>
+		<thumbnail>./boxart/Vempire (USA).png</thumbnail>
+		<marquee>./marquee/Vempire (USA).png</marquee>
+		<video>./snap/Vempire (USA).mp4</video>
+		<developer>Impressionware</developer>
+		<publisher>Impressionware</publisher>
+		<players>1</players>
+	</game>
+	<game id="29162" source="ScreenScraper.fr">
+		<path>./VT Tennis (USA).cso</path>
+		<name>VT Tennis</name>
+		<desc>VT TENNISTM IS THE MOST COMPETITIVE AND ADDICTIVE TENNIS GAME FOR THE PSP. VIRTUAL TOYS' EXPERIENCE IN THIS KIND OF GAMES WILL HELP YOU BECOME THE NEW INTERNATIONAL CIRCUIT CHAMPION. TRAIN YOUR BUDDING TENNIS STAR TO SERVE, LOB AND SMASH YOUR WAY TO VICTORY WITH PRECISION SWIPES IN ALL DIRECTIONS, USING ITS INNOVATIVE CONTROLS! ADVANCE YOUR PLAYER STATISTICS IN THIS FAST-PACED TOURNAMENT OF GAME MODES, FEATURING QUICKMATCH, TENNIS SCHOOL &amp; WORLD CHAMPIONSHIP! PLAY A QUICK SINGLES OR DOUBLES MATCH ON ONE OF THE AVAILABLE COURTS. IN QUICK MATCH MODE, YOU CAN MODIFY ALL THE GAME SETTINGS SUCH AS THE GAME DIFFICULTY, SEX OF YOUR PLAYER AND THE NUMBER OF GAMES AND SETS PER MATCH. THERE ARE VARIOUS LOCKED COURTS WHICH YOU CAN ONLY PLAY ONCE YOU HAVE PROGRESSED IN CAREER MODE. THE OBJECTIVE IN CAREER MODE IS TO BECOME NUMBER 1 IN THE WORLD RANKINGS. TO DO THIS, THE PLAYER WILL HAVE TO UNLOCK COURTS AS HE COMPETES IN CHAMPIONSHIPS ALL OVER THE WORLD. AT THE START OF CAREER MODE, THE PLAYER WILL SEE HIMSELF IN LAST PLACE IN THE RANKINGS. FROM THIS MOMENT ON, YOU MUST BATTLE YOUR WAY UP TO BE AMONG THE TOP PLAYERS. YOU CAN PLAY ON ALL TYPES OF SURFACE: GRASS, CLAY AND HARD COURTS AND LEARN THE BEST TECHNIQUES FOR WINNING EACH TOURNAMENT ON THE DIFFERENT SURFACES. SEVENTEEN TOUGH COURTS, EACH MORE DIFFICULT THAN THE LAST, STAND BETWEEN YOU AND YOUR FINAL VICTORY.</desc>
+		<rating>0.65</rating>
+		<releasedate>20100526T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/VT Tennis (USA).png</image>
+		<thumbnail>./boxart/VT Tennis (USA).png</thumbnail>
+		<marquee>./marquee/VT Tennis (USA).png</marquee>
+		<video>./snap/VT Tennis (USA).mp4</video>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game id="29436" source="ScreenScraper.fr">
+		<path>./Wackylands Boss (USA).cso</path>
+		<name>Wackylands Boss</name>
+		<desc>STOP THE HAPPY ENDING! HELP BOSS, YOUR GIGANTIC PRINCESS-EATING MONSTER, DEFEAT THE HORDES OF HEROES, AND SHOW THEM WHO THE BOSS REALLY IS IN THIS ACTION PACKED GAME.</desc>
+		<rating>0</rating>
+		<releasedate>20110302T000000</releasedate>
+		<hash>FAB347BD</hash>
+		<image>./images/Wackylands Boss (USA).png</image>
+		<thumbnail>./boxart/Wackylands Boss (USA).png</thumbnail>
+		<marquee>./marquee/Wackylands Boss (USA).png</marquee>
+		<video>./snap/Wackylands Boss (USA).mp4</video>
+		<developer>Creat Studios</developer>
+		<publisher>Creat Studios</publisher>
+	</game>
+	<game id="29051" source="ScreenScraper.fr">
+		<path>./Wizorb (USA).cso</path>
+		<name>Wizorb</name>
+		<desc>WIZORB IS A BREAKOUT/ARKANOID ACTION GAME (BOUNCE AN ORB OFF A MAGIC WAND TO BREAK BRICKS), WITH A SPRINKLE OF A JAPANESE-STYLE RPG. BESIDES BREAKING BRICKS, THERE ARE MONSTERS TO KILL, SPELLS TO CAST AND POWER-UPS TO BUY. IN TOTAL, THERE ARE ABOUT 60 LEVELS ON 5 WORLDS, PLUS SOME EXTRA SECRET LEVELS FOR GOOD MEASURE. NEXT TO THE CLASSIC GAMEPLAY, THE PLAYER HAS ACCESS TO A MAGIC BAR WITH LIMITED SUPPLY TO DESTROY BRICKS WITH FIREBALLS.</desc>
+		<rating>0</rating>
+		<releasedate>20120101T000000</releasedate>
+		<hash>D5A8D8EE</hash>
+		<image>./images/Wizorb (USA).png</image>
+		<thumbnail>./boxart/Wizorb (USA).png</thumbnail>
+		<marquee>./marquee/Wizorb (USA).png</marquee>
+		<video>./snap/Wizorb (USA).mp4</video>
+		<developer>Tribute Games</developer>
+		<publisher>Tribute Games</publisher>
+	</game>
+	<game id="144811" source="ScreenScraper.fr">
+		<path>./World Ping Pong Championship (Europe).cso</path>
+		<name>World Ping Pong Championship</name>
+		<desc>ENTER THE WORLD PING PONG CHAMPIONSHIP TO COMPETE AGAINST THE WORLD'S BEST TO BECOME THE ULTIMATE CHAMPION IN THIS EXCITING ARCADE GAME. A TOURNAMENT BASED GAMES WHERE YOU COMPETE AGAINST 5 OTHER COUNTRIES FOR THE CHAMPION'S TROPHY. PLAY IN PRACTICE MODE TO HORN YOUR SKILLS AGAINST INDIVIDUAL COUNTRIES AND THEN ENTER THE WORLD TOURNAMENT TO PROVE YOUR MIGHT.</desc>
+		<rating>0</rating>
+		<releasedate>20120215T000000</releasedate>
+		<hash>08947D23</hash>
+		<image>./images/World Ping Pong Championship (Europe).png</image>
+		<thumbnail>./boxart/World Ping Pong Championship (Europe).png</thumbnail>
+		<marquee>./marquee/World Ping Pong Championship (Europe).png</marquee>
+		<video>./snap/World Ping Pong Championship (Europe).mp4</video>
+		<developer>Gameshastra</developer>
+		<publisher>Gameshastra</publisher>
+	</game>
+	<game id="29353" source="ScreenScraper.fr">
+		<path>./Yeti Sports Pengu Throw (USA).cso</path>
+		<name>Yetisports : Pingu Throw</name>
+		<desc>YETISPORTS: PINGU THROW ES LA ADAPTACIÓN EN PLAYSTATION PORTABLE DEL FAMOSO JUEGO QUE HA PASADO POR LA RED. GOLPEA A UN HOMBRE CON UN BATE PARA ALEJARLO LO MÁS LEJOS POSIBLE.</desc>
+		<rating>0.1</rating>
+		<releasedate>20090101T000000</releasedate>
+		<hash>A6EDE0A1</hash>
+		<image>./images/Yeti Sports Pengu Throw (USA).png</image>
+		<thumbnail>./boxart/Yeti Sports Pengu Throw (USA).png</thumbnail>
+		<marquee>./marquee/Yeti Sports Pengu Throw (USA).png</marquee>
+		<video>./snap/Yeti Sports Pengu Throw (USA).mp4</video>
+		<developer>Xendex Holding GMBH</developer>
+		<publisher>Xendex Holding GMBH</publisher>
+	</game>
+	<game id="29204" source="ScreenScraper.fr">
+		<path>./Yummy Yummy Cooking Jam (USA).cso</path>
+		<name>Yummy Yummy Cooking Jam</name>
+		<desc>EN YUMMY YUMMY COOKING JAM, DEBES PREPARAR Y SERVIR COMIDA A MUCHOS CLIENTES EXIGENTES. DATE PRISA PARA NO QUEMAR LA COMIDA, O HACER QUE TUS GLOTONES PIERDAN LA PACIENCIA!</desc>
+		<rating>0.75</rating>
+		<releasedate>20091008T000000</releasedate>
+		<hash>0DC2419B</hash>
+		<image>./images/Yummy Yummy Cooking Jam (USA).png</image>
+		<thumbnail>./boxart/Yummy Yummy Cooking Jam (USA).png</thumbnail>
+		<marquee>./marquee/Yummy Yummy Cooking Jam (USA).png</marquee>
+		<video>./snap/Yummy Yummy Cooking Jam (USA).mp4</video>
+		<developer>Virtual Toys</developer>
+		<publisher>Virtual Toys</publisher>
+	</game>
+	<game id="28322" source="ScreenScraper.fr">
+		<path>./Zenonia (USA).cso</path>
+		<name>Zenonia</name>
+		<desc>ZENONIA EN PSP ES UN JUEGO DE ROL Y AVENTURA EN EL QUE PUEDES CONTROLAR REGRET, UN CABALLERO EN BUSCA DE AVENTURA. EL TÍTULO PROPONE MUCHOS LUGARES PARA VISITAR, ENCUENTROS CON PERSONAJES PINTORESCOS Y AVENTURAS VARIADAS. EL PERSONAJE PRINCIPAL TIENE TALENTOS ESPECÍFICOS Y PUEDES RECOGER MÁS DE UN CENTENAR DE OBJETOS DURANTE TU BÚSQUEDA PARA PROGRESAR. TAMBIÉN SE MANTIENE EL CICLO DÍA/NOCHE.</desc>
+		<rating>0.7</rating>
+		<releasedate>20101012T000000</releasedate>
+		<hash>00000000</hash>
+		<image>./images/Zenonia (USA).png</image>
+		<thumbnail>./boxart/Zenonia (USA).png</thumbnail>
+		<marquee>./marquee/Zenonia (USA).png</marquee>
+		<video>./snap/Zenonia (USA).mp4</video>
+		<developer>Gamevil</developer>
+		<publisher>Gamevil</publisher>
+	</game>
+</gameList>
