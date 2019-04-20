@@ -1,4 +1,4 @@
-# Coletânea de ferramentas e arquivos auxiliares para Retropie e Attract Mode
+# Coletânea de ferramentas e arquivos auxiliares para Retropie, Recalbox e Attract Mode
 
 
 
@@ -7,6 +7,6 @@
 - overlays - coletânea de ***bezels*** para os emuladores
 - shaders - coletânea de ***shaders*** nos formatos **.glsp** e **.glsl**
 - splashscreens - coletânea de imagens de inicialização para o Retropie
-- Unified System Bezel Utility Menu - script que habilita/desabilita ***bezels*** em todos os sistemas
+- Unified System Bezel Utility Menu - script que habilita/desabilita ***bezels*** em todos os sistemas (https://github.com/thebezelproject/BezelProject)
 - xml - gamelists para os sistemas
 
